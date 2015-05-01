@@ -1,0 +1,950 @@
+http://universaldependencies.github.io/docs/
+http://weaver.nlplab.org/ud/#/cicling-examples/en-examples ... the original location; log in as guest/guest
+http://weaver.nlplab.org/ud/#/complete-examples/ ... complete annotation, read-only
+http://weaver.nlplab.org/ud/#/cicling2015/ ... tokenized translations without annotation, for the CICLing special event
+
+[en]
+The girl wrote a letter to her friend .
+I think that it is raining .
+He tried to stop smoking and drinking .
+Do you want to go ?
+Sam , open the window !
+She made her husband wash the car .
+Peter ’s neighbor painted the fence red .
+My dad is cooler than yours .
+Mary won bronze , Peter silver , and Jane gold .
+Is Iguazu a big or a small country ?
+Neither Peter Smith nor Mary Brown could be selected .
+They have no idea who wrote it .
+What are you looking at ?
+When do you think you can come ?
+He bought a car but his brother just a bike .
+Peter and Mary hugged each other and then left the room .
+She should have been doing her hair but for some reason she would n't that day .
+I was n't able to keep up , because he ran too fast .
+This letter is from Peter and it was delivered yesterday .
+She grew up in Paris , the capital of France .
+
+[cs] [Jan Hajič, Dan Zeman]
+Dívka napsala dopis příteli .
+Myslím , že prší .
+Zkusil přestat s kouřením a pitím .
+Chceš jít ?
+Same , otevři okno !
+Přiměla manžela umýt auto .
+Petrův soused natřel plot na červeno .
+Můj táta je zábavnější než tvůj .
+Marie vyhrála bronz , Petr stříbro a Jana zlato .
+Je Iguazu velká , nebo malá země ?
+Nemohl být vybrán ani Peter Smith , ani Mary Brown .
+Nemají tušení , kdo to napsal .
+Na co se díváš ?
+Kdy myslíš , že můžeš přijít ?
+Koupil si auto , ale jeho bratr jen motorku .
+Petr a Marie se objali a pak odešli z pokoje .
+Byla by si měla dělat účes , ale z nějakého důvodu to toho dne nedělala .
+Nebyl jsem schopen držet krok , protože běžel příliš rychle .
+Tento dopis je od Petra a byl doručen včera .
+Vyrostla v Paříži , hlavním městě Francie .
+
+[sk] [Michal Novák]
+Dievča napísalo list priateľovi .
+Myslím , že prší .
+Snažil sa prestať fajčiť a piť .
+Chceš ísť ?
+Samuel , otvor okno !
+Prinútila manžela umyť auto .
+Petrov sused natrel plot na červeno .
+Môj otec je zábavnejší ako tvoj .
+Mária vyhrala bronz , Peter striebro a Jana zlato .
+Je Iguazu veľká alebo malá krajina ?
+Vybraný byť nemohol ani Peter Kováč , ani Mária Horváthová .
+Nemajú potuchy , kto to napísal .
+Na čo sa pozeráš ?
+Kedy myslíš , že by si mohla prísť ?
+Kúpil si auto , ale jeho brat len motorku .
+Peter a Mária sa objali a potom odišli z izby .
+Toho dňa si mala robiť účes , ale z nejakého dôvodu to neurobila .
+Nebol som schopný držať krok , pretože bežal príliš rýchlo .
+Tento list je od Petra a bol doručený včera .
+Vyrástla v Paríži , hlavnom meste Francúzska .
+
+[pl]
+Dziewczyna napisała list do swojej przyjaciółki .
+Myślę , że pada .
+Próbował rzucić palenie i picie .
+Chcesz iść ?
+Samie , otwórz okno !
+Zmusiła swojego męża do tego , żeby umył samochód .
+Sąsiad Petera pomalował płot na czerwono .
+Mój tata jest fajniejszy niż twój .
+Mary zdobyła brąz , Peter srebro a Jane złoto .
+Czy Iguazu to duże czy małe państwo ?
+Ani Peter Smith ani Mary Brown nie mogli być wybrani .
+Nie mają pojęcia kto to napisał .
+Na co się patrzysz ?
+Jak myślisz , kiedy będziesz mógł przyjść ?
+On kupił samochód , ale jego brat tylko rower .
+Peter i Mary uściskali się i wyszli z pokoju .
+Miała robić swoją fryzurę , ale z jakiegoś powodu tego dnia tego nie zrobiła .
+Nie mogłam nadążyć , bo za szybko biegł .
+Ten list jest od Petera i przyszedł wczoraj .
+Dorastała w Paryżu , stolicy Francji .
+
+[ru] [Natalia Klyueva]
+Девушка написала письмо своему другу .
+Я думаю , что идет дождь .
+Он пытался бросить курить и пить .
+Ты хочешь уйти ?
+Сэм , открой окно ! 
+Она заставила своего мужа помыть машину .
+Сосед Петра покрасил забор в красный цвет .
+Мой папа круче твоего .
+Мэри выиграла бронзу , Питер серебро а Джейн золото .
+Игуасу большая или маленькая страна ?
+Ни Питер Смит , ни Мэри Браун не могли быть выбраны .
+Они понятия не имеют , кто это написал .
+На что ты смотришь ?
+Когда вы думаете , что можете прийти ?
+Он купил машину , а его брат только мотоцикл .
+Питер и Мэри обнялись , а потом вышли из комнаты . 
+Она должна была бы сделать причёску , но почему-то в этот день она это не сделала . 
+Я не успевал за ним , потому что он бежал слишком быстро .
+Это письмо от Питера и оно было доставлено вчера .
+Она выросла в Париже , столице Франции .
+
+[bg] [Petya Osenova]
+Момичето написа писмо на приятеля си .
+Мисля , че вали .
+Той се опита да спре пушенето и пиенето .
+Искаш ли да тръгваме ?
+Сам , отвори прозореца !
+Тя накара мъжа си да измие колата .
+Съседът на Петър боядиса оградата в червено .
+Моят баща е по-готин от твоя .
+Мери спечели бронз, Петър - сребро и Джейн - злато .
+Игуасу голяма или малка страна е ?
+Нито Питър Смит , нито Мери Браун можеха да бъдат избрани .
+Те нямат никаква идея кой го е написал .
+Какво гледаш ?
+Кога мислиш , че можеш да дойдеш ?
+Той си купи кола , а брат му - само едно колело .
+Петър и Мери се прегърнаха и излязоха от стаята .
+Тя щеше да си прави прическа, но по някаква причина не можа същия ден .
+Не успявах да го настигна , защото той тичаше твърде бързо .
+Това писмо е от Петър и беше получено вчера .
+Тя отрасна в Париж , столицата на Франция .
+
+[lv] [Mark Fishel's wife]
+Meitene uzrakstīja vēstuli savai draudzenei .
+Man šķiet , ka līst lietus .
+Viņš centās atmest smēķēšanu un dzeršanu .
+Vai tu gribi iet ?
+Sem , atver logu !
+Viņa lika savam vīram nomazgāt mašīnu .
+Pētera kaimiņi nokrāsoja žogu sarkanā krāsā .
+Mans tētis ir foršāks nekā tavs .
+Marija valkā bronzu , Pēteris sudrabu un Džeina zeltu .
+Vai Igauza ir liela vai maza valsts ?
+Nedz Pēteris Smits , nedz Marija Brauna nevarēja tikt izvēlēti .
+Viņiem nav ne jausmas , kas to uzrakstīja .
+Uz ko tu skaties ?
+Kā tu domā , kad tu varēsi atnākt ?
+Viņš nopirka mašīnu , bet viņa brālis tikai velosipēdu .
+Pēteris un Marija apskāva viens otru un tad atstāja istabu .
+Viņai vajadzēj apmeklēt frizieri , bet kaut kādu iemeslu dēl viņa todien nevarēja .
+Es nevarēju viņam tikt līdzi , jo viņš skrēja pārāk ātri .
+Šī vēstule ir no Pētera un tika piegādāta vakar .
+Viņa uzauga Parīzē , Francijas galvaspilsētā .
+
+[de] [Dan Zeman, Ondřej Dušek]
+Das Mädchen schrieb einen Brief an ihre Freundin .
+Ich denke , dass es regnet .
+Er hat versucht , mit dem Rauchen und Trinken aufzuhören .
+Willst du gehen ?
+Sam , öffne das Fenster !
+Sie hat ihren Mann veranlasst , das Auto zu waschen .
+Der Nachbar von Peter hat den Zaun rot gemalt .
+Mein Papa ist cooler als deiner .
+Maria gewann Bronze , Peter Silber und Jana Gold .
+Ist Iguazu ein großes oder ein kleines Land ?
+Weder Peter Schmidt noch Maria Braun konnte ausgewählt worden .
+Sie haben keine Ahnung , wer das geschrieben hat .
+Was schaust du dir an ?
+Wann denkst du , dass du kommen kannst ?
+Er kaufte ein Auto , aber sein Bruder nur ein Motorrad .
+Peter und Maria umarmten sich und dann verließen sie das Zimmer .
+Sie sollte sich ihre Frisur richten , aber aus irgendeinem Grund tat sie es an jenem Tag nicht .
+Ich konnte ihm nicht nachkommen , weil er zu schnell lief .
+Dieser Brief ist von Peter und wurde gestern zugestellt .
+Sie wuchs in Paris , der Hauptstadt Frankreichs , auf .
+
+[nl]
+Het meisje schreef een brief naar haar vriend .
+Ik denk dat het regent .
+Hij trachtte te stopen met roken en drinken .
+Wil je gaan ?
+Sam , doe het raam open !
+Ze heeft haar man de auto laten wassen .
+Peter's buurman heeft het hek rood geverfd .
+Mijn vader is cooler dan de jouwe .
+Mary pakte brons , Peter zilver , en Jane goude .
+Is Iguazu een groot of een klein land ?
+Noch Peter Smith noch Mary Brown konden geselecteerd worden .
+Ze hebben geen idee wie het geschreven heeft .
+Waar kijk je naar ?
+Wanneer denk je dat je kan komen ?
+Hij heeft een auto gekocht maar zijn broer enkel een fiets .
+Peter en Mary omhelsden elkaar en verlieten de kamer .
+Ze had haar haar moeten kamen maar voor één of andere rede deed ze het die dag niet .
+Ik kon hem niet volgen omdat hij te snel rende .
+Deze brief is van Peter en het werd gisteren geleveerd .
+Ze groeide op in Parijs , de hoofstad van Frankrijk .
+
+[sv]
+Flickan skrev ett brev till sin vän .
+Jag tror att det regnar .
+Han försökte sluta röka och dricka .
+Vill du åka ?
+Sam, öppna fönstret !
+Hon fick sin make att tvätta bilen .
+Peters granne målade staketet rött .
+Min pappa är collare än din .
+Mary vann brons, Peter silver och Jane guld .
+Är Iguazu ett stort eller litet land ?
+Varken Peter Smith eller Mary Brown kunde väljas .
+De har ingen aning om vem som skrev det .
+Vad tittar du på ?
+När tror du att du kan komma ?
+Han köpte en bil men hans bror bara en cykel .
+Peter och Mary kramade varandra och lämnade sedan rummet .
+Hon skulle ha fixat sitt eget hår men av någon anledning kunde hon inte den dagen .
+I kunde inte hänga med, för han sprang för fort .
+Detta brev är från Peter och det levererades igår .
+Hon växte upp i Paris, Frankrikes huvudstad .
+
+[no]
+Jenten skrev et brev til vennen sin .
+Jeg tror det regner .
+Han prøvde å slutte med røyking og drikking .
+Vil du dra ?
+Sam , lukk opp vinduet !
+Hun fikk mannen sin til å vaske bilen .
+Naboen til Peter malte gjerdet rødt .
+Pappaen min er kulere enn din .
+Mary vant bronse , Peter sølv , og Jane gull .
+Er Iguazu et stort eller lite land ?
+Hverken Peter Smith eller Mary Brown kunne velges .
+De aner ikke hvem som skrev det .
+Hva ser du på ?
+Når tror du at du kan komme ?
+Han kjøpte en bil , men broren hans bare en sykkel .
+Peter og Mary klemte hverandre og forlot så rommet .
+Hun skulle ha holdt på å sette opp håret , men av en eller annen grunn ville hun ikke den dagen .
+Jeg klarte ikke å holde følge fordi han sprang for fort .
+Dette brevet er fra Peter , og det ble levert i går .
+Hun vokste opp i Paris , Frankrikes hovedstad .
+
+[fr]
+La fille a écrit une lettre à son amie .
+Je crois qu' il pleut .
+Il a essayé d' arrêter de fumer et de boire .
+Tu veux partir ?
+Sam , ouvre la fenêtre .
+Elle a fait laver la voiture par son mari .
+Le voisin de Peter a peint la clôture en rouge .
+Mon papa est plus cool que le tien .
+Mary a gagné le bronze , Peter l' argent et Jane l' or .
+Est-ce que Iguazu est un grand ou un petit pays ?
+Ni Peter Smith ni Mary Brown n' ont pu être sélectionnés .
+Ils n' ont aucune idée de qui l' a écrit .
+Qu' est - ce que tu regardes ?
+Quand penses-tu pouvoir venir ?
+Il a acheté un voiture mais son frère seulement une bicyclette .
+Peter et Mary se sont embrassés et puis , ils ont quitté la salle .
+Elle aurait dû se coiffer , mais pour une certaine raison elle ne l' a pas fait .
+Je n' ai pas pu le rattraper car il courait trop vite .
+Cette lettre est de Peter et elle a été distribuée hier .
+Elle a grandi a Paris , la capitale de la France .
+
+[rcf] (Réunion Creole French)
+Lo fiy la ékri in lèt (pou) son zami .
+Mi krwa la pli i tomb .
+Li la ésèy arèté fimé ek bwar .
+Ou vé alé laba ?
+Ouv lo fenèt Sam !
+Li la fé lav son vwatir par son mari .
+Lo voisin de Pierre la pèn lo klotir en rouz .
+Mon papa lé plis cool ke out papa .
+Marie la gaingn lo bronze , Pierre la gaingn l' arzan et Jeanne la gaingn l' or .
+Iguazou lé in gran péi ou in pti péi ?
+Ni Pierre Smith ni Marie Brown la pa pi èt séléksioné .
+Zot i koné pa ki la ékri sa .
+Kosa ou gard ?
+Kan ou krwa ou poura vnir ?
+Li la achèt in loto mé son frèr la achté ryen kin moto .
+Pierre et Marie la pri azot dans zot bra é apré la kit la chamb .
+Li noré dü aranj son chévé mé mi koné pa akoz lu la pa voulu fé sa se zour-la .
+Moin la pa gagn suiv ali parské li té kour tro vit .
+Lèt-la , Pierre la ékri et la ariv ièr .
+Li la grandi a Paris , kapital la Frans .
+
+[ca]
+La noia va escriure una carta a la seva amiga .
+Crec que està plovent .
+Ell va intentar deixar de fumar i beure .
+Vols anar-hi ?
+Sam , obre la finestra !
+Ella va fer rentar el cotxe al seu marit .
+El veí d'en Peter va pintar la tanca de color vermell .
+Em meu pare és més guai que el teu .
+Mary va guanyar el bronze , Peter la plata i Jane l'or .
+És Iguazu un país gran o petit ?
+Ni Peter Smith ni Mary Brown podien ser seleccionats .
+No tenen ni idea de qui va escriure-ho .
+Què estàs mirant ?
+Quan creus que podràs venir ?
+Ell va comprar un cotxe però el seu germà només una bicicleta .
+Peter i Mary es van abraçar i després van marxar de l'habitació .
+Ella havia d'haver estat arreglant-se el cabell , però per algun motiu no ho va fer aquell dia .
+No podia seguir-lo perquè corria massa ràpid .
+Aquesta carta és de Peter i va ser lliurada ahir .
+Ella va créixer a París , la capital de França .
+
+[es]
+La chica escribió una carta a su amiga .
+Creo que está lloviendo .
+(El) intentó parar de fumar y de beber .
+¿ Quieres ir ?
+Sam , ¡abre la ventana !
+Ella obligó a su marido a lavar el coche .
+El vecino de Peter pintó la valla de rojo .
+Mi papa es más chulo que el tuyo .
+María ganó el bronce , Peter la plata y Jane el oro .
+¿ Iguazú es un país grande o pequeño ?
+Ni Peter Smith ni Mary Brown podían ser elegidos .
+No tienen ni idea de quién lo escribió .
+¿ Qué estás mirando ?
+¿ Cuándo crees que podrías venir ?
+Él compró un coche pero su hermano sólo una bicicleta .
+Peter y Mary se abrazaron y después salieron de la habitación .
+Ella debería haber estado peinándose pero por alguna razón desconocida ese día no lo hizo .
+No pude mantener el ritmo porque corrió demasiado deprisa .
+Esta carta es de Peter y llegó ayer .
+Ella creció en París , la capital de Francia .
+
+[es] [Gorka Labaka]
+La niña escribió un carta a su amiga .
+Creo que está lloviendo .
+Él intentó dejar de fumar y de beber .
+¿ Quieres ir ?
+Sam , ¡ abre la ventana !
+Ella hizo que su marido limpiara el coche .
+El vecino de Peter pintó la valla de rojo .
+Mi padre es más guay que el tuyo .
+Mary ganó el bronce, Peter la plata , y Jane el oro .
+¿ Iguazu es un país grande o uno pequeño ?
+Ni Peter Smith ni Mary Brown pudieron ser seleccionados .
+No tienen ni idea de quién lo escribió .
+¿ Qué estás mirando ?
+¿ Cuándo crees que podrás venir ?
+Él compró un coche pero su hermano solo una bicicleta .
+Peter y Mary se abrazaron y después salieron de la habitación .
+Ella debería estar arreglándose el cabello pero por alguna razón no lo haría ese día . 
+No fui capaz de seguir el ritmo, porque él corría demasiado rápido .
+Esta carta es de Peter y fue estregada ayer .
+Ella creció en Paris , la capital de Francia . 
+
+[pt] [Jorge Costa]
+A rapariga escreveu uma carta para a amiga .
+Acho que está a chover .
+Ele tentou deixar de fumar e de beber .
+Queres ir ?
+Sam , abre a janela !
+Ela obrigou o marido a lavar o carro .
+O vizinho do Peter pintou a vedação de vermelho .
+O meu pai é mais fixe que o teu .
+A Mary ganhou o bronze , o Pedro a prata e a Jane o ouro .
+Iguazu é um país grande ou pequeno ?
+Nem o Peter Smith nem a Mary Brown poderiam ser seleccionados .
+Eles não fazem ideia de quem escreveu aquilo .
+Estás a olhar para o quê ?
+Quando achas que podes vir ?
+Ele comprou um carro mas o seu irmão apenas uma bicicleta .
+O Peter e a Mary abraçaram-se e depois saíram da sala .
+Ela deveria estar a arranjar o cabelo mas por qualquer motivo naquele dia não o arranjaria .
+Eu não fui capaz de acompanhar , porque ele correu demasiado depressa .
+Esta carta é do Peter e foi entregue ontem .
+Ela cresceu em Paris , a capital de França .
+
+[it]
+La ragazza ha scritto una lettera alla sua amica .
+Credo che stia piovendo .
+Lui ha cercato di smettere di fumare e di bere .
+Vuoi andare via ?
+Sam, apri la finestra .
+Lei ha fatto lavare la macchina da suo marito .
+Il vicino di Peter ha dipinto lo steccato di rosso .
+Mio papà è più tranquillo del tuo .
+Mary ha vinto il bronzo , Peter l' argento e Jane l' oro .
+Iguazy è un paese grande o piccolo ?
+Né Peter Smith né Mary Brown hanno potuto essere scelti .
+Non hanno idea su chi l' abbia scritto .
+Che cosa stai guardando ?
+Quando pensi di poter venire ?
+Lui ha comprato una macchina ma suo fratello solo una bicicletta .
+Peter e Mary si sono abbracciati e poi sono usciti via dalla camera .
+Lei avrebbe dovuto mettersi a posto i capelli , ma per una ragione o l' altra non l' aveva fatto quel giorno .
+Non sono riuscito a tenere il suo passo perché lui correva troppo veloce .
+Questa lettera è di Peter ed è stata distribuita ieri .
+Lei è cresciuta a Parigi, la capitale francese .
+
+[ro]
+Fata i-a scris o scrisoare prietenei ei .
+Cred că plouă .
+A încercat să se oprească din fumat și băut .
+Vrei să mergem ?
+Sam , deschide fereastra !
+Și-a făcut soțul să spele mașina .
+Vecinul lui Peter a vopsit gardul în roșu .
+Tatăl meu este mai grozav decât al tău .
+Mary a câștigat bronz , Peter argint , iar Jane aur .
+Iguazu este o țară mare sau mică ?
+Nici Peter Smith , nici Mary Brown nu au putut fi selectați .
+Nu au nici o idee despre cine a scris-o .
+La ce te uiți ?
+Când crezi că poți veni ?
+El a cumpărat o mașină , dar fratele lui doar o bicicletă .
+Peter și Mary s-au îmbrățișat și apoi au părăsit camera .
+Ea ar fi trebuit să-și aranjeze părul , dar din anumite motive nu a făcut-o în acea zi .
+Nu am putut să mențin pasul , pentru că el alerga prea repede .
+Această scrisoare este de la Peter și a fost livrată ieri .
+-Ea a crescut în Paris , capitala Franței .
+
+[ga]
+Scríobh an cailín litir chuig a cara .
+Sílim go bhfuil sé ag cur fearthainne .
+Rinne sé iarracht éirí as an tobaca agus as an ól .
+An bhfuil tú ag iarraidh imeacht ?
+A Sam , oscail an fhuinneog !
+Thug sí ar a fear chéile an carr a ní .
+Chuir comharsa Pheadair dath dearg ar an chlaí .
+Tá m'athair níos cúláilte ná d'athairsa .
+Bhuaigh Máire an bonn cré-umha , Peadar an ceann airgid , agus Sinéad an ceann óir .
+An tír mhór nó tír bheag é Iguazu ?
+Níor éirigh le Peadar Mac an Ghabhainn ná le Máire de Brún a bheith tofa .
+Níl leid acu cé a scríobh é .
+Cad é a bhfuil tú ag amharc air ?
+Cén uair a shíleann tú a thig leat a theacht ?
+Cheannaigh sé carr ach níor cheannaigh a dheartháir ach rothar .
+Rinne Peadar agus Máire croí isteach lena chéile agus ansin d'fhág siad an seomra .
+Ba cheart di a cuid gruaige a chóiriú ach ar ábhar éigin níor chóirigh an lá sin .
+Ní raibh mé ábalta coinneáil suas , as siocair gur rith sé róghasta .
+Is é Peadar a sheol an litir seo agus seachadadh inné í .
+Tógadh i bPáras , príomhchathair na Fraince , í .
+
+[el]
+Το κορίτσι έγραψε ένα γράμμα στον φίλο της .
+Νομίζω ότι βρέχει .
+Προσπάθησε να σταματήσει το κάπνισμα και το ποτό .
+Θέλεις να πάμε ;
+Σαμ , άνοιξε το το παράθυρο !
+Έβαλε τον άντρα της να πλύνει το αυτοκίνητο .
+Ο γείτονας του Πίτερ έβαψε τον φράχτη κόκκινο .
+Ο μπαμπάς μου είναι πιο μάγκας από τον δικό σου .
+Η Μαίρη κέρδισε το χάλκινο , ο Πίτερ το ασημένιο και η Τζάιν το χρυσό .
+Η Ιγκουαζου είναι μία μεγάλη ή μία μικρή χώρα ;
+Ούτε ο Πίτερ Σμιθ ούτε η Μαίρη Μπράουν μπόρεσαν να επιλεχτούν .
+Δεν έχουν ιδέα ποιος το έγραψε .
+Τι κοιτάς ;
+Πότε νομίζεις ότι μπορείς να έρθεις ;
+Αγόρασε ένα αυτοκίνητο ενώ ο αδερφός του αγόρασε μόνο ένα ποδήλατο .
+Ο Πίτερ και η Μαίρη αγκαλιάστηκαν και στην συνέχεια εφύγαν από το δωμάτιο .
+Θα έπρεπε να έφτιαχνε τα μαλλία της αλλά για κάποιο λόγο δεν το έκανε εκείνη την μέρα .
+Δεν μπορούσαν τον φτάσω γιατί έτρεχε πολύ γρήγορα .
+Αυτό το γράμμα είναι από τον Πίτερ και παραδόθηκε χθες .
+Μεγάλωσε στο Παρίσι , την πρωτεύουσα της Γαλλίας .
+
+[fa]
+دختر یک نامه به دوستش نوشت .
+فکر می‌کنم که باران می‌آید .
+او سعی کرد که سیگار و مشروب را ترک کند .
+می‌خواهی بروی ؟
+سام ، پنجره را باز کن !
+او شوهرش را مجبور کرد که ماشین را بشوید .
+همسایه‌ی پیتر فنس را قرمز رنگ کرد .
+پدر من از پدر تو خونسردتر است .
+مری برنز برنده شد ، پیتر نقره ، و جین طلا .
+آیا ایگوازو یک کشور بزرگ است یا کوچک ؟
+نه پیتر اسمیت و نه مری براون می‌توانستند انتخاب بشوند .
+آن‌ها هیچ اطلاعی ندارند که کی آن را نوشت .
+به چی نگاه می‌کنی ؟
+فکر می‌کنی کی می‌توانی بیایی ؟
+او یک ماشین خرید اما برادرش فقط یک دوچرخه .
+پیتر و مری هم دیگر را در آغوش گرفتند و بعد اتاق را ترک کردند .
+او باید موهایش را درست می‌کرده ولی به دلایلی آن روز این کار را نکرده .
+من نتوانستم خودم را نگه دارم ، زیرا او خیلی سریع دوید .
+این نامه از طرف پیتر است و دیروز رسیده .
+او در پاریس ، پایتخت فرانسه ، بزرگ شد .
+
+[ur] [Amir Kamran, Bushra Jawaid]
+لڑکی نے اپنے دوست کو خط لکھا ۔
+میرا خیال ہے کہ بارش ہو رہی ہے ۔
+اس نے تمباکو نوشی اور شراب نوشی چھوڑنے کی کوشش کی تھی ۔
+کیا تم جانا چاہتے ہو ؟
+سیم ، کھڑکی کھولو !
+اس نے اپنے شوہر سے گاڑی دھلوائی ۔
+پیٹر کے پڑوسی نے باڑ کو لال رنگ سے رنگا ۔
+میرے ابو تمہارے ابو سے زیادہ اچھے ہیں ۔
+میری نے کاسی ، پیٹر نے چاندی اور جین نے سونے کا تمغہ جیتا ۔
+اغوزو ایک بڑا ملک ہے یا چھوٹا ؟
+نا تو پیٹر نا ہی میری براون کا انتخاب ہو سکتا ہے ۔
+ان کو کچھ نہیں پتا کہ یہ کس نے لکھا ہے ۔
+تم کس چیز کو دیکھ رہے ہو ؟
+تمہارا کیا خیال ہے تم کب تک آؤ گے ؟
+اس نے گاڑی خریدی مگر اس کے بھائی نے صرف سائیکل ۔
+پیٹر اور میری نے ایک دوسرے کو  گلے لگایا اور پھر وہ کمرے سے باہر چلے گئے ۔
+اس کو اپنے بال سنوارنے چاہئے تھے مگر کسی وجہ سے اس نے اس دن ایسا نہ کیا ۔
+میں مقابلہ نہ کر سکا ، کیونکہ وہ بہت تیز بھاگا تھا ۔
+یہ خط پیٹر کی طرف سے ہے اور یہ کل موصول ہوا تھا ۔
+وہ پیرس میں بڑی ہوئی ہے ، جو فرانس کا دارلحکومت ہے ۔
+
+[hi]
+लडकी ने अपने दोस्त को खत लिखा |
+मुझे लगता है कि बारिश हो रही है |
+उसने सिगरेट और शराब छोड़ने कि कोशिश की ।
+क्या तुम्हें जाना है ?
+सॅम , खिडकी खोलो !
+उसने अपने पति से कार धुलवाई ।
+पीटर के पडोसी ने बाड को लाल रंग लगवाया |
+मेरा बाप तेरे बाप से शाणा है |
+मेरी को कान्स , पीटर को रजत और जेन को स्वर्ण पदक मिला ।
+इगुआझा बडा देश है या छोटा ?
+पीटर स्मिथ नहीं चुना गया और ना ही मैरी ब्राउन ।
+उन्हें बिलकुल अंदाज़ा नहीं है कि यह किसने लिखा है ।
+तुम क्या देख रहे हो ?
+तुम्हें क्या लगता है, तुम कब आ सकते हो ?
+उसने कार खरीदी, पर उसके भाई ने सिर्फ एक बाइक ।
+पीटर और मेरी एक दूसरे से गले मिले और फ़िर कमरे से बाहर चले गये ।
+उसे अपने बाल बनाने चाहिये थे पर किसी कारण से उस दिन उसने ऐसा नहीं किया ।
+मैं पीछे रह गया क्योंकि वह बहुत तेज़ दौड़ा ।
+यह पीटर की चिठ्ठी है और यह कल मिली |
+वह पॅरिस में बड़ी हुई, जो कि फ्रान्स की राजधानी है |
+
+[mr]
+मुलीने तिच्या मैत्रिणीला पत्र लिहीले .
+मला वाटतं पाउस पडत आहे .
+त्याने धुम्रपान आणि दारू सोडण्याचा प्रयत्न केला .
+तुला जायचं आहे का ?
+सॅम खिडकी उघड .
+तिने आपल्या नवऱ्याला गाडी धुवायला लावली .
+पीटरच्या शेजार्याने कुंपण लाल रंगाने रंगवले .
+माझे बाबा तुझ्या बाबांपेक्षा भारी आहेत .
+मेरीला कांस्य , रौप्य पीटर ला आणि जेनला सुवर्ण पदक मिळाले .
+इगुआझू हा लहान देश आहे की मोठा ?
+ना पीटर स्मिथ ना मेरी ब्राऊन ची निवड होऊ शकली .
+ते कोणी लिहीले ह्याची त्यांना कल्पना नाहे .
+तू काय बघतो आहेस ?
+तुला काय वाटतं तुला कधी येता येईल ?
+त्याने एक कार घेतली पण भावासाठी फक्त एक बाईक घेतली .
+पीटर आणि मेरी ने एकमेकांना मिठी मारली आणि खोलीतून निघून गेले .
+तिने तिचे केस नीट ठेवायला हवे पण काही कारणामुळे  तिने त्या दिवशी  ते ठेवले नाहीत .
+मी त्याच्या बरोबरीने पळू शकलो नाहे कारण तो खूप जोरात धावत होता .
+हे पत्र पीटर ने पाठवलेलं आहे आणि ते मला काल मिळालं .
+ती पॅरिस मध्ये मोठी झाली , जी फ्रांस ची राजधानी आहे .
+
+[bn]
+মেয়েটি তার বন্ধুকে চিঠি লিখলো ।
+আমার মনে হয় যে বৃষ্টি পড়ছে  ।
+সে ধূমপান ও মদ্যপান থামানোর চেষ্টা করলো ।
+তুমি কি যেতে চাও ?
+স্যাম , জানালা খোলো !
+সে তার স্বামী কে দিয়ে গাড়িটা ধোয়ালো ।
+পিটারের প্রতিবেশী বেড়াটাকে লাল রং করেছে ।
+আমার বাবা তোমার বাবার থেকে অনেক ভালো ।
+মেরি তামা জিতলো , পিটার রুপো , আর জেন সোনা ।
+ইগুয়াজু কি বড় দেশ না ছোটো ?
+পিটার স্মিথ বা মেরি ব্রাউন কেউই  নির্বাচিত হলো না ।
+কে যে ওটা লিখেছে কেউ জানে না ।
+তুমি কি দেখছো ?
+তুমি কখন আসতে পারবে বলে মনে হয় ?
+সে একটা গাড়ি কিনলো কিন্তু তার ভাই , শুধু একটা সাইকেল ।
+পিটার আর মেরি একে অপরকে আলিঙ্গন করলো , তারপর ঘর থেকে বেরিয়ে গেলো ।
+তার চুল বাঁধা উচিত ছিল কিন্তু কোনো কারণে সেদিন সে করলো না ।
+সে এত জোরে দৌড়ালো যে আমি তাল রাখতে পারলাম না ।
+এই চিঠিটা পিটারের থেকে গতকাল এসেছে ।
+সে প্যারিস ,  ফ্রান্সের রাজধানীতে বড় হয়েছে ।
+
+[ar] [Shadi Saleh, Otakar Smrž]
+كتبت الفتاة  رسالة إلى صديقها .
+أعتقد أنها تمطر .
+حاول أن يتوقّف عن التدخين والشرب .
+هل تريد الذهاب ؟
+سام , افتح النافذة !
+جعلت زوجها يغسل السيّارة .
+جار بيتر دهن الحائط بالأحمر .
+والدي أظرف  من والدك .
+ماري فازت بالبرونزية , بيتر بالفضية , وجين بالذهبية .
+هل  إجوازو هي بلد كبير أم صغير ؟
+لا بيتر سميث و لا ماري براون يمكن اختيارهما .
+ليس لديهم فكرة من كتب ذلك .
+إلا ماذا تنظر ؟ 
+متى تعتقد تستطيع  القدوم ؟
+هو اشترى سيارة لكن أخاه فقط دراجة .
+بيتر وماري حضنا بعضهما ثم خرجا من الغرفة .
+كان من المفترض عليها ان تصفف شعرها و لكن لسبب ما لم تفعل ذلك اليوم .
+لم أكن قادر على أن أواصل , لأنه كان يركض بسرعة  كبيرة .
+هذه الرسالة من بيتر و قد وصلت البارحة .
+هي ترعرعت في باريس , عاصمة فرنسا .
+
+[ar] [tokenized and vocalized]
+ˑكَتَبَتˑ ˑالفَتَاةُˑ ˑرِسَالَةًˑ ˑإِلَىˑ ˑصَدِيقِˑ ˑهَاˑ ˑ.ˑ
+ˑأَعتَقِدُˑ ˑأَنَّˑ ˑهَاˑ ˑتُمطِرُˑ ˑ.ˑ
+ˑحَاوَلَˑ ˑأَنˑ ˑيَتَوَقَّفَˑ ˑعَنˑ ˑالتَّدخِينِˑ ˑوَˑ ˑالشُّربِˑ ˑ.ˑ
+ˑهَلˑ ˑتُرِيدُˑ ˑالذَّهَابَˑ ˑ؟ˑ
+ˑسَامˑ ˑ،ˑ ˑاِفتَحˑ ˑالنَّافِذَةَˑ ˑ!ˑ
+ˑجَعَلَتˑ ˑزَوجَˑ ˑهَاˑ ˑيَغسِلُˑ ˑالسَّيَّارَةَˑ ˑ.ˑ
+ˑجَارُˑ ˑبِيترˑ ˑدَهَنَˑ ˑالحَائِطَˑ ˑبِˑ ˑالأَحمَرِˑ ˑ.ˑ
+ˑوَالِدُˑ ˑِيˑ ˑأَظرَفُˑ ˑمِنˑ ˑوَالِدِˑ ˑكَˑ ˑ.ˑ
+ˑمَارِيˑ ˑفَازَتˑ ˑبِˑ ˑالبُرُونزِيَّةِˑ ˑ،ˑ ˑبِيترˑ ˑبِˑ ˑالفِضِّيَّةِˑ ˑ،ˑ ˑوَˑ ˑجِينˑ ˑبِˑ ˑالذَّهَبِيَّةِˑ ˑ.ˑ
+ˑهَلˑ ˑإِجوَازُوˑ ˑهِيَˑ ˑبَلَدٌˑ ˑكَبِيرٌˑ ˑأَمˑ ˑصَغِيرٌˑ ˑ؟ˑ
+ˑلَاˑ ˑبِيترˑ ˑسمِيثˑ ˑوَˑ ˑلَاˑ ˑمَارِيˑ ˑبرَاونˑ ˑيُمكِنُˑ ˑاختِيَارُˑ ˑهُمَاˑ ˑ.ˑ
+ˑلَيسَˑ ˑلَدَيˑ ˑهِمˑ ˑفِكرَةٌˑ ˑمَنˑ ˑكَتَبَˑ ˑذٰلِكَˑ ˑ.ˑ
+ˑإِلَىˑ ˑمَاذَاˑ ˑتَنظُرُˑ ˑ؟ˑ
+ˑمَتَىˑ ˑتَعتَقِدُˑ ˑتَستَطِيعُˑ ˑالقُدُومَˑ ˑ؟ˑ
+ˑهُوَˑ ˑاشتَرَىˑ ˑسَيَّارَةًˑ ˑلٰكِنَّˑ ˑأَخَاˑ ˑهُˑ ˑفَقَطˑ ˑدَرَّاجَةًˑ ˑ.ˑ
+ˑبِيترˑ ˑوَˑ ˑمَارِيˑ ˑحَضَنَاˑ ˑبَعضَˑ ˑهُمَاˑ ˑثُمَّˑ ˑخَرَجَاˑ ˑمِنˑ ˑالغُرفَةِˑ ˑ.ˑ
+ˑكَانَˑ ˑمِنˑ ˑالمُفتَرَضِˑ ˑعَلَيˑ ˑهَاˑ ˑأَنˑ ˑتُصَفِّفَˑ ˑشَعرَˑ ˑهَاˑ ˑوَˑ ˑلٰكِنˑ ˑلِˑ ˑسَبَبٍˑ ˑمَاˑ ˑلَمˑ ˑتَفعَلˑ ˑذٰلِكَˑ ˑاليَومَˑ ˑ.ˑ
+ˑلَمˑ ˑأَكُنˑ ˑقَادِرًاˑ ˑعَلَىˑ ˑأَنˑ ˑأُوَاصِلَˑ ˑ،ˑ ˑلِأَنَّˑ ˑهُˑ ˑكَانَˑ ˑيَركُضُˑ ˑبِˑ ˑسُرعَةٍˑ ˑكَبِيرَةٍˑ ˑ.ˑ
+ˑهٰذِهِˑ ˑالرِّسَالَةُˑ ˑمِنˑ ˑبِيترˑ ˑوَˑ ˑقَدˑ ˑوَصَلَتˑ ˑالبَارِحَةَˑ ˑ.ˑ
+ˑهِيَˑ ˑتَرَعرَعَتˑ ˑفِيˑ ˑبَارِيسˑ ˑ،ˑ ˑعَاصِمَةِˑ ˑفَرَنسَاˑ ˑ.ˑ
+
+[ar] [tokenized and romanized]
+katabat al-fatātu risālatan ʾilā ṣadīqi hā .
+ʾaʿtaqidu ʾanna hā tumṭiru .
+ḥāwala ʾan yatawaqqafa ʿan at-tadḫīni wa aš-šurbi .
+hal turīdu aḏ-ḏahāba ?
+sām , iftaḥ an-nāfiḏata !
+ǧaʿalat zawǧa hā yaġsilu as-sayyārata .
+ǧāru bītr dahana al-ḥāʾiṭa bi al-ʾaḥmari .
+wālidu ī ʾaẓrafu min wālidi ka .
+mārī fāzat bi al-burūnzīyati , bītr bi al-fiḍḍīyati , wa ǧīn bi aḏ-ḏahabīyati .
+hal ʾiǧwāzū hiya baladun kabīrun ʾam ṣaġīrun ?
+lā bītr smīṯ wa lā mārī brāwn yumkinu iḫtiyāru humā .
+laysa laday him fikratun man kataba ḏālika .
+ʾilā māḏā tanẓuru ?
+matā taʿtaqidu tastaṭīʿu al-qudūma ?
+huwa ištarā sayyāratan lākinna ʾaḫā hu faqaṭ darrāǧatan .
+bītr wa mārī ḥaḍanā baʿḍa humā ṯumma ḫaraǧā min al-ġurfati .
+kāna min al-muftaraḍi ʿalay hā ʾan tuṣaffifa šaʿra hā wa lākin li sababin mā lam tafʿal ḏālika al-yawma .
+lam ʾakun qādiran ʿalā ʾan ʾuwāṣila , li-ʾanna hu kāna yarkuḍu bi surʿatin kabīratin .
+hāḏihi ar-risālatu min bītr wa qad waṣalat al-bāriḥata .
+hiya taraʿraʿat fī bārīs , ʿāṣimati faransā .
+
+[eu] [Koldo Gojenola]
+Neskak eskutitz bat idatzi zion bere lagunari .
+Uste dut euria ari dela .
+Erretzea eta edatea uzten ahalegindu zen.
+Joan nahi al duzu ?
+Sam , ireki leihoa !
+Bere gizonak kotxea garbitzea eragin zuen .
+Peterren auzoak hesia gorriz margotu zuen .
+Nire aita zurea baino atseginagoa da .
+Maryk brontzea irabazi zuen , Peterrek zilarra eta Janek urrea .
+Iguazu herrialde handia ala txikia da ?
+Ez Peter Smith ezta Mary Brown ere ezin ziren aukeratuak izan .
+Ez dakite nork idatzi zuen .
+Zeri begiratzen ari zara ?
+Noiz uste duzu etor zaitezkeela ?
+Kotxe bat erosi zuen baina bere anaiak bizikleta bat besterik ez .
+Peter eta Maryk elkar besarkatu zuten eta gelatik irten ziren .
+Bere ilea apaintzen egon beharko lukeen baina ez dakigu zergatik ez zuen egin egun horretan .
+Ezin nion jarraitu arinegi korrika egin zuelako .
+Eskutitz hau Peterrengandik jaso dugu eta atzo bidalia izan zen .
+Parisen hazi zen , Frantziako hiriburuan .
+
+[eu] [Gorka Labaka]
+Neskak eskutitz bat idatzi zion bere lagunari .
+Euria ari duela uste dut .
+Erretzeari eta edateari uzten saiatu zen .
+Joan nahi duzu ?
+Sam , ireki leihoa !
+Bere senarrak kotxea garbitzea lortu zuen .
+Peterren auzotarrak hesia gorriz margotu zuen .
+Nire aita zurea baino apartagoa da .
+Maryk brontzea irabazi zuen , Peterrek zilarra , eta Janek urrea .
+Iguazu herrialde handi edo txiki bat da ?
+Ez Peter Smith ezta Maria Brown ezin izan ziren aukeratuak izan .
+Ez dakite nork idatzi zuen .
+Zer ari zara begiratzen ?
+Noiz uste duzu etorri ahalko zarela ?
+Berak kotxe bat erosi zuen baina bere anaiak bizikleta bat soilik .
+Peter eta Mary elkar besarkatu ziren eta orduan gelatik atera ziren .
+Bere ilea apaintzen egon beharko litzateke baina zerbaitengatik ez zuen egun horretan egingo .
+Ezin izan nuen erritmoa jarraitu , bera oso azkara zelako .
+Eskutitz hau Peterrena da eta atzo iritsi zen .
+Parisen hazi zen, Frantziako hiriburuan .
+
+[hu]
+A lány írt egy levelet a barátjának .
+Azt hiszem , esik .
+Megpróbált leszokni a dohányzásról és az ivásról .
+El akarsz menni ?
+Samu , nyisd ki az ablakot !
+Lemosatta a férjével a kocsit .
+Péter szomszédja pirosra festette a kerítést .
+Az én apukám jobb fej , mint a tiéd .
+Mária bronzérmet nyert , Péter ezüstöt , és Jane aranyat .
+Iguazu nagy vagy kis ország ?
+Sem Kovács Pétert , sem Barna Máriát nem választhatták ki .
+Ötletük sincs , ki írta .
+Mit nézel ?
+Mit gondolsz , mikor tudsz jönni ?
+Vett egy kocsit , de a bátyja csak egy biciklit .
+Péter és Mária megölelték egymást , majd kimentek a szobából .
+Meg kellett volna fésülködnie , de aznap valamilyen okból kifolyólag nem tette meg .
+Nem tudtam tartani a tempóját , mert túl gyorsan futott .
+Ez a levél Pétertől jött és tegnap kézbesítették .
+Párizsban , Franciaország fővárosában nőtt fel .
+
+[fi]
+Tyttö kirjoitti kirjeen ystävälleen .
+Luulen , että sataa .
+Hän yritti lopettaa tupakoinnin ja juomisen .
+Haluatko mennä ?
+Sampo , avaa ikkuna !
+Hän laittoi aviomiehensä pesemään auton .
+Petterin naapuri maalasi aidan punaiseksi .
+Mun isä on siistimpi kun sun .
+Mari voitti pronssia , Petteri hopeaa , ja Hanne kultaa .
+Onko Iguazu suuri vai pieni maa ?
+Petteri Seppää tai Mari Puuta ei kumpaakaan voitu valita .
+Heillä ei ole aavistustakaan , kuka kirjoitti sen .
+Mitä sinä katsot ?
+Milloin luulet että voit tulla ?
+Hän osti auton , mutta hänen veljensä vain pyörän .
+Petteri ja Mari halasivat toisiaan ja sitten lähtivät huoneesta .
+Hänen olisi pitänyt olla laittamassa tukkaansa , mutta jostain syystä hän ei tehnyt sitä sinä päivänä .
+En pysynyt perässä , koska hän juoksi liian nopeasti .
+Tämä kirje on Petteriltä ja se toimitettiin eilen .
+Hän kasvoi Pariisissa , Ranskan pääkaupungissa .
+
+[et]
+Tüdruk kirjutas oma sõbrale kirja .
+Ma arvan , et sajab vihma .
+Ta üritas suitsetamist ja joomist lõpetada .
+Kas sa tahad minna ?
+Sam , tee aken lahti !
+Ta pani oma mehe autot pesema .
+Peetri naaber värvis aia punaseks .
+Minu isa on sinu isast lahedam .
+Mary võitis pronksi , Peter hõbeda ning Jane kulla .
+Kas Iguazu on suur või väike maa ?
+Kumbagi , nii Peter Smithi ega Mary Browni , ei saadud valida .
+Neil pole aimugi , kes selle kirjutas .
+Mida sa vaatad ?
+Millal sa arvad , et saad tulla ?
+Ta ostis auto , aga ta vend vaid jalgratta .
+Peter ja Mary kallistasid teineteist ja lahkusid seejärel ruumist .
+Ta oleks pidanud oma juukseid sättima , aga mingil põhjusel ta ei teinud seda tol päeval .
+Ma ei suutnud sammu pidada , sest ta jooksis liiga kiiresti .
+Kiri on Peterilt ja see toodi eile .
+Ta kasvas üles Pariisis , Prantsusmaa pealinnas .
+
+[et] [Mark Fishel]
+Neiu kirjutas kirja oma sõbrale .
+Ma arvan , et sajab .
+Ta üritas suitsetamisest ja joomisest loobuda .
+Kas sa tahad minna ?
+Sam , tee aken lahti !
+Ta pani oma abikaasa autot pesema .
+Peter'i naaber värvis aia punaseks .
+Minu isa on sinu omast lahedam .
+Mary võitis pronksi , Peter hõbeda ja Jane kulla .
+Kas Iguazu on suur või väike riik ?
+Valida ei saanud ei Peter Smithi ega Mary Browni .
+Neil pole aimugi , kes selle kirjutas .
+Mida sa vaatad ?
+Millal sa enda meelest saaksid tulla ?
+Ta ostis auto , aga tema vend kõigest jalgratta .
+Peter ja Mary kallistasid ja lahkusid siis toast .
+Ta oleks pidanud oma juustega tegelema , aga sel päeval ta seda millegipärast ei teinud .
+Ma ei suutnud temaga sammu pidada , sest ta jooksis liiga kiiresti .
+See kiri on Peterilt ja ta toodi eile .
+Ta kasvas üles Pariisis , Prantsusmaa pealinnas .
+
+[tr]
+Kız arkadaşına mektup yazdı .
+Yağmur yağdığını zannediyorum .
+(O) sigara ve alkol içmeyi bırakmayı denedi .
+(Sen) gitmek istiyor musun ?
+Sam , pencereyi aç !
+(O) kocasına arabayı yıkattırdı .
+Peter'in komşusu çiti kırmızı boyadı .
+Benim babam seninkinden daha harika .
+Mary bronz kazandı , Peter gümüş , Jane altın .
+İguazu büyük bir ülke mi , yoksa küçük mü ?
+Ne Peter Smith ne de Mary Brown seçilebilir .
+(Onlar) kimin yazdığını hiç bilmiyorlar .
+(Sen) neye bakıyorsun ?
+(Sen) ne zaman gelebileceğini zannediyorsun ?
+(O) araba aldı ama erkek kardeşi sadece bisiklet .
+Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar .
+(O) saçını yapıyor olmalıydı ama nedense o gün yapmadı .
+Ayak uyduramadım çünkü fazla hızlı koştu .
+Bu mektup Peter'den ve dün iletildi .
+(O) Fransanın başkenti Paris'te büyüdü .
+
+[ko]
+그녀는 친구에게 편지를 썼다 .
+비가 온다고 생각한다 .
+그는 담배와 술을 끊을려고 시도했다 .
+가고 싶어 ?
+샘 , 창문 열어 .
+그녀는 남편이 세차를 하도록 했다 .
+피터의 이웃은 담을 붉은색으로 칠했다 .
+우리 아버지는 너네 아버지보다 쿨하시다 .
+메리는 동메달을 , 피터는 은메달을 , 제인은 금메달을 획득했다 .
+lguaze는 큰 나라인가 ? 혹은 작은 나라인가 ?
+피터 스미스도 메리 브라운도 선택되지 못했다 .
+그들은 이걸 누가 썼는지 모른다 .
+뭘 보고 있어 ?
+언제 올 수 있다고 생각해 ?
+그는 자동차를 샀지만 그의 동생은 그냥 자전거를 샀다 .
+피터와 메리는 포옹을 하고 방을 떠났다 .
+그녀는 머리를 해야 했지만 어떤 이유인지 그날은 하지 않았다 .
+그가 너무 빨리 뛰어서 따라갈 수가 없었다 .
+이 편지는 피터한테 온거고 어제 배달되었다.
+그녀는 프랑스의 수도인 파리에서 자랐다 .
+
+[ja]
+少女 が 友達 に 手紙 を 書いた 。
+雨 が 降っ て いる と 思い ます 。
+彼 は タバコ と 酒 を 止めよう と した 。
+行き たい ？
+サム 、 窓 を 開けて ！
+彼女 は 夫 に 車 を 洗わ せた 。
+ピーター の 隣人 は 塀 を 赤く 塗った 。
+うち の お父さん は おたく より かっこいい よ 。
+メアリー が 銅 、 ピーター が 銀 、 ジェーン が 金 メダル を 獲得 した 。
+イグアス は 大きな 国 、 それとも 小さな 国 ？
+ピーター ・ スミス も メアリー ・ ブラウン も 選ば れ なかった。
+誰 が 書いた の か 彼 ら に は 見当 も つか ない 。
+何 を 見て いる の ？
+いつ 来 られ そうです か ？
+彼 は 車 を 買った けど 、彼 の 弟 は 自転車 だけ だ よ 。
+ピーター と メアリー は 抱擁 を 交わし 、 部屋 を 出て いった 。
+彼女 は 髪 を 整えて いる はずだった が 、 どういう わけ か その 日 は して い なかった 。
+彼 の 走り が 速 すぎて 、 私 は ついて いけ なかった 。
+これ が ピーター から の 手紙 で 、 昨日 届き ました 。
+彼女 は フランス の 首都 パリ で 育った 。
+
+[ta] [Loganathan Ramasamy]
+பெண் அவளுடைய நண்பருக்குக் கடிதம் எழுதினாள் .
+மழை பெய்கிறது என்று நினைக்கிறேன் .
+அவர் புகைப்பதையும் குடிப்பதையும் நிறுத்த முயற்சித்தார் .
+உனக்கு போக வேண்டுமா ?
+சாம் , ஜன்னலைத் திற ! 
+அவள் அவளது கணவரால் காரைக் கழுவச் செய்தாள்  .
+பீட்டரின் அண்டைவீட்டார் வேலியை சிவப்பில் பூசினார் .
+என் அப்பா உன் அப்பாவைவிட உற்சாகமானவர் .
+மேரி வெண்கலம் , பீட்டர் வெள்ளி மற்றும் ஜேன் தங்கத்தை வென்றனர் .
+இகுவாசு ஒரு பெரிய நாடா அல்லது ஒரு சிறிய நாடா ?
+பீட்டர் ஸ்மித்தையோ அல்லது மேரி பிரவுனையோ தேர்ந்தெடுக்க முடியவில்லை .
+இதை யார் எழுதியது என்று அவர்களுக்கு விளங்கவில்லை .
+நீ எதைப் பார்த்துக் கொண்டிருக்கிறாய் ?
+எப்பொழுது நீங்கள் வர முடியும் என்று நீங்கள் நினக்கிறீர்கள் ?
+அவர் ஒரு கார் வாங்கினார் ஆனால் அவர் சகோதரர் வெறும் பைக் தான் . 
+பீட்டரும் மேரியும் ஒருவரையொருவர் தழுவிவிட்டு அறையை விட்டு சென்றனர் .
+அவள்அவளுடைய கூந்தலை செய்து கொண்டிருக்க வேண்டும் ஆனால் என்ன காரணத்தாலோ அவள் அன்றைக்கு அதைச் செய்யவில்லை .
+என்னால் ஈடுகொடுக்க முடியவில்லை ஏனென்றால் அவன் மிகவும் வேகமாக ஓடினான் .
+இந்த கடிதம் பீட்டரிடமிருந்து மற்றும் இது நேற்று கொண்டுசேர்க்கப்பட்டது .
+பிரான்சின் தலைநகரான பாரிஸில் அவள் வளர்ந்தாள் .
+
+[zh]
+女孩 给 她 的 朋友 写 了 一 封 信 。
+我 觉得 在 下雨 。
+他 尝试 过 戒烟 和 戒酒 。
+你 想 去 吗 ？
+山姆 ， 开 下 窗 ！
+她 让 她 的 丈夫 去 洗 车 。
+皮特 的 邻居 把 篱笆 涂 成 了 红色 。
+我 爸爸 比 你 爸爸 酷 。
+玛丽 赢得 了 铜牌 ， 皮特 银牌 ， 珍 金牌 。
+伊瓜苏 是 一 个 大 国 还是 小 国 ？
+皮特·史密斯 和 玛丽·布朗 都 不 会 被 选 上 。
+他们 不 知道 是 谁 写 的 。
+你 在 看 什么 ？
+你 觉得 你 什么 时候 能 来 ？
+他 买 了 一 辆 车 ， 但 他 的 兄弟 只 买 了 一 辆 自行车 。
+皮特 和 玛丽 互相 拥抱 后 离开 了 房间 。
+那天 她 本 应该 在 做 头发 ， 却 因故 没有 去 。
+我 没 办法 跟 上 ， 因为 他 跑 得 太 快 了 。
+这 封 信 来自 皮特 ， 它 是 昨天 寄 到 的 。
+她 在 巴黎 —— 法国 的 首都 长大 。
+
+[vn]-natural translation [Tien Dat Nguyen]
+Cố ấy viết một lá thư cho bạn cô ấy .
+Tôi nghĩ rằng trời đang mưa .
+Anh ấy cố gắng từ bỏ hút thuốc và uống rượu .
+Bạn có muốn đi bây giờ không ?
+Sam , mở cửa sổ ra !
+Cô ấy bắt chồng rửa xe ô tô .
+Hàng xóm của Peter sơn hàng rào màu đỏ .
+Bố tôi thoải mái hơn bố của bạn .
+Mary được giải đồng , Peter bạc và Jane vàng .
+Iguazu là một nước lớn hay nhỏ ?
+Cả Peter và Mary Brown có thể sẽ không được chọn .
+Họ không biết ai viết cái này .
+Bạn đang nhìn gì thế ?
+Bạn nghĩ bạn có thể đến vào lúc nào ?
+Anh ấy mua một cái ô tô , nhưng chỉ mua cho thằng em cái xe đạp .
+Peter và Mary ôm nhau và sao đó rời khỏi phòng .
+Cô ấy lẽ ra phải làm tóc nhưng vì một số lý do nào đấy nhưng cô ấy không làm vào ngày hôm đó . 
+Tôi không thể theo kịp , bởi vì anh ấy chạy quá nhanh . 
+Lá thư này từ Peter và nó được chuyển đến ngày hôm qua .
+Cô ấy lớn lên tại Paris , thủ đô của nước Pháp .
+
+[vn]-similar grammatical translation [Tien Dat Nguyen]
+Cố gái đã viết một lá thư cho bạn cô ấy .
+Tôi nghĩ rằng trời đang mưa .
+Anh ấy đã cố gắng từ bỏ hút thuốc và uống rượu .
+Bạn có muốn đi bây giờ không ?
+Sam , mở cửa sổ ra !
+Cô ấy đã bắt chồng rửa xe ô tô .
+Người hàng xóm của Peter đã sơn hàng rào màu đỏ.
+Bố tôi thoải mái hơn bố của bạn .
+Mary được giải đồng , Peter bạc và Jane vàng . 
+Iguazu là một nước lớn hay nhỏ ?
+Cả Peter và Mary Brown có thể sẽ không được chọn .
+Họ không biết ai đã viết cái này .
+Bạn đang nhìn gì thế ?
+Bạn nghĩ bạn có thể đến vào lúc nào ?
+Anh ấy mua một cái ô tô cho anh ấy , nhưng chỉ mua cho em anh ấy cái xe đạp .
+Peter và Mary đã ôm trầm lẫn nhau và sao đó rời khỏi phòng .
+Cô ấy lẽ ra đã phải làm tóc nhưng vì một số lý do nào đấy nhưng cô ấy đã không làm vào ngày hôm đó. 
+Tôi đã không thể theo kịp , bởi vì anh ấy chạy quá nhanh . 
+Lá thư này từ Peter và nó đã được chuyển đến ngày hôm qua .
+Cô ấy đã lớn lên tại Paris , thủ đô của nước Pháp.
+
+[fil]
+Sumulat 'yung babae sa kaibigan n'ya .
+Sa tingin ko , umuulan .
+Sinubukan n'yang tumigil sa paninigarilyo at pag-inom .
+Gusto mo bang umalis ?
+Sam , buksan mo ang bintana !
+Pinahugas n'ya ng kotse ang kanyang asawa .
+Pininturahan ng pula ng kapitbahay ni Peter ang bakod .
+Mas cool ang tatay ko kaysa sa tatay mo .
+Nanalo si Mary ng bronze , si Peter ng silver , at si Jane ng gold .
+Malaki o maliit na bansa ba ang Iguazu ?
+Hindi pwedeng piliin si Peter Smith ni si Mary Brown .
+Wala silang ideya kung sino ang sumulat n'un .
+Anong tinitingnan mo ?
+Kailan ka makakapunta , sa tingin mo ?
+Bumili s'ya ng kotse pero ang kapatid nya , ng bisikleta lang .
+Niyakap nila Peter at Mary ang isa't isa at pagkatapos ay lumabas ng kwarto .
+Magpapaayos dapat s'ya ng buhok pero sa kung anumang dahilan ay hindi n'ya ginawa n'ung araw na 'yon .
+Hindi ako makasabay dahil masyado s'yang mabilis tumakbo .
+Ang sulat na 'to ay galing kay Peter at kahapon 'to idinilever .
+Lumaki s'ya sa Paris , ang kabisera ng France .
