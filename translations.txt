@@ -96,7 +96,7 @@ Dorastała w Paryżu , stolicy Francji .
 Я думаю , что идет дождь .
 Он пытался бросить курить и пить .
 Ты хочешь уйти ?
-Сэм , открой окно ! 
+Сэм , открой окно !
 Она заставила своего мужа помыть машину .
 Сосед Петра покрасил забор в красный цвет .
 Мой папа круче твоего .
@@ -107,8 +107,8 @@ Dorastała w Paryżu , stolicy Francji .
 На что ты смотришь ?
 Когда вы думаете , что можете прийти ?
 Он купил машину , а его брат только мотоцикл .
-Питер и Мэри обнялись , а потом вышли из комнаты . 
-Она должна была бы сделать причёску , но почему-то в этот день она это не сделала . 
+Питер и Мэри обнялись , а потом вышли из комнаты .
+Она должна была бы сделать причёску , но почему-то в этот день она это не сделала .
 Я не успевал за ним , потому что он бежал слишком быстро .
 Это письмо от Питера и оно было доставлено вчера .
 Она выросла в Париже , столице Франции .
@@ -438,10 +438,10 @@ No tienen ni idea de quién lo escribió .
 ¿ Cuándo crees que podrás venir ?
 Él compró un coche pero su hermano solo una bicicleta .
 Peter y Mary se abrazaron y después salieron de la habitación .
-Ella debería estar arreglándose el cabello pero por alguna razón no lo haría ese día . 
+Ella debería estar arreglándose el cabello pero por alguna razón no lo haría ese día .
 No fui capaz de seguir el ritmo, porque él corría demasiado rápido .
 Esta carta es de Peter y fue estregada ayer .
-Ella creció en Paris , la capital de Francia . 
+Ella creció en Paris , la capital de Francia .
 
 [pt] [Jorge Costa]
 A rapariga escreveu uma carta para a amiga .
@@ -720,7 +720,7 @@ Tógadh i bPáras , príomhchathair na Fraince , í .
 هل إجوازو هي بلد كبير أم صغير ؟
 لا بيتر سميث و لا ماري براون يمكن اختيارهما .
 ليس لديهم فكرة من كتب ذلك .
-إلا ماذا تنظر ؟ 
+إلا ماذا تنظر ؟
 متى تعتقد تستطيع القدوم ؟
 هو اشترى سيارة لكن أخاه فقط دراجة .
 بيتر وماري حضنا بعضهما ثم خرجا من الغرفة .
@@ -998,7 +998,7 @@ lguaze는 큰 나라인가 ? 혹은 작은 나라인가 ?
 மழை பெய்கிறது என்று நினைக்கிறேன் .
 அவர் புகைப்பதையும் குடிப்பதையும் நிறுத்த முயற்சித்தார் .
 உனக்கு போக வேண்டுமா ?
-சாம் , ஜன்னலைத் திற ! 
+சாம் , ஜன்னலைத் திற !
 அவள் அவளது கணவரால் காரைக் கழுவச் செய்தாள் .
 பீட்டரின் அண்டைவீட்டார் வேலியை சிவப்பில் பூசினார் .
 என் அப்பா உன் அப்பாவைவிட உற்சாகமானவர் .
@@ -1008,7 +1008,7 @@ lguaze는 큰 나라인가 ? 혹은 작은 나라인가 ?
 இதை யார் எழுதியது என்று அவர்களுக்கு விளங்கவில்லை .
 நீ எதைப் பார்த்துக் கொண்டிருக்கிறாய் ?
 எப்பொழுது நீங்கள் வர முடியும் என்று நீங்கள் நினக்கிறீர்கள் ?
-அவர் ஒரு கார் வாங்கினார் ஆனால் அவர் சகோதரர் வெறும் பைக் தான் . 
+அவர் ஒரு கார் வாங்கினார் ஆனால் அவர் சகோதரர் வெறும் பைக் தான் .
 பீட்டரும் மேரியும் ஒருவரையொருவர் தழுவிவிட்டு அறையை விட்டு சென்றனர் .
 அவள்அவளுடைய கூந்தலை செய்து கொண்டிருக்க வேண்டும் ஆனால் என்ன காரணத்தாலோ அவள் அன்றைக்கு அதைச் செய்யவில்லை .
 என்னால் ஈடுகொடுக்க முடியவில்லை ஏனென்றால் அவன் மிகவும் வேகமாக ஓடினான் .
@@ -1076,8 +1076,8 @@ Bạn đang nhìn gì thế ?
 Bạn nghĩ bạn có thể đến vào lúc nào ?
 Anh ấy mua một cái ô tô , nhưng chỉ mua cho thằng em cái xe đạp .
 Peter và Mary ôm nhau và sao đó rời khỏi phòng .
-Cô ấy lẽ ra phải làm tóc nhưng vì một số lý do nào đấy nhưng cô ấy không làm vào ngày hôm đó . 
-Tôi không thể theo kịp , bởi vì anh ấy chạy quá nhanh . 
+Cô ấy lẽ ra phải làm tóc nhưng vì một số lý do nào đấy nhưng cô ấy không làm vào ngày hôm đó .
+Tôi không thể theo kịp , bởi vì anh ấy chạy quá nhanh .
 Lá thư này từ Peter và nó được chuyển đến ngày hôm qua .
 Cô ấy lớn lên tại Paris , thủ đô của nước Pháp .
 
@@ -1090,7 +1090,7 @@ Sam , mở cửa sổ ra !
 Cô ấy đã bắt chồng rửa xe ô tô .
 Người hàng xóm của Peter đã sơn hàng rào màu đỏ.
 Bố tôi thoải mái hơn bố của bạn .
-Mary được giải đồng , Peter bạc và Jane vàng . 
+Mary được giải đồng , Peter bạc và Jane vàng .
 Iguazu là một nước lớn hay nhỏ ?
 Cả Peter và Mary Brown có thể sẽ không được chọn .
 Họ không biết ai đã viết cái này .
@@ -1098,8 +1098,8 @@ Bạn đang nhìn gì thế ?
 Bạn nghĩ bạn có thể đến vào lúc nào ?
 Anh ấy mua một cái ô tô cho anh ấy , nhưng chỉ mua cho em anh ấy cái xe đạp .
 Peter và Mary đã ôm trầm lẫn nhau và sao đó rời khỏi phòng .
-Cô ấy lẽ ra đã phải làm tóc nhưng vì một số lý do nào đấy nhưng cô ấy đã không làm vào ngày hôm đó. 
-Tôi đã không thể theo kịp , bởi vì anh ấy chạy quá nhanh . 
+Cô ấy lẽ ra đã phải làm tóc nhưng vì một số lý do nào đấy nhưng cô ấy đã không làm vào ngày hôm đó.
+Tôi đã không thể theo kịp , bởi vì anh ấy chạy quá nhanh .
 Lá thư này từ Peter và nó đã được chuyển đến ngày hôm qua .
 Cô ấy đã lớn lên tại Paris , thủ đô của nước Pháp.
 
@@ -1146,3 +1146,25 @@ Pétérù àti Màríà dì mọ́ ara won , wọ́n sì jáde kúrò nínúu iy
 Èmi kòleè báa nítorí pé óyára sáré jù mí lọ .
 Lẹ́ta yìí wá láti ọ̀dọ̀ Pétérù , wọ́n sì fi jísẹ́ lánàá .
 Ódàgbà ní Pàríìsì , olú ìlú Faransé .
+
+[ewo] [Christophe Onambélé]
+Mǎn miníngá angátil mvoé kálâdà .
+Matsog nə́ mvəŋ yanɔ́ŋ .
+Áveg nâ átélé ǹɲúan tǎ ai məɲú .
+Ye wâyi nə́ wâkə ?
+Sam , yaègi wúndi !
+Ǎbɔ̌ nâ ǹnóm ásob mətúa .
+É mod atsâ ai Petrus angáfudi məyaŋ mávie óngola .
+Tādā anə evovoe lod ésoá .
+Maria angádò etalyen yavie tsətsat , Petrus édi enə ntam , Jane édi enə mvòt .
+Ye ǹnam Iguazu onə anən ngə ki tsətsat ?
+Tò Petrus Smith tò Maria Brown bâsigi kig bɔ́ dzam tòb .
+Bâyəm kig zá angátil dzɔ́ .
+Dzé wabəbə ?
+Abog afé watsog nə́ onə dzam sɔ́ ?
+Angákùz mətúa , hêda mǎɲāŋ angákùz və basko .
+Petrus bân Maria bəngáwuban ndò hm bəngákódò etǔn-ndá .
+Âyéàn kə kǒm ǹlo , dzam da azu mam məzin ayi kig kə aná .
+Mám̀bé kig ɲé dzam tòŋ , asú akəle mbíl mbé avól .
+É kálâdà ɲò anə éɲò Petrus , angásúan ongogé .
+Angánaŋ á Paris , é tisòn anə ǹlo ai tín edzoé ya ǹnam Fulansi .
