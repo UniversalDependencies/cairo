@@ -1,0 +1,227 @@
+# sent_id s1-en
+1	The	the	DET	_	_	0	_	_	_
+2	girl	girl	NOUN	_	_	0	_	_	_
+3	wrote	write	VERB	_	_	0	_	_	_
+4	a	a	DET	_	_	0	_	_	_
+5	letter	letter	NOUN	_	_	0	_	_	_
+6	to	to	ADP	_	_	0	_	_	_
+7	her	her	DET	_	_	0	_	_	_
+8	friend	friend	NOUN	_	_	0	_	_	_
+9	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s2-en
+1	I	I	PRON	_	_	0	_	_	_
+2	think	think	VERB	_	_	0	_	_	_
+3	that	that	SCONJ	_	_	0	_	_	_
+4	it	it	PRON	_	_	0	_	_	_
+5	is	be	AUX	_	_	0	_	_	_
+6	raining	rain	VERB	_	_	0	_	_	_
+7	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s3-en
+1	He	he	PRON	_	_	0	_	_	_
+2	tried	try	VERB	_	_	0	_	_	_
+3	to	to	PART	_	_	0	_	_	_
+4	stop	stop	VERB	_	_	0	_	_	_
+5	smoking	smoke	VERB	_	_	0	_	_	_
+6	and	and	CONJ	_	_	0	_	_	_
+7	drinking	drink	VERB	_	_	0	_	_	_
+8	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s4-en
+1	Do	do	AUX	_	_	0	_	_	_
+2	you	you	PRON	_	_	0	_	_	_
+3	want	want	VERB	_	_	0	_	_	_
+4	to	to	PART	_	_	0	_	_	_
+5	go	go	VERB	_	_	0	_	_	_
+6	?	?	PUNCT	_	_	0	_	_	_
+
+# sent_id s5-en
+1	Sam	Sam	PROPN	_	_	0	_	_	_
+2	,	,	PUNCT	_	_	0	_	_	_
+3	open	open	VERB	_	_	0	_	_	_
+4	the	the	DET	_	_	0	_	_	_
+5	window	window	NOUN	_	_	0	_	_	_
+6	!	!	PUNCT	_	_	0	_	_	_
+
+# sent_id s6-en
+1	She	she	PRON	_	_	0	_	_	_
+2	made	make	VERB	_	_	0	_	_	_
+3	her	her	DET	_	_	0	_	_	_
+4	husband	husband	NOUN	_	_	0	_	_	_
+5	wash	wash	VERB	_	_	0	_	_	_
+6	the	the	DET	_	_	0	_	_	_
+7	car	car	NOUN	_	_	0	_	_	_
+8	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s7-en
+1	Peter	Peter	PROPN	_	_	0	_	_	_
+2	’s	’s	PART	_	_	0	_	_	_
+3	neighbor	neighbor	NOUN	_	_	0	_	_	_
+4	painted	paint	VERB	_	_	0	_	_	_
+5	the	the	DET	_	_	0	_	_	_
+6	fence	fence	NOUN	_	_	0	_	_	_
+7	red	red	ADJ	_	_	0	_	_	_
+8	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s8-en
+1	My	my	DET	_	_	0	_	_	_
+2	dad	dad	NOUN	_	_	0	_	_	_
+3	is	be	VERB	_	_	0	_	_	_
+4	cooler	cool	ADJ	_	_	0	_	_	_
+5	than	than	SCONJ	_	_	0	_	_	_
+6	yours	yours	PRON	_	_	0	_	_	_
+7	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s9-en
+1	Mary	Mary	PROPN	_	_	0	_	_	_
+2	won	win	VERB	_	_	0	_	_	_
+3	bronze	bronze	NOUN	_	_	0	_	_	_
+4	,	,	PUNCT	_	_	0	_	_	_
+5	Peter	Peter	PROPN	_	_	0	_	_	_
+6	silver	silver	NOUN	_	_	0	_	_	_
+7	,	,	PUNCT	_	_	0	_	_	_
+8	and	and	CONJ	_	_	0	_	_	_
+9	Jane	Jane	PROPN	_	_	0	_	_	_
+10	gold	gold	NOUN	_	_	0	_	_	_
+11	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s10-en
+1	Is	be	VERB	_	_	0	_	_	_
+2	Iguazu	Iguazu	PROPN	_	_	0	_	_	_
+3	a	a	DET	_	_	0	_	_	_
+4	big	big	ADJ	_	_	0	_	_	_
+5	or	or	CONJ	_	_	0	_	_	_
+6	a	a	DET	_	_	0	_	_	_
+7	small	small	ADJ	_	_	0	_	_	_
+8	country	country	NOUN	_	_	0	_	_	_
+9	?	?	PUNCT	_	_	0	_	_	_
+
+# sent_id s11-en
+1	Neither	neither	CONJ	_	_	0	_	_	_
+2	Peter	Peter	PROPN	_	_	0	_	_	_
+3	Smith	Smith	PROPN	_	_	0	_	_	_
+4	nor	nor	CONJ	_	_	0	_	_	_
+5	Mary	Mary	PROPN	_	_	0	_	_	_
+6	Brown	Brown	PROPN	_	_	0	_	_	_
+7	could	can	AUX	_	_	0	_	_	_
+8	be	be	AUX	_	_	0	_	_	_
+9	selected	select	VERB	_	_	0	_	_	_
+10	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s12-en
+1	They	they	PRON	_	_	0	_	_	_
+2	have	have	VERB	_	_	0	_	_	_
+3	no	no	DET	_	_	0	_	_	_
+4	idea	idea	NOUN	_	_	0	_	_	_
+5	who	who	PRON	_	_	0	_	_	_
+6	wrote	write	VERB	_	_	0	_	_	_
+7	it	it	PRON	_	_	0	_	_	_
+8	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s13-en
+1	What	what	PRON	_	_	0	_	_	_
+2	are	be	AUX	_	_	0	_	_	_
+3	you	you	PRON	_	_	0	_	_	_
+4	looking	look	VERB	_	_	0	_	_	_
+5	at	at	ADP	_	_	0	_	_	_
+6	?	?	PUNCT	_	_	0	_	_	_
+
+# sent_id s14-en
+1	When	when	ADV	_	_	0	_	_	_
+2	do	do	AUX	_	_	0	_	_	_
+3	you	you	PRON	_	_	0	_	_	_
+4	think	think	VERB	_	_	0	_	_	_
+5	you	you	PRON	_	_	0	_	_	_
+6	can	can	AUX	_	_	0	_	_	_
+7	come	come	VERB	_	_	0	_	_	_
+8	?	?	PUNCT	_	_	0	_	_	_
+
+# sent_id s15-en
+1	He	he	PRON	_	_	0	_	_	_
+2	bought	buy	VERB	_	_	0	_	_	_
+3	a	a	DET	_	_	0	_	_	_
+4	car	car	NOUN	_	_	0	_	_	_
+5	but	but	CONJ	_	_	0	_	_	_
+6	his	his	DET	_	_	0	_	_	_
+7	brother	brother	NOUN	_	_	0	_	_	_
+8	just	just	ADV	_	_	0	_	_	_
+9	a	a	DET	_	_	0	_	_	_
+10	bike	bike	NOUN	_	_	0	_	_	_
+11	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s16-en
+1	Peter	Peter	PROPN	_	_	0	_	_	_
+2	and	and	CONJ	_	_	0	_	_	_
+3	Mary	Mary	PROPN	_	_	0	_	_	_
+4	hugged	hug	VERB	_	_	0	_	_	_
+5	each	each	PRON	_	_	0	_	_	_
+6	other	other	PRON	_	_	0	_	_	_
+7	and	and	CONJ	_	_	0	_	_	_
+8	then	then	ADV	_	_	0	_	_	_
+9	left	leave	VERB	_	_	0	_	_	_
+10	the	the	DET	_	_	0	_	_	_
+11	room	room	NOUN	_	_	0	_	_	_
+12	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s17-en
+1	She	she	PRON	_	_	0	_	_	_
+2	should	shall	AUX	_	_	0	_	_	_
+3	have	have	AUX	_	_	0	_	_	_
+4	been	be	AUX	_	_	0	_	_	_
+5	doing	do	VERB	_	_	0	_	_	_
+6	her	her	DET	_	_	0	_	_	_
+7	hair	hair	NOUN	_	_	0	_	_	_
+8	but	but	CONJ	_	_	0	_	_	_
+9	for	for	ADP	_	_	0	_	_	_
+10	some	some	DET	_	_	0	_	_	_
+11	reason	reason	NOUN	_	_	0	_	_	_
+12	she	she	PRON	_	_	0	_	_	_
+13	would	will	AUX	_	_	0	_	_	_
+14	n't	not	PART	_	_	0	_	_	_
+15	that	that	DET	_	_	0	_	_	_
+16	day	day	NOUN	_	_	0	_	_	_
+17	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s18-en
+1	I	I	PRON	_	_	0	_	_	_
+2	was	be	VERB	_	_	0	_	_	_
+3	n't	not	PART	_	_	0	_	_	_
+4	able	able	ADJ	_	_	0	_	_	_
+5	to	to	PART	_	_	0	_	_	_
+6	keep	keep	VERB	_	_	0	_	_	_
+7	up	up	ADV	_	_	0	_	_	_
+8	,	,	PUNCT	_	_	0	_	_	_
+9	because	because	SCONJ	_	_	0	_	_	_
+10	he	he	PRON	_	_	0	_	_	_
+11	ran	run	VERB	_	_	0	_	_	_
+12	too	too	ADV	_	_	0	_	_	_
+13	fast	fast	ADV	_	_	0	_	_	_
+14	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s19-en
+1	This	this	DET	_	_	0	_	_	_
+2	letter	letter	NOUN	_	_	0	_	_	_
+3	is	be	VERB	_	_	0	_	_	_
+4	from	from	ADP	_	_	0	_	_	_
+5	Peter	Peter	PROPN	_	_	0	_	_	_
+6	and	and	CONJ	_	_	0	_	_	_
+7	it	it	PRON	_	_	0	_	_	_
+8	was	be	AUX	_	_	0	_	_	_
+9	delivered	deliver	VERB	_	_	0	_	_	_
+10	yesterday	yesterday	NOUN	_	_	0	_	_	_
+11	.	.	PUNCT	_	_	0	_	_	_
+
+# sent_id s20-en
+1	She	she	PRON	_	_	0	_	_	_
+2	grew	grow	VERB	_	_	0	_	_	_
+3	up	up	ADV	_	_	0	_	_	_
+4	in	in	ADP	_	_	0	_	_	_
+5	Paris	Paris	PROPN	_	_	0	_	_	_
+6	,	,	PUNCT	_	_	0	_	_	_
+7	the	the	DET	_	_	0	_	_	_
+8	capital	capital	NOUN	_	_	0	_	_	_
+9	of	of	ADP	_	_	0	_	_	_
+10	France	France	PROPN	_	_	0	_	_	_
+11	.	.	PUNCT	_	_	0	_	_	_
+
