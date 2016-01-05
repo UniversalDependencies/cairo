@@ -1208,9 +1208,9 @@
                             <conjtype>sub</conjtype>
                           </iset>
                           <ord>5</ord>
-                          <deprel>mark</deprel>
+                          <deprel>case</deprel>
                           <conll>
-                            <deprel>mark</deprel>
+                            <deprel>case</deprel>
                             <cpos>SCONJ</cpos>
                             <pos>_</pos>
                             <feat>_</feat>
