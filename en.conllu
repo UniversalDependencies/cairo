@@ -1,7 +1,7 @@
 # sent_id s1-en
 1	The	the	DET	_	Definite=Def|PronType=Art	0	_	_	_
 2	girl	girl	NOUN	_	Number=Sing	0	_	_	_
-3	wrote	write	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	_	_	_
+3	wrote	write	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	_
 4	a	a	DET	_	Definite=Ind|PronType=Art	0	_	_	_
 5	letter	letter	NOUN	_	Number=Sing	0	_	_	_
 6	to	to	ADP	_	_	0	_	_	_
@@ -10,91 +10,91 @@
 9	.	.	PUNCT	_	_	0	_	_	_
 
 # sent_id s2-en
-1	I	I	PRON	_	_	0	_	_	_
-2	think	think	VERB	_	_	0	_	_	_
+1	I	I	PRON	_	Number=Sing|Person=1|PronType=Prs	0	_	_	_
+2	think	think	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	_
 3	that	that	SCONJ	_	_	0	_	_	_
-4	it	it	PRON	_	_	0	_	_	_
-5	is	be	AUX	_	_	0	_	_	_
-6	raining	rain	VERB	_	_	0	_	_	SpaceAfter=No
+4	it	it	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+5	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	_
+6	raining	rain	VERB	_	Tense=Pres|VerbForm=Part	0	_	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	0	_	_	_
 
 # sent_id s3-en
-1	He	he	PRON	_	_	0	_	_	_
-2	tried	try	VERB	_	_	0	_	_	_
+1	He	he	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	tried	try	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	_
 3	to	to	PART	_	_	0	_	_	_
-4	stop	stop	VERB	_	_	0	_	_	_
-5	smoking	smoke	VERB	_	_	0	_	_	_
+4	stop	stop	VERB	_	VerbForm=Inf	0	_	_	_
+5	smoking	smoke	VERB	_	VerbForm=Ger	0	_	_	_
 6	and	and	CONJ	_	_	0	_	_	_
-7	drinking	drink	VERB	_	_	0	_	_	SpaceAfter=No
+7	drinking	drink	VERB	VerbForm=Ger	_	0	_	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	0	_	_	_
 
 # sent_id s4-en
-1	Do	do	AUX	_	_	0	_	_	_
-2	you	you	PRON	_	_	0	_	_	_
-3	want	want	VERB	_	_	0	_	_	_
+1	Do	do	AUX	_	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	_
+2	you	you	PRON	_	Person=2|PronType=Prs	0	_	_	_
+3	want	want	VERB	_	VerbForm=Inf	0	_	_	_
 4	to	to	PART	_	_	0	_	_	_
-5	go	go	VERB	_	_	0	_	_	SpaceAfter=No
+5	go	go	VERB	_	VerbForm=Inf	0	_	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	0	_	_	_
 
 # sent_id s5-en
-1	Sam	Sam	PROPN	_	_	0	_	_	SpaceAfter=No
+1	Sam	Sam	PROPN	_	Number=Sing	0	_	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	0	_	_	_
-3	open	open	VERB	_	_	0	_	_	_
+3	open	open	VERB	_	Mood=Imp|VerbForm=Fin	0	_	_	_
 4	the	the	DET	_	Definite=Def|PronType=Art	0	_	_	_
-5	window	window	NOUN	_	_	0	_	_	SpaceAfter=No
+5	window	window	NOUN	_	Number=Sing	0	_	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	0	_	_	_
 
 # sent_id s6-en
-1	She	she	PRON	_	_	0	_	_	_
-2	made	make	VERB	_	_	0	_	_	_
-3	her	her	DET	_	_	0	_	_	_
-4	husband	husband	NOUN	_	_	0	_	_	_
-5	wash	wash	VERB	_	_	0	_	_	_
+1	She	she	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	made	make	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	_
+3	her	her	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	_
+4	husband	husband	NOUN	_	Number=Sing	0	_	_	_
+5	wash	wash	VERB	_	VerbForm=Inf	0	_	_	_
 6	the	the	DET	_	Definite=Def|PronType=Art	0	_	_	_
-7	car	car	NOUN	_	_	0	_	_	SpaceAfter=No
+7	car	car	NOUN	_	Number=Sing	0	_	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	0	_	_	_
 
 # sent_id s7-en
-1	Peter	Peter	PROPN	_	_	0	_	_	SpaceAfter=No
-2	’s	’s	PART	_	_	0	_	_	_
-3	neighbor	neighbor	NOUN	_	_	0	_	_	_
-4	painted	paint	VERB	_	_	0	_	_	_
+1	Peter	Peter	PROPN	_	Number=Sing	0	_	_	SpaceAfter=No
+2	’s	’s	PART	_	Poss=Yes	0	_	_	_
+3	neighbor	neighbor	NOUN	Number=Sing	_	0	_	_	_
+4	painted	paint	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	_
 5	the	the	DET	_	Definite=Def|PronType=Art	0	_	_	_
-6	fence	fence	NOUN	_	_	0	_	_	_
-7	red	red	ADJ	_	_	0	_	_	SpaceAfter=No
+6	fence	fence	NOUN	_	Number=Sing	0	_	_	_
+7	red	red	ADJ	_	Degree=Pos	0	_	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	0	_	_	_
 
 # sent_id s8-en
-1	My	my	DET	_	_	0	_	_	_
-2	dad	dad	NOUN	_	_	0	_	_	_
-3	is	be	VERB	_	_	0	_	_	_
-4	cooler	cool	ADJ	_	_	0	_	_	_
+1	My	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	_	_	_
+2	dad	dad	NOUN	_	Number=Sing	0	_	_	_
+3	is	be	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	_
+4	cooler	cool	ADJ	_	Degree=Cmp	0	_	_	_
 5	than	than	SCONJ	_	_	0	_	_	_
-6	yours	yours	PRON	_	_	0	_	_	SpaceAfter=No
+6	yours	yours	PRON	_	Person=2|Poss=Yes|PronType=Prs	0	_	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	0	_	_	_
 
 # sent_id s9-en
-1	Mary	Mary	PROPN	_	_	0	_	_	_
-2	won	win	VERB	_	_	0	_	_	_
-3	bronze	bronze	NOUN	_	_	0	_	_	SpaceAfter=No
+1	Mary	Mary	PROPN	_	Number=Sing	0	_	_	_
+2	won	win	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	_
+3	bronze	bronze	NOUN	_	Number=Sing	0	_	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	0	_	_	_
-5	Peter	Peter	PROPN	_	_	0	_	_	_
-6	silver	silver	NOUN	_	_	0	_	_	SpaceAfter=No
+5	Peter	Peter	PROPN	_	Number=Sing	0	_	_	_
+6	silver	silver	NOUN	_	Number=Sing	0	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	0	_	_	_
 8	and	and	CONJ	_	_	0	_	_	_
-9	Jane	Jane	PROPN	_	_	0	_	_	_
-10	gold	gold	NOUN	_	_	0	_	_	SpaceAfter=No
+9	Jane	Jane	PROPN	_	Number=Sing	0	_	_	_
+10	gold	gold	NOUN	_	Number=Sing	0	_	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	0	_	_	_
 
 # sent_id s10-en
-1	Is	be	VERB	_	_	0	_	_	_
-2	Iguazu	Iguazu	PROPN	_	_	0	_	_	_
+1	Is	be	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	_
+2	Iguazu	Iguazu	PROPN	_	Number=Sing	0	_	_	_
 3	a	a	DET	_	Definite=Ind|PronType=Art	0	_	_	_
-4	big	big	ADJ	_	_	0	_	_	_
+4	big	big	ADJ	_	Degree=Pos	0	_	_	_
 5	or	or	CONJ	_	_	0	_	_	_
 6	a	a	DET	_	Definite=Ind|PronType=Art	0	_	_	_
-7	small	small	ADJ	_	_	0	_	_	_
-8	country	country	NOUN	_	_	0	_	_	SpaceAfter=No
+7	small	small	ADJ	_	Degree=Pos	0	_	_	_
+8	country	country	NOUN	_	Number=Sing	0	_	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	0	_	_	_
 
 # sent_id s11-en
