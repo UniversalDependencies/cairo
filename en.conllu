@@ -1,12 +1,12 @@
 # sent_id s1-en
 1	The	the	DET	_	Definite=Def|PronType=Art	0	_	_	_
-2	girl	girl	NOUN	_	_	0	_	_	_
-3	wrote	write	VERB	_	_	0	_	_	_
+2	girl	girl	NOUN	_	Number=Sing	0	_	_	_
+3	wrote	write	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	_	_	_
 4	a	a	DET	_	Definite=Ind|PronType=Art	0	_	_	_
-5	letter	letter	NOUN	_	_	0	_	_	_
+5	letter	letter	NOUN	_	Number=Sing	0	_	_	_
 6	to	to	ADP	_	_	0	_	_	_
-7	her	her	DET	_	_	0	_	_	_
-8	friend	friend	NOUN	_	_	0	_	_	SpaceAfter=No
+7	her	her	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	_
+8	friend	friend	NOUN	_	Number=Sing	0	_	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	0	_	_	_
 
 # sent_id s2-en
