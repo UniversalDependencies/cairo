@@ -1,0 +1,189 @@
+1	মেয়েটি	_	Token	_	_	0	_	_	Offset=0-7
+2	মেয়েটি	_	NOUN	_	_	0	_	_	Offset=0-7
+3	তার	_	PRON	_	_	0	_	_	Offset=8-11
+4	বন্ধুকে	_	NOUN	_	_	0	_	_	Offset=12-19
+5	চিঠি	_	NOUN	_	_	0	_	_	Offset=20-24
+6	লিখলো	_	VERB	_	_	0	_	_	Offset=25-30
+7	।	_	PUNCT	_	_	0	_	_	Offset=31-32
+
+1	আমার	_	Token	_	_	0	_	_	Offset=33-37
+2	আমার	_	PRON	_	_	0	_	_	Offset=33-37
+3	মনে	_	X	_	_	0	_	_	Offset=38-41
+4	হয়	_	X	_	_	0	_	_	Offset=42-45
+5	যে	_	DET	_	_	0	_	_	Offset=46-48
+6	বৃষ্টি	_	NOUN	_	_	0	_	_	Offset=49-55
+7	পড়ছে	_	VERB	_	_	0	_	_	Offset=56-61
+8	।	_	PUNCT	_	_	0	_	_	Offset=63-64
+
+1	সে	_	PRON	_	_	0	_	_	Offset=65-67
+2	ধূমপান	_	NOUN	_	_	0	_	_	Offset=68-74
+3	ও	_	CONJ	_	_	0	_	_	Offset=75-76
+4	মদ্যপান	_	NOUN	_	_	0	_	_	Offset=77-84
+5	থামানোর	_	VERB	_	_	0	_	_	Offset=85-92
+6	চেষ্টা	_	NOUN	_	_	0	_	_	Offset=93-99
+7	করলো	_	VERB	_	_	0	_	_	Offset=100-104
+8	।	_	PUNCT	_	_	0	_	_	Offset=105-106
+
+1	তুমি	_	PRON	_	_	0	_	_	Offset=107-111
+2	কি	_	PART	_	_	0	_	_	Offset=112-114
+3	যেতে	_	VERB	_	_	0	_	_	Offset=115-119
+4	চাও	_	VERB	_	_	0	_	_	Offset=120-123
+5	?	_	PUNCT	_	_	0	_	_	Offset=124-125
+
+1	স্যাম	_	PROPN	_	_	0	_	_	Offset=126-131
+2	,	_	PUNCT	_	_	0	_	_	Offset=132-133
+3	জানালা	_	NOUN	_	_	0	_	_	Offset=134-140
+4	খোলো	_	VERB	_	_	0	_	_	Offset=141-145
+5	!	_	PUNCT	_	_	0	_	_	Offset=146-147
+
+1	সে	_	PRON	_	_	0	_	_	Offset=148-150
+2	তার	_	PRON	_	_	0	_	_	Offset=151-154
+3	স্বামী	_	NOUN	_	_	0	_	_	Offset=155-161
+4	কে	_	PART	_	_	0	_	_	Offset=162-164
+5	দিয়ে	_	ADP	_	_	0	_	_	Offset=165-170
+6	গাড়িটা	_	NOUN	_	_	0	_	_	Offset=171-178
+7	ধোয়ালো	_	VERB	_	_	0	_	_	Offset=179-186
+8	।	_	PUNCT	_	_	0	_	_	Offset=187-188
+
+1	পিটারের	_	PROPN	_	_	0	_	_	Offset=189-196
+2	প্রতিবেশী	_	NOUN	_	_	0	_	_	Offset=197-206
+3	বেড়াটাকে	_	NOUN	_	_	0	_	_	Offset=207-216
+4	লাল	_	PROPN	_	_	0	_	_	Offset=217-220
+5	রং	_	NOUN	_	_	0	_	_	Offset=221-223
+6	করেছে	_	VERB	_	_	0	_	_	Offset=224-229
+7	।	_	PUNCT	_	_	0	_	_	Offset=230-231
+
+1	আমার	_	PRON	_	_	0	_	_	Offset=232-236
+2	বাবা	_	NOUN	_	_	0	_	_	Offset=237-241
+3	তোমার	_	PRON	_	_	0	_	_	Offset=242-247
+4	বাবার	_	NOUN	_	_	0	_	_	Offset=248-253
+5	থেকে	_	CONJ	_	_	0	_	_	Offset=254-258
+6	অনেক	_	ADJ	_	_	0	_	_	Offset=259-263
+7	ভালো	_	NOUN	_	_	0	_	_	Offset=264-268
+8	।	_	PUNCT	_	_	0	_	_	Offset=269-270
+
+1	মেরি	_	PROPN	_	_	0	_	_	Offset=271-275
+2	তামা	_	PROPN	_	_	0	_	_	Offset=276-280
+3	জিতলো	_	VERB	_	_	0	_	_	Offset=281-286
+4	,	_	PUNCT	_	_	0	_	_	Offset=287-288
+5	পিটার	_	PROPN	_	_	0	_	_	Offset=289-294
+6	রুপো	_	PROPN	_	_	0	_	_	Offset=295-299
+7	,	_	PUNCT	_	_	0	_	_	Offset=300-301
+8	আর	_	CONJ	_	_	0	_	_	Offset=302-304
+9	জেন	_	PROPN	_	_	0	_	_	Offset=305-308
+10	সোনা	_	PROPN	_	_	0	_	_	Offset=309-313
+11	।	_	PUNCT	_	_	0	_	_	Offset=314-315
+
+1	ইগুয়াজু	_	PROPN	_	_	0	_	_	Offset=316-324
+2	কি	_	PART	_	_	0	_	_	Offset=325-327
+3	বড়	_	ADJ	_	_	0	_	_	Offset=328-331
+4	দেশ	_	NOUN	_	_	0	_	_	Offset=332-335
+5	না	_	CONJ	_	_	0	_	_	Offset=336-338
+6	ছোটো	_	ADJ	_	_	0	_	_	Offset=339-343
+7	?	_	PUNCT	_	_	0	_	_	Offset=344-345
+
+1	পিটার	_	PROPN	_	Gender=Masc	7	nsubjpass	_	Offset=346-351
+2	স্মিথ	_	PROPN	_	Gender=Masc	1	name	_	Offset=352-357
+3	বা	_	CONJ	_	_	1	det	4:conj	Offset=358-360
+4	মেরি	_	PROPN	_	Gender=Fem	1	conj	7:nsubjpass	Offset=361-365
+5	ব্রাউন	_	PRON	_	Gender=Fem	4	name	_	Offset=366-372
+6	কেউই	_	DET	_	_	1	cc	_	Offset=373-377
+7	নির্বাচিত	_	VERB	_	_	0	_	_	Offset=379-388
+8	হলো	_	AUX	_	_	7	auxpass	_	Offset=389-392
+9	না	_	PART	_	_	0	_	_	Offset=393-395
+10	।	_	PUNCT	_	_	9	punct	_	Offset=396-397
+
+1	কে	_	PRON	_	_	0	_	_	Offset=398-400
+2	যে	_	PRON	_	_	0	_	_	Offset=401-403
+3	ওটা	_	PRON	_	_	0	_	_	Offset=404-407
+4	লিখেছে	_	VERB	_	_	0	_	_	Offset=408-414
+5	কেউ	_	PRON	_	_	0	_	_	Offset=415-418
+6	জানে	_	VERB	_	_	0	_	_	Offset=419-423
+7	না	_	PART	_	_	0	_	_	Offset=424-426
+8	।	_	PUNCT	_	_	0	_	_	Offset=427-428
+
+1	তুমি	_	PRON	_	_	0	_	_	Offset=429-433
+2	কি	_	PRON	_	_	0	_	_	Offset=434-436
+3	দেখছো	_	VERB	_	_	0	_	_	Offset=437-442
+4	?	_	PUNCT	_	_	0	_	_	Offset=443-444
+
+1	তুমি	_	PRON	_	_	0	_	_	Offset=445-449
+2	কখন	_	ADV	_	_	0	_	_	Offset=450-453
+3	আসতে	_	VERB	_	_	0	_	_	Offset=454-458
+4	পারবে	_	AUX	_	_	0	_	_	Offset=459-464
+5	বলে	_	VERB	_	_	0	_	_	Offset=465-468
+6	মনে	_	PART	_	_	0	_	_	Offset=469-472
+7	হয়	_	AUX	_	_	0	_	_	Offset=473-476
+8	?	_	Token	_	_	0	_	_	Offset=477-478
+
+1	সে	_	Token	_	_	0	_	_	Offset=479-481
+2	একটা	_	Token	_	_	0	_	_	Offset=482-486
+3	গাড়ি	_	Token	_	_	0	_	_	Offset=487-492
+4	কিনলো	_	Token	_	_	0	_	_	Offset=493-498
+5	কিন্তু	_	Token	_	_	0	_	_	Offset=499-505
+6	তার	_	Token	_	_	0	_	_	Offset=506-509
+7	ভাই	_	Token	_	_	0	_	_	Offset=510-513
+8	,	_	Token	_	_	0	_	_	Offset=514-515
+9	শুধু	_	Token	_	_	0	_	_	Offset=516-520
+10	একটা	_	Token	_	_	0	_	_	Offset=521-525
+11	সাইকেল	_	Token	_	_	0	_	_	Offset=526-532
+12	।	_	Token	_	_	0	_	_	Offset=533-534
+
+1	পিটার	_	Token	_	_	0	_	_	Offset=535-540
+2	আর	_	Token	_	_	0	_	_	Offset=541-543
+3	মেরি	_	Token	_	_	0	_	_	Offset=544-548
+4	একে	_	Token	_	_	0	_	_	Offset=549-552
+5	অপরকে	_	Token	_	_	0	_	_	Offset=553-558
+6	আলিঙ্গন	_	Token	_	_	0	_	_	Offset=559-566
+7	করলো	_	Token	_	_	0	_	_	Offset=567-571
+8	,	_	Token	_	_	0	_	_	Offset=572-573
+9	তারপর	_	Token	_	_	0	_	_	Offset=574-579
+10	ঘর	_	Token	_	_	0	_	_	Offset=580-582
+11	থেকে	_	Token	_	_	0	_	_	Offset=583-587
+12	বেরিয়ে	_	Token	_	_	0	_	_	Offset=588-595
+13	গেলো	_	Token	_	_	0	_	_	Offset=596-600
+14	।	_	Token	_	_	0	_	_	Offset=601-602
+
+1	তার	_	Token	_	_	0	_	_	Offset=603-606
+2	চুল	_	Token	_	_	0	_	_	Offset=607-610
+3	বাঁধা	_	Token	_	_	0	_	_	Offset=611-616
+4	উচিত	_	Token	_	_	0	_	_	Offset=617-621
+5	ছিল	_	Token	_	_	0	_	_	Offset=622-625
+6	কিন্তু	_	Token	_	_	0	_	_	Offset=626-632
+7	কোনো	_	Token	_	_	0	_	_	Offset=633-637
+8	কারণে	_	Token	_	_	0	_	_	Offset=638-643
+9	সেদিন	_	Token	_	_	0	_	_	Offset=644-649
+10	সে	_	Token	_	_	0	_	_	Offset=650-652
+11	করলো	_	Token	_	_	0	_	_	Offset=653-657
+12	না	_	Token	_	_	0	_	_	Offset=658-660
+13	।	_	Token	_	_	0	_	_	Offset=661-662
+
+1	সে	_	Token	_	_	0	_	_	Offset=663-665
+2	এত	_	Token	_	_	0	_	_	Offset=666-668
+3	জোরে	_	Token	_	_	0	_	_	Offset=669-673
+4	দৌড়ালো	_	Token	_	_	0	_	_	Offset=674-681
+5	যে	_	Token	_	_	0	_	_	Offset=682-684
+6	আমি	_	Token	_	_	0	_	_	Offset=685-688
+7	তাল	_	Token	_	_	0	_	_	Offset=689-692
+8	রাখতে	_	Token	_	_	0	_	_	Offset=693-698
+9	পারলাম	_	Token	_	_	0	_	_	Offset=699-705
+10	না	_	Token	_	_	0	_	_	Offset=706-708
+11	।	_	Token	_	_	0	_	_	Offset=709-710
+
+1	এই	_	Token	_	_	0	_	_	Offset=711-713
+2	চিঠিটা	_	Token	_	_	0	_	_	Offset=714-720
+3	পিটারের	_	Token	_	_	0	_	_	Offset=721-728
+4	থেকে	_	Token	_	_	0	_	_	Offset=729-733
+5	গতকাল	_	Token	_	_	0	_	_	Offset=734-739
+6	এসেছে	_	Token	_	_	0	_	_	Offset=740-745
+7	।	_	Token	_	_	0	_	_	Offset=746-747
+
+1	সে	_	Token	_	_	0	_	_	Offset=748-750
+2	প্যারিস	_	Token	_	_	0	_	_	Offset=751-758
+3	,	_	Token	_	_	0	_	_	Offset=759-760
+4	ফ্রান্সের	_	Token	_	_	0	_	_	Offset=762-771
+5	রাজধানীতে	_	Token	_	_	0	_	_	Offset=772-781
+6	বড়	_	Token	_	_	0	_	_	Offset=782-785
+7	হয়েছে	_	Token	_	_	0	_	_	Offset=786-792
+8	।	_	Token	_	_	0	_	_	Offset=793-794
+

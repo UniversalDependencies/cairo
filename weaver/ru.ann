@@ -1,0 +1,823 @@
+T1	NOUN 743 749	письмо
+T2	ADP 750 752	от
+T3	PUNCT 737 738	.
+T4	DET 739 742	Это
+T5	PRON 762 765	оно
+T6	AUX 766 770	было
+T7	PROPN 753 759	Питера
+T8	CONJ 760 761	и
+T9	VERB 771 781	доставлено
+T10	ADV 782 787	вчера
+T11	PROPN 365 370	Браун
+T12	PART 371 373	не
+T13	CONJ 357 359	ни
+T14	PROPN 360 364	Мэри
+T15	VERB 385 392	выбраны
+T16	PUNCT 393 394	.
+T17	VERB 374 379	могли
+T18	VERB 380 384	быть
+T19	PRON 395 398	Они
+T20	NOUN 399 406	понятия
+T21	ADV 730 736	быстро
+T22	ADV 722 729	слишком
+T23	SCONJ 709 712	что
+T24	ADV 702 708	потому
+T25	VERB 716 721	бежал
+T26	PRON 713 715	он
+T27	ADP 693 695	за
+T28	VERB 685 692	успевал
+T29	PUNCT 700 701	,
+T30	PRON 696 699	ним
+T31	PRON 443 445	ты
+T32	PRON 439 442	что
+T33	ADP 436 438	На
+T34	PUNCT 434 435	.
+T35	VERB 426 433	написал
+T36	PRON 422 425	это
+T37	PRON 418 421	кто
+T38	PUNCT 416 417	,
+T39	VERB 410 415	имеют
+T40	PART 407 409	не
+T41	PRON 680 681	Я
+T42	PART 682 684	не
+T43	ADP 646 647	в
+T44	DET 648 652	этот
+T45	NOUN 653 657	день
+T46	PRON 658 661	она
+T47	PRON 662 665	это
+T48	PART 666 668	не
+T49	VERB 669 676	сделала
+T50	PUNCT 677 678	.
+T51	PRON 66 68	Он
+T52	VERB 69 76	пытался
+T53	VERB 77 84	бросить
+T54	VERB 85 91	курить
+T55	SCONJ 49 52	что
+T56	VERB 53 57	идет
+T57	NOUN 58 63	дождь
+T58	PUNCT 64 65	.
+T59	CONJ 92 93	и
+T60	VERB 94 98	пить
+T61	VERB 41 46	думаю
+T62	PUNCT 47 48	,
+T63	NOUN 0 7	Девушка
+T64	VERB 487 493	прийти
+T65	PUNCT 494 495	?
+T66	VERB 466 473	думаете
+T67	PUNCT 474 475	,
+T68	SCONJ 476 479	что
+T69	VERB 480 486	можете
+T70	VERB 446 454	смотришь
+T71	PUNCT 455 456	?
+T72	ADV 457 462	Когда
+T73	PRON 463 465	вы
+T74	ADV 636 645	почему-то
+T75	CONJ 633 635	но
+T76	VERB 606 610	была
+T77	ADJ 599 605	должна
+T78	PRON 595 598	Она
+T79	PUNCT 592 593	.
+T80	PUNCT 631 632	,
+T81	NOUN 622 630	причёску
+T82	VERB 614 621	сделать
+T83	VERB 611 613	бы
+T84	PUNCT 136 137	!
+T85	NOUN 131 135	окно
+T86	PRON 101 103	Ты
+T87	PUNCT 99 100	.
+T88	VERB 111 115	уйти
+T89	VERB 104 110	хочешь
+T90	PROPN 118 121	Сэм
+T91	PUNCT 116 117	?
+T92	VERB 124 130	открой
+T93	PUNCT 122 123	,
+T94	PROPN 187 192	Петра
+T95	VERB 193 201	покрасил
+T96	PUNCT 179 180	.
+T97	NOUN 181 186	Сосед
+T98	VERB 165 171	помыть
+T99	NOUN 172 178	машину
+T100	DET 153 159	своего
+T101	NOUN 160 164	мужа
+T102	PRON 139 142	Она
+T103	VERB 143 152	заставила
+T104	PUNCT 247 248	.
+T105	DET 240 246	твоего
+T106	NOUN 218 222	цвет
+T107	ADJ 210 217	красный
+T108	ADP 208 209	в
+T109	NOUN 202 207	забор
+T110	ADJ 234 239	круче
+T111	NOUN 229 233	папа
+T112	DET 225 228	Мой
+T113	PUNCT 223 224	.
+T114	ADV 569 574	потом
+T115	VERB 575 580	вышли
+T116	PUNCT 565 566	,
+T117	CONJ 567 568	а
+T118	PROPN 551 555	Мэри
+T119	VERB 556 564	обнялись
+T120	PROPN 543 548	Питер
+T121	CONJ 549 550	и
+T122	ADP 581 583	из
+T123	NOUN 584 591	комнаты
+T124	NOUN 294 300	золото
+T125	PUNCT 301 302	.
+T126	PROPN 249 253	Мэри
+T127	VERB 254 262	выиграла
+T129	PUNCT 270 271	,
+T130	PROPN 272 277	Питер
+T131	NOUN 278 285	серебро
+T132	CONJ 286 287	а
+T133	PROPN 288 293	Джейн
+T134	VERB 499 504	купил
+T135	PRON 496 498	Он
+T136	PUNCT 512 513	,
+T137	NOUN 505 511	машину
+T138	DET 516 519	его
+T139	CONJ 514 515	а
+T140	ADV 525 531	только
+T141	NOUN 520 524	брат
+T142	PUNCT 541 542	.
+T143	NOUN 532 540	мотоцикл
+T144	PROPN 821 828	Франции
+T145	NOUN 813 820	столице
+T146	PUNCT 811 812	,
+T147	PROPN 804 810	Париже
+T148	ADP 802 803	в
+T149	VERB 794 801	выросла
+T150	PRON 790 793	Она
+T151	PUNCT 788 789	.
+T152	PUNCT 37 38	.
+T153	PRON 39 40	Я
+T154	PRON 24 30	своему
+T155	NOUN 31 36	другу
+T156	VERB 8 16	написала
+T157	NOUN 17 23	письмо
+T158	PUNCT 829 830	.
+T159	PUNCT 355 356	,
+T160	PROPN 350 354	Смит
+T161	PUNCT 339 340	?
+T162	NOUN 332 338	страна
+T163	PROPN 344 349	Питер
+T164	CONJ 341 343	Ни
+T165	ADJ 310 317	большая
+T166	PROPN 303 309	Игуасу
+T167	ADJ 322 331	маленькая
+T168	CONJ 318 321	или
+A1	Mood T156 Ind
+A2	Person T156 3
+A3	Tense T156 Past
+A4	Aspect T156 Perf
+A5	Voice T156 Act
+A6	VerbForm T156 Part
+R1	amod Arg1:T162 Arg2:T167	
+R2	amod Arg1:T162 Arg2:T165	
+R3	cc Arg1:T165 Arg2:T168	
+R4	conj Arg1:T165 Arg2:T167	
+A7	Case T157 Acc
+A8	Animacy T157 Inan
+A9	Gender T157 Neut
+A10	Definite T157 Def
+A12	Number T157 Sing
+A13	Case T155 Dat
+A14	Animacy T155 Anim
+A15	Gender T155 Masc
+A16	Definite T155 Def
+A18	Number T155 Sing
+R7	nsubj Arg1:T70 Arg2:T31	
+R8	punct Arg1:T70 Arg2:T71	
+R9	dobj Arg1:T70 Arg2:T32	
+A19	Case T154 Dat
+A20	Animacy T154 Anim
+A21	PronType T154 Prs
+A22	Gender T154 Masc
+A23	Number T154 Sing
+A24	Person T154 3
+A25	Reflex T154
+A26	Poss T154
+R10	nsubj Arg1:T156 Arg2:T63	
+R11	nsubj Arg1:T149 Arg2:T150	
+R12	case Arg1:T32 Arg2:T33	
+R13	dobj Arg1:T156 Arg2:T157	
+R14	case Arg1:T147 Arg2:T148	
+R15	iobj Arg1:T156 Arg2:T155	
+R16	nmod Arg1:T149 Arg2:T147	
+R17	nmod Arg1:T145 Arg2:T144	
+R18	det Arg1:T155 Arg2:T154	
+R19	appos Arg1:T147 Arg2:T145	
+R20	punct Arg1:T145 Arg2:T146	
+R6	punct Arg1:T162 Arg2:T161	
+R5	punct Arg1:T149 Arg2:T158	
+R22	nsubj Arg1:T162 Arg2:T166	
+R23	nsubj Arg1:T61 Arg2:T153	
+R24	name Arg1:T163 Arg2:T160	
+R25	name Arg1:T14 Arg2:T11	
+R26	neg Arg1:T17 Arg2:T12	
+R27	xcomp Arg1:T17 Arg2:T15	
+R28	auxpass Arg1:T15 Arg2:T18	
+R29	punct Arg1:T17 Arg2:T16	
+R33	ccomp Arg1:T61 Arg2:T56	
+R34	nsubj Arg1:T56 Arg2:T57	
+R35	conj Arg1:T163 Arg2:T14	
+R36	cc Arg1:T163 Arg2:T164	
+R38	case Arg1:T7 Arg2:T2	
+R40	det Arg1:T1 Arg2:T4	
+R41	auxpass Arg1:T9 Arg2:T6	
+R42	nsubjpass Arg1:T9 Arg2:T5	
+R43	advmod Arg1:T9 Arg2:T10	
+R45	nsubj Arg1:T39 Arg2:T19	
+R46	neg Arg1:T39 Arg2:T40	
+R47	mark Arg1:T56 Arg2:T55	
+R48	dobj Arg1:T39 Arg2:T20	
+R50	dobj Arg1:T35 Arg2:T36	
+R51	nsubj Arg1:T35 Arg2:T37	
+R52	punct Arg1:T39 Arg2:T34	
+R39	nsubj Arg1:T52 Arg2:T51	
+R53	nsubj Arg1:T7 Arg2:T1	
+R54	conj Arg1:T7 Arg2:T9	
+R56	cc Arg1:T7 Arg2:T8	
+R57	xcomp Arg1:T52 Arg2:T53	
+R58	xcomp Arg1:T53 Arg2:T54	
+R59	det Arg1:T111 Arg2:T112	
+R60	nsubj Arg1:T110 Arg2:T111	
+R61	conj Arg1:T54 Arg2:T60	
+R62	punct Arg1:T110 Arg2:T104	
+R63	nmod Arg1:T110 Arg2:T105	
+R64	cc Arg1:T54 Arg2:T59	
+R65	punct Arg1:T52 Arg2:T87	
+R32	punct Arg1:T61 Arg2:T58	
+R21	punct Arg1:T156 Arg2:T152	
+R66	punct Arg1:T89 Arg2:T91	
+R67	nsubj Arg1:T89 Arg2:T86	
+R68	xcomp Arg1:T89 Arg2:T88	
+R69	dobj Arg1:T92 Arg2:T85	
+R70	vocative Arg1:T92 Arg2:T90	
+R71	punct Arg1:T90 Arg2:T93	
+R72	mwe Arg1:T24 Arg2:T23	
+R73	nsubj Arg1:T25 Arg2:T26	
+R74	advmod Arg1:T21 Arg2:T22	
+R75	advmod Arg1:T25 Arg2:T21	
+R76	mark Arg1:T25 Arg2:T24	
+R77	punct Arg1:T25 Arg2:T29	
+R78	case Arg1:T30 Arg2:T27	
+R79	neg Arg1:T28 Arg2:T42	
+R80	nsubj Arg1:T28 Arg2:T41	
+R81	dobj Arg1:T28 Arg2:T30	
+R82	advcl Arg1:T28 Arg2:T25	
+R83	punct Arg1:T28 Arg2:T3	
+R49	punct Arg1:T35 Arg2:T38	
+A27	Case T63 Nom
+A28	Gender T63 Fem
+A29	Number T63 Sing
+A30	Gender T156 Fem
+A31	Number T156 Sing
+A11	Case T153 Nom
+A17	PronType T153 Prs
+A32	Number T153 Sing
+A33	Person T153 1
+A34	Mood T61 Ind
+A35	Number T61 Sing
+A36	Person T61 1
+A37	Tense T61 Pres
+A38	Aspect T61 Imp
+A39	Voice T61 Act
+A40	VerbForm T61 Fin
+R31	punct Arg1:T56 Arg2:T62	
+A41	Mood T56 Ind
+A42	Number T56 Sing
+A43	Person T56 3
+A44	Tense T56 Pres
+A45	Aspect T56 Imp
+A46	Voice T56 Act
+A47	VerbForm T56 Fin
+A48	Case T57 Nom
+A49	Animacy T57 Inan
+A50	Gender T57 Masc
+A51	Number T57 Coll
+A52	Case T51 Nom
+A53	PronType T51 Prs
+A54	Gender T51 Masc
+A55	Number T51 Sing
+A56	Person T51 3
+A57	Mood T52 Ind
+A58	Gender T52 Masc
+A59	Number T52 Sing
+A60	Tense T52 Past
+A61	Aspect T52 Imp
+A62	Voice T52 Act
+A63	VerbForm T52 Part
+A64	Voice T53 Act
+A65	Aspect T53 Perf
+A66	VerbForm T53 Inf
+A67	Voice T54 Act
+A68	Aspect T54 Imp
+A69	VerbForm T54 Inf
+A70	Case T86 Nom
+A71	PronType T86 Prs
+A72	Number T86 Sing
+A73	Person T86 2
+A74	Mood T89 Ind
+A75	Number T89 Sing
+A76	Person T89 2
+A77	Tense T89 Pres
+A78	Aspect T89 Imp
+A79	Voice T89 Act
+A80	VerbForm T89 Fin
+A81	Voice T88 Act
+A82	Aspect T88 Perf
+A83	VerbForm T88 Inf
+R84	punct Arg1:T92 Arg2:T84	
+A84	Case T90 Nom
+A85	Animacy T90 Anim
+A86	Gender T90 Masc
+A87	Number T90 Sing
+A88	Mood T92 Imp
+A89	Number T92 Sing
+A90	Person T92 2
+A91	Aspect T92 Perf
+A92	Voice T92 Act
+A93	VerbForm T92 Fin
+A94	Case T85 Acc
+A95	Gender T85 Neut
+A96	Number T85 Sing
+A97	Voice T60 Act
+A98	Aspect T60 Imp
+A99	VerbForm T60 Inf
+A100	Case T102 Nom
+A101	PronType T102 Prs
+A102	Gender T102 Fem
+A103	Number T102 Sing
+A104	Person T102 3
+A105	Mood T103 Ind
+A106	Gender T103 Fem
+A107	Number T103 Sing
+A108	Tense T103 Past
+A109	Aspect T103 Perf
+A110	Voice T103 Act
+A111	VerbForm T103 Part
+R85	nsubj Arg1:T103 Arg2:T102	
+R86	punct Arg1:T103 Arg2:T96	
+A112	Case T101 Acc
+A113	Animacy T101 Anim
+A114	Gender T101 Masc
+A115	Number T101 Sing
+R87	dobj Arg1:T103 Arg2:T101	
+A116	Case T100 Acc
+A117	Animacy T100 Anim
+A118	PronType T100 Prs
+A119	Gender T100 Masc
+A120	Number T100 Sing
+A121	Person T100 3
+A122	Reflex T100
+A123	Poss T100
+R88	det Arg1:T101 Arg2:T100	
+A124	Voice T98 Act
+A125	Aspect T98 Perf
+A126	VerbForm T98 Inf
+R89	ccomp Arg1:T103 Arg2:T98	
+A127	Case T99 Acc
+A128	Gender T99 Fem
+A129	Number T99 Sing
+R90	dobj Arg1:T98 Arg2:T99	
+A130	Case T97 Nom
+A131	Animacy T97 Anim
+A132	Gender T97 Masc
+A133	Number T97 Sing
+A134	Case T94 Gen
+A135	Animacy T94 Anim
+A136	Gender T94 Masc
+A137	Number T94 Sing
+R91	nmod Arg1:T97 Arg2:T94	
+A138	Animacy T95 Anim
+A139	Mood T95 Ind
+A140	Gender T95 Masc
+A141	Number T95 Sing
+A142	Tense T95 Past
+A143	Aspect T95 Perf
+A144	Voice T95 Act
+A145	VerbForm T95 Part
+R92	nsubj Arg1:T95 Arg2:T97	
+A146	Case T109 Acc
+A147	Animacy T109 Inan
+A148	Gender T109 Masc
+A149	Number T109 Sing
+R93	dobj Arg1:T95 Arg2:T109	
+A150	Case T108 Acc
+A151	Case T107 Acc
+A152	Animacy T107 Inan
+A153	Degree T107 Pos
+A154	Gender T107 Masc
+A155	Negative T107 Pos
+A156	Number T107 Sing
+A157	Case T106 Acc
+A158	Animacy T106 Inan
+A159	Gender T106 Masc
+A160	Number T106 Sing
+R94	amod Arg1:T106 Arg2:T107	
+R95	case Arg1:T106 Arg2:T108	
+R96	nmod Arg1:T95 Arg2:T106	
+R97	punct Arg1:T95 Arg2:T113	
+A161	Case T112 Nom
+A162	Animacy T112 Anim
+A163	PronType T112 Prs
+A164	Gender T112 Masc
+A165	Number T112 Sing
+A166	Person T112 1
+A167	Poss T112
+A168	Case T111 Nom
+A169	Animacy T111 Anim
+A170	Gender T111 Masc
+A171	Number T111 Sing
+A172	Case T105 Gen
+A173	Animacy T105 Anim
+A174	PronType T105 Prs
+A175	Gender T105 Masc
+A176	Number T105 Sing
+A177	Person T105 2
+A178	Poss T105
+A179	Negative T110 Pos
+A180	Degree T110 Cmp
+A181	Case T126 Nom
+A182	Gender T126 Fem
+A183	Number T126 Sing
+T169	NOUN 263 269	бронзу
+A184	Case T169 Acc
+A185	Gender T169 Fem
+A186	Number T169 Sing
+A187	Mood T127 Ind
+A188	Gender T127 Fem
+A189	Number T127 Sing
+A190	Tense T127 Past
+A191	Aspect T127 Perf
+A192	Voice T127 Act
+A193	VerbForm T127 Part
+R98	nsubj Arg1:T127 Arg2:T126	
+R99	dobj Arg1:T127 Arg2:T169	
+R100	punct Arg1:T127 Arg2:T129	
+A194	Case T130 Nom
+A195	Animacy T130 Anim
+A196	Gender T130 Masc
+A197	Number T130 Sing
+R101	remnant Arg1:T126 Arg2:T130	
+A198	Case T131 Acc
+A199	Gender T131 Neut
+A200	Number T131 Sing
+R102	remnant Arg1:T169 Arg2:T131	
+R103	cc Arg1:T127 Arg2:T132	
+A201	Case T133 Nom
+A202	Gender T133 Fem
+A203	Number T133 Sing
+R104	remnant Arg1:T130 Arg2:T133	
+A204	Case T124 Acc
+A205	Gender T124 Neut
+A206	Number T124 Sing
+R105	remnant Arg1:T131 Arg2:T124	
+R106	punct Arg1:T127 Arg2:T125	
+A207	Case T166 Nom
+A208	Gender T166 Neut
+A209	Number T166 Sing
+A210	Case T162 Nom
+A211	Gender T162 Fem
+A212	Number T162 Sing
+A213	Case T165 Nom
+A214	Degree T165 Pos
+A215	Gender T165 Fem
+A216	Negative T165 Pos
+A217	Number T165 Sing
+A218	Case T167 Nom
+A219	Degree T167 Pos
+A220	Gender T167 Fem
+A221	Negative T167 Pos
+A222	Number T167 Sing
+A223	Case T163 Nom
+A224	Animacy T163 Anim
+A225	Gender T163 Masc
+A226	Number T163 Sing
+A227	Case T160 Nom
+A228	Animacy T160 Anim
+A229	Gender T160 Masc
+A230	Number T160 Sing
+R30	punct Arg1:T163 Arg2:T159	
+R37	cc Arg1:T163 Arg2:T13	
+A231	Case T14 Nom
+A232	Gender T14 Fem
+A233	Number T14 Sing
+A234	Case T11 Nom
+A235	Gender T11 Fem
+A236	Number T11 Sing
+A237	Mood T17 Ind
+A238	Number T17 Plur
+A239	Tense T17 Past
+A240	Aspect T17 Imp
+A241	Voice T17 Act
+A242	VerbForm T17 Part
+R107	nsubj Arg1:T17 Arg2:T163	
+A243	Voice T18 Act
+A244	Aspect T18 Imp
+A245	VerbForm T18 Inf
+A246	VerbForm T15 Part
+A247	Number T15 Plur
+A248	Aspect T15 Perf
+A249	Voice T15 Pass
+A250	Case T19 Nom
+A251	PronType T19 Prs
+A252	Number T19 Plur
+A253	Person T19 3
+A254	Case T20 Gen
+A255	Gender T20 Neut
+A256	Number T20 Sing
+A257	Mood T39 Ind
+A258	Number T39 Plur
+A259	Person T39 3
+A260	Tense T39 Pres
+A261	Aspect T39 Imp
+A262	Voice T39 Act
+A263	VerbForm T39 Fin
+R55	acl Arg1:T20 Arg2:T35	
+A264	Case T37 Nom
+A265	Animacy T37 Anim
+A266	PronType T37 Int
+A267	Gender T37 Masc
+A268	Number T37 Sing
+A269	Case T36 Acc
+A270	Animacy T36 Inan
+A271	PronType T36 Dem
+A272	Gender T36 Neut
+A273	Number T36 Sing
+A274	Mood T35 Ind
+A275	Gender T35 Masc
+A276	Number T35 Sing
+A277	Tense T35 Past
+A278	Aspect T35 Perf
+A279	Voice T35 Act
+A280	VerbForm T35 Part
+A281	Case T33 Acc
+A282	Case T32 Acc
+A283	Animacy T32 Inan
+A284	PronType T32 Int
+A285	Gender T32 Neut
+A286	Number T32 Sing
+A287	Case T31 Nom
+A288	PronType T31 Prs
+A289	Number T31 Sing
+A290	Person T31 2
+A291	Mood T70 Ind
+A292	Number T70 Sing
+A293	Person T70 2
+A294	Tense T70 Pres
+A295	Aspect T70 Imp
+A296	Voice T70 Act
+A297	VerbForm T70 Fin
+A298	PronType T72 Int
+A299	Case T73 Nom
+A300	PronType T73 Prs
+A301	Number T73 Plur
+A302	Person T73 2
+A303	Mood T66 Ind
+A304	Number T66 Plur
+A305	Person T66 2
+A306	Tense T66 Pres
+A307	Aspect T66 Imp
+A308	Voice T66 Act
+A309	VerbForm T66 Fin
+R108	nsubj Arg1:T66 Arg2:T73	
+A310	Mood T69 Ind
+A311	Number T69 Plur
+A312	Person T69 2
+A313	Tense T69 Pres
+A314	Aspect T69 Imp
+A315	Voice T69 Act
+A316	VerbForm T69 Fin
+R109	mark Arg1:T69 Arg2:T68	
+R110	punct Arg1:T69 Arg2:T67	
+R111	ccomp Arg1:T66 Arg2:T69	
+A317	Voice T64 Act
+A318	Aspect T64 Perf
+A319	VerbForm T64 Inf
+R112	xcomp Arg1:T69 Arg2:T64	
+R113	advmod Arg1:T64 Arg2:T72	
+R114	punct Arg1:T66 Arg2:T65	
+A320	Case T150 Nom
+A321	PronType T150 Prs
+A322	Gender T150 Fem
+A323	Number T150 Sing
+A324	Person T150 3
+A325	Mood T149 Ind
+A326	Gender T149 Fem
+A327	Number T149 Sing
+A328	Tense T149 Past
+A329	Aspect T149 Perf
+A330	Voice T149 Act
+A331	VerbForm T149 Part
+A332	Case T148 Loc
+A333	Case T147 Loc
+A334	Animacy T147 Inan
+A335	Gender T147 Masc
+A336	Number T147 Sing
+A337	Case T145 Loc
+A338	Gender T145 Fem
+A339	Number T145 Sing
+A340	Case T144 Gen
+A341	Gender T144 Fem
+A342	Number T144 Sing
+R44	punct Arg1:T7 Arg2:T151	
+A343	Case T4 Nom
+A344	PronType T4 Dem
+A345	Gender T4 Neut
+A346	Number T4 Sing
+A347	Case T1 Nom
+A348	Gender T1 Neut
+A349	Number T1 Sing
+A350	Case T2 Gen
+A351	Case T7 Gen
+A352	Animacy T7 Anim
+A353	Gender T7 Masc
+A354	Number T7 Sing
+A355	Case T5 Nom
+A356	PronType T5 Prs
+A357	Gender T5 Neut
+A358	Number T5 Sing
+A359	Person T5 3
+A360	Mood T6 Ind
+A361	Gender T6 Neut
+A362	Number T6 Sing
+A363	Tense T6 Past
+A364	Aspect T6 Imp
+A365	Voice T6 Act
+A366	VerbForm T6 Part
+A367	VerbForm T9 Part
+A368	Gender T9 Neut
+A369	Number T9 Sing
+A370	Aspect T9 Perf
+A371	Voice T9 Pass
+A372	Case T41 Nom
+A373	PronType T41 Prs
+A374	Number T41 Sing
+A375	Person T41 1
+A376	Animacy T28 Anim
+A377	Mood T28 Ind
+A378	Gender T28 Masc
+A379	Number T28 Sing
+A380	Tense T28 Past
+A381	Aspect T28 Imp
+A382	Voice T28 Act
+A383	VerbForm T28 Part
+A384	Case T27 Ins
+A385	Case T30 Ins
+A386	PronType T30 Prs
+A387	Gender T30 Masc
+A388	Number T30 Sing
+A389	Person T30 3
+A390	PronType T24 Dem
+A391	Case T26 Nom
+A392	PronType T26 Prs
+A393	Gender T26 Masc
+A394	Number T26 Sing
+A395	Person T26 3
+A396	Mood T25 Ind
+A397	Gender T25 Masc
+A398	Number T25 Sing
+A399	Tense T25 Past
+A400	Aspect T25 Imp
+A401	Voice T25 Act
+A402	VerbForm T25 Part
+A403	Case T135 Nom
+A404	PronType T135 Prs
+A405	Gender T135 Masc
+A406	Number T135 Sing
+A407	Person T135 3
+A408	Mood T134 Ind
+A409	Gender T134 Masc
+A410	Number T134 Sing
+A411	Aspect T134 Perf
+A412	Voice T134 Act
+A413	VerbForm T134 Part
+R115	nsubj Arg1:T134 Arg2:T135	
+A414	Case T137 Acc
+A415	Gender T137 Fem
+A416	Number T137 Sing
+R116	dobj Arg1:T134 Arg2:T137	
+R117	punct Arg1:T134 Arg2:T136	
+R118	cc Arg1:T134 Arg2:T139	
+R119	punct Arg1:T134 Arg2:T142	
+A417	PronType T138 Prs
+A418	Gender T138 Masc
+A419	Number T138 Sing
+A420	Person T138 3
+A421	Poss T138
+A422	Case T141 Nom
+A423	Animacy T141 Anim
+A424	Gender T141 Masc
+A425	Number T141 Sing
+R120	det Arg1:T141 Arg2:T138	
+R121	remnant Arg1:T135 Arg2:T141	
+A426	Case T143 Acc
+A427	Animacy T143 Inan
+A428	Gender T143 Masc
+A429	Number T143 Sing
+R122	advmod Arg1:T143 Arg2:T140	
+R123	remnant Arg1:T137 Arg2:T143	
+A430	Case T120 Nom
+A431	Animacy T120 Anim
+A432	Gender T120 Masc
+A433	Number T120 Sing
+R124	cc Arg1:T120 Arg2:T121	
+A434	Case T118 Nom
+A435	Gender T118 Fem
+A436	Number T118 Sing
+R125	conj Arg1:T120 Arg2:T118	
+A437	Mood T119 Ind
+A438	Number T119 Plur
+A439	Tense T119 Past
+A440	Aspect T119 Perf
+A441	Voice T119 Act
+A442	VerbForm T119 Part
+R126	nsubj Arg1:T119 Arg2:T120	
+R127	punct Arg1:T119 Arg2:T116	
+R128	cc Arg1:T119 Arg2:T117	
+A443	PronType T114 Dem
+A444	Mood T115 Ind
+A445	Number T115 Plur
+A446	Tense T115 Past
+A447	Aspect T115 Perf
+A448	Voice T115 Act
+A449	VerbForm T115 Part
+R129	advmod Arg1:T115 Arg2:T114	
+R130	conj Arg1:T119 Arg2:T115	
+A450	Case T122 Gen
+A451	Case T123 Gen
+A452	Gender T123 Fem
+A453	Number T123 Sing
+R131	case Arg1:T123 Arg2:T122	
+R132	nmod Arg1:T115 Arg2:T123	
+R133	punct Arg1:T119 Arg2:T79	
+A454	Case T78 Nom
+A455	PronType T78 Prs
+A456	Gender T78 Fem
+A457	Number T78 Sing
+A458	Person T78 3
+A459	Case T77 Nom
+A460	Degree T77 Pos
+A461	Gender T77 Fem
+A462	Negative T77 Pos
+A463	Number T77 Sing
+R134	nsubj Arg1:T77 Arg2:T78	
+A464	Mood T76 Ind
+A465	Gender T76 Fem
+A466	Number T76 Sing
+A467	Tense T76 Past
+A468	Aspect T76 Imp
+A469	Voice T76 Act
+A470	VerbForm T76 Part
+R135	cop Arg1:T77 Arg2:T76	
+A471	VerbForm T83 Fin
+A472	Voice T83 Act
+A473	Mood T83 Cnd
+R136	aux Arg1:T77 Arg2:T83	
+A474	Voice T82 Act
+A475	Aspect T82 Perf
+A476	VerbForm T82 Inf
+R137	xcomp Arg1:T77 Arg2:T82	
+A477	Case T81 Acc
+A478	Gender T81 Fem
+A479	Number T81 Sing
+R138	dobj Arg1:T82 Arg2:T81	
+R139	punct Arg1:T77 Arg2:T80	
+R140	cc Arg1:T77 Arg2:T75	
+A480	PronType T74 Ind
+A481	Case T43 Acc
+A482	Case T44 Acc
+A483	Animacy T44 Inan
+A484	PronType T44 Dem
+A485	Gender T44 Masc
+A486	Number T44 Sing
+A487	Case T45 Acc
+A488	Animacy T45 Inan
+A489	Gender T45 Masc
+A490	Number T45 Sing
+R141	det Arg1:T45 Arg2:T44	
+R142	case Arg1:T45 Arg2:T43	
+A491	Case T46 Nom
+A492	PronType T46 Prs
+A493	Gender T46 Fem
+A494	Number T46 Sing
+A495	Person T46 3
+A496	Case T47 Acc
+A497	PronType T47 Dem
+A498	Gender T47 Neut
+A499	Number T47 Sing
+A500	Mood T49 Ind
+A501	Gender T49 Fem
+A502	Number T49 Sing
+A503	Tense T49 Past
+A504	Aspect T49 Perf
+A505	Voice T49 Act
+A506	VerbForm T49 Part
+R143	neg Arg1:T49 Arg2:T48	
+R144	dobj Arg1:T49 Arg2:T47	
+R145	nsubj Arg1:T49 Arg2:T46	
+R146	nmod Arg1:T49 Arg2:T45	
+R147	advmod Arg1:T49 Arg2:T74	
+R148	conj Arg1:T77 Arg2:T49	
+R149	punct Arg1:T77 Arg2:T50	

@@ -1,0 +1,209 @@
+1	女孩	_	NOUN	_	_	2	nsubj	6:nsubj	Offset=0-2
+2	给	_	VERB	_	_	5	case	_	Offset=3-4
+3	她	_	PRON	_	_	5	nmod	_	Offset=5-6
+4	的	_	PART	_	_	3	case	_	Offset=7-8
+5	朋友	_	NOUN	_	_	6	iobj	_	Offset=9-11
+6	写	_	VERB	_	_	0	_	_	Offset=12-13
+7	了	_	AUX	_	Tense=Past	6	aux	_	Offset=14-15
+8	一	_	NUM	_	_	10	det	_	Offset=16-17
+9	封	_	X	_	_	8	det	_	Offset=18-19
+10	信	_	NOUN	_	_	6	dobj	_	Offset=20-21
+11	。	_	PUNCT	_	_	6	punct	_	Offset=22-23
+
+1	我	_	PRON	_	Person=1	2	nsubj	_	Offset=24-25
+2	觉得	_	VERB	_	_	0	_	_	Offset=26-28
+3	在	_	AUX	_	_	4	aux	_	Offset=29-30
+4	下雨	_	VERB	_	_	2	ccomp	_	Offset=31-33
+5	。	_	PUNCT	_	_	2	punct	_	Offset=34-35
+
+1	他	_	PROPN	_	_	2	nsubj	_	Offset=36-37
+2	尝试	_	VERB	_	_	0	_	_	Offset=38-40
+3	过	_	AUX	_	Tense=Past	2	aux	_	Offset=41-42
+4	戒烟	_	NOUN	_	_	2	dobj	_	Offset=43-45
+5	和	_	CONJ	_	_	4	cc	_	Offset=46-47
+6	戒酒	_	NOUN	_	_	4	conj	_	Offset=48-50
+7	。	_	PUNCT	_	_	2	punct	_	Offset=51-52
+
+1	你	_	PRON	_	Person=2	3	csubj	_	Offset=53-54
+2	想	_	VERB	_	_	1	nmod	_	Offset=55-56
+3	去	_	VERB	_	_	0	_	_	Offset=57-58
+4	吗	_	ADV	_	_	3	aux	_	Offset=59-60
+5	？	_	PUNCT	_	_	3	punct	_	Offset=61-62
+
+1	山姆	_	NOUN	_	_	3	csubj	_	Offset=63-65
+2	，	_	PUNCT	_	_	1	punct	_	Offset=66-67
+3	开	_	VERB	_	_	0	_	_	Offset=68-69
+4	下	_	AUX	_	_	0	_	_	Offset=70-71
+5	窗	_	NOUN	_	_	3	dobj	_	Offset=72-73
+6	！	_	PUNCT	_	_	3	punct	_	Offset=74-75
+
+1	她	_	PRON	_	Number=Sing|Person=3	0	_	_	Offset=76-77
+2	让	_	Token	_	_	0	_	_	Offset=78-79
+3	她	_	Token	_	_	0	_	_	Offset=80-81
+4	的	_	Token	_	_	0	_	_	Offset=82-83
+5	丈夫	_	Token	_	_	0	_	_	Offset=84-86
+6	去	_	Token	_	_	0	_	_	Offset=87-88
+7	洗	_	Token	_	_	0	_	_	Offset=89-90
+8	车	_	Token	_	_	0	_	_	Offset=91-92
+9	。	_	Token	_	_	0	_	_	Offset=93-94
+
+1	皮特	_	Token	_	_	0	_	_	Offset=95-97
+2	的	_	Token	_	_	0	_	_	Offset=98-99
+3	邻居	_	Token	_	_	0	_	_	Offset=100-102
+4	把	_	Token	_	_	0	_	_	Offset=103-104
+5	篱笆	_	Token	_	_	0	_	_	Offset=105-107
+6	涂	_	Token	_	_	0	_	_	Offset=108-109
+7	成	_	Token	_	_	0	_	_	Offset=110-111
+8	了	_	Token	_	_	0	_	_	Offset=112-113
+9	红色	_	Token	_	_	0	_	_	Offset=114-116
+10	。	_	Token	_	_	0	_	_	Offset=117-118
+
+1	我	_	PRON	_	Case=Gen|Person=1	0	_	_	Offset=119-120
+2	爸爸	_	NOUN	_	_	0	_	_	Offset=121-123
+3	比	_	Token	_	_	0	_	_	Offset=124-125
+4	你	_	PRON	_	Case=Gen|Number=Sing|Person=2	0	_	_	Offset=126-127
+5	爸爸	_	NOUN	_	_	0	_	_	Offset=128-130
+6	酷	_	Token	_	_	0	_	_	Offset=131-132
+7	。	_	Token	_	_	0	_	_	Offset=133-134
+
+1	玛丽	_	Token	_	_	0	_	_	Offset=135-137
+2	赢得	_	Token	_	_	0	_	_	Offset=138-140
+3	了	_	Token	_	_	0	_	_	Offset=141-142
+4	铜牌	_	Token	_	_	0	_	_	Offset=143-145
+5	，	_	Token	_	_	0	_	_	Offset=146-147
+6	皮特	_	Token	_	_	0	_	_	Offset=148-150
+7	银牌	_	Token	_	_	0	_	_	Offset=151-153
+8	，	_	Token	_	_	0	_	_	Offset=154-155
+9	珍	_	Token	_	_	0	_	_	Offset=156-157
+10	金牌	_	Token	_	_	0	_	_	Offset=158-160
+11	。	_	Token	_	_	0	_	_	Offset=161-162
+
+1	伊瓜苏	_	Token	_	_	0	_	_	Offset=163-166
+2	是	_	Token	_	_	0	_	_	Offset=167-168
+3	一	_	Token	_	_	0	_	_	Offset=169-170
+4	个	_	Token	_	_	0	_	_	Offset=171-172
+5	大	_	Token	_	_	0	_	_	Offset=173-174
+6	国	_	Token	_	_	0	_	_	Offset=175-176
+7	还是	_	Token	_	_	0	_	_	Offset=177-179
+8	小	_	Token	_	_	0	_	_	Offset=180-181
+9	国	_	Token	_	_	0	_	_	Offset=182-183
+10	？	_	Token	_	_	0	_	_	Offset=184-185
+
+1	皮特·史密斯	_	Token	_	_	0	_	_	Offset=186-192
+2	和	_	Token	_	_	0	_	_	Offset=193-194
+3	玛丽·布朗	_	Token	_	_	0	_	_	Offset=195-200
+4	都	_	Token	_	_	0	_	_	Offset=201-202
+5	不	_	Token	_	_	0	_	_	Offset=203-204
+6	会	_	Token	_	_	0	_	_	Offset=205-206
+7	被	_	Token	_	_	0	_	_	Offset=207-208
+8	选	_	Token	_	_	0	_	_	Offset=209-210
+9	上	_	Token	_	_	0	_	_	Offset=211-212
+10	。	_	Token	_	_	0	_	_	Offset=213-214
+
+1	他们	_	Token	_	_	0	_	_	Offset=215-217
+2	不	_	Token	_	_	0	_	_	Offset=218-219
+3	知道	_	Token	_	_	0	_	_	Offset=220-222
+4	是	_	Token	_	_	0	_	_	Offset=223-224
+5	谁	_	Token	_	_	0	_	_	Offset=225-226
+6	写	_	Token	_	_	0	_	_	Offset=227-228
+7	的	_	Token	_	_	0	_	_	Offset=229-230
+8	。	_	Token	_	_	0	_	_	Offset=231-232
+
+1	你	_	Token	_	_	0	_	_	Offset=233-234
+2	在	_	Token	_	_	0	_	_	Offset=235-236
+3	看	_	Token	_	_	0	_	_	Offset=237-238
+4	什么	_	Token	_	_	0	_	_	Offset=239-241
+5	？	_	Token	_	_	0	_	_	Offset=242-243
+
+1	你	_	Token	_	_	0	_	_	Offset=244-245
+2	觉得	_	Token	_	_	0	_	_	Offset=246-248
+3	你	_	Token	_	_	0	_	_	Offset=249-250
+4	什么	_	Token	_	_	0	_	_	Offset=251-253
+5	时候	_	Token	_	_	0	_	_	Offset=254-256
+6	能	_	Token	_	_	0	_	_	Offset=257-258
+7	来	_	Token	_	_	0	_	_	Offset=259-260
+8	？	_	Token	_	_	0	_	_	Offset=261-262
+
+1	他	_	Token	_	_	0	_	_	Offset=263-264
+2	买	_	Token	_	_	0	_	_	Offset=265-266
+3	了	_	Token	_	_	0	_	_	Offset=267-268
+4	一	_	Token	_	_	0	_	_	Offset=269-270
+5	辆	_	Token	_	_	0	_	_	Offset=271-272
+6	车	_	Token	_	_	0	_	_	Offset=273-274
+7	，	_	Token	_	_	0	_	_	Offset=275-276
+8	但	_	Token	_	_	0	_	_	Offset=277-278
+9	他	_	Token	_	_	0	_	_	Offset=279-280
+10	的	_	Token	_	_	0	_	_	Offset=281-282
+11	兄弟	_	Token	_	_	0	_	_	Offset=283-285
+12	只	_	Token	_	_	0	_	_	Offset=286-287
+13	买	_	Token	_	_	0	_	_	Offset=288-289
+14	了	_	Token	_	_	0	_	_	Offset=290-291
+15	一	_	Token	_	_	0	_	_	Offset=292-293
+16	辆	_	Token	_	_	0	_	_	Offset=294-295
+17	自行车	_	Token	_	_	0	_	_	Offset=296-299
+18	。	_	Token	_	_	0	_	_	Offset=300-301
+
+1	皮特	_	NOUN	_	_	0	_	_	Offset=302-304
+2	和	_	Token	_	_	0	_	_	Offset=305-306
+3	玛丽	_	NOUN	_	_	0	_	_	Offset=307-309
+4	互相	_	Token	_	_	0	_	_	Offset=310-312
+5	拥抱	_	Token	_	_	0	_	_	Offset=313-315
+6	后	_	Token	_	_	0	_	_	Offset=316-317
+7	离开	_	Token	_	_	0	_	_	Offset=318-320
+8	了	_	Token	_	_	0	_	_	Offset=321-322
+9	房间	_	Token	_	_	0	_	_	Offset=323-325
+10	。	_	Token	_	_	0	_	_	Offset=326-327
+
+1	那天	_	Token	_	_	0	_	_	Offset=328-330
+2	她	_	Token	_	_	0	_	_	Offset=331-332
+3	本	_	Token	_	_	0	_	_	Offset=333-334
+4	应该	_	Token	_	_	0	_	_	Offset=335-337
+5	在	_	Token	_	_	0	_	_	Offset=338-339
+6	做	_	Token	_	_	0	_	_	Offset=340-341
+7	头发	_	Token	_	_	0	_	_	Offset=342-344
+8	，	_	Token	_	_	0	_	_	Offset=345-346
+9	却	_	Token	_	_	0	_	_	Offset=347-348
+10	因故	_	Token	_	_	0	_	_	Offset=349-351
+11	没有	_	Token	_	_	0	_	_	Offset=352-354
+12	去	_	Token	_	_	0	_	_	Offset=355-356
+13	。	_	Token	_	_	0	_	_	Offset=357-358
+
+1	我	_	Token	_	_	0	_	_	Offset=359-360
+2	没	_	Token	_	_	0	_	_	Offset=361-362
+3	办法	_	Token	_	_	0	_	_	Offset=363-365
+4	跟	_	Token	_	_	0	_	_	Offset=366-367
+5	上	_	Token	_	_	0	_	_	Offset=368-369
+6	，	_	Token	_	_	0	_	_	Offset=370-371
+7	因为	_	Token	_	_	0	_	_	Offset=372-374
+8	他	_	Token	_	_	0	_	_	Offset=375-376
+9	跑	_	Token	_	_	0	_	_	Offset=377-378
+10	得	_	Token	_	_	0	_	_	Offset=379-380
+11	太	_	Token	_	_	0	_	_	Offset=381-382
+12	快	_	Token	_	_	0	_	_	Offset=383-384
+13	了	_	Token	_	_	0	_	_	Offset=385-386
+14	。	_	Token	_	_	0	_	_	Offset=387-388
+
+1	这	_	Token	_	_	0	_	_	Offset=389-390
+2	封	_	Token	_	_	0	_	_	Offset=391-392
+3	信	_	Token	_	_	0	_	_	Offset=393-394
+4	来自	_	Token	_	_	0	_	_	Offset=395-397
+5	皮特	_	Token	_	_	0	_	_	Offset=398-400
+6	，	_	Token	_	_	0	_	_	Offset=401-402
+7	它	_	Token	_	_	0	_	_	Offset=403-404
+8	是	_	Token	_	_	0	_	_	Offset=405-406
+9	昨天	_	Token	_	_	0	_	_	Offset=407-409
+10	寄	_	Token	_	_	0	_	_	Offset=410-411
+11	到	_	Token	_	_	0	_	_	Offset=412-413
+12	的	_	Token	_	_	0	_	_	Offset=414-415
+13	。	_	Token	_	_	0	_	_	Offset=416-417
+
+1	她	_	Token	_	_	0	_	_	Offset=418-419
+2	在	_	Token	_	_	0	_	_	Offset=420-421
+3	巴黎	_	Token	_	_	0	_	_	Offset=422-424
+4	——	_	Token	_	_	0	_	_	Offset=425-427
+5	法国	_	Token	_	_	0	_	_	Offset=428-430
+6	的	_	Token	_	_	0	_	_	Offset=431-432
+7	首都	_	Token	_	_	0	_	_	Offset=433-435
+8	长大	_	Token	_	_	0	_	_	Offset=436-438
+9	。	_	Token	_	_	0	_	_	Offset=439-440
+

@@ -1,0 +1,187 @@
+1	Meitene	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Offset=0-7
+2	uzrakstīja	_	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=8-18
+3	vēstuli	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	dobj	_	Offset=19-26
+4	savai	_	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=|PronType=Prs|Reflex=	5	det	_	Offset=27-32
+5	draudzenei	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	Offset=33-43
+6	.	_	PUNCT	_	_	2	punct	_	Offset=44-45
+
+1	Man	_	Token	_	_	0	_	_	Offset=46-49
+2	šķiet	_	Token	_	_	0	_	_	Offset=50-55
+3	,	_	Token	_	_	0	_	_	Offset=56-57
+4	ka	_	Token	_	_	0	_	_	Offset=58-60
+5	līst	_	Token	_	_	0	_	_	Offset=61-65
+6	lietus	_	Token	_	_	0	_	_	Offset=66-72
+7	.	_	Token	_	_	0	_	_	Offset=73-74
+
+1	Viņš	_	Token	_	_	0	_	_	Offset=75-79
+2	centās	_	Token	_	_	0	_	_	Offset=80-86
+3	atmest	_	Token	_	_	0	_	_	Offset=87-93
+4	smēķēšanu	_	Token	_	_	0	_	_	Offset=94-103
+5	un	_	Token	_	_	0	_	_	Offset=104-106
+6	dzeršanu	_	Token	_	_	0	_	_	Offset=107-115
+7	.	_	Token	_	_	0	_	_	Offset=116-117
+
+1	Vai	_	Token	_	_	0	_	_	Offset=118-121
+2	tu	_	Token	_	_	0	_	_	Offset=122-124
+3	gribi	_	Token	_	_	0	_	_	Offset=125-130
+4	iet	_	Token	_	_	0	_	_	Offset=131-134
+5	?	_	Token	_	_	0	_	_	Offset=135-136
+
+1	Sem	_	Token	_	_	0	_	_	Offset=137-140
+2	,	_	Token	_	_	0	_	_	Offset=141-142
+3	atver	_	Token	_	_	0	_	_	Offset=143-148
+4	logu	_	Token	_	_	0	_	_	Offset=149-153
+5	!	_	Token	_	_	0	_	_	Offset=154-155
+
+1	Viņa	_	Token	_	_	0	_	_	Offset=156-160
+2	lika	_	Token	_	_	0	_	_	Offset=161-165
+3	savam	_	Token	_	_	0	_	_	Offset=166-171
+4	vīram	_	Token	_	_	0	_	_	Offset=172-177
+5	nomazgāt	_	Token	_	_	0	_	_	Offset=178-186
+6	mašīnu	_	Token	_	_	0	_	_	Offset=187-193
+7	.	_	Token	_	_	0	_	_	Offset=194-195
+
+1	Pētera	_	Token	_	_	0	_	_	Offset=196-202
+2	kaimiņi	_	Token	_	_	0	_	_	Offset=203-210
+3	nokrāsoja	_	Token	_	_	0	_	_	Offset=211-220
+4	žogu	_	Token	_	_	0	_	_	Offset=221-225
+5	sarkanā	_	Token	_	_	0	_	_	Offset=226-233
+6	krāsā	_	Token	_	_	0	_	_	Offset=234-239
+7	.	_	Token	_	_	0	_	_	Offset=240-241
+
+1	Mans	_	Token	_	_	0	_	_	Offset=242-246
+2	tētis	_	Token	_	_	0	_	_	Offset=247-252
+3	ir	_	Token	_	_	0	_	_	Offset=253-255
+4	foršāks	_	Token	_	_	0	_	_	Offset=256-263
+5	nekā	_	Token	_	_	0	_	_	Offset=264-268
+6	tavs	_	Token	_	_	0	_	_	Offset=269-273
+7	.	_	Token	_	_	0	_	_	Offset=274-275
+
+1	Marija	_	Token	_	_	0	_	_	Offset=276-282
+2	valkā	_	Token	_	_	0	_	_	Offset=283-288
+3	bronzu	_	Token	_	_	0	_	_	Offset=289-295
+4	,	_	Token	_	_	0	_	_	Offset=296-297
+5	Pēteris	_	Token	_	_	0	_	_	Offset=298-305
+6	sudrabu	_	Token	_	_	0	_	_	Offset=306-313
+7	un	_	Token	_	_	0	_	_	Offset=314-316
+8	Džeina	_	Token	_	_	0	_	_	Offset=317-323
+9	zeltu	_	Token	_	_	0	_	_	Offset=324-329
+10	.	_	Token	_	_	0	_	_	Offset=330-331
+
+1	Vai	_	Token	_	_	0	_	_	Offset=332-335
+2	Igauza	_	Token	_	_	0	_	_	Offset=336-342
+3	ir	_	Token	_	_	0	_	_	Offset=343-345
+4	liela	_	Token	_	_	0	_	_	Offset=346-351
+5	vai	_	Token	_	_	0	_	_	Offset=352-355
+6	maza	_	Token	_	_	0	_	_	Offset=356-360
+7	valsts	_	Token	_	_	0	_	_	Offset=361-367
+8	?	_	Token	_	_	0	_	_	Offset=368-369
+
+1	Nedz	_	Token	_	_	0	_	_	Offset=370-374
+2	Pēteris	_	Token	_	_	0	_	_	Offset=375-382
+3	Smits	_	Token	_	_	0	_	_	Offset=383-388
+4	,	_	Token	_	_	0	_	_	Offset=389-390
+5	nedz	_	Token	_	_	0	_	_	Offset=391-395
+6	Marija	_	Token	_	_	0	_	_	Offset=396-402
+7	Brauna	_	Token	_	_	0	_	_	Offset=403-409
+8	nevarēja	_	Token	_	_	0	_	_	Offset=410-418
+9	tikt	_	Token	_	_	0	_	_	Offset=419-423
+10	izvēlēti	_	Token	_	_	0	_	_	Offset=424-432
+11	.	_	Token	_	_	0	_	_	Offset=433-434
+
+1	Viņiem	_	Token	_	_	0	_	_	Offset=435-441
+2	nav	_	Token	_	_	0	_	_	Offset=442-445
+3	ne	_	Token	_	_	0	_	_	Offset=446-448
+4	jausmas	_	Token	_	_	0	_	_	Offset=449-456
+5	,	_	Token	_	_	0	_	_	Offset=457-458
+6	kas	_	Token	_	_	0	_	_	Offset=459-462
+7	to	_	Token	_	_	0	_	_	Offset=463-465
+8	uzrakstīja	_	Token	_	_	0	_	_	Offset=466-476
+9	.	_	Token	_	_	0	_	_	Offset=477-478
+
+1	Uz	_	Token	_	_	0	_	_	Offset=479-481
+2	ko	_	Token	_	_	0	_	_	Offset=482-484
+3	tu	_	Token	_	_	0	_	_	Offset=485-487
+4	skaties	_	Token	_	_	0	_	_	Offset=488-495
+5	?	_	Token	_	_	0	_	_	Offset=496-497
+
+1	Kā	_	Token	_	_	0	_	_	Offset=498-500
+2	tu	_	Token	_	_	0	_	_	Offset=501-503
+3	domā	_	Token	_	_	0	_	_	Offset=504-508
+4	,	_	Token	_	_	0	_	_	Offset=509-510
+5	kad	_	Token	_	_	0	_	_	Offset=511-514
+6	tu	_	Token	_	_	0	_	_	Offset=515-517
+7	varēsi	_	Token	_	_	0	_	_	Offset=518-524
+8	atnākt	_	Token	_	_	0	_	_	Offset=525-531
+9	?	_	Token	_	_	0	_	_	Offset=532-533
+
+1	Viņš	_	Token	_	_	0	_	_	Offset=534-538
+2	nopirka	_	Token	_	_	0	_	_	Offset=539-546
+3	mašīnu	_	Token	_	_	0	_	_	Offset=547-553
+4	,	_	Token	_	_	0	_	_	Offset=554-555
+5	bet	_	Token	_	_	0	_	_	Offset=556-559
+6	viņa	_	Token	_	_	0	_	_	Offset=560-564
+7	brālis	_	Token	_	_	0	_	_	Offset=565-571
+8	tikai	_	Token	_	_	0	_	_	Offset=572-577
+9	velosipēdu	_	Token	_	_	0	_	_	Offset=578-588
+10	.	_	Token	_	_	0	_	_	Offset=589-590
+
+1	Pēteris	_	Token	_	_	0	_	_	Offset=591-598
+2	un	_	Token	_	_	0	_	_	Offset=599-601
+3	Marija	_	Token	_	_	0	_	_	Offset=602-608
+4	apskāva	_	Token	_	_	0	_	_	Offset=609-616
+5	viens	_	Token	_	_	0	_	_	Offset=617-622
+6	otru	_	Token	_	_	0	_	_	Offset=623-627
+7	un	_	Token	_	_	0	_	_	Offset=628-630
+8	tad	_	Token	_	_	0	_	_	Offset=631-634
+9	atstāja	_	Token	_	_	0	_	_	Offset=635-642
+10	istabu	_	Token	_	_	0	_	_	Offset=643-649
+11	.	_	Token	_	_	0	_	_	Offset=650-651
+
+1	Viņai	_	Token	_	_	0	_	_	Offset=652-657
+2	vajadzēj	_	Token	_	_	0	_	_	Offset=658-666
+3	apmeklēt	_	Token	_	_	0	_	_	Offset=667-675
+4	frizieri	_	Token	_	_	0	_	_	Offset=676-684
+5	,	_	Token	_	_	0	_	_	Offset=685-686
+6	bet	_	Token	_	_	0	_	_	Offset=687-690
+7	kaut	_	Token	_	_	0	_	_	Offset=691-695
+8	kādu	_	Token	_	_	0	_	_	Offset=696-700
+9	iemeslu	_	Token	_	_	0	_	_	Offset=701-708
+10	dēl	_	Token	_	_	0	_	_	Offset=709-712
+11	viņa	_	Token	_	_	0	_	_	Offset=713-717
+12	todien	_	Token	_	_	0	_	_	Offset=718-724
+13	nevarēja	_	Token	_	_	0	_	_	Offset=725-733
+14	.	_	Token	_	_	0	_	_	Offset=734-735
+
+1	Es	_	Token	_	_	0	_	_	Offset=736-738
+2	nevarēju	_	Token	_	_	0	_	_	Offset=739-747
+3	viņam	_	Token	_	_	0	_	_	Offset=748-753
+4	tikt	_	Token	_	_	0	_	_	Offset=754-758
+5	līdzi	_	Token	_	_	0	_	_	Offset=759-764
+6	,	_	Token	_	_	0	_	_	Offset=765-766
+7	jo	_	Token	_	_	0	_	_	Offset=767-769
+8	viņš	_	Token	_	_	0	_	_	Offset=770-774
+9	skrēja	_	Token	_	_	0	_	_	Offset=775-781
+10	pārāk	_	Token	_	_	0	_	_	Offset=782-787
+11	ātri	_	Token	_	_	0	_	_	Offset=788-792
+12	.	_	Token	_	_	0	_	_	Offset=793-794
+
+1	Šī	_	Token	_	_	0	_	_	Offset=795-797
+2	vēstule	_	Token	_	_	0	_	_	Offset=798-805
+3	ir	_	Token	_	_	0	_	_	Offset=806-808
+4	no	_	Token	_	_	0	_	_	Offset=809-811
+5	Pētera	_	Token	_	_	0	_	_	Offset=812-818
+6	un	_	Token	_	_	0	_	_	Offset=819-821
+7	tika	_	Token	_	_	0	_	_	Offset=822-826
+8	piegādāta	_	Token	_	_	0	_	_	Offset=827-836
+9	vakar	_	Token	_	_	0	_	_	Offset=837-842
+10	.	_	Token	_	_	0	_	_	Offset=843-844
+
+1	Viņa	_	Token	_	_	0	_	_	Offset=845-849
+2	uzauga	_	Token	_	_	0	_	_	Offset=850-856
+3	Parīzē	_	Token	_	_	0	_	_	Offset=857-863
+4	,	_	Token	_	_	0	_	_	Offset=864-865
+5	Francijas	_	Token	_	_	0	_	_	Offset=866-875
+6	galvaspilsētā	_	Token	_	_	0	_	_	Offset=876-889
+7	.	_	Token	_	_	0	_	_	Offset=890-891
+

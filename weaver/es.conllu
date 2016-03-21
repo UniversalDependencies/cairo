@@ -1,0 +1,205 @@
+1	La	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Offset=0-2
+2	chica	_	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Offset=3-8
+3	escribió	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=9-17
+4	una	_	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Offset=18-21
+5	carta	_	NOUN	_	Gender=Fem|Number=Sing	3	dobj	_	Offset=22-27
+6	a	_	ADP	_	_	8	case	_	Offset=28-29
+7	su	_	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=|PronType=Prs	8	det	_	Offset=30-32
+8	amiga	_	NOUN	_	Gender=Fem|Number=Sing	3	iobj	_	Offset=33-38
+9	.	_	PUNCT	_	_	3	punct	_	Offset=39-40
+
+1	Creo	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=41-45
+2	que	_	SCONJ	_	_	4	mark	_	Offset=46-49
+3	está	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	Offset=50-54
+4	lloviendo	_	VERB	_	Aspect=Prog|Tense=Pres|VerbForm=Part|Voice=Act	1	ccomp	_	Offset=55-64
+5	.	_	PUNCT	_	_	1	punct	_	Offset=65-66
+
+1	(El)	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=67-71
+2	intentó	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=72-79
+3	parar	_	AUX	_	VerbForm=Inf|Voice=Act	2	xcomp	_	Offset=80-85
+4	de	_	ADP	_	_	3	mwe	_	Offset=86-88
+5	fumar	_	VERB	_	VerbForm=Inf|Voice=Act	3	xcomp	_	Offset=89-94
+6	y	_	CONJ	_	_	5	cc	_	Offset=95-96
+7	de	_	ADP	_	_	4	remnant	3:mwe	Offset=97-99
+8	beber	_	VERB	_	VerbForm=Inf|Voice=Act	5	remnant	3:xcomp|5:conj	Offset=100-105
+9	.	_	PUNCT	_	_	2	punct	_	Offset=106-107
+
+1	¿	_	PUNCT	_	_	3	punct	_	Offset=108-109
+2	Quieres	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	Offset=110-117
+3	ir	_	VERB	_	VerbForm=Inf|Voice=Act	0	_	_	Offset=118-120
+4	?	_	PUNCT	_	_	3	punct	_	Offset=121-122
+
+1	Sam	_	PROPN	_	Number=Sing	4	nsubj	4:vocative	Offset=123-126
+2	,	_	PUNCT	_	_	4	punct	_	Offset=127-128
+3	¡	_	PUNCT	_	_	4	punct	_	Offset=129-130
+4	abre	_	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	_	_	Offset=130-134
+5	la	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Offset=135-137
+6	ventana	_	NOUN	_	Gender=Fem|Number=Sing	4	dobj	_	Offset=138-145
+7	!	_	PUNCT	_	_	4	punct	_	Offset=146-147
+
+1	Ella	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=148-152
+2	obligó	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=153-159
+3	a	_	ADP	_	_	5	case	_	Offset=160-161
+4	su	_	PRON	_	Gender=Fem|Number=Sing|Person=3|Poss=|PronType=Prs	5	det	_	Offset=162-164
+5	marido	_	NOUN	_	Gender=Masc|Number=Sing	2	dobj	_	Offset=165-171
+6	a	_	ADP	_	_	7	case	_	Offset=172-173
+7	lavar	_	VERB	_	VerbForm=Inf|Voice=Act	2	xcomp	_	Offset=174-179
+8	el	_	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Offset=180-182
+9	coche	_	NOUN	_	Gender=Masc|Number=Sing	7	dobj	_	Offset=183-188
+10	.	_	PUNCT	_	_	2	punct	_	Offset=189-190
+
+1	El	_	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Offset=191-193
+2	vecino	_	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Offset=194-200
+3	de	_	ADP	_	_	4	case	_	Offset=201-203
+4	Peter	_	PROPN	_	Gender=Masc|Number=Sing	2	nmod	_	Offset=204-209
+5	pintó	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=210-215
+6	la	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Offset=216-218
+7	valla	_	NOUN	_	Gender=Fem|Number=Sing	0	_	_	Offset=219-224
+8	de	_	ADP	_	_	9	case	_	Offset=225-227
+9	rojo	_	NOUN	_	Gender=Masc|Number=Sing	5	xcomp	_	Offset=228-232
+10	.	_	PUNCT	_	_	5	punct	_	Offset=233-234
+
+1	Mi	_	PRON	_	Gender=Masc|Number=Sing|Person=1|Poss=|PronType=Prs	2	det	_	Offset=235-237
+2	papa	_	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Offset=238-242
+3	es	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Offset=243-245
+4	más	_	ADV	_	Degree=Cmp	5	advmod	_	Offset=246-249
+5	chulo	_	ADJ	_	Degree=Cmp|Gender=Masc|Number=Sing	0	_	_	Offset=250-255
+6	que	_	SCONJ	_	_	8	mark	_	Offset=256-259
+7	el	_	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Offset=260-262
+8	tuyo	_	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=|PronType=Prs	5	advcl	_	Offset=263-267
+9	.	_	PUNCT	_	_	5	punct	_	Offset=268-269
+
+1	María	_	PROPN	_	Gender=Fem|Number=Sing	2	nsubj	_	Offset=270-275
+2	ganó	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=276-280
+3	el	_	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Offset=281-283
+4	bronce	_	NOUN	_	Gender=Masc|Number=Sing	2	dobj	_	Offset=284-290
+5	,	_	PUNCT	_	_	4	punct	_	Offset=291-292
+6	Peter	_	PROPN	_	Gender=Masc|Number=Sing	1	remnant	_	Offset=293-298
+7	la	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Offset=299-301
+8	plata	_	NOUN	_	Gender=Fem|Number=Sing	4	remnant	4:conj	Offset=302-307
+9	y	_	CONJ	_	_	4	cc	_	Offset=308-309
+10	Jane	_	PROPN	_	Gender=Fem|Number=Sing	6	remnant	11:det	Offset=310-314
+11	el	_	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	_	_	Offset=315-317
+12	oro	_	NOUN	_	Gender=Masc|Number=Sing	8	remnant	4:conj	Offset=318-321
+13	.	_	PUNCT	_	_	2	punct	_	Offset=322-323
+
+1	¿	_	PUNCT	_	_	5	punct	_	Offset=324-325
+2	Iguazú	_	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	Offset=326-332
+3	es	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Offset=333-335
+4	un	_	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Offset=336-338
+5	país	_	NOUN	_	Gender=Masc|Number=Sing	0	_	_	Offset=339-343
+6	grande	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	Offset=344-350
+7	o	_	CONJ	_	_	6	cc	_	Offset=351-352
+8	pequeño	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	6	conj	5:amod	Offset=353-360
+9	?	_	PUNCT	_	_	5	punct	_	Offset=361-362
+
+1	Ni	_	CONJ	_	_	2	cc	_	Offset=363-365
+2	Peter	_	PROPN	_	Gender=Masc|Number=Sing	7	nsubjpass	_	Offset=366-371
+3	Smith	_	PROPN	_	_	2	name	_	Offset=372-377
+4	ni	_	CONJ	_	_	2	cc	_	Offset=378-380
+5	Mary	_	PROPN	_	Gender=Fem|Number=Sing	2	conj	7:nsubjpass	Offset=381-385
+6	Brown	_	PROPN	_	_	5	name	_	Offset=386-391
+7	podían	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	9	aux	_	Offset=392-398
+8	ser	_	VERB	_	VerbForm=Inf|Voice=Pass	9	auxpass	_	Offset=399-402
+9	elegidos	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	_	_	Offset=403-411
+10	.	_	PUNCT	_	_	9	punct	_	Offset=412-413
+
+1	No	_	ADV	_	Negative=Neg	2	neg	_	Offset=414-416
+2	tienen	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=417-423
+3	ni	_	CONJ	_	_	2	expl	_	Offset=424-426
+4	idea	_	NOUN	_	Gender=Fem|Number=Sing	2	dobj	_	Offset=427-431
+5	de	_	ADP	_	_	8	mark	_	Offset=432-434
+6	quién	_	PRON	_	Number=Sing|PronType=Int	8	nsubj	_	Offset=435-440
+7	lo	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	dobj	_	Offset=441-443
+8	escribió	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Offset=444-452
+9	.	_	PUNCT	_	_	2	punct	_	Offset=453-454
+
+1	¿	_	PUNCT	_	_	3	punct	_	Offset=455-456
+2	Qué	_	ADV	_	PronType=Int	3	dobj	_	Offset=457-460
+3	estás	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=461-466
+4	mirando	_	VERB	_	Aspect=Pro|VerbForm=Ger|Voice=Act	3	aux	_	Offset=467-474
+5	?	_	PUNCT	_	_	3	punct	_	Offset=475-476
+
+1	¿	_	PUNCT	_	_	3	punct	_	Offset=477-478
+2	Cuándo	_	PRON	_	PronType=Int	6	advmod	_	Offset=479-485
+3	crees	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=486-491
+4	que	_	SCONJ	_	_	6	mark	_	Offset=492-495
+5	podrías	_	AUX	_	Aspect=Imp|Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	6	aux	_	Offset=496-503
+6	venir	_	VERB	_	VerbForm=Inf|Voice=Act	3	xcomp	_	Offset=504-509
+7	?	_	PUNCT	_	_	3	punct	_	Offset=510-511
+
+1	Él	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=512-514
+2	compró	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=515-521
+3	un	_	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Offset=522-524
+4	coche	_	NOUN	_	Gender=Masc|Number=Sing	2	dobj	_	Offset=525-530
+5	pero	_	CONJ	_	_	4	cc	_	Offset=531-535
+6	su	_	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=|PronType=Prs	7	det	_	Offset=536-538
+7	hermano	_	NOUN	_	Gender=Masc|Number=Sing	1	remnant	_	Offset=539-546
+8	sólo	_	ADV	_	_	10	advmod	_	Offset=547-551
+9	una	_	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Offset=552-555
+10	bicicleta	_	NOUN	_	Gender=Fem|Number=Sing	4	remnant	4:conj	Offset=556-565
+11	.	_	PUNCT	_	_	2	punct	_	Offset=566-567
+
+1	Peter	_	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	Offset=568-573
+2	y	_	CONJ	_	_	1	cc	_	Offset=574-575
+3	Mary	_	PROPN	_	Gender=Fem|Number=Sing	1	conj	5:nsubj	Offset=576-580
+4	se	_	PRON	_	Number=Plur|Person=3|PronType=Rcp	5	compound	_	Offset=581-583
+5	abrazaron	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=584-593
+6	y	_	CONJ	_	_	5	cc	_	Offset=594-595
+7	después	_	ADV	_	_	8	advmod	_	Offset=596-603
+8	salieron	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Offset=604-612
+9	de	_	ADP	_	_	11	case	_	Offset=613-615
+10	la	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Offset=616-618
+11	habitación	_	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	Offset=619-629
+12	.	_	PUNCT	_	_	5	punct	_	Offset=630-631
+
+1	Ella	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=632-636
+2	debería	_	AUX	_	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	aux	_	Offset=637-644
+3	haber	_	AUX	_	VerbForm=Inf|Voice=Act	4	aux	_	Offset=645-650
+4	estado	_	AUX	_	Aspect=Perf|VerbForm=Part|Voice=Act	5	aux	_	Offset=651-657
+5	peinándo	_	VERB	_	Aspect=Prog|VerbForm=Ger|Voice=Act	0	_	_	Offset=658-666
+6	se	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rcp	5	ccomp	_	Offset=666-668
+7	pero	_	CONJ	_	_	5	cc	_	Offset=669-673
+8	por	_	ADP	_	_	10	case	_	Offset=674-677
+9	alguna	_	DET	_	Definite=Ind|Gender=Fem|Number=Sing	10	det	_	Offset=678-684
+10	razón	_	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	Offset=685-690
+11	desconocida	_	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	10	amod	_	Offset=691-702
+12	ese	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	Offset=703-706
+13	día	_	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	Offset=707-710
+14	no	_	ADV	_	Negative=Neg	16	neg	_	Offset=711-713
+15	lo	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	dobj	_	Offset=714-716
+16	hizo	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Offset=717-721
+17	.	_	PUNCT	_	_	5	punct	_	Offset=722-723
+
+1	No	_	ADV	_	Negative=Neg	2	neg	_	Offset=724-726
+2	pude	_	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	Offset=727-731
+3	mantener	_	VERB	_	VerbForm=Inf|Voice=Act	0	_	_	Offset=732-740
+4	el	_	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Offset=741-743
+5	ritmo	_	NOUN	_	Gender=Masc|Number=Sing	3	dobj	_	Offset=744-749
+6	porque	_	SCONJ	_	_	7	mark	_	Offset=750-756
+7	corrió	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	Offset=757-763
+8	demasiado	_	ADV	_	_	9	advmod	_	Offset=764-773
+9	deprisa	_	ADV	_	_	7	advmod	_	Offset=774-781
+10	.	_	PUNCT	_	_	3	punct	_	Offset=782-783
+
+1	Esta	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	Offset=784-788
+2	carta	_	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Offset=789-794
+3	es	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=795-797
+4	de	_	ADP	_	_	5	case	_	Offset=798-800
+5	Peter	_	PROPN	_	Gender=Masc|Number=Sing	3	nmod	_	Offset=801-806
+6	y	_	CONJ	_	_	3	cc	_	Offset=807-808
+7	llegó	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Offset=809-814
+8	ayer	_	ADV	_	_	7	advmod	_	Offset=815-819
+9	.	_	PUNCT	_	_	3	punct	_	Offset=820-821
+
+1	Ella	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=822-826
+2	creció	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=827-833
+3	en	_	ADP	_	_	4	case	_	Offset=834-836
+4	París	_	PROPN	_	Gender=Masc|Number=Sing	2	nmod	_	Offset=837-842
+5	,	_	PUNCT	_	_	7	punct	_	Offset=843-844
+6	la	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Offset=845-847
+7	capital	_	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	Offset=848-855
+8	de	_	ADP	_	_	9	case	_	Offset=856-858
+9	Francia	_	PROPN	_	Gender=Fem|Number=Sing	7	nmod	_	Offset=859-866
+10	.	_	PUNCT	_	_	2	punct	_	Offset=867-868
+

@@ -1,0 +1,194 @@
+T1	Token 734 736	in
+T2	Token 737 739	je
+T3	Token 725 727	od
+T4	Token 728 733	Petra
+T5	Token 753 759	včeraj
+T6	Token 760 761	.
+T7	Token 740 744	bilo
+T8	Token 745 752	vročeno
+T9	Token 762 769	Odrasla
+T10	Token 770 772	je
+T11	Token 354 359	Smith
+T12	Token 360 364	niti
+T13	Token 343 347	Niti
+T14	Token 348 353	Peter
+T15	Token 376 381	nista
+T16	Token 382 387	mogla
+T17	Token 365 369	Mary
+T18	Token 370 375	Brown
+T19	Token 388 392	biti
+T20	Token 393 400	izbrana
+T21	Token 722 724	je
+T22	Token 716 721	pismo
+T23	Token 703 708	tekel
+T24	Token 694 702	prehitro
+T25	Token 711 715	Tole
+T26	Token 709 710	.
+T27	Token 685 686	,
+T28	Token 676 684	dohajati
+T29	Token 691 693	je
+T30	Token 687 690	ker
+T31	Token 438 441	Kaj
+T32	Token 436 437	.
+T33	Token 428 435	napisal
+T34	Token 425 427	to
+T35	Token 422 424	je
+T36	Token 418 421	kdo
+T37	Token 416 417	,
+T38	Token 409 415	nimajo
+T39	Token 403 408	Pojma
+T40	Token 401 402	.
+T41	Token 667 669	ga
+T42	Token 670 675	mogel
+T43	Token 628 630	iz
+T44	Token 631 637	nekega
+T45	Token 638 645	razloga
+T46	Token 646 651	tisti
+T47	Token 652 655	dan
+T48	Token 656 658	ni
+T49	Token 659 660	.
+T50	Token 661 666	Nisem
+T51	Token 75 84	prenehati
+T52	Token 85 91	kaditi
+T53	Token 92 94	in
+T54	Token 95 99	piti
+T55	Token 53 59	dežuje
+T56	Token 60 61	.
+T57	Token 62 71	Poizkusil
+T58	Token 72 74	je
+T59	Token 100 101	.
+T60	Token 102 107	Hočeš
+T61	Token 48 49	,
+T62	Token 50 52	da
+T63	Token 477 483	prišel
+T64	Token 484 485	?
+T65	Token 463 464	,
+T66	Token 465 467	da
+T67	Token 468 470	bi
+T68	Token 471 476	lahko
+T69	Token 442 448	gledaš
+T70	Token 449 450	?
+T71	Token 451 455	Kdaj
+T72	Token 456 462	misliš
+T73	Token 625 627	je
+T74	Token 622 624	si
+T75	Token 593 595	si
+T76	Token 590 592	bi
+T77	Token 583 589	Morala
+T78	Token 581 582	.
+T79	Token 615 621	vendar
+T80	Token 613 614	,
+T81	Token 604 612	pričesko
+T82	Token 596 603	urediti
+T83	Token 146 150	moža
+T84	Token 143 145	je
+T85	Token 112 113	?
+T86	Token 108 111	iti
+T87	Token 118 119	,
+T88	Token 114 117	Sam
+T89	Token 126 130	okno
+T90	Token 120 125	odpri
+T91	Token 133 142	Prisilila
+T92	Token 131 132	!
+T93	Token 184 186	je
+T94	Token 187 195	pobarval
+T95	Token 171 177	Petrov
+T96	Token 178 183	sosed
+T97	Token 164 168	avto
+T98	Token 169 170	.
+T99	Token 156 158	je
+T100	Token 159 163	umil
+T101	Token 151 152	,
+T102	Token 153 155	da
+T103	Token 239 246	tvojega
+T104	Token 236 238	od
+T105	Token 212 213	.
+T106	Token 206 211	rdeče
+T107	Token 203 205	na
+T108	Token 196 202	ograjo
+T109	Token 225 235	zabavnejši
+T110	Token 222 224	je
+T111	Token 218 221	oče
+T112	Token 214 217	Moj
+T113	Token 558 560	in
+T114	Token 561 565	nato
+T115	Token 548 550	se
+T116	Token 551 557	objela
+T117	Token 539 543	Mary
+T118	Token 544 547	sta
+T119	Token 530 535	Peter
+T120	Token 536 538	in
+T121	Token 566 575	zapustila
+T122	Token 576 580	sobo
+T123	Token 286 288	in
+T124	Token 289 293	Jana
+T125	Token 247 248	.
+T126	Token 249 255	Marija
+T127	Token 256 258	je
+T128	Token 259 265	dobila
+T129	Token 266 270	bron
+T130	Token 271 272	,
+T131	Token 273 278	Peter
+T132	Token 279 285	srebro
+T133	Token 492 494	je
+T134	Token 486 491	Kupil
+T135	Token 500 501	,
+T136	Token 495 499	avto
+T137	Token 509 513	brat
+T138	Token 502 508	njegov
+T139	Token 517 521	samo
+T140	Token 514 516	pa
+T141	Token 528 529	.
+T142	Token 522 527	motor
+T143	Token 807 808	.
+T144	Token 798 806	Francije
+T145	Token 792 797	mestu
+T146	Token 784 791	glavnem
+T147	Token 782 783	,
+T148	Token 775 781	Parizu
+T149	Token 773 774	v
+T150	PUNCT 39 40	.
+T151	Token 41 47	Mislim
+T152	NOUN 20 25	pismo
+T153	NOUN 26 38	prijateljici
+T154	AUX 8 10	je
+T155	VERB 11 19	napisala
+T156	NOUN 0 7	Deklica
+T157	Token 341 342	?
+T158	Token 334 340	dežela
+T159	Token 316 322	velika
+T160	Token 309 315	Iguazu
+T161	Token 327 333	majhna
+T162	Token 323 326	ali
+T163	Token 300 301	.
+T164	Token 294 299	zlato
+T165	Token 306 308	je
+T166	Token 302 305	Ali
+A1	Case T156 Nom
+A2	Gender T156 Fem
+A3	Number T156 Sing
+A4	Case T152 Acc
+A5	Gender T152 Neut
+A6	Number T152 Sing
+A7	Case T153 Dat
+A8	Gender T153 Fem
+A9	Number T153 Sing
+A10	Mood T155 Ind
+A11	Gender T155 Fem
+A12	Number T155 Sing
+A13	Tense T155 Past
+A14	Aspect T155 Perf
+A15	Voice T155 Act
+A16	VerbForm T155 Part
+A17	Mood T154 Ind
+A18	Number T154 Sing
+A19	Person T154 3
+A20	Tense T154 Pres
+A21	Aspect T154 Imp
+A22	Voice T154 Act
+A23	VerbForm T154 Fin
+R1	aux Arg1:T155 Arg2:T154	
+R2	nsubj Arg1:T155 Arg2:T156	
+R3	dobj Arg1:T155 Arg2:T152	
+R4	iobj Arg1:T155 Arg2:T153	
+R5	punct Arg1:T155 Arg2:T150	

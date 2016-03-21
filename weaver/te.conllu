@@ -1,0 +1,170 @@
+1	అమ్మాయి	_	NOUN	_	Animacy=Anim|Gender=Fem|Number=Sing	5	nsubj	_	Offset=0-7
+2	తన	_	DET	_	Gender=Com|Number=Sing|Poss=|PronType=Prs|Reflex=	3	det	_	Offset=8-10
+3	స్నేహితుడికి	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	5	iobj	_	Offset=11-23
+4	లేఖ	_	NOUN	_	Animacy=Inan|Gender=Neut|Number=Sing	5	dobj	_	Offset=24-27
+5	రాసింది	_	VERB	_	Aspect=Perf|Case=Sup|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	_	_	Offset=28-35
+6	.	_	PUNCT	_	_	5	punct	_	Offset=36-37
+
+1	నేను	_	PRON	_	Animacy=Anim|Gender=Com|Number=Sing|PronType=Prs|Reflex=	5	nsubj	_	Offset=38-42
+2	వర్షం	_	NOUN	_	_	3	nsubj	_	Offset=43-48
+3	పడుతోంది	_	VERB	_	Aspect=Prog|VerbForm=Ger	0	_	_	Offset=49-57
+4	అని	_	SCONJ	_	_	3	mark	_	Offset=58-61
+5	అనుకుంటున్నాను	_	VERB	_	Animacy=Anim|Aspect=Prog|Gender=Com|Number=Sing|Person=1|VerbForm=Ger	0	_	_	Offset=62-76
+6	.	_	PUNCT	_	_	5	punct	_	Offset=77-78
+
+1	అతను	_	PRON	_	Animacy=Anim|Gender=Masc|Number=Sing|Person=1|PronType=Dem	6	nsubj	_	Offset=79-83
+2	ధూమపానం	_	NOUN	_	Animacy=Inan|Negative=Neg|VerbForm=Inf	5	dobj	_	Offset=84-91
+3	మరియు	_	CONJ	_	_	2	cc	_	Offset=92-97
+4	మద్యపానాన్ని	_	NOUN	_	Case=Acc|Definite=Def|Number=Coll	2	conj	_	Offset=98-110
+5	ఆపడానికి	_	VERB	_	Aspect=Imp|VerbForm=Trans	6	xcomp	_	Offset=111-119
+6	ప్రయత్నించాడు	_	VERB	_	Aspect=Perf|Gender=Masc|Person=1|Tense=Past|VerbForm=Sup	0	_	_	Offset=120-133
+7	.	_	PUNCT	_	_	6	punct	_	Offset=134-135
+
+1	నీకు	_	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Int	2	nsubj	_	Offset=136-140
+2	వెళ్ళాలని	_	VERB	_	Tense=Fut	0	_	_	Offset=141-150
+3	ఉందా	_	AUX	_	Aspect=Imp|Tense=Pres	2	aux	_	Offset=151-155
+4	?	_	PUNCT	_	_	2	punct	_	Offset=156-157
+
+1	సామ్	_	PROPN	_	Gender=Masc|Number=Sing	4	vocative	_	Offset=158-162
+2	,	_	PUNCT	_	_	4	punct	_	Offset=163-164
+3	కిటికీ	_	NOUN	_	Number=Sing	4	dobj	_	Offset=165-171
+4	తెరువు	_	VERB	_	Aspect=Perf|Case=Voc|Person=3|Tense=Pres	0	_	_	Offset=172-178
+5	!	_	PUNCT	_	_	4	punct	_	Offset=179-180
+
+1	ఆమె	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	Offset=181-184
+2	తన	_	DET	_	_	3	det	_	Offset=185-187
+3	భర్తతో	_	NOUN	_	Case=Cau|Definite=Def|Gender=Masc|Number=Sing	5	iobj	_	Offset=188-194
+4	కారు	_	NOUN	_	Number=Sing	5	dobj	_	Offset=195-199
+5	కడిగించింది	_	VERB	_	Aspect=Perf|Case=Dat|Voice=Pass	0	_	_	Offset=200-211
+6	.	_	PUNCT	_	_	5	punct	_	Offset=212-213
+
+1	పీటర్	_	PROPN	_	Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	Offset=214-219
+2	యొక్క	_	DET	_	_	1	det	_	Offset=220-225
+3	పక్క	_	ADJ	_	Case=Loc	4	amod	_	Offset=226-230
+4	ఇంటి	_	NOUN	_	Case=Abs|Number=Sing|VerbForm=Trans	5	compound	_	Offset=231-235
+5	ఆయన	_	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	Offset=236-239
+6	కంచెకు	_	NOUN	_	Case=All|Number=Sing	9	dobj	_	Offset=240-246
+7	ఎరుపు	_	ADJ	_	_	8	amod	_	Offset=247-252
+8	రంగు	_	NOUN	_	_	9	xcomp	_	Offset=253-257
+9	వేసాడు	_	VERB	_	Aspect=Perf|Gender=Masc|Tense=Past	0	_	_	Offset=258-264
+10	.	_	PUNCT	_	_	9	punct	_	Offset=265-266
+
+1	మా	_	DET	_	Person=1|Poss=	2	det	_	Offset=267-269
+2	నాన్న	_	NOUN	_	Animacy=Anim|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	Offset=270-275
+3	మీ	_	DET	_	Person=2|Poss=	4	det	_	Offset=276-278
+4	నాన్న	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	6	nmod	_	Offset=279-284
+5	కంటే	_	PRON	_	PronType=Rel	4	dep	_	Offset=285-289
+6	కూల్	_	ADJ	_	_	0	_	_	Offset=290-294
+7	.	_	PUNCT	_	_	6	punct	_	Offset=295-296
+
+1	మేరి	_	PROPN	_	Animacy=Anim|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	Offset=297-301
+2	కాంస్యము	_	NOUN	_	Animacy=Inan	9	compound	_	Offset=302-310
+3	,	_	PUNCT	_	_	0	_	_	Offset=311-312
+4	పీటరు	_	PROPN	_	Animacy=Anim|Definite=Def|Gender=Fem|Number=Sing	1	conj	_	Offset=313-318
+5	రాజితము	_	NOUN	_	Animacy=Inan	2	remnant	_	Offset=319-326
+6	మరియు	_	CONJ	_	_	5	cc	_	Offset=327-332
+7	జేను	_	PROPN	_	Animacy=Anim|Definite=Def|Gender=Fem|Number=Sing	1	conj	_	Offset=333-337
+8	బంగారు	_	NOUN	_	Animacy=Inan	5	remnant	_	Offset=338-344
+9	పతకాలను	_	NOUN	_	Animacy=Inan|Number=Plur	10	dobj	_	Offset=345-352
+10	గెలుచుకున్నారు	_	VERB	_	Animacy=Anim|Aspect=Perf|Case=Sup|Gender=Com|Number=Plur|Person=3	0	_	_	Offset=353-367
+11	.	_	PUNCT	_	_	10	punct	_	Offset=368-369
+
+1	ఇగాశు	_	PROPN	_	Animacy=Nhum|Case=Loc|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	Offset=370-375
+2	పెద్ద	_	ADJ	_	_	3	amod	_	Offset=376-381
+3	దేశమా	_	NOUN	_	Case=Voc|Definite=Ind|Number=Sing	0	_	_	Offset=382-387
+4	లేదా	_	CONJ	_	_	3	cc	_	Offset=388-392
+5	చిన్న	_	ADJ	_	_	6	amod	_	Offset=393-398
+6	దేశమా	_	NOUN	_	Case=Voc|Definite=Ind|Number=Sing	3	conj	_	Offset=399-404
+7	?	_	PUNCT	_	_	6	punct	_	Offset=405-406
+
+1	పీటర్	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	7	nsubj	_	Offset=407-412
+2	స్మిత్	_	PROPN	_	Animacy=Anim	1	name	_	Offset=413-419
+3	మరియు	_	CONJ	_	_	1	cc	_	Offset=420-425
+4	మేరీ	_	PROPN	_	Animacy=Anim|Gender=Fem|Number=Sing	1	conj	_	Offset=426-430
+5	బ్రౌన్	_	PROPN	_	_	4	name	_	Offset=431-437
+6	ఎవ్వరూ	_	DET	_	Case=Acc|PronType=Neg	4	det	_	Offset=438-444
+7	ఎంపిక	_	VERB	_	Aspect=Perf|Case=Sup|Person=3	0	_	_	Offset=445-450
+8	కాలేదు	_	AUX	_	Aspect=Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=3	7	aux	_	Offset=451-457
+9	.	_	PUNCT	_	_	7	punct	_	Offset=458-459
+
+1	వారికీ	_	PRON	_	Animacy=Anim|Gender=Com|Number=Plur|Person=3|PronType=Ind	5	nsubj	_	Offset=460-466
+2	ఎవరు	_	DET	_	Definite=Ind	1	det	_	Offset=467-471
+3	రాసారో	_	VERB	_	Aspect=Perf|Case=Sup	5	ccomp	_	Offset=472-478
+4	ఐడియా	_	NOUN	_	Definite=Def|Negative=Pos|Number=Sing	5	nmod	_	Offset=479-484
+5	లేదు	_	VERB	_	Aspect=Perf|Negative=Neg|Tense=Pres|VerbForm=Sup	0	_	_	Offset=485-489
+6	.	_	PUNCT	_	_	5	punct	_	Offset=490-491
+
+1	నువ్వు	_	PRON	_	Animacy=Anim|Gender=Com|Number=Sing|Person=2	3	nsubj	_	Offset=492-498
+2	దేనిని	_	DET	_	Case=Lat|PronType=Int	3	iobj	_	Offset=499-505
+3	చూస్తున్నావు	_	VERB	_	Aspect=Prog|Case=Del|VerbForm=Ger	0	_	_	Offset=506-518
+4	?	_	PUNCT	_	_	3	punct	_	Offset=519-520
+
+1	నువ్వు	_	PRON	_	Animacy=Anim|Gender=Com|Number=Sing|Person=2	4	nsubj	_	Offset=521-527
+2	ఎప్పుడు	_	DET	_	Case=Tem|Definite=Ind|PronType=Dem	1	det	_	Offset=528-535
+3	రావచ్చు	_	ADV	_	PronType=Dem|VerbForm=Trans	4	advmod	_	Offset=536-543
+4	అనుకుంటున్నావు	_	VERB	_	Aspect=Prog|Case=Tem|VerbForm=Ger	0	_	_	Offset=544-558
+5	?	_	PUNCT	_	_	4	punct	_	Offset=559-560
+
+1	అతను	_	PRON	_	Animacy=Anim|Gender=Masc|Number=Sing|Person=2	3	nsubj	_	Offset=561-565
+2	కారు	_	NOUN	_	Animacy=Inan|Definite=Ind|Gender=Neut|Number=Sing	3	dobj	_	Offset=566-570
+3	కొన్నాడు	_	VERB	_	Aspect=Perf|Gender=Masc|VerbForm=Sup	0	_	_	Offset=571-579
+4	కానీ	_	CONJ	_	_	3	cc	_	Offset=580-584
+5	అతని	_	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=2|Poss=	6	det	_	Offset=585-589
+6	తమ్ముడు	_	NOUN	_	Animacy=Anim|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	Offset=590-597
+7	బైకు	_	NOUN	_	Animacy=Inan|Number=Sing	8	dobj	_	Offset=598-602
+8	కొన్నాడు	_	VERB	_	Aspect=Perf|Gender=Masc|Person=3|VerbForm=Sup	0	_	_	Offset=603-611
+9	.	_	PUNCT	_	_	8	punct	_	Offset=612-613
+
+1	పీటరు	_	PROPN	_	Animacy=Anim|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	Offset=614-619
+2	మరియు	_	CONJ	_	_	1	cc	_	Offset=620-625
+3	మేరీ	_	PROPN	_	Animacy=Anim|Gender=Fem|Number=Sing	1	conj	_	Offset=626-630
+4	ఒకరినొకరు	_	DET	_	Reflex=	1	det	_	Offset=631-640
+5	కౌగలించుకొని	_	VERB	_	Aspect=Perf|Case=Abe	0	_	_	Offset=641-653
+6	గది	_	NOUN	_	Animacy=Inan|Number=Sing	8	dobj	_	Offset=654-657
+7	బయటకి	_	ADV	_	PronType=Rel|VerbForm=Fin	8	advmod	_	Offset=658-663
+8	వెళ్ళారు	_	VERB	_	Aspect=Perf|Case=Sup|Number=Dual|Person=3|Tense=Past	5	conj	_	Offset=664-672
+9	.	_	PUNCT	_	_	8	punct	_	Offset=673-674
+
+1	ఆమె	_	PRON	_	Animacy=Anim|Gender=Fem|Number=Sing|Person=2	10	nsubj	_	Offset=675-678
+2	జడ	_	NOUN	_	_	3	nmod	10:dobj	Offset=679-681
+3	వేసుకోవాలి	_	VERB	_	Aspect=Pro|Case=Sup|Tense=Nar|VerbForm=Trans	10	ccomp	_	Offset=682-692
+4	కానీ	_	CONJ	_	_	2	cc	_	Offset=693-697
+5	కొన్ని	_	NUM	_	Number=Plur	6	nummod	_	Offset=698-704
+6	కారణాల	_	NOUN	_	Number=Plur	0	_	_	Offset=705-711
+7	వల్ల	_	ADP	_	Case=Cau	6	advmod	5:case	Offset=712-716
+8	ఆ	_	DET	_	Definite=Def|Number=Sing	9	det	_	Offset=717-718
+9	రోజు	_	NOUN	_	Number=Sing	0	_	_	Offset=719-723
+10	కుదరలేదు	_	VERB	_	Aspect=Perf|Case=Sup|Negative=Neg|VerbForm=Fin	0	_	_	Offset=724-732
+11	.	_	PUNCT	_	_	10	punct	_	Offset=733-734
+
+1	అతను	_	PRON	_	Animacy=Anim|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=735-739
+2	చాల	_	ADV	_	Degree=Sup	4	advmod	_	Offset=740-743
+3	వేగంగా	_	ADV	_	Degree=Abs|PronType=Dem|VerbForm=Trans	2	mwe	_	Offset=744-750
+4	పరుగెత్తినందుకు	_	VERB	_	Aspect=Perf|Case=Cau|Tense=Nar|VerbForm=Inf	0	_	_	Offset=751-766
+5	నేను	_	PRON	_	Animacy=Anim|Gender=Com|Number=Sing|Person=1|Reflex=	7	nsubj	_	Offset=767-771
+6	అతన్ని	_	DET	_	Animacy=Anim|Case=Abs|Gender=Masc|Number=Sing	5	det	_	Offset=772-778
+7	అందుకోలేక	_	VERB	_	Aspect=Prog|Case=Loc|Negative=Neg|Tense=Nar	0	_	_	Offset=779-788
+8	పోయాను	_	AUX	_	Aspect=Perf|Tense=Past	7	aux	_	Offset=789-795
+9	.	_	PUNCT	_	_	4	punct	_	Offset=796-797
+
+1	ఈ	_	DET	_	Number=Sing|Person=3	2	det	_	Offset=798-799
+2	లేఖ	_	NOUN	_	Gender=Neut|Number=Sing	5	dobj	_	Offset=800-803
+3	పీటరు	_	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Offset=804-809
+4	నుండి	_	ADP	_	Case=Loc	0	_	_	Offset=810-815
+5	వచ్చినది	_	VERB	_	Aspect=Perf|Number=Sing|Tense=Past	0	_	_	Offset=816-824
+6	మరియు	_	CONJ	_	_	3	cc	_	Offset=825-830
+7	దాన్ని	_	DET	_	Number=Sing	2	det	_	Offset=831-837
+8	నిన్న	_	NOUN	_	Definite=Def	9	nmod	_	Offset=838-843
+9	పంపిణీ	_	ADV	_	Degree=Abs|PronType=Dem|VerbForm=Trans	10	advmod	_	Offset=844-850
+10	చేసారు	_	VERB	_	Number=Plur|Tense=Past	5	conj	_	Offset=851-857
+11	.	_	PUNCT	_	_	5	punct	_	Offset=858-859
+
+1	ఆమె	_	PRON	_	Animacy=Anim|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	Offset=860-863
+2	ఫ్రాన్స్	_	PROPN	_	Animacy=Nhum|Definite=Def|Number=Coll	0	_	_	Offset=864-872
+3	రాజధాని	_	ADJ	_	_	2	acl	_	Offset=873-880
+4	అయిన	_	AUX	_	_	2	aux	_	Offset=881-885
+5	పారిస్	_	PROPN	_	_	2	nmod	_	Offset=886-892
+6	లో	_	ADP	_	Case=Ine	5	case	_	Offset=893-895
+7	పెరిగింది	_	VERB	_	Animacy=Anim|Aspect=Perf|Number=Sing|Person=3|Tense=Past	0	_	_	Offset=896-905
+8	.	_	PUNCT	_	_	7	punct	_	Offset=906-907
+
