@@ -1,0 +1,167 @@
+1	பெண்	_	NOUN	_	Gender=Fem	5	nsubj	_	Offset=0-4
+2	அவளுடைய	_	DET	_	_	3	det	_	Offset=5-12
+3	நண்பருக்குக்	_	NOUN	_	Gender=Neut	5	iobj	_	Offset=13-25
+4	கடிதம்	_	NOUN	_	_	5	dobj	_	Offset=26-32
+5	எழுதினாள்	_	VERB	_	Gender=Fem	0	_	_	Offset=33-42
+6	.	_	PUNCT	_	_	5	punct	_	Offset=43-44
+
+1	மழை	_	NOUN	_	_	2	nsubj	_	Offset=45-48
+2	பெய்கிறது	_	VERB	_	Tense=Pres	4	ccomp	_	Offset=49-58
+3	என்று	_	SCONJ	_	_	4	mark	_	Offset=59-64
+4	நினைக்கிறேன்	_	VERB	_	Tense=Pres	0	_	_	Offset=65-77
+5	.	_	PUNCT	_	_	4	punct	_	Offset=78-79
+
+1	அவர்	_	PRON	_	_	5	nsubj	_	Offset=80-84
+2	புகைப்பதையும்	_	VERB	_	_	3	conj	_	Offset=85-98
+3	குடிப்பதையும்	_	VERB	_	_	4	xcomp	_	Offset=99-112
+4	நிறுத்த	_	VERB	_	_	5	xcomp	_	Offset=113-120
+5	முயற்சித்தார்	_	VERB	_	_	0	_	_	Offset=121-134
+6	.	_	PUNCT	_	_	5	punct	_	Offset=135-136
+
+1	உனக்கு	_	PRON	_	_	2	nsubj	_	Offset=137-143
+2	போக	_	VERB	_	_	0	_	_	Offset=144-147
+3	வேண்டுமா	_	AUX	_	_	2	aux	_	Offset=148-156
+4	?	_	PUNCT	_	_	2	punct	_	Offset=157-158
+
+1	சாம்	_	PROPN	_	_	4	vocative	_	Offset=159-163
+2	,	_	PUNCT	_	_	4	punct	_	Offset=164-165
+3	ஜன்னலைத்	_	NOUN	_	_	4	dobj	_	Offset=166-174
+4	திற	_	VERB	_	_	0	_	_	Offset=175-178
+5	!	_	PUNCT	_	_	4	punct	_	Offset=179-180
+
+1	அவள்	_	PRON	_	_	5	nsubjpass	_	Offset=182-186
+2	அவளது	_	DET	_	_	3	det	_	Offset=187-192
+3	கணவரால்	_	NOUN	_	_	5	iobj	_	Offset=193-200
+4	காரைக்	_	NOUN	_	_	5	dobj	_	Offset=201-207
+5	கழுவச்	_	VERB	_	_	0	_	_	Offset=208-214
+6	செய்தாள்	_	AUX	_	_	5	auxpass	_	Offset=215-223
+7	.	_	PUNCT	_	_	5	punct	_	Offset=225-226
+
+1	பீட்டரின்	_	PROPN	_	_	2	nmod	_	Offset=227-236
+2	அண்டைவீட்டார்	_	NOUN	_	_	5	nsubj	_	Offset=237-250
+3	வேலியை	_	NOUN	_	_	5	dobj	_	Offset=251-257
+4	சிவப்பில்	_	NOUN	_	_	5	xcomp	_	Offset=258-267
+5	பூசினார்	_	VERB	_	_	0	_	_	Offset=268-276
+6	.	_	PUNCT	_	_	5	punct	_	Offset=277-278
+
+1	என்	_	DET	_	_	2	det	_	Offset=279-282
+2	அப்பா	_	NOUN	_	_	5	nsubj	_	Offset=283-288
+3	உன்	_	DET	_	_	4	det	_	Offset=289-292
+4	அப்பாவைவிட	_	NOUN	_	_	0	_	_	Offset=293-303
+5	உற்சாகமானவர்	_	VERB	_	_	0	_	_	Offset=304-316
+6	.	_	PUNCT	_	_	5	punct	_	Offset=317-318
+
+1	மேரி	_	PROPN	_	_	9	nsubj	_	Offset=319-323
+2	வெண்கலம்	_	NOUN	_	_	9	dobj	_	Offset=324-332
+3	,	_	PUNCT	_	_	1	punct	_	Offset=333-334
+4	பீட்டர்	_	PROPN	_	_	1	remnant	_	Offset=335-342
+5	வெள்ளி	_	NOUN	_	_	2	remnant	_	Offset=343-349
+6	மற்றும்	_	CONJ	_	_	1	cc	_	Offset=350-357
+7	ஜேன்	_	PROPN	_	_	4	remnant	_	Offset=358-362
+8	தங்கத்தை	_	NOUN	_	_	5	remnant	_	Offset=363-371
+9	வென்றனர்	_	VERB	_	_	0	_	_	Offset=372-380
+10	.	_	PUNCT	_	_	9	punct	_	Offset=381-382
+
+1	இகுவாசு	_	PROPN	_	_	4	nsubj	_	Offset=383-390
+2	ஒரு	_	DET	_	_	3	det	_	Offset=391-394
+3	பெரிய	_	ADJ	_	_	4	amod	_	Offset=395-400
+4	நாடா	_	NOUN	_	_	0	_	_	Offset=401-405
+5	அல்லது	_	CONJ	_	_	4	conj	_	Offset=406-412
+6	ஒரு	_	DET	_	_	7	det	_	Offset=413-416
+7	சிறிய	_	ADJ	_	_	8	amod	_	Offset=417-422
+8	நாடா	_	NOUN	_	_	0	_	_	Offset=423-427
+9	?	_	PUNCT	_	_	4	punct	_	Offset=428-429
+
+1	பீட்டர்	_	PROPN	_	_	0	_	_	Offset=430-437
+2	ஸ்மித்தையோ	_	PROPN	_	_	1	name	_	Offset=438-448
+3	அல்லது	_	CONJ	_	_	1	cc	_	Offset=449-455
+4	மேரி	_	PROPN	_	_	0	_	_	Offset=456-460
+5	பிரவுனையோ	_	PROPN	_	_	4	name	_	Offset=461-470
+6	தேர்ந்தெடுக்க	_	VERB	_	_	1	dobj	_	Offset=471-484
+7	முடியவில்லை	_	AUX	_	_	6	aux	_	Offset=485-496
+8	.	_	PUNCT	_	_	6	punct	_	Offset=497-498
+
+1	இதை	_	PRON	_	_	3	dobj	_	Offset=499-502
+2	யார்	_	PRON	_	_	3	nsubj	_	Offset=503-507
+3	எழுதியது	_	VERB	_	_	6	ccomp	_	Offset=508-516
+4	என்று	_	SCONJ	_	_	6	mark	_	Offset=517-522
+5	அவர்களுக்கு	_	PRON	_	_	6	nsubj	_	Offset=523-534
+6	விளங்கவில்லை	_	VERB	_	_	0	_	_	Offset=535-547
+7	.	_	PUNCT	_	_	6	punct	_	Offset=548-549
+
+1	நீ	_	PRON	_	_	3	nsubj	_	Offset=550-552
+2	எதைப்	_	PRON	_	_	3	dobj	_	Offset=553-558
+3	பார்த்துக்	_	VERB	_	_	0	_	_	Offset=559-569
+4	கொண்டிருக்கிறாய்	_	AUX	_	_	3	aux	_	Offset=570-586
+5	?	_	PUNCT	_	_	3	punct	_	Offset=587-588
+
+1	எப்பொழுது	_	ADV	_	_	3	advmod	_	Offset=589-598
+2	நீங்கள்	_	PRON	_	_	3	nsubj	_	Offset=599-606
+3	வர	_	VERB	_	_	7	ccomp	_	Offset=607-609
+4	முடியும்	_	AUX	_	_	3	aux	_	Offset=610-618
+5	என்று	_	SCONJ	_	_	7	mark	_	Offset=619-624
+6	நீங்கள்	_	PRON	_	_	7	nsubj	_	Offset=625-632
+7	நினக்கிறீர்கள்	_	VERB	_	_	0	_	_	Offset=633-647
+8	?	_	PUNCT	_	_	7	punct	_	Offset=648-649
+
+1	அவர்	_	PRON	_	_	4	nsubj	_	Offset=650-654
+2	ஒரு	_	DET	_	_	0	_	_	Offset=655-658
+3	கார்	_	NOUN	_	_	4	dobj	_	Offset=659-663
+4	வாங்கினார்	_	VERB	_	_	0	_	_	Offset=664-674
+5	ஆனால்	_	CONJ	_	_	4	cc	_	Offset=675-680
+6	அவர்	_	DET	_	_	7	det	_	Offset=681-685
+7	சகோதரர்	_	NOUN	_	_	1	remnant	_	Offset=686-693
+8	வெறும்	_	ADV	_	_	9	advmod	_	Offset=694-700
+9	பைக்	_	NOUN	_	_	3	remnant	_	Offset=701-705
+10	தான்	_	ADP	_	_	9	nmod	_	Offset=706-710
+11	.	_	PUNCT	_	_	4	punct	_	Offset=711-712
+
+1	பீட்டரும்	_	PROPN	_	_	4	nsubj	_	Offset=714-723
+2	மேரியும்	_	PROPN	_	_	1	conj	_	Offset=724-732
+3	ஒருவரையொருவர்	_	NOUN	_	_	4	dobj	_	Offset=733-746
+4	தழுவிவிட்டு	_	VERB	_	_	0	_	_	Offset=747-758
+5	அறையை	_	NOUN	_	_	6	dobj	_	Offset=759-764
+6	விட்டு	_	VERB	_	_	4	conj	_	Offset=765-771
+7	சென்றனர்	_	VERB	_	_	0	_	_	Offset=772-780
+8	.	_	PUNCT	_	_	6	punct	_	Offset=781-782
+
+1	அவள்அவளுடைய	_	DET	_	_	3	nsubj	_	Offset=783-794
+2	கூந்தலை	_	NOUN	_	_	3	dobj	_	Offset=795-802
+3	செய்து	_	VERB	_	_	0	_	_	Offset=803-809
+4	கொண்டிருக்க	_	AUX	_	_	3	aux	_	Offset=810-821
+5	வேண்டும்	_	AUX	_	_	3	aux	_	Offset=822-830
+6	ஆனால்	_	CONJ	_	_	3	cc	_	Offset=831-836
+7	என்ன	_	DET	_	_	0	_	_	Offset=837-841
+8	காரணத்தாலோ	_	NOUN	_	_	0	_	_	Offset=842-852
+9	அவள்	_	PRON	_	_	12	nsubj	_	Offset=853-857
+10	அன்றைக்கு	_	ADV	_	_	0	_	_	Offset=858-867
+11	அதைச்	_	PRON	_	_	12	dobj	_	Offset=868-873
+12	செய்யவில்லை	_	VERB	_	_	3	conj	_	Offset=874-885
+13	.	_	PUNCT	_	_	3	punct	_	Offset=886-887
+
+1	என்னால்	_	PRON	_	_	2	nsubj	_	Offset=888-895
+2	ஈடுகொடுக்க	_	VERB	_	_	0	_	_	Offset=896-906
+3	முடியவில்லை	_	AUX	_	_	2	aux	_	Offset=907-918
+4	ஏனென்றால்	_	SCONJ	_	_	8	mark	_	Offset=919-928
+5	அவன்	_	PRON	_	_	8	nsubj	_	Offset=929-933
+6	மிகவும்	_	ADV	_	_	7	advmod	_	Offset=934-941
+7	வேகமாக	_	ADV	_	_	8	advmod	_	Offset=942-948
+8	ஓடினான்	_	VERB	_	_	2	advcl	_	Offset=949-956
+9	.	_	PUNCT	_	_	2	punct	_	Offset=957-958
+
+1	இந்த	_	DET	_	_	2	det	_	Offset=959-963
+2	கடிதம்	_	NOUN	_	_	3	nmod	_	Offset=964-970
+3	பீட்டரிடமிருந்து	_	PROPN	_	_	0	_	_	Offset=971-987
+4	மற்றும்	_	CONJ	_	_	3	cc	_	Offset=988-995
+5	இது	_	PRON	_	_	7	nsubjpass	_	Offset=996-999
+6	நேற்று	_	ADV	_	_	7	advmod	_	Offset=1000-1006
+7	கொண்டுசேர்க்கப்பட்டது	_	VERB	_	_	3	conj	_	Offset=1007-1028
+8	.	_	PUNCT	_	_	3	punct	_	Offset=1029-1030
+
+1	பிரான்சின்	_	PROPN	_	_	2	nmod	_	Offset=1031-1041
+2	தலைநகரான	_	NOUN	_	_	3	appos	_	Offset=1042-1050
+3	பாரிஸில்	_	PROPN	_	_	5	nmod	_	Offset=1051-1059
+4	அவள்	_	PRON	_	_	5	nsubj	_	Offset=1060-1064
+5	வளர்ந்தாள்	_	VERB	_	_	0	_	_	Offset=1065-1075
+6	.	_	PUNCT	_	_	5	punct	_	Offset=1076-1077
+

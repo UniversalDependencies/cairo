@@ -1,0 +1,215 @@
+1	Das	_	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	Offset=0-3
+2	Mädchen	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubjpass	_	Offset=4-11
+3	schrieb	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=12-19
+4	einen	_	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Offset=20-25
+5	Brief	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	dobj	_	Offset=26-31
+6	an	_	ADP	_	Case=Acc	8	case	_	Offset=32-34
+7	ihre	_	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=|PronType=Prs	8	det	_	Offset=35-39
+8	Freundin	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	iobj	_	Offset=40-48
+9	.	_	PUNCT	_	_	3	punct	_	Offset=49-50
+
+1	Ich	_	Token	_	_	0	_	_	Offset=51-54
+2	denke	_	Token	_	_	0	_	_	Offset=55-60
+3	,	_	Token	_	_	0	_	_	Offset=61-62
+4	dass	_	Token	_	_	0	_	_	Offset=63-67
+5	es	_	Token	_	_	0	_	_	Offset=68-70
+6	regnet	_	Token	_	_	0	_	_	Offset=71-77
+7	.	_	Token	_	_	0	_	_	Offset=78-79
+
+1	Er	_	Token	_	_	0	_	_	Offset=80-82
+2	hat	_	Token	_	_	0	_	_	Offset=83-86
+3	versucht	_	Token	_	_	0	_	_	Offset=87-95
+4	,	_	Token	_	_	0	_	_	Offset=96-97
+5	mit	_	Token	_	_	0	_	_	Offset=98-101
+6	dem	_	Token	_	_	0	_	_	Offset=102-105
+7	Rauchen	_	Token	_	_	0	_	_	Offset=106-113
+8	und	_	Token	_	_	0	_	_	Offset=114-117
+9	Trinken	_	Token	_	_	0	_	_	Offset=118-125
+10	aufzuhören	_	Token	_	_	0	_	_	Offset=126-136
+11	.	_	Token	_	_	0	_	_	Offset=137-138
+
+1	Willst	_	Token	_	_	0	_	_	Offset=139-145
+2	du	_	Token	_	_	0	_	_	Offset=146-148
+3	gehen	_	Token	_	_	0	_	_	Offset=149-154
+4	?	_	Token	_	_	0	_	_	Offset=155-156
+
+1	Sam	_	Token	_	_	0	_	_	Offset=157-160
+2	,	_	Token	_	_	0	_	_	Offset=161-162
+3	öffne	_	Token	_	_	0	_	_	Offset=163-168
+4	das	_	Token	_	_	0	_	_	Offset=169-172
+5	Fenster	_	Token	_	_	0	_	_	Offset=173-180
+6	!	_	Token	_	_	0	_	_	Offset=181-182
+
+1	Sie	_	Token	_	_	0	_	_	Offset=183-186
+2	hat	_	Token	_	_	0	_	_	Offset=187-190
+3	ihren	_	Token	_	_	0	_	_	Offset=191-196
+4	Mann	_	Token	_	_	0	_	_	Offset=197-201
+5	veranlasst	_	Token	_	_	0	_	_	Offset=202-212
+6	,	_	Token	_	_	0	_	_	Offset=213-214
+7	das	_	Token	_	_	0	_	_	Offset=215-218
+8	Auto	_	Token	_	_	0	_	_	Offset=219-223
+9	zu	_	Token	_	_	0	_	_	Offset=224-226
+10	waschen	_	Token	_	_	0	_	_	Offset=227-234
+11	.	_	Token	_	_	0	_	_	Offset=235-236
+
+1	Der	_	Token	_	_	0	_	_	Offset=237-240
+2	Nachbar	_	Token	_	_	0	_	_	Offset=241-248
+3	von	_	Token	_	_	0	_	_	Offset=249-252
+4	Peter	_	Token	_	_	0	_	_	Offset=253-258
+5	hat	_	Token	_	_	0	_	_	Offset=259-262
+6	den	_	Token	_	_	0	_	_	Offset=263-266
+7	Zaun	_	Token	_	_	0	_	_	Offset=267-271
+8	rot	_	Token	_	_	0	_	_	Offset=272-275
+9	gemalt	_	Token	_	_	0	_	_	Offset=276-282
+10	.	_	Token	_	_	0	_	_	Offset=283-284
+
+1	Mein	_	Token	_	_	0	_	_	Offset=285-289
+2	Papa	_	Token	_	_	0	_	_	Offset=290-294
+3	ist	_	Token	_	_	0	_	_	Offset=295-298
+4	cooler	_	Token	_	_	0	_	_	Offset=299-305
+5	als	_	Token	_	_	0	_	_	Offset=306-309
+6	deiner	_	Token	_	_	0	_	_	Offset=310-316
+7	.	_	Token	_	_	0	_	_	Offset=317-318
+
+1	Maria	_	Token	_	_	0	_	_	Offset=319-324
+2	gewann	_	Token	_	_	0	_	_	Offset=325-331
+3	Bronze	_	Token	_	_	0	_	_	Offset=332-338
+4	,	_	Token	_	_	0	_	_	Offset=339-340
+5	Peter	_	Token	_	_	0	_	_	Offset=341-346
+6	Silber	_	Token	_	_	0	_	_	Offset=347-353
+7	und	_	Token	_	_	0	_	_	Offset=354-357
+8	Jana	_	Token	_	_	0	_	_	Offset=358-362
+9	Gold	_	Token	_	_	0	_	_	Offset=363-367
+10	.	_	Token	_	_	0	_	_	Offset=368-369
+
+1	Ist	_	Token	_	_	0	_	_	Offset=370-373
+2	Iguazu	_	Token	_	_	0	_	_	Offset=374-380
+3	ein	_	Token	_	_	0	_	_	Offset=381-384
+4	großes	_	Token	_	_	0	_	_	Offset=385-391
+5	oder	_	Token	_	_	0	_	_	Offset=392-396
+6	ein	_	Token	_	_	0	_	_	Offset=397-400
+7	kleines	_	Token	_	_	0	_	_	Offset=401-408
+8	Land	_	Token	_	_	0	_	_	Offset=409-413
+9	?	_	Token	_	_	0	_	_	Offset=414-415
+
+1	Weder	_	Token	_	_	0	_	_	Offset=416-421
+2	Peter	_	Token	_	_	0	_	_	Offset=422-427
+3	Schmidt	_	Token	_	_	0	_	_	Offset=428-435
+4	noch	_	Token	_	_	0	_	_	Offset=436-440
+5	Maria	_	Token	_	_	0	_	_	Offset=441-446
+6	Braun	_	Token	_	_	0	_	_	Offset=447-452
+7	konnte	_	Token	_	_	0	_	_	Offset=453-459
+8	ausgewählt	_	Token	_	_	0	_	_	Offset=460-470
+9	worden	_	Token	_	_	0	_	_	Offset=471-477
+10	.	_	Token	_	_	0	_	_	Offset=478-479
+
+1	Sie	_	Token	_	_	0	_	_	Offset=480-483
+2	haben	_	Token	_	_	0	_	_	Offset=484-489
+3	keine	_	Token	_	_	0	_	_	Offset=490-495
+4	Ahnung	_	Token	_	_	0	_	_	Offset=496-502
+5	,	_	Token	_	_	0	_	_	Offset=503-504
+6	wer	_	Token	_	_	0	_	_	Offset=505-508
+7	das	_	Token	_	_	0	_	_	Offset=509-512
+8	geschrieben	_	Token	_	_	0	_	_	Offset=513-524
+9	hat	_	Token	_	_	0	_	_	Offset=525-528
+10	.	_	Token	_	_	0	_	_	Offset=529-530
+
+1	Was	_	Token	_	_	0	_	_	Offset=531-534
+2	schaust	_	Token	_	_	0	_	_	Offset=535-542
+3	du	_	Token	_	_	0	_	_	Offset=543-545
+4	dir	_	Token	_	_	0	_	_	Offset=546-549
+5	an	_	Token	_	_	0	_	_	Offset=550-552
+6	?	_	Token	_	_	0	_	_	Offset=553-554
+
+1	Wann	_	Token	_	_	0	_	_	Offset=555-559
+2	denkst	_	Token	_	_	0	_	_	Offset=560-566
+3	du	_	Token	_	_	0	_	_	Offset=567-569
+4	,	_	Token	_	_	0	_	_	Offset=570-571
+5	dass	_	Token	_	_	0	_	_	Offset=572-576
+6	du	_	Token	_	_	0	_	_	Offset=577-579
+7	kommen	_	Token	_	_	0	_	_	Offset=580-586
+8	kannst	_	Token	_	_	0	_	_	Offset=587-593
+9	?	_	Token	_	_	0	_	_	Offset=594-595
+
+1	Er	_	Token	_	_	0	_	_	Offset=596-598
+2	kaufte	_	Token	_	_	0	_	_	Offset=599-605
+3	ein	_	Token	_	_	0	_	_	Offset=606-609
+4	Auto	_	Token	_	_	0	_	_	Offset=610-614
+5	,	_	Token	_	_	0	_	_	Offset=615-616
+6	aber	_	Token	_	_	0	_	_	Offset=617-621
+7	sein	_	Token	_	_	0	_	_	Offset=622-626
+8	Bruder	_	Token	_	_	0	_	_	Offset=627-633
+9	nur	_	Token	_	_	0	_	_	Offset=634-637
+10	ein	_	Token	_	_	0	_	_	Offset=638-641
+11	Motorrad	_	Token	_	_	0	_	_	Offset=642-650
+12	.	_	Token	_	_	0	_	_	Offset=651-652
+
+1	Peter	_	Token	_	_	0	_	_	Offset=653-658
+2	und	_	Token	_	_	0	_	_	Offset=659-662
+3	Maria	_	Token	_	_	0	_	_	Offset=663-668
+4	umarmten	_	Token	_	_	0	_	_	Offset=669-677
+5	sich	_	Token	_	_	0	_	_	Offset=678-682
+6	und	_	Token	_	_	0	_	_	Offset=683-686
+7	dann	_	Token	_	_	0	_	_	Offset=687-691
+8	verließen	_	Token	_	_	0	_	_	Offset=692-701
+9	sie	_	Token	_	_	0	_	_	Offset=702-705
+10	das	_	Token	_	_	0	_	_	Offset=706-709
+11	Zimmer	_	Token	_	_	0	_	_	Offset=710-716
+12	.	_	Token	_	_	0	_	_	Offset=717-718
+
+1	Sie	_	Token	_	_	0	_	_	Offset=719-722
+2	sollte	_	Token	_	_	0	_	_	Offset=723-729
+3	sich	_	Token	_	_	0	_	_	Offset=730-734
+4	ihre	_	Token	_	_	0	_	_	Offset=735-739
+5	Frisur	_	Token	_	_	0	_	_	Offset=740-746
+6	richten	_	Token	_	_	0	_	_	Offset=747-754
+7	,	_	Token	_	_	0	_	_	Offset=755-756
+8	aber	_	Token	_	_	0	_	_	Offset=757-761
+9	aus	_	Token	_	_	0	_	_	Offset=762-765
+10	irgendeinem	_	Token	_	_	0	_	_	Offset=766-777
+11	Grund	_	Token	_	_	0	_	_	Offset=778-783
+12	tat	_	Token	_	_	0	_	_	Offset=784-787
+13	sie	_	Token	_	_	0	_	_	Offset=788-791
+14	es	_	Token	_	_	0	_	_	Offset=792-794
+15	an	_	Token	_	_	0	_	_	Offset=795-797
+16	jenem	_	Token	_	_	0	_	_	Offset=798-803
+17	Tag	_	Token	_	_	0	_	_	Offset=804-807
+18	nicht	_	Token	_	_	0	_	_	Offset=808-813
+19	.	_	Token	_	_	0	_	_	Offset=814-815
+
+1	Ich	_	Token	_	_	0	_	_	Offset=816-819
+2	konnte	_	Token	_	_	0	_	_	Offset=820-826
+3	ihm	_	Token	_	_	0	_	_	Offset=827-830
+4	nicht	_	Token	_	_	0	_	_	Offset=831-836
+5	nachkommen	_	Token	_	_	0	_	_	Offset=837-847
+6	,	_	Token	_	_	0	_	_	Offset=848-849
+7	weil	_	Token	_	_	0	_	_	Offset=850-854
+8	er	_	Token	_	_	0	_	_	Offset=855-857
+9	zu	_	Token	_	_	0	_	_	Offset=858-860
+10	schnell	_	Token	_	_	0	_	_	Offset=861-868
+11	lief	_	Token	_	_	0	_	_	Offset=869-873
+12	.	_	Token	_	_	0	_	_	Offset=874-875
+
+1	Dieser	_	Token	_	_	0	_	_	Offset=876-882
+2	Brief	_	Token	_	_	0	_	_	Offset=883-888
+3	ist	_	Token	_	_	0	_	_	Offset=889-892
+4	von	_	Token	_	_	0	_	_	Offset=893-896
+5	Peter	_	Token	_	_	0	_	_	Offset=897-902
+6	und	_	Token	_	_	0	_	_	Offset=903-906
+7	wurde	_	Token	_	_	0	_	_	Offset=907-912
+8	gestern	_	Token	_	_	0	_	_	Offset=913-920
+9	zugestellt	_	Token	_	_	0	_	_	Offset=921-931
+10	.	_	Token	_	_	0	_	_	Offset=932-933
+
+1	Sie	_	Token	_	_	0	_	_	Offset=934-937
+2	wuchs	_	Token	_	_	0	_	_	Offset=938-943
+3	in	_	Token	_	_	0	_	_	Offset=944-946
+4	Paris	_	Token	_	_	0	_	_	Offset=947-952
+5	,	_	Token	_	_	0	_	_	Offset=953-954
+6	der	_	Token	_	_	0	_	_	Offset=955-958
+7	Hauptstadt	_	Token	_	_	0	_	_	Offset=959-969
+8	Frankreichs	_	Token	_	_	0	_	_	Offset=970-981
+9	,	_	Token	_	_	0	_	_	Offset=982-983
+10	auf	_	Token	_	_	0	_	_	Offset=984-987
+11	.	_	Token	_	_	0	_	_	Offset=988-989
+

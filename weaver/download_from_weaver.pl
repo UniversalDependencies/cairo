@@ -24,6 +24,9 @@ foreach my $language (@languages)
         open(FILE, ">$filename") or die("Cannot write $filename: $!");
         print FILE ($document);
         close(FILE);
+        system("git add $filename");
     }
     system("perl brat2conllu.pl $language.txt $language.ann > $language.conllu");
+    system("git add $language.conllu");
 }
+system("git commit -m 'Downloaded annotation from weaver.nlplab.org.'");

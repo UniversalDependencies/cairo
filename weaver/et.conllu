@@ -1,0 +1,187 @@
+1	Tüdruk	_	Token	_	_	0	_	_	Offset=0-6
+2	kirjutas	_	Token	_	_	0	_	_	Offset=7-15
+3	oma	_	Token	_	_	0	_	_	Offset=16-19
+4	sõbrale	_	Token	_	_	0	_	_	Offset=20-27
+5	kirja	_	Token	_	_	0	_	_	Offset=28-33
+6	.	_	Token	_	_	0	_	_	Offset=34-35
+
+1	Ma	_	Token	_	_	0	_	_	Offset=36-38
+2	arvan	_	Token	_	_	0	_	_	Offset=39-44
+3	,	_	Token	_	_	0	_	_	Offset=45-46
+4	et	_	Token	_	_	0	_	_	Offset=47-49
+5	sajab	_	Token	_	_	0	_	_	Offset=50-55
+6	vihma	_	Token	_	_	0	_	_	Offset=56-61
+7	.	_	Token	_	_	0	_	_	Offset=62-63
+
+1	Ta	_	Token	_	_	0	_	_	Offset=64-66
+2	üritas	_	Token	_	_	0	_	_	Offset=67-73
+3	suitsetamist	_	Token	_	_	0	_	_	Offset=74-86
+4	ja	_	Token	_	_	0	_	_	Offset=87-89
+5	joomist	_	Token	_	_	0	_	_	Offset=90-97
+6	lõpetada	_	Token	_	_	0	_	_	Offset=98-106
+7	.	_	Token	_	_	0	_	_	Offset=107-108
+
+1	Kas	_	Token	_	_	0	_	_	Offset=109-112
+2	sa	_	Token	_	_	0	_	_	Offset=113-115
+3	tahad	_	Token	_	_	0	_	_	Offset=116-121
+4	minna	_	Token	_	_	0	_	_	Offset=122-127
+5	?	_	Token	_	_	0	_	_	Offset=128-129
+
+1	Sam	_	Token	_	_	0	_	_	Offset=130-133
+2	,	_	Token	_	_	0	_	_	Offset=134-135
+3	tee	_	Token	_	_	0	_	_	Offset=136-139
+4	aken	_	Token	_	_	0	_	_	Offset=140-144
+5	lahti	_	Token	_	_	0	_	_	Offset=145-150
+6	!	_	Token	_	_	0	_	_	Offset=151-152
+
+1	Ta	_	Token	_	_	0	_	_	Offset=153-155
+2	pani	_	Token	_	_	0	_	_	Offset=156-160
+3	oma	_	Token	_	_	0	_	_	Offset=161-164
+4	mehe	_	Token	_	_	0	_	_	Offset=165-169
+5	autot	_	Token	_	_	0	_	_	Offset=170-175
+6	pesema	_	Token	_	_	0	_	_	Offset=176-182
+7	.	_	Token	_	_	0	_	_	Offset=183-184
+
+1	Peetri	_	Token	_	_	0	_	_	Offset=185-191
+2	naaber	_	Token	_	_	0	_	_	Offset=192-198
+3	värvis	_	Token	_	_	0	_	_	Offset=199-205
+4	aia	_	Token	_	_	0	_	_	Offset=206-209
+5	punaseks	_	Token	_	_	0	_	_	Offset=210-218
+6	.	_	Token	_	_	0	_	_	Offset=219-220
+
+1	Minu	_	Token	_	_	0	_	_	Offset=221-225
+2	isa	_	Token	_	_	0	_	_	Offset=226-229
+3	on	_	Token	_	_	0	_	_	Offset=230-232
+4	sinu	_	Token	_	_	0	_	_	Offset=233-237
+5	isast	_	Token	_	_	0	_	_	Offset=238-243
+6	lahedam	_	Token	_	_	0	_	_	Offset=244-251
+7	.	_	Token	_	_	0	_	_	Offset=252-253
+
+1	Mary	_	Token	_	_	0	_	_	Offset=254-258
+2	võitis	_	Token	_	_	0	_	_	Offset=259-265
+3	pronksi	_	Token	_	_	0	_	_	Offset=266-273
+4	,	_	Token	_	_	0	_	_	Offset=274-275
+5	Peter	_	Token	_	_	0	_	_	Offset=276-281
+6	hõbeda	_	Token	_	_	0	_	_	Offset=282-288
+7	ning	_	Token	_	_	0	_	_	Offset=289-293
+8	Jane	_	Token	_	_	0	_	_	Offset=294-298
+9	kulla	_	Token	_	_	0	_	_	Offset=299-304
+10	.	_	Token	_	_	0	_	_	Offset=305-306
+
+1	Kas	_	Token	_	_	0	_	_	Offset=307-310
+2	Iguazu	_	Token	_	_	0	_	_	Offset=311-317
+3	on	_	Token	_	_	0	_	_	Offset=318-320
+4	suur	_	Token	_	_	0	_	_	Offset=321-325
+5	või	_	Token	_	_	0	_	_	Offset=326-329
+6	väike	_	Token	_	_	0	_	_	Offset=330-335
+7	maa	_	Token	_	_	0	_	_	Offset=336-339
+8	?	_	Token	_	_	0	_	_	Offset=340-341
+
+1	Kumbagi	_	Token	_	_	0	_	_	Offset=342-349
+2	,	_	Token	_	_	0	_	_	Offset=350-351
+3	nii	_	Token	_	_	0	_	_	Offset=352-355
+4	Peter	_	Token	_	_	0	_	_	Offset=356-361
+5	Smithi	_	Token	_	_	0	_	_	Offset=362-368
+6	ega	_	Token	_	_	0	_	_	Offset=369-372
+7	Mary	_	Token	_	_	0	_	_	Offset=373-377
+8	Browni	_	Token	_	_	0	_	_	Offset=378-384
+9	,	_	Token	_	_	0	_	_	Offset=385-386
+10	ei	_	Token	_	_	0	_	_	Offset=387-389
+11	saadud	_	Token	_	_	0	_	_	Offset=390-396
+12	valida	_	Token	_	_	0	_	_	Offset=397-403
+13	.	_	Token	_	_	0	_	_	Offset=404-405
+
+1	Neil	_	Token	_	_	0	_	_	Offset=406-410
+2	pole	_	Token	_	_	0	_	_	Offset=411-415
+3	aimugi	_	Token	_	_	0	_	_	Offset=416-422
+4	,	_	Token	_	_	0	_	_	Offset=423-424
+5	kes	_	Token	_	_	0	_	_	Offset=425-428
+6	selle	_	Token	_	_	0	_	_	Offset=429-434
+7	kirjutas	_	Token	_	_	0	_	_	Offset=435-443
+8	.	_	Token	_	_	0	_	_	Offset=444-445
+
+1	Mida	_	Token	_	_	0	_	_	Offset=446-450
+2	sa	_	Token	_	_	0	_	_	Offset=451-453
+3	vaatad	_	Token	_	_	0	_	_	Offset=454-460
+4	?	_	Token	_	_	0	_	_	Offset=461-462
+
+1	Millal	_	Token	_	_	0	_	_	Offset=463-469
+2	sa	_	Token	_	_	0	_	_	Offset=470-472
+3	arvad	_	Token	_	_	0	_	_	Offset=473-478
+4	,	_	Token	_	_	0	_	_	Offset=479-480
+5	et	_	Token	_	_	0	_	_	Offset=481-483
+6	saad	_	Token	_	_	0	_	_	Offset=484-488
+7	tulla	_	Token	_	_	0	_	_	Offset=489-494
+8	?	_	Token	_	_	0	_	_	Offset=495-496
+
+1	Ta	_	Token	_	_	0	_	_	Offset=497-499
+2	ostis	_	Token	_	_	0	_	_	Offset=500-505
+3	auto	_	Token	_	_	0	_	_	Offset=506-510
+4	,	_	Token	_	_	0	_	_	Offset=511-512
+5	aga	_	Token	_	_	0	_	_	Offset=513-516
+6	ta	_	Token	_	_	0	_	_	Offset=517-519
+7	vend	_	Token	_	_	0	_	_	Offset=520-524
+8	vaid	_	Token	_	_	0	_	_	Offset=525-529
+9	jalgratta	_	Token	_	_	0	_	_	Offset=530-539
+10	.	_	Token	_	_	0	_	_	Offset=540-541
+
+1	Peter	_	Token	_	_	0	_	_	Offset=542-547
+2	ja	_	Token	_	_	0	_	_	Offset=548-550
+3	Mary	_	Token	_	_	0	_	_	Offset=551-555
+4	kallistasid	_	Token	_	_	0	_	_	Offset=556-567
+5	teineteist	_	Token	_	_	0	_	_	Offset=568-578
+6	ja	_	Token	_	_	0	_	_	Offset=579-581
+7	lahkusid	_	Token	_	_	0	_	_	Offset=582-590
+8	seejärel	_	Token	_	_	0	_	_	Offset=591-599
+9	ruumist	_	Token	_	_	0	_	_	Offset=600-607
+10	.	_	Token	_	_	0	_	_	Offset=608-609
+
+1	Ta	_	Token	_	_	0	_	_	Offset=610-612
+2	oleks	_	Token	_	_	0	_	_	Offset=613-618
+3	pidanud	_	Token	_	_	0	_	_	Offset=619-626
+4	oma	_	Token	_	_	0	_	_	Offset=627-630
+5	juukseid	_	Token	_	_	0	_	_	Offset=631-639
+6	sättima	_	Token	_	_	0	_	_	Offset=640-647
+7	,	_	Token	_	_	0	_	_	Offset=648-649
+8	aga	_	Token	_	_	0	_	_	Offset=650-653
+9	mingil	_	Token	_	_	0	_	_	Offset=654-660
+10	põhjusel	_	Token	_	_	0	_	_	Offset=661-669
+11	ta	_	Token	_	_	0	_	_	Offset=670-672
+12	ei	_	Token	_	_	0	_	_	Offset=673-675
+13	teinud	_	Token	_	_	0	_	_	Offset=676-682
+14	seda	_	Token	_	_	0	_	_	Offset=683-687
+15	tol	_	Token	_	_	0	_	_	Offset=688-691
+16	päeval	_	Token	_	_	0	_	_	Offset=692-698
+17	.	_	Token	_	_	0	_	_	Offset=699-700
+
+1	Ma	_	Token	_	_	0	_	_	Offset=701-703
+2	ei	_	Token	_	_	0	_	_	Offset=704-706
+3	suutnud	_	Token	_	_	0	_	_	Offset=707-714
+4	sammu	_	Token	_	_	0	_	_	Offset=715-720
+5	pidada	_	Token	_	_	0	_	_	Offset=721-727
+6	,	_	Token	_	_	0	_	_	Offset=728-729
+7	sest	_	Token	_	_	0	_	_	Offset=730-734
+8	ta	_	Token	_	_	0	_	_	Offset=735-737
+9	jooksis	_	Token	_	_	0	_	_	Offset=738-745
+10	liiga	_	Token	_	_	0	_	_	Offset=746-751
+11	kiiresti	_	Token	_	_	0	_	_	Offset=752-760
+12	.	_	Token	_	_	0	_	_	Offset=761-762
+
+1	Kiri	_	Token	_	_	0	_	_	Offset=763-767
+2	on	_	Token	_	_	0	_	_	Offset=768-770
+3	Peterilt	_	Token	_	_	0	_	_	Offset=771-779
+4	ja	_	Token	_	_	0	_	_	Offset=780-782
+5	see	_	Token	_	_	0	_	_	Offset=783-786
+6	toodi	_	Token	_	_	0	_	_	Offset=787-792
+7	eile	_	Token	_	_	0	_	_	Offset=793-797
+8	.	_	Token	_	_	0	_	_	Offset=798-799
+
+1	Ta	_	Token	_	_	0	_	_	Offset=800-802
+2	kasvas	_	Token	_	_	0	_	_	Offset=803-809
+3	üles	_	Token	_	_	0	_	_	Offset=810-814
+4	Pariisis	_	Token	_	_	0	_	_	Offset=815-823
+5	,	_	Token	_	_	0	_	_	Offset=824-825
+6	Prantsusmaa	_	Token	_	_	0	_	_	Offset=826-837
+7	pealinnas	_	Token	_	_	0	_	_	Offset=838-847
+8	.	_	Token	_	_	0	_	_	Offset=848-849
+

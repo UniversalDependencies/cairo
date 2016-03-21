@@ -1,0 +1,208 @@
+1	Fata	_	NOUN	_	_	3	nsubj	_	Offset=0-4
+2	i-a	_	PROPN	_	_	3	iobj	_	Offset=5-8
+3	scris	_	VERB	_	_	0	_	_	Offset=9-14
+4	o	_	DET	_	_	5	det	_	Offset=15-16
+5	scrisoare	_	NOUN	_	_	3	dobj	_	Offset=17-26
+6	prietenei	_	NOUN	_	_	3	iobj	_	Offset=27-36
+7	ei	_	ADJ	_	Poss=	6	amod	_	Offset=37-39
+8	.	_	PUNCT	_	_	3	punct	_	Offset=40-41
+
+1	Cred	_	VERB	_	_	0	_	_	Offset=42-46
+2	că	_	CONJ	_	_	0	_	_	Offset=47-49
+3	plouă	_	VERB	_	_	0	_	_	Offset=50-55
+4	.	_	PUNCT	_	_	0	_	_	Offset=56-57
+
+1	A	_	Token	_	_	0	_	_	Offset=58-59
+2	încercat	_	Token	_	_	0	_	_	Offset=60-68
+3	să	_	Token	_	_	0	_	_	Offset=69-71
+4	se	_	Token	_	_	0	_	_	Offset=72-74
+5	oprească	_	Token	_	_	0	_	_	Offset=75-83
+6	din	_	Token	_	_	0	_	_	Offset=84-87
+7	fumat	_	Token	_	_	0	_	_	Offset=88-93
+8	și	_	Token	_	_	0	_	_	Offset=94-96
+9	băut	_	Token	_	_	0	_	_	Offset=97-101
+10	.	_	Token	_	_	0	_	_	Offset=102-103
+
+1	Vrei	_	Token	_	_	0	_	_	Offset=104-108
+2	să	_	Token	_	_	0	_	_	Offset=109-111
+3	mergem	_	Token	_	_	0	_	_	Offset=112-118
+4	?	_	Token	_	_	0	_	_	Offset=119-120
+
+1	Sam	_	Token	_	_	0	_	_	Offset=121-124
+2	,	_	Token	_	_	0	_	_	Offset=125-126
+3	deschide	_	Token	_	_	0	_	_	Offset=127-135
+4	fereastra	_	Token	_	_	0	_	_	Offset=136-145
+5	!	_	Token	_	_	0	_	_	Offset=146-147
+
+1	Și-a	_	Token	_	_	0	_	_	Offset=148-152
+2	făcut	_	Token	_	_	0	_	_	Offset=153-158
+3	soțul	_	Token	_	_	0	_	_	Offset=159-164
+4	să	_	Token	_	_	0	_	_	Offset=165-167
+5	spele	_	Token	_	_	0	_	_	Offset=168-173
+6	mașina	_	Token	_	_	0	_	_	Offset=174-180
+7	.	_	Token	_	_	0	_	_	Offset=181-182
+
+1	Vecinul	_	Token	_	_	0	_	_	Offset=183-190
+2	lui	_	Token	_	_	0	_	_	Offset=191-194
+3	Peter	_	Token	_	_	0	_	_	Offset=195-200
+4	a	_	Token	_	_	0	_	_	Offset=201-202
+5	vopsit	_	Token	_	_	0	_	_	Offset=203-209
+6	gardul	_	Token	_	_	0	_	_	Offset=210-216
+7	în	_	Token	_	_	0	_	_	Offset=217-219
+8	roșu	_	Token	_	_	0	_	_	Offset=220-224
+9	.	_	Token	_	_	0	_	_	Offset=225-226
+
+1	Tatăl	_	Token	_	_	0	_	_	Offset=227-232
+2	meu	_	Token	_	_	0	_	_	Offset=233-236
+3	este	_	Token	_	_	0	_	_	Offset=237-241
+4	mai	_	Token	_	_	0	_	_	Offset=242-245
+5	grozav	_	Token	_	_	0	_	_	Offset=246-252
+6	decât	_	Token	_	_	0	_	_	Offset=253-258
+7	al	_	Token	_	_	0	_	_	Offset=259-261
+8	tău	_	Token	_	_	0	_	_	Offset=262-265
+9	.	_	Token	_	_	0	_	_	Offset=266-267
+
+1	Mary	_	Token	_	_	0	_	_	Offset=268-272
+2	a	_	Token	_	_	0	_	_	Offset=273-274
+3	câștigat	_	Token	_	_	0	_	_	Offset=275-283
+4	bronz	_	Token	_	_	0	_	_	Offset=284-289
+5	,	_	Token	_	_	0	_	_	Offset=290-291
+6	Peter	_	Token	_	_	0	_	_	Offset=292-297
+7	argint	_	Token	_	_	0	_	_	Offset=298-304
+8	,	_	Token	_	_	0	_	_	Offset=305-306
+9	iar	_	Token	_	_	0	_	_	Offset=307-310
+10	Jane	_	Token	_	_	0	_	_	Offset=311-315
+11	aur	_	Token	_	_	0	_	_	Offset=316-319
+12	.	_	Token	_	_	0	_	_	Offset=320-321
+
+1	Iguazu	_	Token	_	_	0	_	_	Offset=322-328
+2	este	_	Token	_	_	0	_	_	Offset=329-333
+3	o	_	Token	_	_	0	_	_	Offset=334-335
+4	țară	_	Token	_	_	0	_	_	Offset=336-340
+5	mare	_	Token	_	_	0	_	_	Offset=341-345
+6	sau	_	Token	_	_	0	_	_	Offset=346-349
+7	mică	_	Token	_	_	0	_	_	Offset=350-354
+8	?	_	Token	_	_	0	_	_	Offset=355-356
+
+1	Nici	_	Token	_	_	0	_	_	Offset=357-361
+2	Peter	_	Token	_	_	0	_	_	Offset=362-367
+3	Smith	_	Token	_	_	0	_	_	Offset=368-373
+4	,	_	Token	_	_	0	_	_	Offset=374-375
+5	nici	_	Token	_	_	0	_	_	Offset=376-380
+6	Mary	_	Token	_	_	0	_	_	Offset=381-385
+7	Brown	_	Token	_	_	0	_	_	Offset=386-391
+8	nu	_	Token	_	_	0	_	_	Offset=392-394
+9	au	_	Token	_	_	0	_	_	Offset=395-397
+10	putut	_	Token	_	_	0	_	_	Offset=398-403
+11	fi	_	Token	_	_	0	_	_	Offset=404-406
+12	selectați	_	Token	_	_	0	_	_	Offset=407-416
+13	.	_	Token	_	_	0	_	_	Offset=417-418
+
+1	Nu	_	Token	_	_	0	_	_	Offset=419-421
+2	au	_	Token	_	_	0	_	_	Offset=422-424
+3	nici	_	Token	_	_	0	_	_	Offset=425-429
+4	o	_	Token	_	_	0	_	_	Offset=430-431
+5	idee	_	Token	_	_	0	_	_	Offset=432-436
+6	despre	_	Token	_	_	0	_	_	Offset=437-443
+7	cine	_	Token	_	_	0	_	_	Offset=444-448
+8	a	_	Token	_	_	0	_	_	Offset=449-450
+9	scris-o	_	Token	_	_	0	_	_	Offset=451-458
+10	.	_	Token	_	_	0	_	_	Offset=459-460
+
+1	La	_	Token	_	_	0	_	_	Offset=461-463
+2	ce	_	Token	_	_	0	_	_	Offset=464-466
+3	te	_	Token	_	_	0	_	_	Offset=467-469
+4	uiți	_	Token	_	_	0	_	_	Offset=470-474
+5	?	_	Token	_	_	0	_	_	Offset=475-476
+
+1	Când	_	Token	_	_	0	_	_	Offset=477-481
+2	crezi	_	Token	_	_	0	_	_	Offset=482-487
+3	că	_	Token	_	_	0	_	_	Offset=488-490
+4	poți	_	Token	_	_	0	_	_	Offset=491-495
+5	veni	_	Token	_	_	0	_	_	Offset=496-500
+6	?	_	Token	_	_	0	_	_	Offset=501-502
+
+1	El	_	Token	_	_	0	_	_	Offset=503-505
+2	a	_	Token	_	_	0	_	_	Offset=506-507
+3	cumpărat	_	Token	_	_	0	_	_	Offset=508-516
+4	o	_	Token	_	_	0	_	_	Offset=517-518
+5	mașină	_	Token	_	_	0	_	_	Offset=519-525
+6	,	_	Token	_	_	0	_	_	Offset=526-527
+7	dar	_	Token	_	_	0	_	_	Offset=528-531
+8	fratele	_	Token	_	_	0	_	_	Offset=532-539
+9	lui	_	Token	_	_	0	_	_	Offset=540-543
+10	doar	_	Token	_	_	0	_	_	Offset=544-548
+11	o	_	Token	_	_	0	_	_	Offset=549-550
+12	bicicletă	_	Token	_	_	0	_	_	Offset=551-560
+13	.	_	Token	_	_	0	_	_	Offset=561-562
+
+1	Peter	_	Token	_	_	0	_	_	Offset=563-568
+2	și	_	Token	_	_	0	_	_	Offset=569-571
+3	Mary	_	Token	_	_	0	_	_	Offset=572-576
+4	s-au	_	Token	_	_	0	_	_	Offset=577-581
+5	îmbrățișat	_	Token	_	_	0	_	_	Offset=582-592
+6	și	_	Token	_	_	0	_	_	Offset=593-595
+7	apoi	_	Token	_	_	0	_	_	Offset=596-600
+8	au	_	Token	_	_	0	_	_	Offset=601-603
+9	părăsit	_	Token	_	_	0	_	_	Offset=604-611
+10	camera	_	Token	_	_	0	_	_	Offset=612-618
+11	.	_	Token	_	_	0	_	_	Offset=619-620
+
+1	Ea	_	Token	_	_	0	_	_	Offset=621-623
+2	ar	_	Token	_	_	0	_	_	Offset=624-626
+3	fi	_	Token	_	_	0	_	_	Offset=627-629
+4	trebuit	_	Token	_	_	0	_	_	Offset=630-637
+5	să-și	_	Token	_	_	0	_	_	Offset=638-643
+6	aranjeze	_	Token	_	_	0	_	_	Offset=644-652
+7	părul	_	Token	_	_	0	_	_	Offset=653-658
+8	,	_	Token	_	_	0	_	_	Offset=659-660
+9	dar	_	Token	_	_	0	_	_	Offset=661-664
+10	din	_	Token	_	_	0	_	_	Offset=665-668
+11	anumite	_	Token	_	_	0	_	_	Offset=669-676
+12	motive	_	Token	_	_	0	_	_	Offset=677-683
+13	nu	_	Token	_	_	0	_	_	Offset=684-686
+14	a	_	Token	_	_	0	_	_	Offset=687-688
+15	făcut-o	_	Token	_	_	0	_	_	Offset=689-696
+16	în	_	Token	_	_	0	_	_	Offset=697-699
+17	acea	_	Token	_	_	0	_	_	Offset=700-704
+18	zi	_	Token	_	_	0	_	_	Offset=705-707
+19	.	_	Token	_	_	0	_	_	Offset=708-709
+
+1	Nu	_	Token	_	_	0	_	_	Offset=710-712
+2	am	_	Token	_	_	0	_	_	Offset=713-715
+3	putut	_	Token	_	_	0	_	_	Offset=716-721
+4	să	_	Token	_	_	0	_	_	Offset=722-724
+5	mențin	_	Token	_	_	0	_	_	Offset=725-731
+6	pasul	_	Token	_	_	0	_	_	Offset=732-737
+7	,	_	Token	_	_	0	_	_	Offset=738-739
+8	pentru	_	Token	_	_	0	_	_	Offset=740-746
+9	că	_	Token	_	_	0	_	_	Offset=747-749
+10	el	_	Token	_	_	0	_	_	Offset=750-752
+11	alerga	_	Token	_	_	0	_	_	Offset=753-759
+12	prea	_	Token	_	_	0	_	_	Offset=760-764
+13	repede	_	Token	_	_	0	_	_	Offset=765-771
+14	.	_	Token	_	_	0	_	_	Offset=772-773
+
+1	Această	_	Token	_	_	0	_	_	Offset=774-781
+2	scrisoare	_	Token	_	_	0	_	_	Offset=782-791
+3	este	_	Token	_	_	0	_	_	Offset=792-796
+4	de	_	Token	_	_	0	_	_	Offset=797-799
+5	la	_	Token	_	_	0	_	_	Offset=800-802
+6	Peter	_	Token	_	_	0	_	_	Offset=803-808
+7	și	_	Token	_	_	0	_	_	Offset=809-811
+8	a	_	Token	_	_	0	_	_	Offset=812-813
+9	fost	_	Token	_	_	0	_	_	Offset=814-818
+10	livrată	_	Token	_	_	0	_	_	Offset=819-826
+11	ieri	_	Token	_	_	0	_	_	Offset=827-831
+12	.	_	Token	_	_	0	_	_	Offset=832-833
+
+1	Ea	_	Token	_	_	0	_	_	Offset=834-836
+2	a	_	Token	_	_	0	_	_	Offset=837-838
+3	crescut	_	Token	_	_	0	_	_	Offset=839-846
+4	în	_	Token	_	_	0	_	_	Offset=847-849
+5	Paris	_	Token	_	_	0	_	_	Offset=850-855
+6	,	_	Token	_	_	0	_	_	Offset=856-857
+7	capitala	_	Token	_	_	0	_	_	Offset=858-866
+8	Franței	_	Token	_	_	0	_	_	Offset=867-874
+9	.	_	Token	_	_	0	_	_	Offset=875-876
+
