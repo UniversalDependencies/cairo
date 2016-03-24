@@ -11,7 +11,7 @@
 4	kiša	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	Offset=54-58
 5	.	_	PUNCT	_	_	1	punct	_	Offset=59-60
 
-1	Pokušao	_	Token	_	_	0	_	_	Offset=61-68
+1	Pokušao	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	_	_	Offset=61-68
 2	je	_	Token	_	_	1	aux	_	Offset=69-71
 3	da	_	Token	_	_	4	mark	_	Offset=72-74
 4	prestane	_	Token	_	_	0	_	_	Offset=75-83

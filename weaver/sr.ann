@@ -54,7 +54,7 @@ T53	Token 84 86	da
 T54	Token 87 91	puši
 T55	NOUN 54 58	kiša
 T56	PUNCT 59 60	.
-T57	Token 61 68	Pokušao
+T57	VERB 61 68	Pokušao
 T58	Token 69 71	je
 T59	Token 92 93	i
 T60	Token 94 98	pije
@@ -268,3 +268,9 @@ A32	Case T94 Nom
 A33	Animacy T94 Nhum
 A34	Gender T94 Masc
 A35	Number T94 Sing
+A36	Gender T57 Masc
+A37	Number T57 Sing
+A38	Person T57 3
+A39	Tense T57 Past
+A40	Aspect T57 Perf
+A41	Voice T57 Act
