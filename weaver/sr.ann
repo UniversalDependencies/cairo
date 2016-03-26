@@ -1,11 +1,11 @@
 T1	Token 705 708	Ovo
 T2	Token 709 711	je
-T3	Token 695 702	prebrzo
-T4	Token 703 704	.
-T5	Token 721 727	Pitera
+T3	ADV 695 702	prebrzo
+T4	PUNCT 703 704	.
+T5	PROPN 721 727	Pitera
 T6	DET 728 732	koje
-T7	Token 712 717	pismo
-T8	Token 718 720	od
+T7	NOUN 712 717	pismo
+T8	ADP 718 720	od
 T9	Token 733 735	je
 T10	Token 736 743	uručeno
 T11	Token 338 342	mala
@@ -18,29 +18,29 @@ T17	PUNCT 350 351	?
 T18	Token 352 354	Ni
 T19	Token 366 368	ni
 T20	Token 369 373	Meri
-T21	Token 689 694	trčao
-T22	Token 686 688	je
-T23	Token 675 676	s
-T24	Token 669 674	korak
+T21	VERB 689 694	trčao
+T22	AUX 686 688	je
+T23	ADP 675 676	s
+T24	NOUN 669 674	korak
 T25	Token 682 685	jer
-T26	Token 677 681	njim
+T26	PRON 677 681	njim
 T27	Token 654 659	mogao
 T28	Token 648 653	Nisam
-T29	Token 663 668	držim
+T29	VERB 663 668	držim
 T30	Token 660 662	da
 T31	Token 423 425	je
 T32	PRON 420 422	ko
 T33	Token 414 419	pojma
 T34	Token 407 413	Nemaju
-T35	Token 405 406	.
+T35	PUNCT 405 406	.
 T36	Token 396 404	izabrani
 T37	Token 391 395	biti
 T38	Token 385 390	mogli
 T39	Token 380 384	nisu
 T40	Token 374 379	Braun
 T41	Token 641 645	dana
-T42	Token 646 647	.
-T43	Token 603 604	,
+T42	PUNCT 646 647	.
+T43	PUNCT 603 604	,
 T44	Token 605 608	ali
 T45	Token 609 611	iz
 T46	Token 612 617	nekog
@@ -48,28 +48,28 @@ T47	Token 618 625	razloga
 T48	Token 626 630	nije
 T49	Token 631 636	htela
 T50	Token 637 640	tog
-T51	Token 72 74	da
-T52	Token 75 83	prestane
-T53	Token 84 86	da
-T54	Token 87 91	puši
+T51	SCONJ 72 74	da
+T52	VERB 75 83	prestane
+T53	SCONJ 84 86	da
+T54	VERB 87 91	puši
 T55	NOUN 54 58	kiša
 T56	PUNCT 59 60	.
 T57	VERB 61 68	Pokušao
-T58	Token 69 71	je
-T59	Token 92 93	i
-T60	Token 94 98	pije
-T61	Token 46 48	da
+T58	AUX 69 71	je
+T59	CONJ 92 93	i
+T60	VERB 94 98	pije
+T61	SCONJ 46 48	da
 T62	VERB 49 53	pada
 T63	NOUN 0 7	Devojka
 T64	Token 458 464	misliš
-T65	Token 465 466	,
+T65	PUNCT 465 466	,
 T66	Token 441 444	šta
 T67	Token 445 451	gledaš
-T68	Token 452 453	?
+T68	PUNCT 452 453	?
 T69	Token 454 457	Šta
 T70	Token 426 428	to
 T71	Token 429 436	napisao
-T72	Token 437 438	.
+T72	PUNCT 437 438	.
 T73	Token 439 440	U
 T74	Token 598 602	kosu
 T75	Token 590 597	sređuje
@@ -80,43 +80,43 @@ T79	Token 557 558	i
 T80	Token 587 589	da
 T81	Token 584 586	je
 T82	Token 576 583	Trebalo
-T83	Token 574 575	.
-T84	Token 134 140	prozor
-T85	Token 127 133	otvori
-T86	Token 101 106	Želiš
+T83	PUNCT 574 575	.
+T84	NOUN 134 140	prozor
+T85	VERB 127 133	otvori
+T86	VERB 101 106	Želiš
 T87	PUNCT 99 100	.
-T88	Token 110 112	da
-T89	Token 107 109	li
+T88	SCONJ 110 112	da
+T89	PART 107 109	li
 T90	PUNCT 118 119	?
-T91	Token 113 117	ideš
-T92	Token 125 126	,
+T91	VERB 113 117	ideš
+T92	PUNCT 125 126	,
 T93	PROPN 120 124	Seme
 T94	ADJ 176 183	Piterov
-T95	Token 184 191	komšija
-T96	Token 169 173	kola
-T97	Token 174 175	.
-T98	Token 160 162	da
-T99	Token 163 168	opere
-T100	Token 152 154	je
-T101	Token 155 159	muža
-T102	Token 141 142	!
-T103	Token 143 151	Naterala
+T95	NOUN 184 191	komšija
+T96	NOUN 169 173	kola
+T97	PUNCT 174 175	.
+T98	SCONJ 160 162	da
+T99	VERB 163 168	opere
+T100	AUX 152 154	je
+T101	NOUN 155 159	muža
+T102	PUNCT 141 142	!
+T103	VERB 143 151	Naterala
 T104	Token 233 237	više
 T105	Token 230 232	je
-T106	Token 210 211	u
-T107	Token 203 209	ogradu
-T108	Token 200 202	je
-T109	Token 192 199	ofarbao
-T110	Token 225 229	tata
+T106	ADP 210 211	u
+T107	NOUN 203 209	ogradu
+T108	AUX 200 202	je
+T109	VERB 192 199	ofarbao
+T110	NOUN 225 229	tata
 T111	Token 221 224	Moj
-T112	Token 219 220	.
+T112	PUNCT 219 220	.
 T113	Token 212 218	crveno
 T114	Token 537 541	Meri
 T115	Token 542 544	su
 T116	Token 529 534	Piter
 T117	Token 535 536	i
 T118	Token 520 526	bicikl
-T119	Token 527 528	.
+T119	PUNCT 527 528	.
 T120	Token 510 514	brat
 T121	Token 515 519	samo
 T122	Token 545 547	se
@@ -126,37 +126,37 @@ T125	PROPN 280 285	Piter
 T126	Token 238 241	kul
 T127	Token 242 246	nego
 T128	Token 247 251	tvoj
-T129	Token 252 253	.
+T129	PUNCT 252 253	.
 T130	PROPN 254 258	Meri
 T131	Token 259 261	je
 T132	Token 262 270	osvojila
 T133	Token 271 277	bronzu
 T134	Token 472 477	možeš
 T135	Token 467 471	kada
-T136	Token 483 484	?
+T136	PUNCT 483 484	?
 T137	Token 478 482	doći
 T138	Token 491 493	je
 T139	Token 485 490	Kupio
-T140	Token 499 500	,
+T140	PUNCT 499 500	,
 T141	Token 494 498	kola
 T142	Token 503 509	njegov
 T143	Token 501 502	a
-T144	Token 773 783	francuskoj
-T145	Token 771 772	,
-T146	Token 764 770	Parizu
-T147	Token 762 763	u
-T148	Token 759 761	je
-T149	Token 751 758	Odrasla
-T150	Token 749 750	.
-T151	Token 744 748	juče
+T144	ADJ 773 783	francuskoj
+T145	PUNCT 771 772	,
+T146	NOUN 764 770	Parizu
+T147	ADP 762 763	u
+T148	AUX 759 761	je
+T149	VERB 751 758	Odrasla
+T150	PUNCT 749 750	.
+T151	ADV 744 748	juče
 T152	PUNCT 37 38	.
 T153	VERB 39 45	Mislim
 T154	NOUN 20 25	pismo
 T155	NOUN 26 36	prijatelju
 T156	VERB 8 10	je
 T157	VERB 11 19	napisala
-T158	Token 795 796	.
-T159	Token 784 794	prestonici
+T158	PUNCT 795 796	.
+T159	NOUN 784 794	prestonici
 T160	Token 320 326	Igvazu
 T161	Token 317 319	je
 T162	PUNCT 309 310	.
@@ -175,27 +175,22 @@ A5	Case T154 Acc
 A6	Animacy T154 Inan
 A7	Gender T154 Neut
 A8	Number T154 Sing
-A9	Animacy T153 Nhum
-A10	Number T153 Sing
 A11	Person T153 1
 A12	Tense T153 Pres
 A13	Aspect T153 Imp
 A14	Voice T153 Act
-A15	Number T62 Sing
 A16	Tense T62 Pres
 A17	Aspect T62 Imp
 A18	Voice T62 Act
 A19	Case T55 Nom
 A20	Gender T55 Fem
 A21	Number T55 Sing
-A22	Animacy T157 Nhum
-A23	Gender T157 Fem
 A24	Negative T157 Pos
 A25	Tense T157 Past
 A26	Aspect T157 Perf
 A27	Voice T157 Act
 A28	Case T155 Dat
-A29	Animacy T155 Nhum
+A29	Animacy T155 Anim
 A30	Gender T155 Masc
 A31	Number T155 Sing
 R1	nsubj Arg1:T157 Arg2:T63	
@@ -265,12 +260,198 @@ R64	cc Arg1:T13 Arg2:T14
 R65	cc Arg1:T116 Arg2:T117	
 R66	cc Arg1:T123 Arg2:T79	
 A32	Case T94 Nom
-A33	Animacy T94 Nhum
+A33	Animacy T94 Anim
 A34	Gender T94 Masc
 A35	Number T94 Sing
 A36	Gender T57 Masc
-A37	Number T57 Sing
 A38	Person T57 3
 A39	Tense T57 Past
 A40	Aspect T57 Perf
 A41	Voice T57 Act
+A43	Mood T149 Ind
+A46	Negative T149 Pos
+A47	Person T149 3
+A48	Tense T149 Past
+A49	Voice T149 Act
+A50	Case T147 Loc
+A51	Case T146 Loc
+A52	Animacy T146 Inan
+A53	Gender T146 Masc
+A54	Negative T146 Pos
+A55	Number T146 Sing
+A56	Case T144 Loc
+A57	Animacy T144 Inan
+A58	Gender T144 Fem
+A59	Negative T144 Pos
+A60	Number T144 Sing
+A61	Case T159 Loc
+A62	Animacy T159 Inan
+A63	Gender T159 Fem
+A64	Negative T159 Pos
+A65	Number T159 Sing
+A66	Case T7 Nom
+A67	Animacy T7 Inan
+A68	Gender T7 Neut
+A69	Negative T7 Pos
+A70	Number T7 Sing
+A71	Case T8 Gen
+A72	Case T5 Gen
+A73	Animacy T5 Anim
+A74	Gender T5 Masc
+A75	Negative T5 Pos
+A76	Number T5 Sing
+A77	Negative T3 Pos
+A78	Degree T3 Abs
+A79	Animacy T21 Anim
+A80	Gender T21 Masc
+A81	Negative T21 Pos
+A82	Number T21 Sing
+A83	Person T21 3
+A84	Tense T21 Past
+A85	Aspect T21 Imp
+A86	Voice T21 Act
+A87	Case T23 Ins
+A88	Case T26 Ins
+A89	Animacy T26 Anim
+A90	PronType T26 Prs
+A91	Gender T26 Masc
+A92	Number T26 Sing
+A93	Person T26 3
+A94	Case T24 Acc
+A95	Animacy T24 Inan
+A96	Gender T24 Masc
+A97	Number T24 Sing
+A98	Mood T29 Ind
+A99	Person T29 1
+A100	Tense T29 Pres
+A101	Aspect T29 Imp
+A102	Voice T29 Act
+A42	Aspect T149 Perf
+A44	VerbForm T149 Part
+A22	Mood T157 Ind
+A23	Person T157 3
+A45	VerbForm T157 Part
+A9	Mood T153 Ind
+A10	Negative T153 Pos
+A103	VerbForm T153 Fin
+A15	Mood T62 Ind
+A104	Negative T62 Pos
+A105	Person T62 3
+A106	VerbForm T62 Fin
+A107	Animacy T55 Inan
+A37	Mood T57 Ind
+A108	Negative T57 Pos
+A109	VerbForm T57 Part
+A110	Mood T52 Ind
+A111	Negative T52 Pos
+A112	Person T52 3
+A113	Aspect T52 Perf
+A114	Voice T52 Act
+A115	VerbForm T52 Fin
+A116	Mood T54 Ind
+A117	Negative T54 Pos
+A118	Person T54 3
+A119	Tense T54 Pres
+A120	Aspect T54 Imp
+A121	Voice T54 Act
+A122	VerbForm T54 Fin
+A123	Mood T60 Ind
+A124	Negative T60 Pos
+A125	Person T60 3
+A126	Tense T60 Pres
+A127	Aspect T60 Imp
+A128	Voice T60 Act
+A129	VerbForm T60 Fin
+A130	Mood T86 Ind
+A131	Negative T86 Pos
+A132	Person T86 2
+A133	Tense T86 Pres
+A134	Aspect T86 Imp
+A135	Voice T86 Act
+A136	VerbForm T86 Fin
+A137	Mood T91 Ind
+A138	Negative T91 Pos
+A139	Person T91 2
+A140	Tense T91 Pres
+A141	Aspect T91 Imp
+A142	Voice T91 Act
+A143	VerbForm T91 Fin
+A144	Mood T85 Ind
+A145	Negative T85 Pos
+A146	Person T85 3
+A147	Tense T85 Pres
+A148	Aspect T85 Perf
+A149	Voice T85 Act
+A150	VerbForm T85 Fin
+A151	Case T84 Acc
+A152	Animacy T84 Inan
+A153	Gender T84 Masc
+A154	Number T84 Sing
+A155	Case T93 Voc
+A156	Animacy T93 Anim
+A157	Gender T93 Masc
+A158	Number T93 Sing
+A159	Mood T58 Ind
+A160	Number T58 Sing
+A161	Negative T58 Pos
+A162	Person T58 3
+A163	Tense T58 Pres
+A164	Aspect T58 Imp
+A165	Voice T58 Act
+A166	VerbForm T58 Fin
+A167	Mood T103 Ind
+A168	Negative T103 Pos
+A169	Person T103 3
+A170	Tense T103 Past
+A171	Aspect T103 Perf
+A172	Voice T103 Act
+A173	VerbForm T103 Part
+A174	Mood T100 Ind
+A175	Negative T100 Pos
+A176	Person T100 3
+A177	Tense T100 Pres
+A178	Aspect T100 Imp
+A179	Voice T100 Act
+A180	VerbForm T100 Fin
+A181	Case T101 Acc
+A182	Animacy T101 Anim
+A183	Gender T101 Masc
+A184	Number T101 Sing
+A185	Mood T99 Ind
+A186	Negative T99 Pos
+A187	Person T99 3
+A188	Tense T99 Pres
+A189	Aspect T99 Perf
+A190	Voice T99 Act
+A191	VerbForm T99 Fin
+A192	Case T96 Acc
+A193	Animacy T96 Inan
+A194	Gender T96 Fem
+A195	Number T96 Sing
+A196	Case T95 Nom
+A197	Animacy T95 Anim
+A198	Gender T95 Masc
+A199	Number T95 Sing
+A200	Mood T109 Ind
+A201	Negative T109 Pos
+A202	Person T109 3
+A203	Tense T109 Past
+A204	Aspect T109 Perf
+A205	Voice T109 Act
+A206	VerbForm T109 Part
+A207	Mood T108 Ind
+A208	Negative T108 Pos
+A209	Person T108 3
+A210	Tense T108 Pres
+A211	Aspect T108 Imp
+A212	Voice T108 Act
+A213	VerbForm T108 Fin
+A214	Case T107 Acc
+A215	Animacy T107 Inan
+A216	Gender T107 Fem
+A217	Number T107 Sing
+A218	Case T106 Acc
+A219	Case T110 Nom
+A220	Animacy T110 Anim
+A221	Gender T110 Masc
+A222	Number T110 Sing
