@@ -710,3 +710,16 @@ A477	VerbForm T29 Fin
 A79	Mood T21 Ind
 A80	VerbForm T21 Part
 R67	csubj Arg1:T153 Arg2:T62	
+R68	punct Arg1:T38 Arg2:T35	
+R69	conj Arg1:T34 Arg2:T72	
+R70	punct Arg1:T67 Arg2:T68	
+R71	punct Arg1:T64 Arg2:T136	
+R72	punct Arg1:T139 Arg2:T119	
+R73	punct Arg1:T123 Arg2:T83	
+R74	punct Arg1:T82 Arg2:T42	
+R75	punct Arg1:T27 Arg2:T4	
+R76	punct Arg1:T149 Arg2:T158	
+R77	nsubj Arg1:T10 Arg2:T7	
+R78	nsubj Arg1:T123 Arg2:T114	
+R79	nsubj Arg1:T123 Arg2:T116	
+R80	nsubj Arg1:T139 Arg2:T120	

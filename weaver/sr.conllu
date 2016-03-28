@@ -92,7 +92,7 @@
 8	mogli	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=385-390
 9	biti	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|VerbForm=Inf|Voice=Act	10	auxpass	_	Offset=391-395
 10	izabrani	_	Token	_	_	0	_	_	Offset=396-404
-11	.	_	PUNCT	_	_	0	_	_	Offset=405-406
+11	.	_	PUNCT	_	_	8	punct	_	Offset=405-406
 
 1	Nemaju	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Neg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=407-413
 2	pojma	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	_	_	Offset=414-419
@@ -100,12 +100,12 @@
 4	je	_	AUX	_	Aspect=Imp|Mood=Ind|Negative=Pos|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	Offset=423-425
 5	to	_	Token	_	_	0	_	_	Offset=426-428
 6	napisao	_	VERB	_	Aspect=Perf|Mood=Ind|Negative=Pos|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=429-436
-7	.	_	PUNCT	_	_	0	_	_	Offset=437-438
+7	.	_	PUNCT	_	_	1	conj	_	Offset=437-438
 
 1	U	_	ADP	_	_	2	case	_	Offset=439-440
 2	šta	_	Token	_	_	0	_	_	Offset=441-444
 3	gledaš	_	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=445-451
-4	?	_	PUNCT	_	_	0	_	_	Offset=452-453
+4	?	_	PUNCT	_	_	3	punct	_	Offset=452-453
 
 1	Šta	_	Token	_	_	0	_	_	Offset=454-457
 2	misliš	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=458-464
@@ -113,7 +113,7 @@
 4	kada	_	ADV	_	_	0	_	_	Offset=467-471
 5	možeš	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Neg|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=472-477
 6	doći	_	Token	_	_	0	_	_	Offset=478-482
-7	?	_	PUNCT	_	_	0	_	_	Offset=483-484
+7	?	_	PUNCT	_	_	2	punct	_	Offset=483-484
 
 1	Kupio	_	VERB	_	Aspect=Perf|Mood=Ind|Negative=Pos|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=485-490
 2	je	_	AUX	_	Aspect=Imp|Mood=Ind|Negative=Pos|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	Offset=491-493
@@ -121,14 +121,14 @@
 4	,	_	PUNCT	_	_	0	_	_	Offset=499-500
 5	a	_	CONJ	_	_	0	_	_	Offset=501-502
 6	njegov	_	Token	_	_	0	_	_	Offset=503-509
-7	brat	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=510-514
+7	brat	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Offset=510-514
 8	samo	_	Token	_	_	0	_	_	Offset=515-519
 9	bicikl	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	_	_	Offset=520-526
-10	.	_	PUNCT	_	_	0	_	_	Offset=527-528
+10	.	_	PUNCT	_	_	1	punct	_	Offset=527-528
 
-1	Piter	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=529-534
+1	Piter	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Offset=529-534
 2	i	_	CONJ	_	_	1	cc	_	Offset=535-536
-3	Meri	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	Offset=537-541
+3	Meri	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	conj	6:nsubj	Offset=537-541
 4	su	_	AUX	_	Aspect=Imp|Mood=Ind|Negative=Pos|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=542-544
 5	se	_	Token	_	_	0	_	_	Offset=545-547
 6	zagrlili	_	VERB	_	Aspect=Perf|Mood=Ind|Negative=Pos|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=548-556
@@ -136,7 +136,7 @@
 8	izašli	_	VERB	_	Aspect=Perf|Mood=Ind|Negative=Pos|Person=3|Tense=Past|VerbForm=Part|Voice=Act	6	conj	_	Offset=559-565
 9	iz	_	ADP	_	Case=Gen	10	case	_	Offset=566-568
 10	sobe	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	_	_	Offset=569-573
-11	.	_	PUNCT	_	_	0	_	_	Offset=574-575
+11	.	_	PUNCT	_	_	6	punct	_	Offset=574-575
 
 1	Trebalo	_	Token	_	_	0	_	_	Offset=576-583
 2	je	_	Token	_	_	0	_	_	Offset=584-586
@@ -152,7 +152,7 @@
 12	htela	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=631-636
 13	tog	_	Token	_	_	0	_	_	Offset=637-640
 14	dana	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	_	_	Offset=641-645
-15	.	_	PUNCT	_	_	0	_	_	Offset=646-647
+15	.	_	PUNCT	_	_	1	punct	_	Offset=646-647
 
 1	Nisam	_	AUX	_	Aspect=Imp|Mood=Ind|Negative=Neg|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	neg	2:aux	Offset=648-653
 2	mogao	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=654-659
@@ -165,11 +165,11 @@
 9	je	_	AUX	_	_	10	aux	_	Offset=686-688
 10	trčao	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=689-694
 11	prebrzo	_	ADV	_	Degree=Abs|Negative=Pos	0	_	_	Offset=695-702
-12	.	_	PUNCT	_	_	0	_	_	Offset=703-704
+12	.	_	PUNCT	_	_	2	punct	_	Offset=703-704
 
 1	Ovo	_	Token	_	_	0	_	_	Offset=705-708
 2	je	_	Token	_	_	0	_	_	Offset=709-711
-3	pismo	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	0	_	_	Offset=712-717
+3	pismo	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	8	nsubj	_	Offset=712-717
 4	od	_	ADP	_	Case=Gen	5	case	_	Offset=718-720
 5	Pitera	_	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	0	_	_	Offset=721-727
 6	koje	_	DET	_	_	8	mark	_	Offset=728-732
@@ -185,5 +185,5 @@
 5	,	_	PUNCT	_	_	0	_	_	Offset=771-772
 6	francuskoj	_	ADJ	_	Animacy=Inan|Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	7	amod	_	Offset=773-783
 7	prestonici	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	4	appos	_	Offset=784-794
-8	.	_	PUNCT	_	_	0	_	_	Offset=795-796
+8	.	_	PUNCT	_	_	1	punct	_	Offset=795-796
 
