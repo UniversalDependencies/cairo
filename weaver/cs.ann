@@ -145,7 +145,7 @@ T144	Token 20 27	příteli
 T145	Token 28 29	.
 T146	Token 6 13	napsala
 T147	Token 14 19	dopis
-T148	Token 0 5	Dívka
+T148	NOUN 0 5	Dívka
 T149	Token 338 339	,
 T150	Token 332 337	Smith
 T151	Token 315 321	vybrán
@@ -156,3 +156,6 @@ T155	Token 297 301	země
 T156	Token 292 296	malá
 T157	Token 304 310	Nemohl
 T158	Token 302 303	?
+A1	Case T148 Nom
+A2	Gender T148 Fem
+A3	Number T148 Sing

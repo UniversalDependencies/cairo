@@ -1,4 +1,4 @@
-1	Dívka	_	Token	_	_	0	_	_	Offset=0-5
+1	Dívka	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	Offset=0-5
 2	napsala	_	Token	_	_	0	_	_	Offset=6-13
 3	dopis	_	Token	_	_	0	_	_	Offset=14-19
 4	příteli	_	Token	_	_	0	_	_	Offset=20-27
