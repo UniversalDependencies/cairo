@@ -41,14 +41,13 @@
 6	kola	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	_	_	Offset=169-173
 7	.	_	PUNCT	_	_	1	punct	_	Offset=174-175
 
-1	Piterov	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=176-183
-2	komšija	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=184-191
-3	ofarbao	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=192-199
-4	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Offset=200-202
-5	ogradu	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	_	_	Offset=203-209
-6	u	_	ADP	_	Case=Acc	7	case	_	Offset=210-211
-7	crveno	_	Token	_	_	0	_	_	Offset=212-218
-8	.	_	PUNCT	_	_	3	punct	_	Offset=219-220
+1	komšija	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=184-191
+2	ofarbao	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=192-199
+3	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	Offset=200-202
+4	ogradu	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	_	_	Offset=203-209
+5	u	_	ADP	_	Case=Acc	6	case	_	Offset=210-211
+6	crveno	_	Token	_	_	0	_	_	Offset=212-218
+7	.	_	PUNCT	_	_	2	punct	_	Offset=219-220
 
 1	Moj	_	Token	_	_	0	_	_	Offset=221-224
 2	tata	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=225-229
