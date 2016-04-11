@@ -6,7 +6,7 @@
 
 1	Myslím	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=30-36
 2	,	_	PUNCT	_	_	0	_	_	Offset=37-38
-3	že	_	SCONJ	_	_	0	_	_	Offset=39-41
+3	že	_	SCONJ	_	_	4	mark	_	Offset=39-41
 4	prší	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Offset=42-46
 5	.	_	PUNCT	_	_	1	punct	_	Offset=47-48
 
@@ -39,7 +39,7 @@
 3	natřel	_	VERB	_	Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=160-166
 4	plot	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	dobj	_	Offset=167-171
 5	na	_	ADP	_	_	0	_	_	Offset=172-174
-6	červeno	_	ADV	_	_	3	acl	_	Offset=175-182
+6	červeno	_	ADV	_	_	3	xcomp	_	Offset=175-182
 7	.	_	PUNCT	_	_	3	punct	_	Offset=183-184
 
 1	Můj	_	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=	2	amod	_	Offset=185-188
@@ -99,15 +99,15 @@
 1	Kdy	_	ADV	_	PronType=Int	6	nmod	_	Offset=406-409
 2	myslíš	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=410-416
 3	,	_	PUNCT	_	_	6	punct	_	Offset=417-418
-4	že	_	SCONJ	_	_	0	_	_	Offset=419-421
-5	můžeš	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=422-427
+4	že	_	SCONJ	_	_	5	mark	_	Offset=419-421
+5	můžeš	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	Offset=422-427
 6	přijít	_	VERB	_	Aspect=Perf|Negative=Pos|VerbForm=Inf	0	_	_	Offset=428-434
 7	?	_	PUNCT	_	_	2	punct	_	Offset=435-436
 
 1	Koupil	_	VERB	_	Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=437-443
 2	si	_	PRON	_	Case=Dat|PronType=Prs|Reflex=	1	iobj	_	Offset=444-446
 3	auto	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dobj	_	Offset=447-451
-4	,	_	PUNCT	_	_	3	punct	_	Offset=452-453
+4	,	_	PUNCT	_	_	0	_	_	Offset=452-453
 5	ale	_	CONJ	_	_	0	_	_	Offset=454-457
 6	jeho	_	DET	_	Gender=Masc|Poss=|PronType=Prs	7	det	_	Offset=458-462
 7	bratr	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=463-468
@@ -115,32 +115,32 @@
 9	motorku	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	_	_	Offset=473-480
 10	.	_	PUNCT	_	_	1	punct	_	Offset=481-482
 
-1	Petr	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc	0	_	_	Offset=483-487
-2	a	_	CONJ	_	_	0	_	_	Offset=488-489
-3	Marie	_	PROPN	_	Case=Nom|Gender=Fem	0	_	_	Offset=490-495
+1	Petr	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc	5	nsubj	_	Offset=483-487
+2	a	_	CONJ	_	_	1	cc	_	Offset=488-489
+3	Marie	_	PROPN	_	Case=Nom|Gender=Fem	1	conj	_	Offset=490-495
 4	se	_	PRON	_	Case=Acc|PronType=Prs|Reflex=	0	_	_	Offset=496-498
 5	objali	_	VERB	_	Aspect=Perf|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=499-505
-6	a	_	CONJ	_	_	0	_	_	Offset=506-507
+6	a	_	CONJ	_	_	5	cc	_	Offset=506-507
 7	pak	_	ADV	_	_	0	_	_	Offset=508-511
-8	odešli	_	VERB	_	Aspect=Perf|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=512-518
-9	z	_	ADP	_	_	0	_	_	Offset=519-520
+8	odešli	_	VERB	_	Aspect=Perf|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part|Voice=Act	5	csubj	_	Offset=512-518
+9	z	_	ADP	_	_	10	case	_	Offset=519-520
 10	pokoje	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	_	_	Offset=521-527
-11	.	_	PUNCT	_	_	0	_	_	Offset=528-529
+11	.	_	PUNCT	_	_	5	punct	_	Offset=528-529
 
 1	Byla	_	VERB	_	Aspect=Imp|Gender=Fem|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=530-534
 2	by	_	AUX	_	Aspect=Imp|Number=Sing|Person=3	0	_	_	Offset=535-537
-3	si	_	PRON	_	Case=Dat|PronType=Prs|Reflex=	0	_	_	Offset=538-540
+3	si	_	PRON	_	Case=Dat|PronType=Prs|Reflex=	5	iobj	_	Offset=538-540
 4	měla	_	VERB	_	Aspect=Imp|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=541-545
 5	dělat	_	VERB	_	Negative=Pos|VerbForm=Inf	0	_	_	Offset=546-551
-6	účes	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	_	_	Offset=552-556
+6	účes	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	Offset=552-556
 7	,	_	PUNCT	_	_	0	_	_	Offset=557-558
 8	ale	_	CONJ	_	_	0	_	_	Offset=559-562
-9	z	_	ADP	_	_	0	_	_	Offset=563-564
-10	nějakého	_	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	0	_	_	Offset=565-573
+9	z	_	ADP	_	_	11	case	_	Offset=563-564
+10	nějakého	_	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	Offset=565-573
 11	důvodu	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	_	_	Offset=574-580
-12	to	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	Offset=581-583
-13	toho	_	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	0	_	_	Offset=584-588
-14	dne	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	_	_	Offset=589-592
+12	to	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	15	dobj	_	Offset=581-583
+13	toho	_	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	Offset=584-588
+14	dne	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	advmod	_	Offset=589-592
 15	nedělala	_	VERB	_	Aspect=Imp|Gender=Fem|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=593-601
 16	.	_	PUNCT	_	_	0	_	_	Offset=602-603
 
@@ -148,13 +148,13 @@
 2	jsem	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Tense=Pres|VerbForm=Fin	0	_	_	Offset=610-614
 3	schopen	_	Token	_	_	0	_	_	Offset=615-622
 4	držet	_	VERB	_	Negative=Pos|VerbForm=Inf	0	_	_	Offset=623-628
-5	krok	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	_	_	Offset=629-633
+5	krok	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	dobj	_	Offset=629-633
 6	,	_	PUNCT	_	_	0	_	_	Offset=634-635
-7	protože	_	SCONJ	_	_	0	_	_	Offset=636-643
-8	běžel	_	VERB	_	Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=644-649
-9	příliš	_	ADV	_	_	0	_	_	Offset=650-656
+7	protože	_	SCONJ	_	_	8	mark	_	Offset=636-643
+8	běžel	_	VERB	_	Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	Offset=644-649
+9	příliš	_	ADV	_	_	10	advmod	_	Offset=650-656
 10	rychle	_	ADV	_	Degree=Pos	0	_	_	Offset=657-663
-11	.	_	PUNCT	_	_	0	_	_	Offset=664-665
+11	.	_	PUNCT	_	_	4	punct	_	Offset=664-665
 
 1	Tento	_	DET	_	_	2	det	_	Offset=666-671
 2	dopis	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Offset=672-677

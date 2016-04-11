@@ -3,19 +3,19 @@
 3	napisala	_	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=11-19
 4	pismo	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	dobj	_	Offset=20-25
 5	prijatelju	_	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	Offset=26-36
-6	.	_	PUNCT	_	_	0	_	_	Offset=37-38
+6	.	_	PUNCT	_	_	3	punct	_	Offset=37-38
 
 1	Mislim	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	Offset=39-45
 2	da	_	SCONJ	_	_	3	mark	_	Offset=46-48
-3	pada	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	xcomp	1:csubj	Offset=49-53
-4	kiša	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	Offset=54-58
+3	pada	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	xcomp	_	Offset=49-53
+4	kiša	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Offset=54-58
 5	.	_	PUNCT	_	_	1	punct	_	Offset=59-60
 
 1	Pokušao	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=61-68
 2	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	Offset=69-71
 3	da	_	SCONJ	_	_	4	mark	_	Offset=72-74
-4	prestane	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	Offset=75-83
-5	da	_	SCONJ	_	_	0	_	_	Offset=84-86
+4	prestane	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	xcomp	_	Offset=75-83
+5	da	_	SCONJ	_	_	6	mark	_	Offset=84-86
 6	puši	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	Offset=87-91
 7	i	_	CONJ	_	_	6	cc	_	Offset=92-93
 8	pije	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	Offset=94-98
@@ -23,53 +23,53 @@
 
 1	Želiš	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	Offset=101-106
 2	li	_	PART	_	_	0	_	_	Offset=107-109
-3	da	_	SCONJ	_	_	0	_	_	Offset=110-112
+3	da	_	SCONJ	_	_	4	mark	_	Offset=110-112
 4	ideš	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	Offset=113-117
 5	?	_	PUNCT	_	_	1	punct	_	Offset=118-119
 
 1	Seme	_	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	Offset=120-124
 2	,	_	PUNCT	_	_	0	_	_	Offset=125-126
 3	otvori	_	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	Offset=127-133
-4	prozor	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	_	_	Offset=134-140
+4	prozor	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	dobj	_	Offset=134-140
 5	!	_	PUNCT	_	_	3	punct	_	Offset=141-142
 
 1	Naterala	_	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=143-151
 2	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	Offset=152-154
-3	muža	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	_	_	Offset=155-159
+3	muža	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	dobj	_	Offset=155-159
 4	da	_	SCONJ	_	_	5	mark	_	Offset=160-162
-5	opere	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	Offset=163-168
-6	kola	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	_	_	Offset=169-173
+5	opere	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	xcomp	_	Offset=163-168
+6	kola	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	dobj	_	Offset=169-173
 7	.	_	PUNCT	_	_	1	punct	_	Offset=174-175
 
-1	Piterov	_	DET	_	Case=Nom|Gender=Masc|Poss=	0	_	_	Offset=176-183
-2	komšija	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=184-191
+1	Piterov	_	DET	_	Case=Nom|Gender=Masc|Poss=	2	det	_	Offset=176-183
+2	komšija	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Offset=184-191
 3	ofarbao	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=192-199
 4	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Offset=200-202
-5	ogradu	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	_	_	Offset=203-209
-6	u	_	ADP	_	Case=Acc	7	case	_	Offset=210-211
-7	crveno	_	ADV	_	Degree=Pos	0	_	_	Offset=212-218
+5	ogradu	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	dobj	_	Offset=203-209
+6	u	_	ADP	_	Case=Acc	0	_	_	Offset=210-211
+7	crveno	_	ADV	_	Degree=Pos	3	xcomp	_	Offset=212-218
 8	.	_	PUNCT	_	_	3	punct	_	Offset=219-220
 
-1	Moj	_	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=	0	_	_	Offset=221-224
-2	tata	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=225-229
+1	Moj	_	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=	2	det	_	Offset=221-224
+2	tata	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Offset=225-229
 3	je	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Offset=230-232
-4	više	_	ADV	_	Degree=Cmp	0	_	_	Offset=233-237
+4	više	_	ADV	_	Degree=Cmp	5	advmod	_	Offset=233-237
 5	kul	_	ADJ	_	_	0	_	_	Offset=238-241
 6	nego	_	SCONJ	_	_	0	_	_	Offset=242-246
 7	tvoj	_	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=	0	_	_	Offset=247-251
-8	.	_	PUNCT	_	_	0	_	_	Offset=252-253
+8	.	_	PUNCT	_	_	5	punct	_	Offset=252-253
 
 1	Meri	_	PROPN	_	Case=Nom|Gender=Fem	0	_	_	Offset=254-258
 2	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Offset=259-261
 3	osvojila	_	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=262-270
-4	bronzu	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	_	_	Offset=271-277
+4	bronzu	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	dobj	_	Offset=271-277
 5	,	_	PUNCT	_	_	0	_	_	Offset=278-279
-6	Piter	_	PROPN	_	Case=Nom|Gender=Masc	1	remnant	1:conj	Offset=280-285
-7	srebro	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	remnant	4:conj	Offset=286-292
-8	,	_	PUNCT	_	_	0	_	_	Offset=293-294
+6	Piter	_	PROPN	_	Case=Nom|Gender=Masc	1	conj	_	Offset=280-285
+7	srebro	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	Offset=286-292
+8	,	_	PUNCT	_	_	1	punct	_	Offset=293-294
 9	a	_	CONJ	_	_	1	cc	4:cc	Offset=295-296
-10	Džejn	_	NOUN	_	Case=Nom|Gender=Fem	6	remnant	1:conj	Offset=297-302
-11	zlato	_	NOUN	_	Case=Acc|Gender=Neut	7	remnant	4:conj	Offset=303-308
+10	Džejn	_	NOUN	_	Case=Nom|Gender=Fem	1	conj	_	Offset=297-302
+11	zlato	_	NOUN	_	Case=Acc|Gender=Neut	4	conj	_	Offset=303-308
 12	.	_	PUNCT	_	_	3	punct	_	Offset=309-310
 
 1	Da	_	PART	_	_	0	_	_	Offset=311-313
@@ -80,12 +80,12 @@
 6	ili	_	CONJ	_	_	5	cc	_	Offset=334-337
 7	mala	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	5:conj	Offset=338-342
 8	država	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	Offset=343-349
-9	?	_	PUNCT	_	_	0	_	_	Offset=350-351
+9	?	_	PUNCT	_	_	8	punct	_	Offset=350-351
 
-1	Ni	_	CONJ	_	_	0	_	_	Offset=352-354
+1	Ni	_	CONJ	_	_	2	cc	_	Offset=352-354
 2	Piter	_	PROPN	_	Case=Nom|Gender=Masc	0	_	_	Offset=355-360
 3	Smit	_	PROPN	_	Case=Nom	2	name	_	Offset=361-365
-4	ni	_	CONJ	_	_	0	_	_	Offset=366-368
+4	ni	_	CONJ	_	_	2	cc	_	Offset=366-368
 5	Meri	_	PROPN	_	Case=Nom|Gender=Fem	2	conj	_	Offset=369-373
 6	Braun	_	PROPN	_	Case=Nom	5	name	_	Offset=374-379
 7	nisu	_	AUX	_	Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	neg	_	Offset=380-384
@@ -95,34 +95,34 @@
 11	.	_	PUNCT	_	_	8	punct	_	Offset=405-406
 
 1	Nemaju	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	Offset=407-413
-2	pojma	_	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	_	_	Offset=414-419
-3	ko	_	PRON	_	PronType=Rel	6	mark	_	Offset=420-422
+2	pojma	_	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	dobj	_	Offset=414-419
+3	ko	_	PRON	_	PronType=Rel	0	_	_	Offset=420-422
 4	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	Offset=423-425
-5	to	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	0	_	_	Offset=426-428
+5	to	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	6	dobj	_	Offset=426-428
 6	napisao	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=429-436
 7	.	_	PUNCT	_	_	1	conj	_	Offset=437-438
 
 1	U	_	ADP	_	_	2	case	_	Offset=439-440
-2	šta	_	PRON	_	Case=Acc|PronType=Int	0	_	_	Offset=441-444
+2	šta	_	PRON	_	Case=Acc|PronType=Int	3	iobj	_	Offset=441-444
 3	gledaš	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	Offset=445-451
 4	?	_	PUNCT	_	_	3	punct	_	Offset=452-453
 
-1	Šta	_	PRON	_	Case=Nom|PronType=Int	0	_	_	Offset=454-457
+1	Šta	_	PRON	_	Case=Acc|PronType=Int	2	dobj	_	Offset=454-457
 2	misliš	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	Offset=458-464
-3	,	_	PUNCT	_	_	0	_	_	Offset=465-466
-4	kada	_	ADV	_	_	0	_	_	Offset=467-471
+3	,	_	PUNCT	_	_	5	punct	_	Offset=465-466
+4	kada	_	ADV	_	_	5	advmod	_	Offset=467-471
 5	možeš	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	Offset=472-477
 6	doći	_	VERB	_	Aspect=Perf|VerbForm=Inf	0	_	_	Offset=478-482
 7	?	_	PUNCT	_	_	2	punct	_	Offset=483-484
 
 1	Kupio	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=485-490
 2	je	_	AUX	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	Offset=491-493
-3	kola	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	_	_	Offset=494-498
+3	kola	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	dobj	_	Offset=494-498
 4	,	_	PUNCT	_	_	0	_	_	Offset=499-500
 5	a	_	CONJ	_	_	0	_	_	Offset=501-502
 6	njegov	_	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=	0	_	_	Offset=503-509
-7	brat	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Offset=510-514
-8	samo	_	ADV	_	_	0	_	_	Offset=515-519
+7	brat	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Offset=510-514
+8	samo	_	ADV	_	_	9	advmod	_	Offset=515-519
 9	bicikl	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	_	_	Offset=520-526
 10	.	_	PUNCT	_	_	1	punct	_	Offset=527-528
 
@@ -138,19 +138,19 @@
 10	sobe	_	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	0	_	_	Offset=569-573
 11	.	_	PUNCT	_	_	6	punct	_	Offset=574-575
 
-1	Trebalo	_	ADJ	_	Gender=Neut|Number=Sing|VerbForm=Part	0	_	_	Offset=576-583
-2	je	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	Offset=584-586
-3	da	_	SCONJ	_	_	0	_	_	Offset=587-589
+1	Trebalo	_	VERB	_	Aspect=Imp|Gender=Neut|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	_	_	Offset=576-583
+2	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	Offset=584-586
+3	da	_	SCONJ	_	_	4	mark	_	Offset=587-589
 4	sređuje	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	Offset=590-597
-5	kosu	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	_	_	Offset=598-602
+5	kosu	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	dobj	_	Offset=598-602
 6	,	_	PUNCT	_	_	0	_	_	Offset=603-604
 7	ali	_	CONJ	_	_	0	_	_	Offset=605-608
-8	iz	_	ADP	_	Case=Gen	0	_	_	Offset=609-611
-9	nekog	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	0	_	_	Offset=612-617
+8	iz	_	ADP	_	Case=Gen	10	case	_	Offset=609-611
+9	nekog	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	10	det	_	Offset=612-617
 10	razloga	_	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	_	_	Offset=618-625
 11	nije	_	AUX	_	Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	neg	12:aux	Offset=626-630
 12	htela	_	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=631-636
-13	tog	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	0	_	_	Offset=637-640
+13	tog	_	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	Offset=637-640
 14	dana	_	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	_	_	Offset=641-645
 15	.	_	PUNCT	_	_	1	punct	_	Offset=646-647
 
@@ -158,24 +158,24 @@
 2	mogao	_	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=654-659
 3	da	_	SCONJ	_	_	0	_	_	Offset=660-662
 4	držim	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	Offset=663-668
-5	korak	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	_	_	Offset=669-674
+5	korak	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	dobj	_	Offset=669-674
 6	s	_	ADP	_	Case=Ins	7	case	_	Offset=675-676
 7	njim	_	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	Offset=677-681
-8	jer	_	SCONJ	_	_	0	_	_	Offset=682-685
+8	jer	_	SCONJ	_	_	10	mark	_	Offset=682-685
 9	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Offset=686-688
 10	trčao	_	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=689-694
-11	prebrzo	_	ADV	_	Degree=Abs	0	_	_	Offset=695-702
+11	prebrzo	_	ADV	_	Degree=Abs	10	advmod	_	Offset=695-702
 12	.	_	PUNCT	_	_	2	punct	_	Offset=703-704
 
-1	Ovo	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	Offset=705-708
-2	je	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	Offset=709-711
+1	Ovo	_	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	Offset=705-708
+2	je	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Offset=709-711
 3	pismo	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	Offset=712-717
 4	od	_	ADP	_	Case=Gen	5	case	_	Offset=718-720
 5	Pitera	_	PROPN	_	Case=Gen|Gender=Masc	0	_	_	Offset=721-727
-6	koje	_	DET	_	_	8	mark	_	Offset=728-732
+6	koje	_	DET	_	_	0	_	_	Offset=728-732
 7	je	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	auxpass	_	Offset=733-735
 8	uručeno	_	ADJ	_	Gender=Neut|Number=Sing|VerbForm=Part	0	_	_	Offset=736-743
-9	juče	_	ADV	_	_	0	_	_	Offset=744-748
+9	juče	_	ADV	_	_	8	nmod	_	Offset=744-748
 10	.	_	PUNCT	_	_	0	_	_	Offset=749-750
 
 1	Odrasla	_	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	_	_	Offset=751-758

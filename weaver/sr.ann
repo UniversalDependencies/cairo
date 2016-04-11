@@ -1,4 +1,4 @@
-T1	PRON 705 708	Ovo
+T1	DET 705 708	Ovo
 T2	VERB 709 711	je
 T3	ADV 695 702	prebrzo
 T4	PUNCT 703 704	.
@@ -47,7 +47,7 @@ T46	PRON 612 617	nekog
 T47	NOUN 618 625	razloga
 T48	AUX 626 630	nije
 T49	VERB 631 636	htela
-T50	PRON 637 640	tog
+T50	DET 637 640	tog
 T51	SCONJ 72 74	da
 T52	VERB 75 83	prestane
 T53	SCONJ 84 86	da
@@ -78,8 +78,8 @@ T77	ADP 566 568	iz
 T78	VERB 559 565	izašli
 T79	CONJ 557 558	i
 T80	SCONJ 587 589	da
-T81	VERB 584 586	je
-T82	ADJ 576 583	Trebalo
+T81	AUX 584 586	je
+T82	VERB 576 583	Trebalo
 T83	PUNCT 574 575	.
 T84	NOUN 134 140	prozor
 T85	VERB 127 133	otvori
@@ -196,7 +196,6 @@ R8	amod Arg1:T159 Arg2:T144
 R9	neg Arg1:T38 Arg2:T39	
 R10	neg Arg1:T49 Arg2:T48	
 R11	neg Arg1:T27 Arg2:T28	
-R12	case Arg1:T113 Arg2:T106	
 R13	case Arg1:T66 Arg2:T73	
 R14	case Arg1:T76 Arg2:T77	
 R15	case Arg1:T26 Arg2:T23	
@@ -211,10 +210,6 @@ R23	punct Arg1:T85 Arg2:T102
 R24	punct Arg1:T103 Arg2:T97	
 R25	punct Arg1:T109 Arg2:T112	
 R26	punct Arg1:T132 Arg2:T162	
-R27	remnant Arg1:T130 Arg2:T125	
-R28	remnant Arg1:T125 Arg2:T168	
-R29	remnant Arg1:T133 Arg2:T167	
-R30	remnant Arg1:T167 Arg2:T163	
 R31	vocative Arg1:T85 Arg2:T93	
 R32	aux Arg1:T157 Arg2:T156	
 R33	aux Arg1:T57 Arg2:T58	
@@ -234,8 +229,6 @@ R38	cop Arg1:T12 Arg2:T161
 R47	mark Arg1:T62 Arg2:T61	
 R48	mark Arg1:T52 Arg2:T51	
 R49	mark Arg1:T99 Arg2:T98	
-R50	mark Arg1:T71 Arg2:T32	
-R51	mark Arg1:T10 Arg2:T6	
 R52	conj Arg1:T54 Arg2:T60	
 R53	conj Arg1:T133 Arg2:T167	
 R54	conj Arg1:T133 Arg2:T163	
@@ -540,7 +533,6 @@ A473	Aspect T27 Imp
 A475	VerbForm T27 Part
 A477	VerbForm T29 Fin
 A80	VerbForm T21 Part
-R67	csubj Arg1:T153 Arg2:T62	
 R68	punct Arg1:T38 Arg2:T35	
 R69	conj Arg1:T34 Arg2:T72	
 R70	punct Arg1:T67 Arg2:T68	
@@ -553,7 +545,6 @@ R76	punct Arg1:T149 Arg2:T158
 R77	nsubj Arg1:T10 Arg2:T7	
 R78	nsubj Arg1:T123 Arg2:T114	
 R79	nsubj Arg1:T123 Arg2:T116	
-R80	nsubj Arg1:T139 Arg2:T120	
 A2	Mood T156 Ind
 A82	Number T156 Sing
 A478	Person T156 3
@@ -654,7 +645,7 @@ A62	Person T70 3
 A64	PronType T69 Int
 A76	Case T66 Acc
 A83	PronType T66 Int
-A156	Case T69 Nom
+A156	Case T69 Acc
 A169	Case T1 Nom
 A202	PronType T1 Dem
 A240	Gender T1 Neut
@@ -700,3 +691,47 @@ A391	Case T94 Nom
 A395	Gender T94 Masc
 A397	Poss T94
 A399	Degree T113 Pos
+R81	punct Arg1:T157 Arg2:T152	
+R82	nsubj Arg1:T62 Arg2:T55	
+R67	mark Arg1:T54 Arg2:T53	
+R83	xcomp Arg1:T57 Arg2:T52	
+R84	mark Arg1:T91 Arg2:T88	
+R86	dobj Arg1:T85 Arg2:T84	
+R87	dobj Arg1:T103 Arg2:T101	
+R88	xcomp Arg1:T103 Arg2:T99	
+R89	dobj Arg1:T99 Arg2:T96	
+R90	det Arg1:T95 Arg2:T94	
+R91	nsubj Arg1:T109 Arg2:T95	
+R92	dobj Arg1:T109 Arg2:T107	
+R12	xcomp Arg1:T109 Arg2:T113	
+R93	det Arg1:T110 Arg2:T111	
+R94	nsubj Arg1:T126 Arg2:T110	
+R95	advmod Arg1:T126 Arg2:T104	
+R96	punct Arg1:T126 Arg2:T129	
+R27	punct Arg1:T130 Arg2:T166	
+R28	dobj Arg1:T132 Arg2:T133	
+R29	punct Arg1:T12 Arg2:T17	
+R30	cc Arg1:T15 Arg2:T19	
+R50	dobj Arg1:T71 Arg2:T70	
+R97	iobj Arg1:T67 Arg2:T66	
+R98	advmod Arg1:T134 Arg2:T135	
+R99	dobj Arg1:T139 Arg2:T141	
+R80	advmod Arg1:T118 Arg2:T121	
+A401	Person T82 3
+A403	Tense T82 Past
+A407	Aspect T82 Imp
+R100	mark Arg1:T75 Arg2:T80	
+R101	dobj Arg1:T75 Arg2:T74	
+R102	case Arg1:T47 Arg2:T45	
+R103	det Arg1:T47 Arg2:T46	
+R104	det Arg1:T41 Arg2:T50	
+R105	aux Arg1:T82 Arg2:T81	
+R51	nmod Arg1:T10 Arg2:T151	
+R106	cop Arg1:T7 Arg2:T2	
+R107	dobj Arg1:T29 Arg2:T24	
+R108	mark Arg1:T21 Arg2:T25	
+R109	advmod Arg1:T21 Arg2:T3	
+R110	dobj Arg1:T64 Arg2:T69	
+R111	punct Arg1:T134 Arg2:T65	
+R112	dobj Arg1:T34 Arg2:T33	
+R85	cc Arg1:T15 Arg2:T18	
