@@ -3,7 +3,7 @@ T2	VERB 709 711	je
 T3	ADV 695 702	prebrzo
 T4	PUNCT 703 704	.
 T5	PROPN 721 727	Pitera
-T6	DET 728 732	koje
+T6	PRON 728 732	koje
 T7	NOUN 712 717	pismo
 T8	ADP 718 720	od
 T9	VERB 733 735	je
@@ -231,16 +231,13 @@ R48	mark Arg1:T52 Arg2:T51
 R49	mark Arg1:T99 Arg2:T98	
 R52	conj Arg1:T54 Arg2:T60	
 R53	conj Arg1:T133 Arg2:T167	
-R54	conj Arg1:T133 Arg2:T163	
 R55	conj Arg1:T13 Arg2:T11	
-R56	conj Arg1:T15 Arg2:T20	
 R57	conj Arg1:T116 Arg2:T114	
 R58	conj Arg1:T123 Arg2:T78	
 R59	cc Arg1:T54 Arg2:T59	
 R60	conj Arg1:T130 Arg2:T125	
 R61	conj Arg1:T130 Arg2:T168	
 R62	cc Arg1:T130 Arg2:T169	
-R63	cc Arg1:T133 Arg2:T169	
 R64	cc Arg1:T13 Arg2:T14	
 R65	cc Arg1:T116 Arg2:T117	
 R66	cc Arg1:T123 Arg2:T79	
@@ -735,3 +732,28 @@ R110	dobj Arg1:T64 Arg2:T69
 R111	punct Arg1:T134 Arg2:T65	
 R112	dobj Arg1:T34 Arg2:T33	
 R85	cc Arg1:T15 Arg2:T18	
+R113	xcomp Arg1:T52 Arg2:T54	
+R114	xcomp Arg1:T52 Arg2:T60	
+R115	ccomp Arg1:T86 Arg2:T91	
+R116	punct Arg1:T93 Arg2:T92	
+R117	case Arg1:T113 Arg2:T106	
+R118	punct Arg1:T126 Arg2:T129	
+R54	dobj Arg1:T132 Arg2:T167	
+R63	dobj Arg1:T132 Arg2:T163	
+R56	conj Arg1:T16 Arg2:T40	
+R119	aux Arg1:T36 Arg2:T38	
+R120	ccomp Arg1:T34 Arg2:T71	
+R121	dobj Arg1:T120 Arg2:T118	
+R122	det Arg1:T120 Arg2:T142	
+R123	cc Arg1:T120 Arg2:T143	
+R124	punct Arg1:T140 Arg2:T139	
+R125	aux Arg1:T123 Arg2:T115	
+R126	punct Arg1:T49 Arg2:T43	
+R127	advmod Arg1:T49 Arg2:T41	
+R128	ccomp Arg1:T29 Arg2:T21	
+R129	punct Arg1:T5 Arg2:T150	
+A409	Case T6 Acc
+A410	PronType T6 Dem
+A411	Gender T6 Neut
+A414	Number T6 Sing
+R130	punct Arg1:T159 Arg2:T145	
