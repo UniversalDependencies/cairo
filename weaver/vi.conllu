@@ -10,13 +10,13 @@
 10	ấy	_	DET	_	_	0	_	_	Offset=33-35
 11	.	_	PUNCT	_	_	0	_	_	Offset=36-37
 
-1	Tôi	_	NOUN	_	_	0	_	_	Offset=38-41
+1	Tôi	_	PROPN	_	_	0	_	_	Offset=38-41
 2	nghĩ	_	VERB	_	_	1	acl	3:advmod	Offset=42-46
 3	rằng	_	INTJ	_	_	4	nsubj	_	Offset=47-51
 4	trời	_	NOUN	_	_	6	acl	_	Offset=52-56
 5	đang	_	AUX	_	_	0	_	_	Offset=57-61
 6	mưa	_	VERB	_	_	5	aux	_	Offset=62-65
-7	.	_	Token	_	_	0	_	_	Offset=66-67
+7	.	_	PUNCT	_	_	0	_	_	Offset=66-67
 
 1	Anh	_	Token	_	_	0	_	_	Offset=68-71
 2	ấy	_	Token	_	_	0	_	_	Offset=72-74
