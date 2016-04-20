@@ -73,7 +73,7 @@ T72	PROPN 38 41	Tôi
 T73	VERB 42 46	nghĩ
 T74	Token 161 163	ra
 T75	PUNCT 66 67	.
-T76	Token 68 71	Anh
+T76	PRON 68 71	Anh
 T77	NOUN 26 29	bạn
 T78	PROPN 30 32	cô
 T79	PRON 0 2	Cố
@@ -99,12 +99,12 @@ T98	Token 481 484	vào
 T99	Token 477 480	đến
 T100	Token 107 111	rượu
 T101	Token 102 106	uống
-T102	Token 75 77	cố
-T103	Token 72 74	ấy
-T104	Token 83 85	từ
-T105	Token 78 82	gắng
-T106	Token 89 92	hút
-T107	Token 86 88	bỏ
+T102	VERB 75 77	cố
+T103	DET 72 74	ấy
+T104	VERB 83 85	từ
+T105	VERB 78 82	gắng
+T106	VERB 89 92	hút
+T107	VERB 86 88	bỏ
 T108	Token 99 101	và
 T109	Token 93 98	thuốc
 T110	Token 731 734	bởi
@@ -244,3 +244,16 @@ R11	advmod Arg1:T66 Arg2:T73
 R12	nsubj Arg1:T67 Arg2:T66	
 R13	aux Arg1:T68 Arg2:T69	
 R14	acl Arg1:T69 Arg2:T67	
+A7	Gender T76 Masc
+A8	Number T76 Sing
+A9	Person T76 3
+A10	Person T103 3
+A11	Tense T102 Pres
+A12	Voice T102 Act
+A13	Tense T105 Pres
+A14	Voice T105 Act
+R15	mwe Arg1:T105 Arg2:T102	
+A15	Tense T107 Pres
+A16	Voice T107 Act
+R16	mwe Arg1:T104 Arg2:T107	
+A17	Tense T106 Pres

@@ -18,13 +18,13 @@
 6	mưa	_	VERB	_	_	5	aux	_	Offset=62-65
 7	.	_	PUNCT	_	_	0	_	_	Offset=66-67
 
-1	Anh	_	Token	_	_	0	_	_	Offset=68-71
-2	ấy	_	Token	_	_	0	_	_	Offset=72-74
-3	cố	_	Token	_	_	0	_	_	Offset=75-77
-4	gắng	_	Token	_	_	0	_	_	Offset=78-82
-5	từ	_	Token	_	_	0	_	_	Offset=83-85
-6	bỏ	_	Token	_	_	0	_	_	Offset=86-88
-7	hút	_	Token	_	_	0	_	_	Offset=89-92
+1	Anh	_	PRON	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=68-71
+2	ấy	_	DET	_	Person=3	0	_	_	Offset=72-74
+3	cố	_	VERB	_	Tense=Pres|Voice=Act	4	mwe	_	Offset=75-77
+4	gắng	_	VERB	_	Tense=Pres|Voice=Act	0	_	_	Offset=78-82
+5	từ	_	VERB	_	_	0	_	_	Offset=83-85
+6	bỏ	_	VERB	_	Tense=Pres|Voice=Act	5	mwe	_	Offset=86-88
+7	hút	_	VERB	_	Tense=Pres	0	_	_	Offset=89-92
 8	thuốc	_	Token	_	_	0	_	_	Offset=93-98
 9	và	_	Token	_	_	0	_	_	Offset=99-101
 10	uống	_	Token	_	_	0	_	_	Offset=102-106
