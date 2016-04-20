@@ -1,158 +1,704 @@
-T1	Token 721 722	v
-T2	Token 723 729	Paříži
-T3	Token 710 711	.
-T4	Token 712 720	Vyrostla
-T5	Token 740 745	městě
-T6	Token 746 753	Francie
-T7	Token 730 731	,
-T8	Token 732 739	hlavním
-T9	Token 754 755	.
-T10	Token 349 354	Brown
-T11	Token 355 356	.
-T12	Token 340 343	ani
-T13	Token 344 348	Mary
-T14	Token 371 372	,
-T15	Token 373 376	kdo
-T16	Token 357 363	Nemají
-T17	Token 364 370	tušení
-T18	Token 377 379	to
-T19	Token 380 386	napsal
-T20	Token 704 709	včera
-T21	Token 696 703	doručen
-T22	Token 684 689	Petra
-T23	Token 681 683	od
-T24	Token 692 695	byl
-T25	Token 690 691	a
-T26	Token 666 671	Tento
-T27	Token 664 665	.
-T28	Token 678 680	je
-T29	Token 672 677	dopis
-T30	Token 419 421	že
-T31	Token 417 418	,
-T32	Token 410 416	myslíš
-T33	Token 406 409	Kdy
-T34	Token 404 405	?
-T35	Token 398 403	díváš
-T36	Token 395 397	se
-T37	Token 392 394	co
-T38	Token 389 391	Na
-T39	Token 387 388	.
-T40	Token 650 656	příliš
-T41	Token 657 663	rychle
-T42	Token 604 609	Nebyl
-T43	Token 610 614	jsem
-T44	Token 615 622	schopen
-T45	Token 623 628	držet
-T46	Token 629 633	krok
-T47	Token 634 635	,
-T48	Token 636 643	protože
-T49	Token 644 649	běžel
-T50	Token 66 74	kouřením
-T51	Token 75 76	a
-T52	Token 77 82	pitím
-T53	Token 83 84	.
-T54	Token 47 48	.
-T55	Token 49 55	Zkusil
-T56	Token 56 63	přestat
-T57	Token 64 65	s
-T58	Token 85 90	Chceš
-T59	Token 91 94	jít
-T60	Token 458 462	jeho
-T61	Token 463 468	bratr
-T62	Token 444 446	si
-T63	Token 447 451	auto
-T64	Token 452 453	,
-T65	Token 454 457	ale
-T66	Token 422 427	můžeš
-T67	Token 428 434	přijít
-T68	Token 435 436	?
-T69	Token 437 443	Koupil
-T70	Token 602 603	.
-T71	Token 593 601	nedělala
-T72	Token 565 573	nějakého
-T73	Token 563 564	z
-T74	Token 559 562	ale
-T75	Token 557 558	,
-T76	Token 589 592	dne
-T77	Token 584 588	toho
-T78	Token 581 583	to
-T79	Token 574 580	důvodu
-T80	Token 139 143	auto
-T81	Token 134 138	umýt
-T82	Token 97 101	Same
-T83	Token 95 96	?
-T84	Token 104 110	otevři
-T85	Token 102 103	,
-T86	Token 116 117	!
-T87	Token 111 115	okno
-T88	Token 126 133	manžela
-T89	Token 118 125	Přiměla
-T90	Token 185 188	Můj
-T91	Token 189 193	táta
-T92	Token 175 182	červeno
-T93	Token 183 184	.
-T94	Token 167 171	plot
-T95	Token 172 174	na
-T96	Token 153 159	soused
-T97	Token 160 166	natřel
-T98	Token 144 145	.
-T99	Token 146 152	Petrův
-T100	Token 241 245	Petr
-T101	Token 239 240	,
-T102	Token 212 216	tvůj
-T103	Token 208 211	než
-T104	Token 197 207	zábavnější
-T105	Token 194 196	je
-T106	Token 233 238	bronz
-T107	Token 225 232	vyhrála
-T108	Token 219 224	Marie
-T109	Token 217 218	.
-T110	Token 538 540	si
-T111	Token 541 545	měla
-T112	Token 530 534	Byla
-T113	Token 535 537	by
-T114	Token 521 527	pokoje
-T115	Token 528 529	.
-T116	Token 512 518	odešli
-T117	Token 519 520	z
-T118	Token 546 551	dělat
-T119	Token 552 556	účes
-T120	Token 285 286	,
-T121	Token 287 291	nebo
-T122	Token 246 253	stříbro
-T123	Token 254 255	a
-T124	Token 256 260	Jana
-T125	Token 261 266	zlato
-T126	Token 267 268	.
-T127	Token 269 271	Je
-T128	Token 272 278	Iguazu
-T129	Token 279 284	velká
-T130	Token 473 480	motorku
-T131	Token 469 472	jen
-T132	Token 483 487	Petr
-T133	Token 481 482	.
-T134	Token 490 495	Marie
-T135	Token 488 489	a
-T136	Token 499 505	objali
-T137	Token 496 498	se
-T138	Token 508 511	pak
-T139	Token 506 507	a
-T140	Token 39 41	že
-T141	Token 42 46	prší
-T142	Token 30 36	Myslím
-T143	Token 37 38	,
-T144	Token 20 27	příteli
-T145	Token 28 29	.
-T146	Token 6 13	napsala
-T147	Token 14 19	dopis
-T148	Token 0 5	Dívka
-T149	Token 338 339	,
-T150	Token 332 337	Smith
-T151	Token 315 321	vybrán
-T152	Token 311 314	být
-T153	Token 326 331	Peter
-T154	Token 322 325	ani
-T155	Token 297 301	země
-T156	Token 292 296	malá
-T157	Token 304 310	Nemohl
-T158	Token 302 303	?
+T1	ADP 721 722	v
+T2	PROPN 723 729	Paříži
+T3	PUNCT 710 711	.
+T4	VERB 712 720	Vyrostla
+T5	NOUN 740 745	městě
+T6	PROPN 746 753	Francie
+T7	PUNCT 730 731	,
+T8	ADJ 732 739	hlavním
+T9	PUNCT 754 755	.
+T10	PROPN 349 354	Brown
+T11	PUNCT 355 356	.
+T12	CONJ 340 343	ani
+T13	PROPN 344 348	Mary
+T14	PUNCT 371 372	,
+T15	PRON 373 376	kdo
+T16	VERB 357 363	Nemají
+T17	NOUN 364 370	tušení
+T18	DET 377 379	to
+T19	VERB 380 386	napsal
+T20	ADV 704 709	včera
+T21	VERB 696 703	doručen
+T22	PROPN 684 689	Petra
+T23	ADP 681 683	od
+T24	AUX 692 695	byl
+T25	CONJ 690 691	a
+T26	DET 666 671	Tento
+T27	PUNCT 664 665	.
+T28	VERB 678 680	je
+T29	NOUN 672 677	dopis
+T30	SCONJ 419 421	že
+T31	PUNCT 417 418	,
+T32	VERB 410 416	myslíš
+T33	ADV 406 409	Kdy
+T34	PUNCT 404 405	?
+T35	VERB 398 403	díváš
+T36	PRON 395 397	se
+T37	PRON 392 394	co
+T38	ADP 389 391	Na
+T39	PUNCT 387 388	.
+T40	ADV 650 656	příliš
+T41	ADV 657 663	rychle
+T42	AUX 604 609	Nebyl
+T43	AUX 610 614	jsem
+T44	VERB 615 622	schopen
+T45	VERB 623 628	držet
+T46	NOUN 629 633	krok
+T47	PUNCT 634 635	,
+T48	SCONJ 636 643	protože
+T49	VERB 644 649	běžel
+T50	NOUN 66 74	kouřením
+T51	CONJ 75 76	a
+T52	NOUN 77 82	pitím
+T53	PUNCT 83 84	.
+T54	PUNCT 47 48	.
+T55	VERB 49 55	Zkusil
+T56	VERB 56 63	přestat
+T57	ADP 64 65	s
+T58	VERB 85 90	Chceš
+T59	VERB 91 94	jít
+T60	DET 458 462	jeho
+T61	NOUN 463 468	bratr
+T62	PRON 444 446	si
+T63	NOUN 447 451	auto
+T64	PUNCT 452 453	,
+T65	CONJ 454 457	ale
+T66	VERB 422 427	můžeš
+T67	VERB 428 434	přijít
+T68	PUNCT 435 436	?
+T69	VERB 437 443	Koupil
+T70	PUNCT 602 603	.
+T71	VERB 593 601	nedělala
+T72	DET 565 573	nějakého
+T73	ADP 563 564	z
+T74	CONJ 559 562	ale
+T75	PUNCT 557 558	,
+T76	NOUN 589 592	dne
+T77	DET 584 588	toho
+T78	PRON 581 583	to
+T79	NOUN 574 580	důvodu
+T80	NOUN 139 143	auto
+T81	VERB 134 138	umýt
+T82	PROPN 97 101	Same
+T83	PUNCT 95 96	?
+T84	VERB 104 110	otevři
+T85	PUNCT 102 103	,
+T86	PUNCT 116 117	!
+T87	NOUN 111 115	okno
+T88	NOUN 126 133	manžela
+T89	VERB 118 125	Přiměla
+T90	DET 185 188	Můj
+T91	NOUN 189 193	táta
+T92	ADV 175 182	červeno
+T93	PUNCT 183 184	.
+T94	NOUN 167 171	plot
+T95	ADP 172 174	na
+T96	NOUN 153 159	soused
+T97	VERB 160 166	natřel
+T98	PUNCT 144 145	.
+T99	DET 146 152	Petrův
+T100	PROPN 241 245	Petr
+T101	PUNCT 239 240	,
+T102	DET 212 216	tvůj
+T103	PART 208 211	než
+T104	ADJ 197 207	zábavnější
+T105	VERB 194 196	je
+T106	NOUN 233 238	bronz
+T107	VERB 225 232	vyhrála
+T108	PROPN 219 224	Marie
+T109	PUNCT 217 218	.
+T110	PRON 538 540	si
+T111	VERB 541 545	měla
+T112	VERB 530 534	Byla
+T113	AUX 535 537	by
+T114	NOUN 521 527	pokoje
+T115	PUNCT 528 529	.
+T116	VERB 512 518	odešli
+T117	ADP 519 520	z
+T118	VERB 546 551	dělat
+T119	NOUN 552 556	účes
+T120	PUNCT 285 286	,
+T121	CONJ 287 291	nebo
+T122	NOUN 246 253	stříbro
+T123	CONJ 254 255	a
+T124	PROPN 256 260	Jana
+T125	NOUN 261 266	zlato
+T126	PUNCT 267 268	.
+T127	VERB 269 271	Je
+T128	PROPN 272 278	Iguazu
+T129	ADJ 279 284	velká
+T130	NOUN 473 480	motorku
+T131	ADV 469 472	jen
+T132	PROPN 483 487	Petr
+T133	PUNCT 481 482	.
+T134	PROPN 490 495	Marie
+T135	CONJ 488 489	a
+T136	VERB 499 505	objali
+T137	PRON 496 498	se
+T138	ADV 508 511	pak
+T139	CONJ 506 507	a
+T140	SCONJ 39 41	že
+T141	VERB 42 46	prší
+T142	VERB 30 36	Myslím
+T143	PUNCT 37 38	,
+T144	NOUN 20 27	příteli
+T145	PUNCT 28 29	.
+T146	VERB 6 13	napsala
+T147	NOUN 14 19	dopis
+T148	NOUN 0 5	Dívka
+T149	PUNCT 338 339	,
+T150	PROPN 332 337	Smith
+T151	VERB 315 321	vybrán
+T152	AUX 311 314	být
+T153	PROPN 326 331	Peter
+T154	CONJ 322 325	ani
+T155	NOUN 297 301	země
+T156	ADJ 292 296	malá
+T157	VERB 304 310	Nemohl
+T158	PUNCT 302 303	?
+A1	Case T148 Nom
+A2	Gender T148 Fem
+A3	Number T148 Sing
+A4	Case T147 Acc
+A5	Gender T147 Masc
+A6	Number T147 Sing
+A7	Case T144 Dat
+A8	Animacy T144 Anim
+A9	Gender T144 Masc
+A10	Number T144 Sing
+A11	Animacy T147 Inan
+A12	Case T50 Ins
+A13	Gender T50 Neut
+A14	Number T50 Sing
+A15	Case T52 Ins
+A16	Gender T52 Neut
+A17	Number T52 Sing
+A18	Case T82 Voc
+A19	Gender T82 Masc
+A20	Animacy T82 Anim
+A21	Case T87 Acc
+A22	Gender T87 Neut
+A23	Number T87 Sing
+A24	Case T88 Acc
+A25	Animacy T88 Anim
+A26	Gender T88 Masc
+A27	Number T88 Sing
+A28	Case T80 Acc
+A29	Gender T80 Neut
+A30	Number T80 Sing
+A31	Case T96 Nom
+A32	Animacy T96 Anim
+A33	Gender T96 Masc
+A34	Number T96 Sing
+A35	Case T94 Acc
+A36	Animacy T94 Inan
+A37	Gender T94 Masc
+A38	Number T94 Sing
+A39	Case T91 Nom
+A40	Animacy T91 Anim
+A41	Gender T91 Masc
+A42	Number T91 Sing
+A43	Gender T104 Masc
+A44	Degree T104 Cmp
+A45	Gender T108 Fem
+A46	Case T108 Nom
+A47	Case T106 Acc
+A48	Case T100 Nom
+A49	Gender T100 Masc
+A50	Case T124 Nom
+A51	Gender T124 Fem
+A52	Number T124 Sing
+A53	Case T128 Nom
+A54	Gender T129 Fem
+A55	Number T129 Sing
+A56	Degree T129 Pos
+A57	Case T156 Nom
+A58	Degree T156 Pos
+A59	Gender T156 Fem
+A60	Number T156 Sing
+A61	Case T129 Nom
+A62	Case T155 Nom
+A63	Gender T155 Fem
+A64	Number T155 Sing
+A65	Case T153 Nom
+A66	Gender T153 Masc
+A67	Animacy T153 Anim
+A68	Case T150 Nom
+A69	Case T13 Nom
+A70	Gender T13 Fem
+A71	Case T10 Nom
+A72	Case T17 Acc
+A73	Gender T17 Neut
+A74	Number T17 Sing
+A75	Case T63 Acc
+A76	Gender T63 Neut
+A77	Number T63 Sing
+A78	Case T61 Nom
+A79	Animacy T61 Anim
+A80	Gender T61 Masc
+A81	Number T61 Sing
+A82	Case T130 Acc
+A83	Gender T130 Fem
+A84	Number T130 Sing
+A85	Case T132 Nom
+A86	Gender T132 Masc
+A87	Animacy T132 Anim
+A88	Case T134 Nom
+A89	Gender T134 Fem
+A90	Case T114 Acc
+A91	Animacy T114 Inan
+A92	Gender T114 Masc
+A93	Number T114 Sing
+A94	Case T119 Acc
+A95	Animacy T119 Inan
+A96	Gender T119 Masc
+A97	Number T119 Sing
+A98	Case T79 Gen
+A99	Animacy T79 Inan
+A100	Gender T79 Masc
+A101	Number T79 Sing
+A102	Case T76 Gen
+A103	Animacy T76 Inan
+A104	Gender T76 Masc
+A105	Number T76 Sing
+A106	Case T46 Acc
+A107	Animacy T46 Inan
+A108	Gender T46 Masc
+A109	Number T46 Sing
+A110	Case T29 Nom
+A111	Animacy T29 Inan
+A112	Gender T29 Masc
+A113	Number T29 Sing
+A114	Case T22 Gen
+A115	Gender T22 Masc
+A116	Animacy T22 Anim
+A117	Case T2 Loc
+A118	Gender T2 Fem
+A119	Case T5 Loc
+A120	Gender T5 Neut
+A121	Number T5 Sing
+A122	Case T6 Gen
+A123	Gender T6 Fem
+A125	Gender T146 Fem
+A126	Number T146 Sing
+A127	Person T146 3
+A128	Tense T146 Past
+A129	Aspect T146 Perf
+A130	Voice T146 Act
+A131	VerbForm T146 Part
+A132	Mood T142 Ind
+A133	Number T142 Sing
+A134	Negative T142 Pos
+A135	Person T142 1
+A136	Tense T142 Pres
+A137	Aspect T142 Imp
+A138	Voice T142 Act
+A139	VerbForm T142 Fin
+A140	Negative T146 Pos
+A141	Mood T141 Ind
+A142	Number T141 Sing
+A143	Negative T141 Pos
+A144	Person T141 3
+A145	Tense T141 Pres
+A146	Aspect T141 Imp
+A147	Voice T141 Act
+A148	VerbForm T141 Fin
+A150	Gender T55 Masc
+A151	Number T55 Sing
+A152	Negative T55 Pos
+A153	Person T55 3
+A154	Tense T55 Past
+A155	Aspect T55 Perf
+A156	Voice T55 Act
+A157	VerbForm T55 Part
+A124	VerbForm T56 Inf
+A149	Negative T56 Pos
+A158	Aspect T56 Perf
+A159	Mood T58 Ind
+A160	Number T58 Sing
+A161	Negative T58 Pos
+A162	Person T58 2
+A163	Tense T58 Pres
+A164	Aspect T58 Imp
+A165	Voice T58 Act
+A166	VerbForm T58 Fin
+A167	Aspect T59 Imp
+A168	VerbForm T59 Inf
+A169	Mood T84 Imp
+A170	Number T84 Sing
+A171	Negative T84 Pos
+A172	Person T84 2
+A173	Tense T84 Pres
+A174	Aspect T84 Imp
+A175	Voice T84 Act
+A176	VerbForm T84 Fin
+A177	VerbForm T89 Part
+A178	Gender T89 Fem
+A179	Negative T89 Pos
+A180	Number T89 Sing
+A181	Person T89 3
+A182	Tense T89 Past
+A183	Aspect T89 Perf
+A184	Voice T89 Act
+A185	VerbForm T81 Inf
+A186	Negative T81 Pos
+A187	VerbForm T97 Part
+A188	Gender T97 Masc
+A189	Negative T97 Pos
+A190	Number T97 Sing
+A191	Person T97 3
+A192	Tense T97 Past
+A193	Aspect T97 Perf
+A194	Voice T97 Act
+A195	VerbForm T107 Part
+A196	Gender T107 Fem
+A197	Negative T107 Pos
+A198	Number T107 Sing
+A199	Person T107 3
+A200	Tense T107 Past
+A201	Aspect T107 Perf
+A202	Voice T107 Act
+A203	Mood T16 Ind
+A204	Number T16 Plur
+A205	Negative T16 Neg
+A206	Person T16 3
+A207	Tense T16 Pres
+A208	Aspect T16 Imp
+A209	Voice T16 Act
+A210	VerbForm T16 Fin
+A211	VerbForm T19 Part
+A212	Gender T19 Masc
+A213	Negative T19 Pos
+A214	Number T19 Sing
+A215	Person T19 3
+A216	Tense T19 Past
+A217	Aspect T19 Perf
+A218	Voice T19 Act
+A219	Mood T35 Ind
+A220	Number T35 Sing
+A221	Negative T35 Pos
+A222	Person T35 2
+A223	Tense T35 Pres
+A224	Aspect T35 Imp
+A225	Voice T35 Act
+A226	VerbForm T35 Fin
+A227	Mood T32 Ind
+A228	Number T32 Sing
+A229	Negative T32 Pos
+A230	Person T32 2
+A231	Tense T32 Pres
+A232	Aspect T32 Imp
+A233	Voice T32 Act
+A234	VerbForm T32 Fin
+A235	Mood T66 Ind
+A236	Number T66 Sing
+A237	Negative T66 Pos
+A238	Person T66 2
+A239	Tense T66 Pres
+A240	Aspect T66 Imp
+A241	Voice T66 Act
+A242	VerbForm T66 Fin
+A243	VerbForm T67 Inf
+A244	Negative T67 Pos
+A245	Aspect T67 Perf
+A246	VerbForm T69 Part
+A247	Gender T69 Masc
+A248	Negative T69 Pos
+A249	Number T69 Sing
+A250	Person T69 3
+A251	Tense T69 Past
+A252	Aspect T69 Perf
+A253	Voice T69 Act
+A254	VerbForm T136 Part
+A255	Negative T136 Pos
+A256	Number T136 Plur
+A257	Person T136 3
+A258	Tense T136 Past
+A259	Aspect T136 Perf
+A260	Voice T136 Act
+A261	VerbForm T116 Part
+A262	Negative T116 Pos
+A263	Number T116 Plur
+A264	Person T116 3
+A265	Tense T116 Past
+A266	Aspect T116 Perf
+A267	Voice T116 Act
+A268	VerbForm T118 Inf
+A269	Negative T118 Pos
+A270	VerbForm T111 Part
+A271	Gender T111 Fem
+A272	Negative T111 Pos
+A273	Number T111 Sing
+A274	Person T111 3
+A275	Tense T111 Past
+A276	Aspect T111 Imp
+A277	Voice T111 Act
+A278	VerbForm T71 Part
+A279	Gender T71 Fem
+A280	Negative T71 Neg
+A281	Number T71 Sing
+A282	Person T71 3
+A283	Tense T71 Past
+A284	Aspect T71 Imp
+A285	Voice T71 Act
+A286	VerbForm T45 Inf
+A287	Negative T45 Pos
+A288	VerbForm T49 Part
+A289	Gender T49 Masc
+A290	Negative T49 Pos
+A291	Number T49 Sing
+A292	Person T49 3
+A293	Tense T49 Past
+A294	Aspect T49 Imp
+A295	Voice T49 Act
+A296	VerbForm T4 Part
+A297	Gender T4 Fem
+A298	Negative T4 Pos
+A299	Number T4 Sing
+A300	Person T4 3
+A301	Tense T4 Past
+A302	Aspect T4 Perf
+A303	Voice T4 Act
+A304	Case T99 Nom
+A305	Gender T99 Masc
+A306	Poss T99
+A307	Case T90 Nom
+A308	Gender T90 Masc
+A309	Number T90 Sing
+A310	Poss T90
+A311	Case T102 Nom
+A312	Gender T102 Masc
+A313	Number T102 Sing
+A314	Poss T102
+A315	Case T122 Acc
+A316	Gender T122 Neut
+A317	Gender T106 Masc
+A318	Animacy T106 Inan
+A319	Case T125 Acc
+A320	Gender T125 Neut
+A321	Mood T127 Ind
+A322	Number T127 Sing
+A323	Negative T127 Pos
+A324	Person T127 3
+A325	Tense T127 Pres
+A326	Aspect T127 Imp
+A327	VerbForm T127 Fin
+A328	Mood T105 Ind
+A329	Number T105 Sing
+A330	Negative T105 Pos
+A331	Person T105 3
+A332	Tense T105 Pres
+A333	Aspect T105 Imp
+A334	VerbForm T105 Fin
+A335	Aspect T152 Imp
+A336	VerbForm T152 Inf
+A337	VerbForm T157 Part
+A338	Gender T157 Masc
+A339	Negative T157 Neg
+A340	Number T157 Sing
+A341	Tense T157 Past
+A342	Aspect T157 Imp
+A343	VerbForm T151 Part
+A344	Gender T151 Masc
+A345	Number T151 Sing
+A346	Tense T151 Past
+A347	Aspect T151 Perf
+A348	Case T37 Acc
+A349	PronType T37 Int
+A350	Reflex T36
+A351	PronType T36 Prs
+A352	PronType T33 Int
+A353	PronType T15 Rel
+A354	PronType T18 Dem
+A355	Case T62 Dat
+A356	Reflex T62
+A357	PronType T62 Prs
+A358	Gender T60 Masc
+A359	Poss T60
+A360	PronType T60 Prs
+A361	Case T137 Acc
+A362	Reflex T137
+A363	PronType T137 Prs
+A364	Case T8 Loc
+A365	Degree T8 Pos
+A366	Gender T8 Neut
+A367	Number T8 Sing
+A368	Mood T28 Ind
+A369	Number T28 Sing
+A370	Negative T28 Pos
+A371	Person T28 3
+A372	Tense T28 Pres
+A373	Aspect T28 Imp
+A374	VerbForm T28 Fin
+A375	VerbForm T21 Part
+A376	Tense T21 Past
+A377	Aspect T21 Perf
+A378	Voice T21 Pass
+A379	VerbForm T24 Part
+A380	Gender T24 Masc
+A381	Number T24 Sing
+A382	Tense T24 Past
+A383	Aspect T24 Imp
+A384	Degree T41 Pos
+A385	VerbForm T42 Part
+A386	Gender T42 Masc
+A387	Negative T42 Neg
+A388	Number T42 Sing
+A389	Tense T42 Past
+A390	Aspect T42 Imp
+A391	Mood T43 Ind
+A392	Number T43 Sing
+A393	Negative T43 Pos
+A394	Tense T43 Pres
+A395	Aspect T43 Imp
+A396	VerbForm T43 Fin
+A397	Case T110 Dat
+A398	Reflex T110
+A399	PronType T110 Prs
+A400	VerbForm T112 Part
+A401	Gender T112 Fem
+A402	Negative T112 Pos
+A403	Number T112 Sing
+A404	Tense T112 Past
+A405	Aspect T112 Imp
+A406	Case T72 Gen
+A407	PronType T72 Ind
+A408	Number T72 Sing
+A409	Gender T72 Masc
+A410	Case T77 Gen
+A411	PronType T77 Dem
+A412	Gender T77 Masc
+A413	Number T77 Sing
+A414	Case T78 Acc
+A415	PronType T78 Dem
+A416	Gender T78 Neut
+A417	Number T78 Sing
+A418	Person T113 3
+A419	Number T113 Sing
+A420	Aspect T113 Imp
+R1	nsubj Arg1:T146 Arg2:T148	
+R2	dobj Arg1:T146 Arg2:T147	
+R3	iobj Arg1:T146 Arg2:T144	
+R4	punct Arg1:T146 Arg2:T145	
+R5	punct Arg1:T142 Arg2:T54	
+R6	ccomp Arg1:T142 Arg2:T141	
+R7	cc Arg1:T50 Arg2:T51	
+R8	conj Arg1:T50 Arg2:T52	
+R9	case Arg1:T50 Arg2:T57	
+R10	punct Arg1:T55 Arg2:T53	
+R11	xcomp Arg1:T55 Arg2:T56	
+R12	punct Arg1:T58 Arg2:T83	
+R13	xcomp Arg1:T58 Arg2:T59	
+R14	punct Arg1:T84 Arg2:T86	
+R15	dobj Arg1:T84 Arg2:T87	
+R16	vocative Arg1:T84 Arg2:T82	
+R17	punct Arg1:T84 Arg2:T85	
+R18	dobj Arg1:T89 Arg2:T88	
+R19	punct Arg1:T89 Arg2:T98	
+R20	dobj Arg1:T81 Arg2:T80	
+R21	xcomp Arg1:T89 Arg2:T81	
+R22	det Arg1:T96 Arg2:T99	
+R23	punct Arg1:T97 Arg2:T93	
+R24	dobj Arg1:T97 Arg2:T94	
+R25	nsubj Arg1:T97 Arg2:T96	
+R26	det Arg1:T91 Arg2:T90	
+R27	nsubj Arg1:T104 Arg2:T91	
+R28	punct Arg1:T104 Arg2:T109	
+R29	cop Arg1:T104 Arg2:T105	
+R30	punct Arg1:T107 Arg2:T126	
+R31	nsubj Arg1:T107 Arg2:T108	
+R32	dobj Arg1:T107 Arg2:T106	
+R34	conj Arg1:T108 Arg2:T100	
+R35	conj Arg1:T108 Arg2:T124	
+R33	cc Arg1:T108 Arg2:T123	
+R36	punct Arg1:T108 Arg2:T101	
+R37	nsubj Arg1:T155 Arg2:T128	
+R38	cop Arg1:T155 Arg2:T127	
+R39	punct Arg1:T155 Arg2:T158	
+R40	cc Arg1:T129 Arg2:T121	
+R41	conj Arg1:T129 Arg2:T156	
+R43	name Arg1:T153 Arg2:T150	
+R44	name Arg1:T13 Arg2:T10	
+R46	auxpass Arg1:T151 Arg2:T152	
+R47	punct Arg1:T35 Arg2:T34	
+R48	case Arg1:T37 Arg2:T38	
+R49	dobj Arg1:T35 Arg2:T37	
+R50	punct Arg1:T32 Arg2:T68	
+R51	punct Arg1:T4 Arg2:T9	
+R52	case Arg1:T2 Arg2:T1	
+R53	amod Arg1:T5 Arg2:T8	
+R54	appos Arg1:T2 Arg2:T5	
+R55	det Arg1:T29 Arg2:T26	
+R56	case Arg1:T22 Arg2:T23	
+R57	cop Arg1:T22 Arg2:T28	
+R58	aux Arg1:T21 Arg2:T24	
+R59	conj Arg1:T22 Arg2:T21	
+R60	cc Arg1:T22 Arg2:T25	
+R61	nsubj Arg1:T22 Arg2:T29	
+R62	punct Arg1:T22 Arg2:T3	
+R63	xcomp Arg1:T97 Arg2:T92	
+R64	nsubj Arg1:T157 Arg2:T153	
+R66	nmod Arg1:T5 Arg2:T6	
+R67	nmod Arg1:T21 Arg2:T20	
+R68	punct Arg1:T153 Arg2:T149	
+R71	punct Arg1:T19 Arg2:T14	
+A421	Case T15 Nom
+R72	nsubj Arg1:T19 Arg2:T15	
+R73	punct Arg1:T16 Arg2:T39	
+A422	Case T18 Acc
+R74	dobj Arg1:T19 Arg2:T18	
+R75	ccomp Arg1:T16 Arg2:T19	
+R76	punct Arg1:T67 Arg2:T31	
+R77	nmod Arg1:T67 Arg2:T33	
+R78	dobj Arg1:T69 Arg2:T63	
+R79	iobj Arg1:T69 Arg2:T62	
+R80	punct Arg1:T69 Arg2:T133	
+R81	det Arg1:T61 Arg2:T60	
+R82	cc Arg1:T132 Arg2:T135	
+R83	conj Arg1:T132 Arg2:T134	
+R84	nsubj Arg1:T136 Arg2:T132	
+R85	cc Arg1:T136 Arg2:T139	
+R86	csubj Arg1:T136 Arg2:T116	
+R87	punct Arg1:T136 Arg2:T115	
+R88	case Arg1:T114 Arg2:T117	
+R89	xcomp Arg1:T32 Arg2:T66	
+R90	dobj Arg1:T45 Arg2:T46	
+R92	advmod Arg1:T41 Arg2:T40	
+R93	advcl Arg1:T45 Arg2:T49	
+R94	mark Arg1:T141 Arg2:T140	
+R95	mark Arg1:T66 Arg2:T30	
+R96	mark Arg1:T49 Arg2:T48	
+R97	case Arg1:T79 Arg2:T73	
+R98	det Arg1:T79 Arg2:T72	
+R99	dobj Arg1:T71 Arg2:T78	
+R100	det Arg1:T76 Arg2:T77	
+R101	advmod Arg1:T71 Arg2:T76	
+R102	dobj Arg1:T118 Arg2:T119	
+R103	iobj Arg1:T118 Arg2:T110	
+A423	VerbForm T44 Part
+A424	Gender T44 Masc
+A425	Number T44 Sing
+A426	Tense T44 Past
+R91	punct Arg1:T44 Arg2:T27	
+R104	aux Arg1:T44 Arg2:T43	
+R105	ccomp Arg1:T44 Arg2:T45	
+R106	aux Arg1:T44 Arg2:T42	
+R107	dobj Arg1:T107 Arg2:T122	
+R108	dobj Arg1:T107 Arg2:T125	
+A427	Voice T151 Pass
+R109	aux Arg1:T151 Arg2:T157	
+R110	dobj Arg1:T16 Arg2:T17	
+R111	advmod Arg1:T130 Arg2:T131	
+R112	punct Arg1:T141 Arg2:T143	
+R113	punct Arg1:T82 Arg2:T85	
+R114	case Arg1:T92 Arg2:T95	
+R42	punct Arg1:T151 Arg2:T11	
+R45	cc Arg1:T150 Arg2:T154	
+R65	cc Arg1:T150 Arg2:T12	
+R69	conj Arg1:T150 Arg2:T10	
+R70	dobj Arg1:T61 Arg2:T130	
+R115	advmod Arg1:T116 Arg2:T138	
+R116	punct Arg1:T71 Arg2:T75	
+R117	punct Arg1:T118 Arg2:T70	
+R118	punct Arg1:T49 Arg2:T47	
+R119	advmod Arg1:T49 Arg2:T41	
