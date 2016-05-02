@@ -41,7 +41,7 @@ T40	ADV 650 656	příliš
 T41	ADV 657 663	rychle
 T42	AUX 604 609	Nebyl
 T43	AUX 610 614	jsem
-T44	VERB 615 622	schopen
+T44	ADJ 615 622	schopen
 T45	VERB 623 628	držet
 T46	NOUN 629 633	krok
 T47	PUNCT 634 635	,
@@ -96,11 +96,11 @@ T95	ADP 172 174	na
 T96	NOUN 153 159	soused
 T97	VERB 160 166	natřel
 T98	PUNCT 144 145	.
-T99	DET 146 152	Petrův
+T99	ADJ 146 152	Petrův
 T100	PROPN 241 245	Petr
 T101	PUNCT 239 240	,
 T102	DET 212 216	tvůj
-T103	PART 208 211	než
+T103	SCONJ 208 211	než
 T104	ADJ 197 207	zábavnější
 T105	VERB 194 196	je
 T106	NOUN 233 238	bronz
@@ -109,7 +109,7 @@ T108	PROPN 219 224	Marie
 T109	PUNCT 217 218	.
 T110	PRON 538 540	si
 T111	VERB 541 545	měla
-T112	VERB 530 534	Byla
+T112	AUX 530 534	Byla
 T113	AUX 535 537	by
 T114	NOUN 521 527	pokoje
 T115	PUNCT 528 529	.
@@ -592,12 +592,11 @@ R13	xcomp Arg1:T58 Arg2:T59
 R14	punct Arg1:T84 Arg2:T86	
 R15	dobj Arg1:T84 Arg2:T87	
 R16	vocative Arg1:T84 Arg2:T82	
-R17	punct Arg1:T84 Arg2:T85	
 R18	dobj Arg1:T89 Arg2:T88	
 R19	punct Arg1:T89 Arg2:T98	
 R20	dobj Arg1:T81 Arg2:T80	
 R21	xcomp Arg1:T89 Arg2:T81	
-R22	det Arg1:T96 Arg2:T99	
+R22	amod Arg1:T96 Arg2:T99	
 R23	punct Arg1:T97 Arg2:T93	
 R24	dobj Arg1:T97 Arg2:T94	
 R25	nsubj Arg1:T97 Arg2:T96	
@@ -631,7 +630,7 @@ R54	appos Arg1:T2 Arg2:T5
 R55	det Arg1:T29 Arg2:T26	
 R56	case Arg1:T22 Arg2:T23	
 R57	cop Arg1:T22 Arg2:T28	
-R58	aux Arg1:T21 Arg2:T24	
+R58	auxpass Arg1:T21 Arg2:T24	
 R59	conj Arg1:T22 Arg2:T21	
 R60	cc Arg1:T22 Arg2:T25	
 R61	nsubj Arg1:T22 Arg2:T29	
@@ -647,9 +646,9 @@ R72	nsubj Arg1:T19 Arg2:T15
 R73	punct Arg1:T16 Arg2:T39	
 A422	Case T18 Acc
 R74	dobj Arg1:T19 Arg2:T18	
-R75	ccomp Arg1:T16 Arg2:T19	
+R75	acl Arg1:T16 Arg2:T19	
 R76	punct Arg1:T67 Arg2:T31	
-R77	nmod Arg1:T67 Arg2:T33	
+R77	advmod Arg1:T67 Arg2:T33	
 R78	dobj Arg1:T69 Arg2:T63	
 R79	iobj Arg1:T69 Arg2:T62	
 R80	punct Arg1:T69 Arg2:T133	
@@ -658,10 +657,10 @@ R82	cc Arg1:T132 Arg2:T135
 R83	conj Arg1:T132 Arg2:T134	
 R84	nsubj Arg1:T136 Arg2:T132	
 R85	cc Arg1:T136 Arg2:T139	
-R86	csubj Arg1:T136 Arg2:T116	
+R86	conj Arg1:T136 Arg2:T116	
 R87	punct Arg1:T136 Arg2:T115	
 R88	case Arg1:T114 Arg2:T117	
-R89	xcomp Arg1:T32 Arg2:T66	
+R89	ccomp Arg1:T32 Arg2:T66	
 R90	dobj Arg1:T45 Arg2:T46	
 R92	advmod Arg1:T41 Arg2:T40	
 R93	advcl Arg1:T45 Arg2:T49	
@@ -675,14 +674,11 @@ R100	det Arg1:T76 Arg2:T77
 R101	advmod Arg1:T71 Arg2:T76	
 R102	dobj Arg1:T118 Arg2:T119	
 R103	iobj Arg1:T118 Arg2:T110	
-A423	VerbForm T44 Part
 A424	Gender T44 Masc
-A425	Number T44 Sing
-A426	Tense T44 Past
 R91	punct Arg1:T44 Arg2:T27	
 R104	aux Arg1:T44 Arg2:T43	
-R105	ccomp Arg1:T44 Arg2:T45	
-R106	aux Arg1:T44 Arg2:T42	
+R105	xcomp Arg1:T44 Arg2:T45	
+R106	cop Arg1:T44 Arg2:T42	
 R107	dobj Arg1:T107 Arg2:T122	
 R108	dobj Arg1:T107 Arg2:T125	
 A427	Voice T151 Pass
@@ -702,3 +698,22 @@ R116	punct Arg1:T71 Arg2:T75
 R117	punct Arg1:T118 Arg2:T70	
 R118	punct Arg1:T49 Arg2:T47	
 R119	advmod Arg1:T49 Arg2:T41	
+R120	dobj Arg1:T56 Arg2:T50	
+R17	nmod Arg1:T104 Arg2:T102	
+R121	case Arg1:T102 Arg2:T103	
+R122	amod Arg1:T155 Arg2:T129	
+R123	xcomp Arg1:T157 Arg2:T151	
+R124	expl Arg1:T35 Arg2:T36	
+R125	dobj Arg1:T136 Arg2:T137	
+R126	nmod Arg1:T116 Arg2:T114	
+R127	aux Arg1:T111 Arg2:T112	
+R128	aux Arg1:T111 Arg2:T113	
+R129	xcomp Arg1:T111 Arg2:T118	
+R130	nmod Arg1:T71 Arg2:T79	
+A423	Case T44 Nom
+R131	nmod Arg1:T4 Arg2:T2	
+R132	remnant Arg1:T63 Arg2:T130	
+R133	conj Arg1:T69 Arg2:T65	
+R134	ccomp Arg1:T32 Arg2:T67	
+R135	remnant Arg1:T108 Arg2:T100	
+R136	remnant Arg1:T108 Arg2:T124	

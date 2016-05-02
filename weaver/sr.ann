@@ -740,7 +740,6 @@ R117	case Arg1:T113 Arg2:T106
 R118	punct Arg1:T126 Arg2:T129	
 R54	dobj Arg1:T132 Arg2:T167	
 R63	dobj Arg1:T132 Arg2:T163	
-R56	conj Arg1:T16 Arg2:T40	
 R119	aux Arg1:T36 Arg2:T38	
 R120	ccomp Arg1:T34 Arg2:T71	
 R121	dobj Arg1:T120 Arg2:T118	
@@ -757,3 +756,6 @@ A410	PronType T6 Dem
 A411	Gender T6 Neut
 A414	Number T6 Sing
 R130	punct Arg1:T159 Arg2:T145	
+R131	ccomp Arg1:T153 Arg2:T62	
+R132	discourse Arg1:T86 Arg2:T89	
+R56	conj Arg1:T15 Arg2:T20	

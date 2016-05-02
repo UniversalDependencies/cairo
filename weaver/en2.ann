@@ -85,9 +85,9 @@ T85	CONJ 550 554	Mary
 T86	CONJ 546 549	and
 T87	VERB 124 126	go
 T88	PART 121 123	to
-T89	NOUN 86 93	smoking
+T89	VERB 86 93	smoking
 T90	VERB 81 85	stop
-T91	NOUN 98 106	drinking
+T91	VERB 98 106	drinking
 T92	CONJ 94 97	and
 T93	AUX 109 111	Do
 T94	PUNCT 107 108	.
@@ -426,7 +426,7 @@ R20	nsubj Arg1:T124 Arg2:T123
 R26	nsubj Arg1:T45 Arg2:T51	
 R27	nsubj Arg1:T8 Arg2:T1	
 R28	nsubj Arg1:T164 Arg2:T165	
-R29	nsubj Arg1:T129 Arg2:T135	
+R29	nsubjpass Arg1:T129 Arg2:T135	
 R30	nsubj Arg1:T137 Arg2:T132	
 R31	dobj Arg1:T172 Arg2:T170	
 R32	dobj Arg1:T105 Arg2:T103	
@@ -491,8 +491,8 @@ R90	punct Arg1:T84 Arg2:T50
 R91	punct Arg1:T45 Arg2:T4	
 R92	punct Arg1:T137 Arg2:T147	
 R93	mark Arg1:T90 Arg2:T63	
-R94	mark Arg1:T70 Arg2:T69	
-R95	mark Arg1:T125 Arg2:T154	
+R94	nsubj Arg1:T70 Arg2:T69	
+R95	advmod Arg1:T125 Arg2:T154	
 R96	mark Arg1:T55 Arg2:T60	
 R97	aux Arg1:T55 Arg2:T54	
 R98	aux Arg1:T35 Arg2:T37	
@@ -503,10 +503,9 @@ R102	aux Arg1:T125 Arg2:T157
 R103	aux Arg1:T45 Arg2:T52	
 R104	aux Arg1:T45 Arg2:T53	
 R105	aux Arg1:T45 Arg2:T44	
-R106	aux Arg1:T129 Arg2:T136	
+R106	auxpass Arg1:T129 Arg2:T136	
 R107	neg Arg1:T8 Arg2:T7	
 R108	neg Arg1:T28 Arg2:T25	
-R109	neg Arg1:T74 Arg2:T75	
 R110	det Arg1:T19 Arg2:T14	
 R111	det Arg1:T18 Arg2:T17	
 R112	det Arg1:T122 Arg2:T121	
@@ -573,7 +572,6 @@ R41	punct Arg1:T146 Arg2:T144
 R126	advmod Arg1:T129 Arg2:T130	
 R127	case Arg1:T133 Arg2:T173	
 R128	cop Arg1:T133 Arg2:T174	
-R129	nsubj Arg1:T174 Arg2:T159	
 R130	punct Arg1:T133 Arg2:T131	
 R131	conj Arg1:T133 Arg2:T129	
 R132	aux Arg1:T8 Arg2:T2	
@@ -584,7 +582,7 @@ R136	advmod Arg1:T164 Arg2:T162
 R137	punct Arg1:T8 Arg2:T161	
 R138	mark Arg1:T28 Arg2:T33	
 R139	case Arg1:T26 Arg2:T32	
-R140	nmod Arg1:T26 Arg2:T27	
+R140	amod Arg1:T26 Arg2:T27	
 R141	conj Arg1:T45 Arg2:T28	
 R142	nsubj Arg1:T28 Arg2:T29	
 R143	advmod Arg1:T47 Arg2:T46	
@@ -601,3 +599,27 @@ R148	punct Arg1:T107 Arg2:T104
 R149	det Arg1:T64 Arg2:T168	
 R150	det Arg1:T170 Arg2:T169	
 R151	punct Arg1:T21 Arg2:T22	
+R152	nmod Arg1:T146 Arg2:T148	
+R129	nsubj Arg1:T133 Arg2:T159	
+R153	mark Arg1:T6 Arg2:T5	
+R154	xcomp Arg1:T8 Arg2:T6	
+R155	nmod Arg1:T28 Arg2:T26	
+R156	nmod Arg1:T28 Arg2:T3	
+R157	dobj Arg1:T84 Arg2:T78	
+R158	det Arg1:T78 Arg2:T83	
+R159	remnant Arg1:T123 Arg2:T127	
+R160	remnant Arg1:T122 Arg2:T81	
+R161	conj Arg1:T124 Arg2:T119	
+R162	ccomp Arg1:T155 Arg2:T125	
+R163	case Arg1:T67 Arg2:T152	
+R109	det Arg1:T76 Arg2:T75	
+R164	remnant Arg1:T182 Arg2:T178	
+R165	remnant Arg1:T182 Arg2:T108	
+R166	remnant Arg1:T184 Arg2:T177	
+R167	remnant Arg1:T184 Arg2:T175	
+R168	case Arg1:T139 Arg2:T176	
+R169	nmod Arg1:T23 Arg2:T139	
+R170	aux Arg1:T95 Arg2:T88	
+R171	mark Arg1:T87 Arg2:T88	
+R172	xcomp Arg1:T90 Arg2:T89	
+R173	nsubj Arg1:T55 Arg2:T61	
