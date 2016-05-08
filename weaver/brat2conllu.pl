@@ -15,6 +15,8 @@ binmode(STDIN, ':utf8');
 binmode(STDOUT, ':utf8');
 binmode(STDERR, ':utf8');
 
+# Minimize the output when run as a cron job.
+my $quiet = 1;
 my $txtfile = shift(@ARGV);
 my $text;
 open(TXT, $txtfile) or die("Cannot read $txtfile: $!");
@@ -81,7 +83,7 @@ while(<>)
             if(exists($relations{$child}))
             {
                 my $p0 = $relations{$child}{parent};
-                print STDERR ("WARNING: Multiple incoming edges to child $child: $p0 vs. $parent.\n");
+                print STDERR ("WARNING: Multiple incoming edges to child $child: $p0 vs. $parent.\n") unless($quiet);
                 push(@{$srelations{$child}},
                 {
                     'parent' => $parent,
@@ -101,7 +103,7 @@ while(<>)
         }
         else
         {
-            print STDERR ("WARNING: Unexpected relation '$ann'\n");
+            print STDERR ("WARNING: Unexpected relation '$ann'\n") unless($quiet);
         }
     }
 }
