@@ -10,13 +10,15 @@ binmode(STDOUT, ':utf8');
 binmode(STDERR, ':utf8');
 use LWP::Simple;
 
+# Minimize the output when run as a cron job.
+my $quiet = 1;
 my @languages = qw(ar bg bn ca cs da de el en en2 es et eu ewo fa fi fil fr ga ha hi hr hu it ja ko lv mk mr ne nl no or pl pt rcf ro ru sk sl sr sv ta te tr ur vi yo zh);
 # wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=txt&protocol=1" -O ru.txt
 # wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=ann&protocol=1" -O ru.brat
 my $baseurl = 'http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&protocol=1&collection=%2Fcicling2015%2F';
 foreach my $language (@languages)
 {
-    print STDERR ("$language\n");
+    print STDERR ("$language\n") unless($quiet);
     foreach my $extension ('txt', 'ann')
     {
         my $document = get($baseurl."&document=$language&extension=$extension");

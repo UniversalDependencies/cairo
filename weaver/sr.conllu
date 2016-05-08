@@ -7,7 +7,7 @@
 
 1	Mislim	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	Offset=39-45
 2	da	_	SCONJ	_	_	3	mark	_	Offset=46-48
-3	pada	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	xcomp	_	Offset=49-53
+3	pada	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	xcomp	1:ccomp	Offset=49-53
 4	kiša	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Offset=54-58
 5	.	_	PUNCT	_	_	1	punct	_	Offset=59-60
 
@@ -22,7 +22,7 @@
 9	.	_	PUNCT	_	_	1	punct	_	Offset=99-100
 
 1	Želiš	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	Offset=101-106
-2	li	_	PART	_	_	0	_	_	Offset=107-109
+2	li	_	PART	_	_	1	discourse	_	Offset=107-109
 3	da	_	SCONJ	_	_	4	mark	_	Offset=110-112
 4	ideš	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	Offset=113-117
 5	?	_	PUNCT	_	_	1	punct	_	Offset=118-119
@@ -86,8 +86,8 @@
 2	Piter	_	PROPN	_	Case=Nom|Gender=Masc	0	_	_	Offset=355-360
 3	Smit	_	PROPN	_	Case=Nom	2	name	_	Offset=361-365
 4	ni	_	CONJ	_	_	2	cc	_	Offset=366-368
-5	Meri	_	PROPN	_	Case=Nom|Gender=Fem	0	_	_	Offset=369-373
-6	Braun	_	PROPN	_	Case=Nom	5	name	3:conj	Offset=374-379
+5	Meri	_	PROPN	_	Case=Nom|Gender=Fem	2	conj	_	Offset=369-373
+6	Braun	_	PROPN	_	Case=Nom	5	name	_	Offset=374-379
 7	nisu	_	AUX	_	Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	neg	_	Offset=380-384
 8	mogli	_	VERB	_	Aspect=Imp|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	aux	_	Offset=385-390
 9	biti	_	VERB	_	Aspect=Imp|VerbForm=Inf	10	auxpass	_	Offset=391-395

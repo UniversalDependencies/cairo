@@ -6,23 +6,23 @@ T5	Token 597 601	khỏi
 T6	Token 602 607	phòng
 T7	Token 590 592	đó
 T8	Token 593 596	rời
-T9	Token 194 195	.
+T9	PUNCT 194 195	.
 T10	Token 608 609	.
 T11	Token 610 612	Cô
-T12	Token 196 200	Hàng
-T13	Token 265 268	bạn
-T14	Token 269 270	.
-T15	Token 258 260	bố
-T16	Token 261 264	của
-T17	Token 281 285	giải
-T18	Token 286 290	đồng
-T19	Token 271 275	Mary
-T20	Token 276 280	được
-T21	Token 291 292	,
-T22	Token 293 298	Peter
-T23	Token 164 165	!
-T24	Token 201 204	xóm
-T25	Token 215 218	sơn
+T12	NOUN 196 200	Hàng
+T13	PRON 265 268	bạn
+T14	PUNCT 269 270	.
+T15	NOUN 258 260	bố
+T16	DET 261 264	của
+T17	NOUN 281 285	giải
+T18	ADJ 286 290	đồng
+T19	PROPN 271 275	Mary
+T20	VERB 276 280	được
+T21	PUNCT 291 292	,
+T22	PROPN 293 298	Peter
+T23	PART 164 165	!
+T24	NOUN 201 204	xóm
+T25	VERB 215 218	sơn
 T26	Token 570 574	Mary
 T27	Token 567 569	và
 T28	Token 555 558	đạp
@@ -33,27 +33,27 @@ T32	Token 539 544	thằng
 T33	Token 535 538	cho
 T34	Token 548 551	cái
 T35	Token 545 547	em
-T36	Token 354 359	Peter
-T37	Token 172 175	bắt
+T36	PROPN 354 359	Peter
+T37	VERB 172 175	bắt
 T38	Token 763 765	Lá
-T39	Token 341 344	hay
+T39	CONJ 341 344	hay
 T40	Token 766 769	thư
-T41	Token 345 348	nhỏ
-T42	Token 158 160	sổ
-T43	Token 349 350	?
-T44	Token 337 340	lớn
-T45	Token 332 336	nước
-T46	Token 328 331	một
-T47	Token 325 327	là
-T48	Token 318 324	Iguazu
-T49	Token 316 317	.
-T50	Token 311 315	vàng
-T51	Token 306 310	Jane
-T52	Token 303 305	và
-T53	Token 299 302	bạc
+T41	ADJ 345 348	nhỏ
+T42	NOUN 158 160	sổ
+T43	PUNCT 349 350	?
+T44	ADJ 337 340	lớn
+T45	NOUN 332 336	nước
+T46	NUM 328 331	một
+T47	VERB 325 327	là
+T48	PROPN 318 324	Iguazu
+T49	PUNCT 316 317	.
+T50	NOUN 311 315	vàng
+T51	PROPN 306 310	Jane
+T52	CONJ 303 305	và
+T53	NOUN 299 302	bạc
 T54	Token 527 530	chỉ
 T55	Token 531 534	mua
-T56	Token 149 150	,
+T56	PUNCT 149 150	,
 T57	Token 635 640	nhưng
 T58	Token 499 501	ấy
 T59	Token 502 505	mua
@@ -71,22 +71,22 @@ T70	DET 33 35	ấy
 T71	PUNCT 36 37	.
 T72	PROPN 38 41	Tôi
 T73	VERB 42 46	nghĩ
-T74	Token 161 163	ra
+T74	PART 161 163	ra
 T75	PUNCT 66 67	.
 T76	PRON 68 71	Anh
 T77	NOUN 26 29	bạn
 T78	PROPN 30 32	cô
 T79	PRON 0 2	Cố
-T80	Token 374 376	có
-T81	Token 377 380	thể
+T80	AUX 374 376	có
+T81	AUX 377 380	thể
 T82	Token 867 868	.
-T83	Token 360 362	và
-T84	Token 363 367	Mary
-T85	Token 368 373	Brown
+T83	CONJ 360 362	và
+T84	PROPN 363 367	Mary
+T85	PROPN 368 373	Brown
 T86	Token 850 852	đô
 T87	Token 853 856	của
 T88	Token 857 861	nước
-T89	Token 351 353	Cả
+T89	CONJ 351 353	Cả
 T90	Token 495 498	Anh
 T91	Token 493 494	?
 T92	Token 473 476	thể
@@ -97,27 +97,27 @@ T96	Token 489 492	nào
 T97	Token 485 488	lúc
 T98	Token 481 484	vào
 T99	Token 477 480	đến
-T100	Token 107 111	rượu
-T101	Token 102 106	uống
+T100	NOUN 107 111	rượu
+T101	VERB 102 106	uống
 T102	VERB 75 77	cố
 T103	DET 72 74	ấy
 T104	VERB 83 85	từ
 T105	VERB 78 82	gắng
 T106	VERB 89 92	hút
 T107	VERB 86 88	bỏ
-T108	Token 99 101	và
-T109	Token 93 98	thuốc
+T108	CONJ 99 101	và
+T109	NOUN 93 98	thuốc
 T110	Token 731 734	bởi
-T111	Token 191 193	tô
-T112	Token 143 144	?
-T113	Token 145 148	Sam
-T114	Token 133 136	giờ
-T115	Token 137 142	không
-T116	Token 126 128	đi
-T117	Token 129 132	bây
-T118	Token 118 120	có
-T119	Token 121 125	muốn
-T120	Token 112 113	.
+T111	NOUN 191 193	tô
+T112	PUNCT 143 144	?
+T113	PROPN 145 148	Sam
+T114	ADV 133 136	giờ
+T115	PART 137 142	không
+T116	VERB 126 128	đi
+T117	ADV 129 132	bây
+T118	AUX 118 120	có
+T119	VERB 121 125	muốn
+T120	PUNCT 112 113	.
 T121	Token 114 117	Bạn
 T122	Token 805 809	ngày
 T123	Token 810 813	hôm
@@ -132,7 +132,7 @@ T131	Token 789 793	được
 T132	Token 683 686	làm
 T133	Token 862 866	Pháp
 T134	Token 844 845	,
-T135	Token 250 253	mái
+T135	ADJ 250 253	mái
 T136	Token 830 833	lên
 T137	Token 826 829	lớn
 T138	Token 838 843	Paris
@@ -153,10 +153,10 @@ T152	Token 448 450	gì
 T153	Token 451 454	thế
 T154	Token 438 442	đang
 T155	Token 443 447	nhìn
-T156	Token 432 433	.
+T156	PUNCT 432 433	.
 T157	Token 434 437	Bạn
-T158	Token 424 427	cái
-T159	Token 428 431	này
+T158	PRON 424 427	cái
+T159	DET 428 431	này
 T160	Token 455 456	?
 T161	Token 457 460	Bạn
 T162	Token 665 670	nhưng
@@ -167,32 +167,32 @@ T166	Token 651 653	lý
 T167	Token 654 656	do
 T168	Token 657 660	nào
 T169	Token 661 664	đấy
-T170	Token 176 181	chồng
+T170	NOUN 176 181	chồng
 T171	Token 687 690	vào
-T172	Token 154 157	cửa
+T172	NOUN 154 157	cửa
 T173	Token 729 730	,
 T174	Token 725 728	kịp
-T175	Token 182 185	rửa
-T176	Token 186 188	xe
-T177	Token 189 190	ô
+T175	VERB 182 185	rửa
+T176	NOUN 186 188	xe
+T177	NOUN 189 190	ô
 T178	Token 700 702	đó
 T179	Token 710 715	không
 T180	Token 706 709	Tôi
 T181	Token 720 724	theo
 T182	Token 716 719	thể
-T183	Token 384 389	không
-T184	Token 381 383	sẽ
-T185	Token 395 399	chọn
-T186	Token 390 394	được
-T187	Token 402 404	Họ
-T188	Token 400 401	.
-T189	Token 411 415	biết
-T190	Token 405 410	không
-T191	Token 419 423	viết
-T192	Token 416 418	ai
-T193	Token 151 153	mở
+T183	ADV 384 389	không
+T184	AUX 381 383	sẽ
+T185	VERB 395 399	chọn
+T186	VERB 390 394	được
+T187	PRON 402 404	Họ
+T188	PUNCT 400 401	.
+T189	VERB 411 415	biết
+T190	ADV 405 410	không
+T191	VERB 419 423	viết
+T192	PRON 416 418	ai
+T193	VERB 151 153	mở
 T194	Token 641 643	vì
-T195	Token 209 214	Peter
+T195	PROPN 209 214	Peter
 T196	Token 631 634	tóc
 T197	Token 627 630	làm
 T198	Token 622 626	phải
@@ -207,21 +207,21 @@ T206	DET 3 5	ấy
 T207	VERB 6 10	viết
 T208	Token 648 650	số
 T209	Token 644 647	một
-T210	Token 254 257	hơn
-T211	Token 205 208	của
-T212	Token 237 239	Bố
-T213	Token 235 236	.
-T214	Token 244 249	thoải
-T215	Token 240 243	tôi
-T216	Token 224 227	rào
-T217	Token 219 223	hàng
-T218	Token 232 234	đỏ
-T219	Token 228 231	màu
+T210	ADV 254 257	hơn
+T211	DET 205 208	của
+T212	NOUN 237 239	Bố
+T213	PUNCT 235 236	.
+T214	ADJ 244 249	thoải
+T215	PRON 240 243	tôi
+T216	NOUN 224 227	rào
+T217	NOUN 219 223	hàng
+T218	ADJ 232 234	đỏ
+T219	NOUN 228 231	màu
 T220	Token 696 699	hôm
 T221	Token 691 695	ngày
-T222	Token 169 171	ấy
+T222	DET 169 171	ấy
 T223	Token 703 704	.
-T224	Token 166 168	Cô
+T224	PRON 166 168	Cô
 A1	Case T79 Nom
 A2	Gender T79 Fem
 #1	AnnotatorNotes T79	wrong translation (it should have been "cô")
@@ -257,3 +257,82 @@ A15	Tense T107 Pres
 A16	Voice T107 Act
 R16	mwe Arg1:T104 Arg2:T107	
 A17	Tense T106 Pres
+A18	Tense T101 Pres
+A19	Voice T101 Act
+R17	det Arg1:T103 Arg2:T76	
+R18	nsubj Arg1:T76 Arg2:T102	
+R19	xcomp Arg1:T104 Arg2:T102	
+R21	xcomp Arg1:T101 Arg2:T107	
+R22	xcomp Arg1:T106 Arg2:T107	
+R20	dobj Arg1:T109 Arg2:T106	
+R23	cc Arg1:T108 Arg2:T107	
+R24	dobj Arg1:T100 Arg2:T101	
+R25	punct Arg1:T120 Arg2:T102	
+T225	PRON 114 117	Bạn
+A20	Person T225 2
+A21	Number T225 Sing
+A22	Tense T119 Pres
+R26	compound Arg1:T117 Arg2:T114	
+R27	aux Arg1:T118 Arg2:T119	
+R28	nsubj Arg1:T225 Arg2:T119	
+R29	xcomp Arg1:T116 Arg2:T119	
+R30	aux Arg1:T115 Arg2:T119	
+A23	Gender T113 Masc
+A24	Number T113 Sing
+R31	compound Arg1:T42 Arg2:T172	
+R32	aux Arg1:T74 Arg2:T193	
+R33	vocative Arg1:T113 Arg2:T193	
+R34	compound Arg1:T111 Arg2:T177	
+R35	det Arg1:T222 Arg2:T224	
+R36	nsubj Arg1:T224 Arg2:T37	
+R37	dobj Arg1:T170 Arg2:T37	
+R38	xcomp Arg1:T175 Arg2:T37	
+R39	dobj Arg1:T176 Arg2:T175	
+R40	amod Arg1:T177 Arg2:T176	
+A25	Poss T211
+A26	Gender T195 Masc
+R41	compound Arg1:T217 Arg2:T216	
+R42	amod Arg1:T218 Arg2:T219	
+R43	compound Arg1:T12 Arg2:T24	
+R44	case Arg1:T211 Arg2:T195	
+R45	nsubj Arg1:T24 Arg2:T217	
+A27	Poss T215
+R46	mwe Arg1:T135 Arg2:T214	
+A28	Degree T210 Cmp
+R47	case Arg1:T215 Arg2:T212	
+R48	xcomp Arg1:T212 Arg2:T214	
+R49	case Arg1:T16 Arg2:T13	
+R50	nmod Arg1:T13 Arg2:T15	
+R51	advmod Arg1:T210 Arg2:T214	
+A29	Gender T19 Fem
+A30	Number T19 Sing
+A31	Gender T51 Fem
+A32	Number T51 Sing
+R52	nsubj Arg1:T20 Arg2:T19	
+R53	iobj Arg1:T20 Arg2:T17	
+R54	amod Arg1:T18 Arg2:T17	
+R55	iobj Arg1:T53 Arg2:T22	
+R56	iobj Arg1:T50 Arg2:T51	
+A33	Tense T47 Pres
+A34	Voice T47 Act
+R57	nsubj Arg1:T48 Arg2:T47	
+R58	nummod Arg1:T46 Arg2:T45	
+R59	conj Arg1:T39 Arg2:T44	
+R61	punct Arg1:T43 Arg2:T47	
+R60	amod Arg1:T44 Arg2:T45	
+R62	conj Arg1:T39 Arg2:T41	
+R63	mwe Arg1:T85 Arg2:T84	
+R64	conj Arg1:T83 Arg2:T36	
+R65	conj Arg1:T89 Arg2:T36	
+R66	mwe Arg1:T81 Arg2:T80	
+R67	nsubj Arg1:T36 Arg2:T186	
+R68	aux Arg1:T80 Arg2:T186	
+R69	neg Arg1:T183 Arg2:T186	
+A35	Tense T184 Fut
+A36	Person T187 3
+A37	Number T187 Plur
+R70	nsubj Arg1:T187 Arg2:T189	
+R71	neg Arg1:T190 Arg2:T189	
+R72	iobj Arg1:T192 Arg2:T189	
+R73	iobj Arg1:T158 Arg2:T191	
+R74	det Arg1:T159 Arg2:T158	
