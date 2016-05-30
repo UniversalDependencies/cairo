@@ -188,7 +188,7 @@ Odrasla je u Parizu , francuskoj prestonici .
 Тя накара мъжа си да измие колата .
 Съседът на Петър боядиса оградата в червено .
 Моят баща е по-готин от твоя .
-Мери спечели бронз, Петър - сребро и Джейн - злато .
+Мери спечели бронз , Петър - сребро и Джейн - злато .
 Игуасу голяма или малка страна е ?
 Нито Питър Смит , нито Мери Браун можеха да бъдат избрани .
 Те нямат никаква идея кой го е написал .
@@ -426,7 +426,7 @@ La chica escribió una carta a su amiga .
 Creo que está lloviendo .
 (El) intentó parar de fumar y de beber .
 ¿ Quieres ir ?
-Sam , ¡abre la ventana !
+Sam , ¡ abre la ventana !
 Ella obligó a su marido a lavar el coche .
 El vecino de Peter pintó la valla de rojo .
 Mi papa es más chulo que el tuyo .
