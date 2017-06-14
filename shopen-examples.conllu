@@ -214,16 +214,35 @@
 
 # sent_id = 1.24/tl
 # text = Nagtatrabaho ang lalaki
+# gloss = is.working TOP man
 # text_en = The man is working
+1	Nagtatrabaho	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=is-working
+2	ang	_	ADP	_	_	3	case	_	Gloss=TOPIC
+3	lalaki	_	NOUN	_	_	1	nsubj	_	Gloss=man
 
 # sent_id = 1.25/tl
 # text = Lalaki ang nagtatrabaho
+# gloss = man TOP is.working
 # text_en = The one who is working is a man
+1	Lalaki	_	NOUN	_	_	0	root	_	Gloss=man
+2	ang	_	ADP	_	_	3	case	_	Gloss=TOPIC
+3	nagtatrabaho	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	nsubj	_	Gloss=is-working
 
 # sent_id = 1.26/ilo
 # text = Natayag daydyay babae
+# gloss = tall TOP woman
 # text_en = The woman is tall
+1	Natayag	_	ADJ	_	Degree=Pos	0	root	_	Gloss=tall
+2	daydyay	_	ADP	_	_	3	case	_	Gloss=TOPIC
+3	babae	_	NOUN	_	_	1	nsubj	_	Gloss=woman
 
 # sent_id = 1.27/la
 # text = Feminae procerae homines proceros amant
+# gloss = women tall men tall like
 # text_en = Tall women like tall men
+1	Feminae	femina	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	Gloss=women
+2	procerae	procerus	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	1	amod	_	Gloss=tall
+3	homines	homo	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	Gloss=men
+4	proceros	procerus	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	3	amod	_	Gloss=tall
+5	amant	amare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=like
+
