@@ -246,3 +246,11 @@
 4	proceros	procerus	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	3	amod	_	Gloss=tall
 5	amant	amare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=like
 
+# sent_id = 1.28a/ha
+# text = mutum mai alheri
+# gloss = person having kindness
+# text_en = a kind person
+1	mutum	_	NOUN	_	_	0	root	_	Gloss=person
+2	mai	_	ADP	_	_	3	case	_	Gloss=having
+3	alheri	_	NOUN	_	_	1	nmod	_	Gloss=kindness
+
