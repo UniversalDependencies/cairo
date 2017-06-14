@@ -191,20 +191,26 @@
 2	bolila	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=walked|MSeg=boli-la|MGloss=walk-PAST
 
 # sent_id = 1.20/nuk
-###!!! Podle Wikipedie Nutka používá U+0294 LATIN LETTER GLOTTAL STOP ʔ, které vypadá jinak než to, co jsem použil níže.
-### O tečce mezi morfémy jsem nenašel nic.
-### Zato ale používají diakritiku, třeba k s čárkou, což by mohlo odpovídat dvojici tečka + k v Shopenovi.
-### Také by ta tečka mohla označovat délku předcházející samohlásky. Na http://www.firstvoices.com/en/Ehattesaht-Nuchatlaht/words-for-letter/8d43951ff230c96c je sloveso "pracovat" přeloženo jako "mamuuk", nikoli "mamu·k".
-# text = Mamukma quɁasɁi
+# The middle dot may mark length of the preceding vowel. The verb "to work" is translated as "mamuuk" at  http://www.firstvoices.com/en/Ehattesaht-Nuchatlaht/words-for-letter/8d43951ff230c96c.
+# text = Mamu·kma qu·ʔasʔi
+# gloss = working-PRES(INDIC) man-DEF
 # text_en = The man is working
+1	Mamu·kma	mamu·k	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=work|MSeg=mamu·k-ma|MGloss=working-PRES(INDIC)
+2	qu·ʔasʔi	qu·ʔas	NOUN	_	Definite=Def	1	nsubj	_	Gloss=the-man|MSeg=qu·ʔas-ʔi|MGloss=man-DEF
 
 # sent_id = 1.21/nuk
-# text = QuɁasma mamukɁi
+# text = Qu·ʔasma mamu·kʔi
+# gloss = man-PRES(INDIC) working-DEF
 # text_en = The working one is a man
+1	Qu·ʔasma	qu·ʔas	NOUN	_	Mood=Ind|Tense=Pres	0	root	_	Gloss=is-man|MSeg=qu·ʔas-ma|MGloss=man-PRES(INDIC)
+2	mamu·kʔi	mamu·k	VERB	_	Definite=Def	1	nsubj	_	Gloss=the-working-one|MSeg=mamu·k-ʔi|MGloss=working-DEF
 
 # sent_id = 1.22/nuk
-# text = Mamukma quɁas
+# text = Mamu·kma qu·ʔas
+# gloss = working-PRES(INDIC) man
 # text_en = A man is working
+1	Mamu·kma	mamu·k	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=work|MSeg=mamu·k-ma|MGloss=working-PRES(INDIC)
+2	qu·ʔasʔi	qu·ʔas	NOUN	_	Definite=Ind	1	nsubj	_	Gloss=a-man|MSeg=qu·ʔas|MGloss=man
 
 # sent_id = 1.24/tl
 # text = Nagtatrabaho ang lalaki
