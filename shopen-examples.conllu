@@ -83,23 +83,55 @@
 
 # sent_id = 1.10/la
 # text = Femina malum puellae dedit
+# gloss = woman-NOM apple-ACC girl-DAT gave
 # text_en = The woman gave an apple to the girl
+1	Femina	femina	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	Gloss=woman
+2	malum	_	NOUN	_	Case=Acc|Number=Sing	4	obj	_	Gloss=apple
+3	puellae	puella	NOUN	_	Case=Dat|Number=Sing	4	iobj	_	Gloss=girl
+4	dedit	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave
 
 # sent_id = 1.11/ja
 # text = Onna ga shojo ni ringo o ataeta
+# gloss = woman SUBJ girl DAT apple OBJ gave
 # text_en = The woman gave an apple to the girl
+1	Onna	onna	NOUN	_	_	7	nsubj	_	Gloss=woman
+2	ga	ga	ADP	_	_	1	case	_	Gloss=SUBJ
+3	shojo	shojo	NOUN	_	_	7	obl:arg	_	Gloss=girl
+4	ni	ni	ADP	_	_	3	case	_	Gloss=to
+5	ringo	ringo	NOUN	_	_	7	obj	_	Gloss=apple
+6	o	o	ADP	_	_	5	case	_	Gloss=OBJ
+7	ataeta	ageru	VERB	_	_	0	root	_	Gloss=gave
 
 # sent_id = 1.12/tl
 # text = Malapit sa babae ang bata
+# gloss = near OBLIQ woman TOP child
 # text_en = The child is near the woman
+1	Malapit	_	ADJ	_	_	0	root	_	Gloss=near
+2	sa	_	ADP	_	_	3	case	_	Gloss=to
+3	babae	_	NOUN	_	_	1	obl	_	Gloss=woman
+4	ang	_	ADP	_	_	5	case	_	Gloss=TOPIC
+5	bata	_	NOUN	_	_	1	nsubj	_	Gloss=child
 
 # sent_id = 1.13/tl
 # text = Malapit kay Maria si Juan
+# gloss = near OBLIQ Maria TOP Juan
 # text_en = Juan is near Maria
+1	Malapit	_	ADJ	_	_	0	root	_	Gloss=near
+2	kay	_	ADP	_	_	3	case	_	Gloss=to
+3	Maria	_	PROPN	_	_	1	obl	_	Gloss=Maria
+4	si	_	ADP	_	_	5	case	_	Gloss=TOPIC
+5	Juan	_	PROPN	_	_	1	nsubj	_	Gloss=Juan
 
 # sent_id = 1.14/tl
 # text = Malapit sa Maynila ang Pasay City
+# gloss = near OBL Manila TOP Pasay City
 # text_en = Pasay City is near Manila
+1	Malapit	_	ADJ	_	_	0	root	_	Gloss=near
+2	sa	_	ADP	_	_	3	case	_	Gloss=to
+3	Maynila	_	PROPN	_	_	1	obl	_	Gloss=Manila
+4	ang	_	ADP	_	_	5	case	_	Gloss=TOPIC
+5	Pasay	_	PROPN	_	_	1	nsubj	_	Gloss=Pasay
+6	City	_	PROPN	_	_	5	flat	_	Gloss=City
 
 # sent_id = 1.15a/en
 # text = The people danced
