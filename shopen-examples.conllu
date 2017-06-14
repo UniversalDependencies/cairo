@@ -210,7 +210,7 @@
 # gloss = working-PRES(INDIC) man
 # text_en = A man is working
 1	Mamu·kma	mamu·k	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=work|MSeg=mamu·k-ma|MGloss=working-PRES(INDIC)
-2	qu·ʔasʔi	qu·ʔas	NOUN	_	Definite=Ind	1	nsubj	_	Gloss=a-man|MSeg=qu·ʔas|MGloss=man
+2	qu·ʔas	qu·ʔas	NOUN	_	Definite=Ind	1	nsubj	_	Gloss=a-man|MSeg=qu·ʔas|MGloss=man
 
 # sent_id = 1.24/tl
 # text = Nagtatrabaho ang lalaki
