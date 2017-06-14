@@ -135,29 +135,60 @@
 
 # sent_id = 1.15a/en
 # text = The people danced
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	people	people	NOUN	_	Number=Ptan	3	nsubj	_	_
+3	danced	dance	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 
 # sent_id = 1.15b/en
 # text = The student solved the problem
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	student	student	NOUN	_	Number=Sing	3	nsubj	_	_
+3	solved	solve	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	problem	problem	NOUN	_	Number=Sing	3	obj	_	_
 
 # sent_id = 1.16a/tl
 # text = Pinanood ko ang mga sumasayaw
+# gloss = watch I TOP PL were.dancing
 # text_en = I watched the ones who were dancing
+1	Pinanood	_	VERB	_	_	0	root	_	Gloss=watch
+2	ko	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	ang	_	ADP	_	_	5	case	_	Gloss=TOPIC
+4	mga	_	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PLUR
+5	sumasayaw	_	VERB	_	Aspect=Prog|Mood=Ind|Tense=Past|VerbForm=Fin	1	obj	_	Gloss=were-dancing
 
 # sent_id = 1.16b/tl
 # text = Sumasayaw ang mga tao
+# gloss = were.dancing TOP PL person
 # text_en = The people were dancing
+1	Sumasayaw	_	VERB	_	Aspect=Prog|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=were-dancing
+2	ang	_	ADP	_	_	4	case	_	Gloss=TOPIC
+3	mga	_	DET	_	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLUR
+4	tao	_	NOUN	_	_	1	nsubj	_	Gloss=person
 
 # sent_id = 1.17/ak
 # text = Mehwɛɛ asaw no
+# gloss = I.watched dancing the
 # text_en = I watched the dancing
+1	Mehwɛɛ	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-watched
+2	asaw	_	NOUN	_	VerbForm=Vnoun	1	obj	_	Gloss=dancing
+3	no	_	DET	_	Definite=Def	2	det	_	Gloss=the
 
 # sent_id = 1.18/bm
 # text = U ye a san
+# gloss = they PAST it buy
 # text_en = They bought it
+1	U	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
+2	ye	_	AUX	_	Tense=Past	4	aux	_	Gloss=PAST
+3	a	_	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=it
+4	san	_	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=buy
 
 # sent_id = 1.19/bm
 # text = U bolila
+# gloss = they walk-PAST
 # text_en = They walked
+1	U	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
+2	bolila	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=walked|MSeg=boli-la|MGloss=walk-PAST
 
 # sent_id = 1.20/nuk
 ###!!! Podle Wikipedie Nutka používá U+0294 LATIN LETTER GLOTTAL STOP ʔ, které vypadá jinak než to, co jsem použil níže.
