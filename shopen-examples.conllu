@@ -1,0 +1,160 @@
+# chapter_id = 1
+# chapter_author = Schachter, Paul and Shopen, Timothy
+# chapter_title = Parts-of-speech systems
+# sent_id = 1.1/en
+# text = Boys like girls
+1	Boys	boy	NOUN	_	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	girls	girl	NOUN	_	Number=Plur	2	obj	_	_
+
+# sent_id = 1.2/en
+# text = The principal is speaking in the next room
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	principal	principal	NOUN	_	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	speaking	speak	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+5	in	in	ADP	_	_	8	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	8	det	_	_
+7	next	next	ADJ	_	Degree=Pos	8	amod	_	_
+8	room	room	NOUN	_	Number=Sing	4	obl	_	_
+
+# sent_id = 1.3/en
+# text = The principal's speech is in the next room
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	principal	principal	NOUN	_	Number=Sing	4	nmod	_	SpaceAfter=No
+3	's	's	PART	_	Poss=Yes	2	case	_	_
+4	speech	speech	NOUN	_	Number=Sing	9	nsubj	_	_
+5	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+6	in	in	ADP	_	_	9	case	_	_
+7	the	the	DET	_	Definite=Def|PronType=Art	9	det	_	_
+8	next	next	ADJ	_	Degree=Pos	9	amod	_	_
+9	room	room	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 1.4/en
+# text = The principal is giving a speech in the next room
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	principal	principal	NOUN	_	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	giving	give	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+5	a	a	DET	_	Definite=Ind|PronType=Art	6	det	_	_
+6	speech	speech	NOUN	_	Number=Sing	4	obj	_	_
+7	in	in	ADP	_	_	10	case	_	_
+8	the	the	DET	_	Definite=Def|PronType=Art	10	det	_	_
+9	next	next	ADJ	_	Degree=Pos	10	amod	_	_
+10	room	room	NOUN	_	Number=Sing	4	obl	_	_
+
+# sent_id = 1.5/en
+# text = The little boy was eating candy
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	little	little	ADJ	_	Degree=Pos	3	amod	_	_
+3	boy	boy	NOUN	_	Number=Sing	5	nsubj	_	_
+4	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	eating	eat	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+6	candy	candy	NOUN	_	Number=Sing	5	obj	_	_
+
+# sent_id = 1.6/en
+# text = They are teachers
+1	They	they	PRON	_	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	are	be	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	teachers	teacher	NOUN	_	Number=Plur	0	root	_	_
+
+# sent_id = 1.7/ha
+# text = Su malamai ne
+# gloss = they teachers COP
+# text_en = They are teachers
+1	Su	_	PRON	_	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they
+2	malamai	_	NOUN	_	Number=Plur	0	root	_	Gloss=teachers
+3	ne	_	AUX	_	_	2	cop	_	Gloss=are
+
+# sent_id = 1.8/tl
+# text = Mga guro sila
+# gloss = PL teacher they
+# text_en = They are teachers
+1	Mga	_	DET	_	Number=Plur|PronType=Ind	2	det	_	Gloss=PLUR
+2	guro	_	NOUN	_	_	0	root	_	Gloss=teacher
+3	sila	_	PRON	_	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they
+
+# sent_id = 1.9/ru
+# text = Oni učitelja
+# gloss = they teachers
+# text_en = They are teachers
+1	Oni	on	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they
+2	učitelja	učitel'	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Gloss=teachers
+
+# sent_id = 1.10/la
+# text = Femina malum puellae dedit
+# text_en = The woman gave an apple to the girl
+
+# sent_id = 1.11/ja
+# text = Onna ga shojo ni ringo o ataeta
+# text_en = The woman gave an apple to the girl
+
+# sent_id = 1.12/tl
+# text = Malapit sa babae ang bata
+# text_en = The child is near the woman
+
+# sent_id = 1.13/tl
+# text = Malapit kay Maria si Juan
+# text_en = Juan is near Maria
+
+# sent_id = 1.14/tl
+# text = Malapit sa Maynila ang Pasay City
+# text_en = Pasay City is near Manila
+
+# sent_id = 1.15a/en
+# text = The people danced
+
+# sent_id = 1.15b/en
+# text = The student solved the problem
+
+# sent_id = 1.16a/tl
+# text = Pinanood ko ang mga sumasayaw
+# text_en = I watched the ones who were dancing
+
+# sent_id = 1.16b/tl
+# text = Sumasayaw ang mga tao
+# text_en = The people were dancing
+
+# sent_id = 1.17/ak
+# text = Mehwɛɛ asaw no
+# text_en = I watched the dancing
+
+# sent_id = 1.18/bm
+# text = U ye a san
+# text_en = They bought it
+
+# sent_id = 1.19/bm
+# text = U bolila
+# text_en = They walked
+
+# sent_id = 1.20/nuk
+###!!! Podle Wikipedie Nutka používá U+0294 LATIN LETTER GLOTTAL STOP ʔ, které vypadá jinak než to, co jsem použil níže.
+### O tečce mezi morfémy jsem nenašel nic.
+### Zato ale používají diakritiku, třeba k s čárkou, což by mohlo odpovídat dvojici tečka + k v Shopenovi.
+### Také by ta tečka mohla označovat délku předcházející samohlásky. Na http://www.firstvoices.com/en/Ehattesaht-Nuchatlaht/words-for-letter/8d43951ff230c96c je sloveso "pracovat" přeloženo jako "mamuuk", nikoli "mamu·k".
+# text = Mamukma quɁasɁi
+# text_en = The man is working
+
+# sent_id = 1.21/nuk
+# text = QuɁasma mamukɁi
+# text_en = The working one is a man
+
+# sent_id = 1.22/nuk
+# text = Mamukma quɁas
+# text_en = A man is working
+
+# sent_id = 1.24/tl
+# text = Nagtatrabaho ang lalaki
+# text_en = The man is working
+
+# sent_id = 1.25/tl
+# text = Lalaki ang nagtatrabaho
+# text_en = The one who is working is a man
+
+# sent_id = 1.26/ilo
+# text = Natayag daydyay babae
+# text_en = The woman is tall
+
+# sent_id = 1.27/la
+# text = Feminae procerae homines proceros amant
+# text_en = Tall women like tall men
