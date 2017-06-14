@@ -163,7 +163,7 @@
 # text_en = The people were dancing
 1	Sumasayaw	_	VERB	_	Aspect=Prog|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=were-dancing
 2	ang	_	ADP	_	_	4	case	_	Gloss=TOPIC
-3	mga	_	DET	_	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLUR
+3	mga	_	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLUR
 4	tao	_	NOUN	_	_	1	nsubj	_	Gloss=person
 
 # sent_id = 1.17/ak
@@ -187,7 +187,7 @@
 # text = U bolila
 # gloss = they walk-PAST
 # text_en = They walked
-1	U	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
+1	U	_	PRON	_	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they
 2	bolila	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=walked|MSeg=boli-la|MGloss=walk-PAST
 
 # sent_id = 1.20/nuk
