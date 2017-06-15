@@ -310,3 +310,51 @@
 2	da	_	ADP	_	_	3	case	_	Gloss=with
 3	doki	_	NOUN	_	_	0	root	_	Gloss=horse
 
+# sent_id = 1.30a/ha
+# text = itace mai tauri
+# gloss = wood having hardness
+# text_en = hard wood
+1	itace	_	NOUN	_	Gender=Masc	0	root	_	Gloss=wood
+2	mai	_	PART	_	Number=Sing|Polarity=Pos	3	case	_	Gloss=having
+3	tauri	_	NOUN	_	Gender=Masc	1	nmod	_	Gloss=hardness
+
+# sent_id = 1.30b/ha
+# text = itace mai laushi
+# gloss = wood having softness
+# text_en = soft wood
+1	itace	_	NOUN	_	Gender=Masc	0	root	_	Gloss=wood
+2	mai	_	PART	_	Number=Sing|Polarity=Pos	3	case	_	Gloss=having
+3	laushi	_	NOUN	_	Gender=Masc	1	nmod	_	Gloss=softness
+
+# sent_id = 1.30c/ha
+# text = itace mai nauyi
+# gloss = wood having heaviness
+# text_en = heavy wood
+1	itace	_	NOUN	_	Gender=Masc	0	root	_	Gloss=wood
+2	mai	_	PART	_	Number=Sing|Polarity=Pos	3	case	_	Gloss=having
+3	nauyi	_	NOUN	_	Gender=Masc	1	nmod	_	Gloss=heaviness
+
+# sent_id = 1.31a/ha
+# text = Yana da tauri
+# gloss = it.is with hardness
+# text_en = It is hard
+1	Yana	_	AUX	_	Aspect=Prog|Gender=Masc|Number=Sing|Person=3|Polarity=Pos	3	cop	_	Gloss=it-is
+2	da	_	ADP	_	_	3	case	_	Gloss=with
+3	tauri	_	NOUN	_	_	0	root	_	Gloss=hardness
+
+# sent_id = 1.31b/ha
+# text = Yana da laushi
+# gloss = it.is with softness
+# text_en = It is soft
+1	Yana	_	AUX	_	Aspect=Prog|Gender=Masc|Number=Sing|Person=3|Polarity=Pos	3	cop	_	Gloss=it-is
+2	da	_	ADP	_	_	3	case	_	Gloss=with
+3	laushi	_	NOUN	_	_	0	root	_	Gloss=softness
+
+# sent_id = 1.31c/ha
+# text = Yana da nauyi
+# gloss = it.is with heaviness
+# text_en = It is heavy
+1	Yana	_	AUX	_	Aspect=Prog|Gender=Masc|Number=Sing|Person=3|Polarity=Pos	3	cop	_	Gloss=it-is
+2	da	_	ADP	_	_	3	case	_	Gloss=with
+3	nauyi	_	NOUN	_	_	0	root	_	Gloss=heaviness
+
