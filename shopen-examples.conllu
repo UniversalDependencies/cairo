@@ -414,3 +414,178 @@
 1	Umuuntu	_	NOUN	_	_	2	nsubj	_	Gloss=person
 2	áalemba	_	VERB	_	_	0	root	_	Gloss=is-writing
 
+# sent_id = 1.34/ygr
+# text = Bura fu nupa fu baie
+# gloss = that pig black pig is
+# text_en = That pig is black
+# source = Haiman 1978
+1	Bura	_	DET	_	_	2	det	_	Gloss=that
+2	fu	_	NOUN	_	_	4	nsubj	_	Gloss=pig
+3	nupa	_	ADJ	_	_	4	amod	_	Gloss=black
+4	fu	_	NOUN	_	_	0	root	_	Gloss=pig
+5	baie	_	AUX	_	_	4	cop	_	Gloss=is
+
+# sent_id = 1.35a/qu
+# text = Rikaška: hatunta
+# gloss = I saw big-ACC
+# text_en = I saw the big one
+1	Rikaška:	_	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	Gloss=I-saw
+2	hatunta	hatun	NOUN	_	Case=Acc|Number=Sing	1	obj	_	Gloss=big-one|MSeg=hatun-ta|MGloss=big-ACC
+
+# sent_id = 1.35b/qu
+# text = Rikaška: hatunkunata
+# gloss = I saw big-PL-ACC
+# text_en = I saw the big ones
+1	Rikaška:	_	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	Gloss=I-saw
+2	hatunkunata	hatun	NOUN	_	Case=Acc|Number=Plur	1	obj	_	Gloss=big-one|MSeg=hatun-kuna-ta|MGloss=big-PL-ACC
+
+# sent_id = 1.36a/qu
+# text = Rikaška: alkaldeta
+# gloss = I saw mayor
+# text_en = I saw the mayor
+1	Rikaška:	_	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	Gloss=I-saw
+2	alkaldeta	alkalde	NOUN	_	Case=Acc|Number=Sing	1	obj	_	Gloss=mayor|MSeg=alkalde-ta|MGloss=mayor-ACC
+
+# sent_id = 1.36b/qu
+# text = Rikaška: alkaldekunata
+# gloss = I saw mayors
+# text_en = I saw the mayors
+1	Rikaška:	_	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	Gloss=I-saw
+2	alkaldekunata	alkalde	NOUN	_	Case=Acc|Number=Plur	1	obj	_	Gloss=mayor|MSeg=alkalde-kuna-ta|MGloss=mayor-PL-ACC
+
+# sent_id = 1.37a/qu
+# text = Chay runa hatun
+# gloss = that man big
+# text_en = That man is big
+1	Chay	_	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	runa	_	NOUN	_	Number=Sing	3	nsubj	_	Gloss=man
+3	hatun	_	NOUN	_	Number=Sing	0	root	_	Gloss=big
+
+# sent_id = 1.37b/qu
+# text = Chay runa hatun kaykan
+# gloss = that man big is
+# text_en = That man is big
+1	Chay	_	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	runa	_	NOUN	_	Number=Sing	3	nsubj	_	Gloss=man
+3	hatun	_	NOUN	_	Number=Sing	0	root	_	Gloss=big
+4	kaykan	_	AUX	_	_	3	cop	_	Gloss=is
+
+# sent_id = 1.38a/qu
+# text = Chay runa alkalde
+# gloss = that man mayor
+# text_en = That man is mayor
+1	Chay	_	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	runa	_	NOUN	_	Number=Sing	3	nsubj	_	Gloss=man
+3	alkalde	_	NOUN	_	Number=Sing	0	root	_	Gloss=mayor
+
+# sent_id = 1.38b/qu
+# text = Chay runa alkalde kaykan
+# gloss = that man mayor is
+# text_en = That man is mayor
+1	Chay	_	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	runa	_	NOUN	_	Number=Sing	3	nsubj	_	Gloss=man
+3	alkalde	_	NOUN	_	Number=Sing	0	root	_	Gloss=mayor
+4	kaykan	_	AUX	_	_	3	cop	_	Gloss=is
+
+# sent_id = 1.39/qu
+# text = chay hatun runa
+# gloss = that big man
+# text_en = that big man
+1	chay	_	DET	_	PronType=Dem	3	det	_	Gloss=that
+2	hatun	_	NOUN	_	Number=Sing	3	nmod	_	Gloss=big
+3	runa	_	NOUN	_	Number=Sing	0	root	_	Gloss=man
+
+# sent_id = 1.40/qu
+# text = chay alkalde runa
+# gloss = that mayor man
+# text_en = that man who is mayor
+1	chay	_	DET	_	PronType=Dem	3	det	_	Gloss=that
+2	alkalde	_	NOUN	_	Number=Sing	3	nmod	_	Gloss=mayor
+3	runa	_	NOUN	_	Number=Sing	0	root	_	Gloss=man
+
+# sent_id = 1.41/zh
+# text = Neige nüaizi piaoliang
+# gloss = that girl beautiful
+# text_en = That girl is beautiful
+1	Neige	nei	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	nüaizi	nüaizi	NOUN	_	_	3	nsubj	_	Gloss=girl
+3	piaoliang	piaoliang	VERB	_	_	0	root	_	Gloss=beautiful
+
+# sent_id = 1.42/zh
+# text = Neige nüaizi liaojie
+# gloss = that girl understand
+# text_en = That girl understands
+1	Neige	nei	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	nüaizi	nüaizi	NOUN	_	_	3	nsubj	_	Gloss=girl
+3	liaojie	liaojie	VERB	_	_	0	root	_	Gloss=understand
+
+# sent_id = 1.43/zh
+# text = piaoliang de nüaizi
+# gloss = beautiful REL girl
+# text_en = a beautiful girl (a girl who is beautiful)
+1	piaoliang	piaoliang	VERB	_	_	3	acl	_	Gloss=beautiful
+2	de	de	SCONJ	_	_	1	mark	_	Gloss=REL
+3	nüaizi	nüaizi	NOUN	_	_	0	root	_	Gloss=girl
+
+# sent_id = 1.44/zh
+# text = liaojie de nüaizi
+# gloss = understand REL girl
+# text_en = a girl who understands (an understanding girl)
+1	liaojie	liaojie	VERB	_	_	3	acl	_	Gloss=understand
+2	de	de	SCONJ	_	_	1	mark	_	Gloss=REL
+3	nüaizi	nüaizi	NOUN	_	_	0	root	_	Gloss=girl
+
+# sent_id = 1.45a/mov
+# text = ʔi:pač homi:k
+# gloss = man tall
+# text_en = The man is tall
+1	ʔi:pač	ʔi:pa	NOUN	_	_	2	nsubj	_	Gloss=man|MSeg=ʔi:pa-č|MGloss=man-SUBJ
+2	homi:k	homi:	ADJ	_	Tense=Pres	0	root	_	Gloss=tall|MSeg=homi:-k|MGloss=tall-PRES
+
+# sent_id = 1.45b/mov
+# text = ʔi:pač homi:k iðu:m
+# gloss = man tall AUX
+# text_en = The man is tall
+1	ʔi:pač	ʔi:pa	NOUN	_	_	2	nsubj	_	Gloss=man|MSeg=ʔi:pa-č|MGloss=man-SUBJ
+2	homi:k	homi:	ADJ	_	Tense=Pres	0	root	_	Gloss=tall|MSeg=homi:-k|MGloss=tall-PRES
+3	iðu:m	iðu:m	AUX	_	_	2	aux	_	Gloss=AUX
+
+# sent_id = 1.46a/mov
+# text = ʔi:pač su:pawk
+# gloss = man know
+# text_en = The man knows
+1	ʔi:pač	ʔi:pa	NOUN	_	Case=Nom	2	nsubj	_	Gloss=man|MSeg=ʔi:pa-č|MGloss=man-SUBJ
+2	su:pawk	su:paw	VERB	_	Tense=Pres	0	root	_	Gloss=know|MSeg=su:paw-k|MGloss=know-PRES
+
+# sent_id = 1.46b/mov
+# text = ʔi:pač su:pawk iðu:m
+# gloss = man know AUX
+# text_en = The man knows
+1	ʔi:pač	ʔi:pa	NOUN	_	Case=Nom	2	nsubj	_	Gloss=man|MSeg=ʔi:pa-č|MGloss=man-SUBJ
+2	su:pawk	su:paw	VERB	_	Tense=Pres	0	root	_	Gloss=know|MSeg=su:paw-k|MGloss=know-PRES
+3	iðu:m	iðu:m	AUX	_	_	2	aux	_	Gloss=AUX
+
+# sent_id = 1.47/mov
+# text = ʔi:pa kʷsu:pawnʸč iva:k
+# gloss = man who.knows is.here
+# text_en = The man who knows is here
+1	ʔi:pa	ʔi:pa	NOUN	_	_	3	nsubj	_	Gloss=man
+2	kʷsu:pawnʸč	su:paw	VERB	Case=Nom|PronType=Dem	_	1	acl	_	Gloss=who-knows|MSeg=kʷ-su:paw-nʸ-č|MGloss=REL-know-DEM-SUBJ
+3	iva:k	iva:	VERB	_	Tense=Pres	0	root	_	Gloss=is-here
+
+# sent_id = 1.48a/mov
+# text = ʔi:pa homi:nʸč iva:k
+# gloss = man tall is.here
+# text_en = The tall man is here
+1	ʔi:pa	ʔi:pa	NOUN	_	_	3	nsubj	_	Gloss=man
+2	homi:nʸč	homi:	ADJ	Case=Nom|PronType=Dem	_	1	acl	_	Gloss=tall|MSeg=homi:-nʸ-č|MGloss=tall-DEM-SUBJ
+3	iva:k	iva:	VERB	_	Tense=Pres	0	root	_	Gloss=is-here
+
+# sent_id = 1.48b/mov
+# text = ʔi:pa kʷhomi:nʸč iva:k
+# gloss = man who.is.tall is.here
+# text_en = The tall man is here
+1	ʔi:pa	ʔi:pa	NOUN	_	_	3	nsubj	_	Gloss=man
+2	kʷhomi:nʸč	homi:	ADJ	Case=Nom|PronType=Dem	_	1	acl	_	Gloss=who-is-tall|MSeg=kʷ-homi:-nʸ-č|MGloss=REL-tall-DEM-SUBJ
+3	iva:k	iva:	VERB	_	Tense=Pres	0	root	_	Gloss=is-here
+
