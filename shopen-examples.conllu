@@ -358,3 +358,59 @@
 2	da	_	ADP	_	_	3	case	_	Gloss=with
 3	nauyi	_	NOUN	_	_	0	root	_	Gloss=heaviness
 
+# sent_id = 1.32a/bem
+# text = umuuntu ùashipa
+# gloss = person who.is.brave
+# text_en = a brave person
+1	umuuntu	_	NOUN	_	_	0	root	_	Gloss=person
+2	ùashipa	_	VERB	_	_	1	acl	_	Gloss=who-is-brave
+
+# sent_id = 1.32b/bem
+# text = umuuntu ùakosa
+# gloss = person who.is.strong
+# text_en = a strong person
+1	umuuntu	_	NOUN	_	_	0	root	_	Gloss=person
+2	ùakosa	_	VERB	_	_	1	acl	_	Gloss=who-is-strong
+
+# sent_id = 1.32c/bem
+# text = umuuntu ùaceenjela
+# gloss = person who.is.wise
+# text_en = a wise person
+1	umuuntu	_	NOUN	_	_	0	root	_	Gloss=person
+2	ùaceenjela	_	VERB	_	_	1	acl	_	Gloss=who-is-wise
+
+# sent_id = 1.32d/bem
+# text = umuuntu ùalemba
+# gloss = person who.is.writing
+# text_en = a person who is writing
+1	umuuntu	_	NOUN	_	_	0	root	_	Gloss=person
+2	ùalemba	_	VERB	_	_	1	acl	_	Gloss=who-is-writing
+
+# sent_id = 1.33a/bem
+# text = Umuuntu áashipa
+# gloss = person is.brave
+# text_en = The person is brave
+1	Umuuntu	_	NOUN	_	_	2	nsubj	_	Gloss=person
+2	áashipa	_	VERB	_	_	0	root	_	Gloss=is-brave
+
+# sent_id = 1.33b/bem
+# text = Umuuntu áakosa
+# gloss = person is.strong
+# text_en = The person is strong
+1	Umuuntu	_	NOUN	_	_	2	nsubj	_	Gloss=person
+2	áakosa	_	VERB	_	_	0	root	_	Gloss=is-strong
+
+# sent_id = 1.33c/bem
+# text = Umuuntu áaceenjela
+# gloss = person is.wise
+# text_en = The person is wise
+1	Umuuntu	_	NOUN	_	_	2	nsubj	_	Gloss=person
+2	áaceenjela	_	VERB	_	_	0	root	_	Gloss=is-wise
+
+# sent_id = 1.33d/bem
+# text = Umuuntu áalemba
+# gloss = person is.writing
+# text_en = The person is writing
+1	Umuuntu	_	NOUN	_	_	2	nsubj	_	Gloss=person
+2	áalemba	_	VERB	_	_	0	root	_	Gloss=is-writing
+
