@@ -251,6 +251,62 @@
 # gloss = person having kindness
 # text_en = a kind person
 1	mutum	_	NOUN	_	_	0	root	_	Gloss=person
-2	mai	_	ADP	_	_	3	case	_	Gloss=having
+2	mai	_	PART	_	Number=Sing|Polarity=Pos	3	case	_	Gloss=having
 3	alheri	_	NOUN	_	_	1	nmod	_	Gloss=kindness
+
+# sent_id = 1.28b/ha
+# text = mutum mai arziki
+# gloss = person having prosperity
+# text_en = a prosperous person
+1	mutum	_	NOUN	_	_	0	root	_	Gloss=person
+2	mai	_	PART	_	Number=Sing|Polarity=Pos	3	case	_	Gloss=having
+3	arziki	_	NOUN	_	_	1	nmod	_	Gloss=prosperity
+
+# sent_id = 1.28c/ha
+# text = mutum mai hankali
+# gloss = person having intelligence
+# text_en = an intelligent person
+1	mutum	_	NOUN	_	_	0	root	_	Gloss=person
+2	mai	_	PART	_	Number=Sing|Polarity=Pos	3	case	_	Gloss=having
+3	hankali	_	NOUN	_	_	1	nmod	_	Gloss=intelligence
+
+# sent_id = 1.28d/ha
+# text = mutum mai doki
+# gloss = person having horse
+# text_en = a person having a horse
+1	mutum	_	NOUN	_	_	0	root	_	Gloss=person
+2	mai	_	PART	_	Number=Sing|Polarity=Pos	3	case	_	Gloss=having
+3	doki	_	NOUN	_	_	1	nmod	_	Gloss=horse
+
+# sent_id = 1.29a/ha
+# text = Yana da alheri
+# gloss = he.is with kindness
+# text_en = He is kind
+1	Yana	_	AUX	_	Aspect=Prog|Gender=Masc|Number=Sing|Person=3|Polarity=Pos	3	cop	_	Gloss=he-is
+2	da	_	ADP	_	_	3	case	_	Gloss=with
+3	alheri	_	NOUN	_	_	0	root	_	Gloss=kindness
+
+# sent_id = 1.29b/ha
+# text = Yana da arziki
+# gloss = he.is with prosperity
+# text_en = He is prosperous
+1	Yana	_	AUX	_	Aspect=Prog|Gender=Masc|Number=Sing|Person=3|Polarity=Pos	3	cop	_	Gloss=he-is
+2	da	_	ADP	_	_	3	case	_	Gloss=with
+3	arziki	_	NOUN	_	_	0	root	_	Gloss=prosperity
+
+# sent_id = 1.29c/ha
+# text = Yana da hankali
+# gloss = he.is with intelligence
+# text_en = He is intelligent
+1	Yana	_	AUX	_	Aspect=Prog|Gender=Masc|Number=Sing|Person=3|Polarity=Pos	3	cop	_	Gloss=he-is
+2	da	_	ADP	_	_	3	case	_	Gloss=with
+3	hankali	_	NOUN	_	_	0	root	_	Gloss=intelligence
+
+# sent_id = 1.29d/ha
+# text = Yana da doki
+# gloss = he.is with horse
+# text_en = He has a horse
+1	Yana	_	AUX	_	Aspect=Prog|Gender=Masc|Number=Sing|Person=3|Polarity=Pos	3	cop	_	Gloss=he-is
+2	da	_	ADP	_	_	3	case	_	Gloss=with
+3	doki	_	NOUN	_	_	0	root	_	Gloss=horse
 
