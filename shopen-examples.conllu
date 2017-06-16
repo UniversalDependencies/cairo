@@ -589,3 +589,50 @@
 2	kʷhomi:nʸč	homi:	ADJ	Case=Nom|PronType=Dem	_	1	acl	_	Gloss=who-is-tall|MSeg=kʷ-homi:-nʸ-č|MGloss=REL-tall-DEM-SUBJ
 3	iva:k	iva:	VERB	_	Tense=Pres	0	root	_	Gloss=is-here
 
+# sent_id = 1.50/en
+# text = Unfortunately, John walked home extremely slowly yesterday
+1	Unfortunately	unfortunately	ADV	_	_	4	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	John	John	PROPN	_	Number=Sing	4	nsubj	_	_
+4	walked	walk	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	home	home	ADV	_	_	4	advmod	_	_
+6	extremely	extremely	ADV	_	_	7	advmod	_	_
+7	slowly	slowly	ADV	_	_	4	advmod	_	_
+8	yesterday	yesterday	ADV	_	_	4	advmod	_	_
+
+# sent_id = 1.51a/ha
+# text = Ya fi ni hankali
+# gloss = he.PERF surpass me intelligence
+# text_en = He is more intelligent than I am
+1	Ya	_	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	2	aux	_	Gloss=he-PERF
+2	fi	_	VERB	_	_	0	root	_	Gloss=surpass
+3	ni	ni:	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	Gloss=me
+4	hankali	hankali	NOUN	_	Gender=Masc	2	obl	_	Gloss=intelligence
+
+# sent_id = 1.51b/ha
+# text = Ya fi su duka hankali
+# gloss = he.PERF surpass them all intelligence
+# text_en = He is the most intelligent of them all
+1	Ya	_	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	2	aux	_	Gloss=he-PERF
+2	fi	_	VERB	_	_	0	root	_	Gloss=surpass
+3	su	su:	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Gloss=them
+4	duka	_	DET	_	PronType=Tot	3	det	_	Gloss=all
+5	hankali	hankali	NOUN	_	Gender=Masc	2	obl	_	Gloss=intelligence
+
+# sent_id = 1.52a/ak
+# text = Ɔtaa ba ha
+# gloss = he.pursue come here
+# text_en = He often comes here
+###!!! Examples 1.52* should be analyzed as serial verb constructions (Schachter, 1974), not as xcomp.
+1	Ɔtaa	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=he-pursues
+2	ba	_	VERB	_	VerbForm=Inf	1	xcomp	_	Gloss=come
+3	ha	_	ADV	_	_	2	advmod	_	Gloss=here
+
+# sent_id = 1.52b/ak
+# text = Ohintaw kɔ hɔ
+# gloss = he.hide go there
+# text_en = He goes there secretly
+1	Ohintaw	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=he-hides
+2	kɔ	_	VERB	_	VerbForm=Inf	1	xcomp	_	Gloss=go
+3	hɔ	_	ADV	_	_	2	advmod	_	Gloss=there
+
