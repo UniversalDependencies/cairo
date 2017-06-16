@@ -656,3 +656,180 @@
 3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
 4	radio	radio	NOUN	_	Number=Sing	1	obj	_	_
 
+# sent_id = 1.54a/fr
+# text = Jean le leur donnera
+# gloss = Jean it to.them will.give
+# text_en = Jean will give it to them
+1	Jean	Jean	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Jean
+2	le	il	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=it
+3	leur	il	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	iobj	_	Gloss=them
+4	donnera	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-give
+
+# sent_id = 1.54b/fr
+# text = Jean donnera le pain aux enfants
+# gloss = Jean will.give the bread to.the children
+# text_en = Jean will give the bread to the children
+1	Jean	Jean	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Jean
+2	donnera	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-give
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the
+4	pain	pain	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	Gloss=bread
+5-6	aux	_	_	_	_	_	_	_	_
+5	à	à	ADP	_	_	7	case	_	Gloss=to
+6	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Gloss=the
+7	enfants	enfant	NOUN	_	Gender=Masc|Number=Plur	2	obl:arg	_	Gloss=children
+
+# sent_id = 1.55a/tl
+# text = Hindi ko siya nakita
+# gloss = not I(AG) him(TOP) saw
+# text_en = I didn't see him
+1	Hindi	_	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
+2	ko	_	PRON	_	Agent=Yes|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
+3	siya	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Topic=Yes	4	obj	_	Gloss=him
+4	nakita	_	VERB	_	Tense=Past	0	root	_	Gloss=saw
+
+# sent_id = 1.55b/tl
+# text = Hindi nakita ni Pedro si Juan
+# gloss = not saw AG Pedro TOP Juan
+# text_en = Pedro didn't see Juan
+1	Hindi	_	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+2	nakita	_	VERB	_	Tense=Past	0	root	_	Gloss=saw
+3	ni	_	ADP	_	Agent=Yes	4	case	_	Gloss=AGENT
+4	Pedro	_	PROPN	_	_	2	nsubj	_	Gloss=Pedro
+5	si	_	ADP	_	Topic=Yes	6	case	_	Gloss=TOPIC
+6	Juan	_	PROPN	_	_	2	obj	_	Gloss=Juan
+
+# sent_id = 1.56/sw
+# text = Niliwaona
+# gloss = I-PAST-you-see
+# text_en = I saw you
+1	Niliwaona	ona	VERB	_	Mood=Ind|Number=Sing|Number[Acc]=Sing|Person=1|Person[Acc]=2|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw-you|MSeg=ni-li-wa-ona|MGloss=I-PAST-you-see
+
+# sent_id = 1.57/qu
+# text = Maqamanki
+# gloss = hit-me-you
+# text_en = You hit me
+1	Maqamanki	maqa	VERB	_	Mood=Ind|Number=Sing|Number[Acc]=Sing|Person=2|Person[Acc]=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=you-hit-me|MSeg=maqa-ma-nki|MGloss=hit-me-you
+
+# sent_id = 1.58/qu
+# text = Qam noqata maqamanki
+# gloss = you me hit.me.you
+# text_en = You hit me
+1	Qam	qam	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you
+2	noqata	noqa	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me
+3	maqamanki	maqa	VERB	_	Mood=Ind|Number=Sing|Number[Acc]=Sing|Person=2|Person[Acc]=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=hit|MSeg=maqa-ma-nki|MGloss=hit-me-you
+
+# sent_id = 1.59/ja
+# text = John wa Mary o sitte-imasu ga, amari yoku wa sirima-sen
+# gloss = John TOP Mary OBJ knows but really well TOP knows-not
+# text_en = John knows Mary, but he doesn't know her very well
+1	John	John	PROPN	_	_	5	nsubj	_	Gloss=John
+2	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
+3	Mary	Mary	PROPN	_	_	5	obj	_	Gloss=Mary
+4	o	o	ADP	_	_	3	case	_	Gloss=OBJECT
+5	sitte-imasu	_	VERB	_	Aspect=Prog	0	root	_	Gloss=know
+6	ga	ga	ADP	_	_	5	case	_	Gloss=but
+7	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+8	amari	amari	ADV	_	_	9	advmod	_	Gloss=really
+9	yoku	yoku	ADV	_	_	11	advmod	_	Gloss=well
+10	wa	wa	ADP	_	Topic=Yes	9	case	_	Gloss=TOPIC
+11	sirima-sen	_	VERB	_	Polarity=Neg	5	conj	_	Gloss=know-not
+
+# sent_id = 1.60/ja
+# text = Gohan o tabtai
+# gloss = rice OBJ eat-DESIDERATIVE
+# text_en = I want to eat rice
+1	Gohan	gohan	NOUN	_	_	3	obj	_	Gloss=rice
+2	o	o	ADP	_	_	1	case	_	Gloss=OBJECT
+3	tabtai	taberu	VERB	_	Mood=Des|VerbForm=Fin	0	root	_	Gloss=eat
+
+# sent_id = 1.61a/en
+# text = John shaved himself
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	shaved	shave	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	himself	himself	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_
+
+# sent_id = 1.61b/en
+# text = John and Bill shaved themselves
+1	John	John	PROPN	_	Number=Sing	4	nsubj	_	_
+2	and	and	CCONJ	_	_	3	cc	_	_
+3	Bill	Bill	PROPN	_	Number=Sing	1	conj	_	_
+4	shaved	shave	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	themselves	themselves	PRON	_	Number=Plur|Person=3|PronType=Prs|Reflex=Yes	4	obj	_	_
+
+# sent_id = 1.62/en
+# text = John himself shaved Bill
+1	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
+2	himself	himself	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emph|Reflex=Yes	1	nmod	_	_
+3	shaved	shave	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	Bill	Bill	PROPN	_	Number=Sing	3	obj	_	_
+
+# sent_id = 1.63/tl
+# text = Inahit ni John ang sarili niya
+# gloss = shaved AG John TOP self his
+# text_en = John shaved himself
+1	Inahit	_	VERB	_	_	0	root	_	Gloss=shaved
+2	ni	_	ADP	_	Agent=Yes	3	case	_	Gloss=AGENT
+3	John	_	PROPN	_	_	1	nsubj	_	Gloss=John
+4	ang	_	ADP	_	Topic=Yes	5	case	_	Gloss=TOPIC
+5	sarili	_	PRON	_	PronType=Prs|Reflex=Yes	1	obj	_	Gloss=self
+6	niya	_	PRON	_	Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Gloss=his
+
+# sent_id = 1.64/tl
+# text = Inahit ni John mismo si Bill
+# gloss = shaved AG John EMPH TOP Bill
+# text_en = John himself shaved Bill
+1	Inahit	_	VERB	_	_	0	root	_	Gloss=shaved
+2	ni	_	ADP	_	Agent=Yes	3	case	_	Gloss=AGENT
+3	John	_	PROPN	_	_	1	nsubj	_	Gloss=John
+4	mismo	_	DET	_	PronType=Emph	3	nmod	_	Gloss=EMPH
+5	si	_	ADP	_	Topic=Yes	6	_	Gloss=TOPIC
+6	Bill	_	PROPN	_	_	1	obj	_	Gloss=Bill
+
+# sent_id = 1.65a/fr
+# text = Ils me voient
+# gloss = they me see
+# text_en = They see me
+1	Ils	il	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=they
+2	me	je	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me
+3	voient	voir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see
+
+# sent_id = 1.65b/fr
+# text = Je me vois
+# gloss = I me see
+# text_en = I see myself
+1	Je	je	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
+2	me	je	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	3	obj	_	Gloss=me
+3	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see
+
+# sent_id = 1.66a/fr
+# text = Ils te voient
+# gloss = they you see
+# text_en = They see you
+1	Ils	il	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=they
+2	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	_	Gloss=you
+3	voient	voir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see
+
+# sent_id = 1.66b/fr
+# text = Tu te vois
+# gloss = you you see
+# text_en = You see yourself
+1	Tu	tu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you
+2	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	3	obj	_	Gloss=you
+3	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see
+
+# sent_id = 1.67a/fr
+# text = Ils les voient
+# gloss = they them see
+# text_en = They see them
+1	Ils	il	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=they
+2	les	il	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	Gloss=them
+3	voient	voir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see
+
+# sent_id = 1.67b/fr
+# text = Ils se voient
+# gloss = they REFL see
+# text_en = They see themselves
+1	Ils	il	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=they
+2	se	se	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	obj	_	Gloss=REFLEX
+3	voient	voir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see
+
