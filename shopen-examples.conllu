@@ -623,9 +623,9 @@
 # text = Ɔtaa ba ha
 # gloss = he.pursue come here
 # text_en = He often comes here
-###!!! Examples 1.52* should be analyzed as serial verb constructions (Schachter, 1974), not as xcomp.
+# Reference about serial verb constructions (not necessarily source of this example): Schachter (1974).
 1	Ɔtaa	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=he-pursues
-2	ba	_	VERB	_	VerbForm=Inf	1	xcomp	_	Gloss=come
+2	ba	_	VERB	_	VerbForm=Inf	1	compound:svc	_	Gloss=come
 3	ha	_	ADV	_	_	2	advmod	_	Gloss=here
 
 # sent_id = 1.52b/ak
@@ -633,6 +633,26 @@
 # gloss = he.hide go there
 # text_en = He goes there secretly
 1	Ohintaw	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=he-hides
-2	kɔ	_	VERB	_	VerbForm=Inf	1	xcomp	_	Gloss=go
+2	kɔ	_	VERB	_	VerbForm=Inf	1	compound:svc	_	Gloss=go
 3	hɔ	_	ADV	_	_	2	advmod	_	Gloss=there
+
+# sent_id = 1.53a/en
+# text = Turn it on
+1	Turn	turn	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	it	it	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	on	on	ADP	_	_	1	compound:prt	_	_
+
+# sent_id = 1.53b/en
+# text = Turn the radio on
+1	Turn	turn	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	the	the	DET	_	Definite=Def|PronType=Art	3	det	_	_
+3	radio	radio	NOUN	_	Number=Sing	1	obj	_	_
+4	on	on	ADP	_	_	1	compound:prt	_	_
+
+# sent_id = 1.53c/en
+# text = Turn on the radio
+1	Turn	turn	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	on	on	ADP	_	_	1	compound:prt	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	radio	radio	NOUN	_	Number=Sing	1	obj	_	_
 
