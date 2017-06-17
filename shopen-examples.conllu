@@ -895,3 +895,80 @@
 # text_en = He bought it
 1	Ophethon	ophethon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=he-bought-it
 
+# sent_id = 1.75a/en
+# text = They helped each other
+1	They	they	PRON	_	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	helped	help	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	each	each	PRON	_	PronType=Tot	2	obj	_	_
+4	other	other	ADJ	_	_	3	fixed	_	_
+
+# sent_id = 1.75b/en
+# text = They helped one another
+1	They	they	PRON	_	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	helped	help	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	one	one	PRON	_	PronType=Ind	2	obj	_	_
+4	another	another	ADJ	_	_	3	fixed	_	_
+
+# sent_id = 1.76a/ak
+# text = Wohuu wɔn ho wɔn ho
+# gloss = they.saw their body their body
+# text_en = They saw each other
+1	Wohuu	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=they-saw
+2	wɔn	_	PRON	_	Number=Poss|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	Gloss=their
+3	ho	_	NOUN	_	Number=Sing	1	obj	_	Gloss=body
+4	wɔn	_	PRON	_	Number=Poss|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Gloss=their
+5	ho	_	NOUN	_	Number=Sing	3	compound:redup	_	Gloss=body
+
+# sent_id = 1.76b/ak
+# text = Wohuu wɔn ho
+# gloss = they.saw their body
+# text_en = They saw themselves
+1	Wohuu	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=they-saw
+2	wɔn	_	PRON	_	Number=Poss|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	Gloss=their
+3	ho	_	NOUN	_	Number=Sing	1	obj	_	Gloss=body
+
+# sent_id = 1.77/fr
+# text = Ils se flattent
+# gloss = they REFL/RECIP flatter
+# text_en = They flatter themselves / each other
+1	Ils	il	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=they
+2	se	se	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	obj	_	Gloss=themselves/each-other
+3	flattent	flatter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=flatter
+
+# sent_id = 1.78/fr
+# text = Ils se flattent l'un l'autre
+# gloss = they REFL/RECIP flatter the.one the.other
+# text_en = They flatter one another
+1	Ils	il	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=they
+2	se	se	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	obj	_	Gloss=themselves/each-other
+3	flattent	flatter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=flatter
+4	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the|SpaceAfter=No
+5	un	un	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	3	obl	_	Gloss=one
+6	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Gloss=the|SpaceAfter=No
+7	autre	autre	ADJ	_	Number=Sing	5	compound	_	Gloss=other
+
+# sent_id = 1.79/en
+# text = This resembles that
+1	This	this	DET	_	Number=Sing|PronType=Dem	2	nsubj	_	_
+2	resembles	resemble	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	that	that	DET	_	Number=Sing|PronType=Dem	2	obj	_	_
+
+# sent_id = 1.80a/fr
+# text = On dit qu'il pleut
+# gloss = INDEF says that-it rains
+# They say that it's raining
+1	On	on	PRON	_	PronType=Ind	2	nsubj	_	Gloss=one
+2	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=says
+3	qu'	que	SCONJ	_	_	5	mark	_	Gloss=that
+4	il	il	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=it
+5	pleut	pleuvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	Gloss=rains
+
+# sent_id = 1.80b/fr
+# text = On ne sait jamais
+# gloss = INDEF NEG knows never
+# text_en = You/One never can tell
+1	On	on	PRON	_	PronType=Ind	2	nsubj	_	Gloss=one
+2	ne	ne	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+3	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=knows
+4	jamais	jamais	ADV	_	PronType=Neg	3	advmod	_	Gloss=never
+
