@@ -833,3 +833,65 @@
 2	se	se	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	obj	_	Gloss=REFLEX
 3	voient	voir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see
 
+# sent_id = 1.68/ja
+# text = Taroo wa zibun o mamotta
+# gloss = Taroo TOP REFL OBJ defended
+# text_en = Taroo defended himself
+1	Taroo	Taroo	PROPN	_	_	5	nsubj	_	Gloss=Taroo
+2	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
+3	zibun	zibun	PRON	_	PronType=Prs|Reflex=Yes	5	obj	_	Gloss=himself
+4	o	o	ADP	_	_	3	case	_	Gloss=OBJECT
+5	mamotta	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=defended
+
+# sent_id = 1.69/ja
+# text = Boku wa zibun o mamotta
+# gloss = I TOP REFL OBJ defended
+# text_en = I defended myself
+1	Boku	boku	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I
+2	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
+3	zibun	zibun	PRON	_	PronType=Prs|Reflex=Yes	5	obj	_	Gloss=myself
+4	o	o	ADP	_	_	3	case	_	Gloss=OBJECT
+5	mamotta	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=defended
+
+# sent_id = 1.70/ff
+# text = Mi gaañi hooreqam
+# gloss = I wounded my head
+# text_en = I wounded myself
+1	Mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I
+2	gaañi	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=wounded
+3	hooreqam	hoore	NOUN	_	Number[psor]=Sing|Person[psor]=1	2	obj	_	Gloss=my-head
+
+# sent_id = 1.71/ak
+# text = Mihuu me ho
+# gloss = I saw my body
+# text_en = I saw myself
+1	Mihuu	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw
+2	me	_	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	Gloss=my
+3	ho	_	NOUN	_	_	1	obj	_	Gloss=body
+
+# sent_id = 1.72/mg
+# text = Namono tena Rabe
+# gloss = killed body Rabe
+# text_en = Rabe killed himself
+1	Namono	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=killed
+2	tena	_	NOUN	_	_	1	obj	_	Gloss=body
+3	Rabe	_	PROPN	_	_	1	nsubj	_	Gloss=Rabe
+
+# sent_id = 1.73/tn
+# text = Ketlaithêkêla selêpê
+# gloss = I-FUT-REFL-buy-BEN axe
+# text_en = I shall buy an axe for myself
+1	Ketlaithêkêla	thêk	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=I-shall-by-for-myself|MSeg=Ke-tla-i-thêk-êla|MGloss=I-FUT-REFL-buy-BEN
+2	selêpê	selêpê	NOUN	_	_	1	obj	_	Gloss=axe
+
+# sent_id = 1.74a/lkt
+# text = Opheic'ithon
+# text_en = He bought it for himself
+# http://www.lakotadictionary.org/nldo.php : opȟétȟuŋ opȟéič’itȟuŋ
+1	Opheic'ithon	ophethon	VERB	_	Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	_	Gloss=he-bought-it-for-himself|MSeg=ophe-ic'i-thon|MGloss=buy-REFLEX-buy
+
+# sent_id = 1.74b/lkt
+# text = Ophethon
+# text_en = He bought it
+1	Ophethon	ophethon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=he-bought-it
+
