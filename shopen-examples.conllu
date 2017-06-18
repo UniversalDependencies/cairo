@@ -972,3 +972,21 @@
 3	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=knows
 4	jamais	jamais	ADV	_	PronType=Neg	3	advmod	_	Gloss=never
 
+# sent_id = 1.81a/ha
+# text = Kada a yi haka
+# gloss = shouldn't INDEF do that
+# text_en = You/One shouldn't do that
+1	Kada	_	AUX	_	Polarity=Neg	3	aux	_	Gloss=shouldn't
+2	a	_	PRON	_	PronType=Ind	3	nsubj	_	Gloss=one
+3	yi	_	VERB	_	_	0	root	_	Gloss=do
+4	haka	_	PRON	_	PronType=Dem	3	obj	Gloss=that
+
+# sent_id = 1.81b/ha
+# text = Yana so a zo
+# gloss = he.is wanting INDEF come
+# text_en = He wants people to come
+1	Yana	_	AUX	_	Aspect=Prog|Gender=Masc|Number=Sing|Person=3|Polarity=Pos	2	aux	_	Gloss=he-is
+2	so	_	AUX	_	_	0	root	_	Gloss=wanting
+3	a	_	PRON	_	PronType=Ind	2	obj	_	Gloss=one
+4	zo	_	VERB	_	_	2	xcomp	_	Gloss=come
+
