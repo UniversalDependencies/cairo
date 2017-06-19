@@ -1011,3 +1011,34 @@
 6	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
 7	brilliant	brilliant	ADJ	_	_	0	root	_	_
 
+# sent_id = 1.83a/ak
+# text = Mihuu obi a ɔwɔ aka no
+# gloss = I.saw someone REL snake has.bitten him
+# text_en = I saw someone whom a snake had bitten
+1	Mihuu	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw
+2	obi	_	PRON	_	PronType=Ind	1	obj	_	Gloss=someone
+3	a	_	SCONJ	_	_	5	mark	_	Gloss=REL
+4	ɔwɔ	_	NOUN	_	Number=Sing	5	nsubj	_	Gloss=snake
+5	aka	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl	_	Gloss=has-bitten
+6	no	_	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=him
+
+# sent_id = 1.83b/ak
+# text = Ɔwɔ aka no
+# gloss = snake has.bitten him
+# text_en = A snake has bitten him
+1	Ɔwɔ	_	NOUN	_	Number=Sing	2	nsubj	_	Gloss=snake
+2	aka	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=has-bitten
+3	no	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=him
+
+# sent_id = 1.84/tl
+# text = Sino ang batang pumunta sa tindahan?
+# gloss = who TOP child	went OBL store
+# text_en = Who is the child who went to the store?
+1	Sino	_	PRON	_	PronType=Int	0	root	_	Gloss=who
+2	ang	_	ADP	_	Topic=Yes	3	case	_	Gloss=TOPIC
+3	batang	_	NOUN	_	Number=Sing	1	nsubj	_	Gloss=child|MSeg=bata-ng|MGloss=child-LINK
+4	pumunta	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl	_	Gloss=went
+5	sa	_	ADP	_	_	6	case	_	Gloss=OBL
+6	tindahan	_	NOUN	_	Number=Sing	4	obl	_	Gloss=store|SpaceAfter=No
+7	?	_	PUNCT	_	_	1	punct	_	Gloss=?
+
