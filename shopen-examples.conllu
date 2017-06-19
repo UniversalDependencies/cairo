@@ -1042,3 +1042,204 @@
 6	tindahan	_	NOUN	_	Number=Sing	4	obl	_	Gloss=store|SpaceAfter=No
 7	?	_	PUNCT	_	_	1	punct	_	Gloss=?
 
+# sent_id = 1.85a/en
+# text = Jack fell down, but Jill didn't
+# source = Schachter, 1978
+1	Jack	Jack	PROPN	_	Number=Sing	2	nsubj	_	_
+2	fell	fall	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	down	down	ADV	_	_	2	compound:prt	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	but	but	CCONJ	_	_	7	cc	_	_
+6	Jill	Jill	PROPN	_	Number=Sing	7	nsubj	_	_
+7-8	didn't	_	_	_	_	_	_	_	_
+7	did	do	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	not	not	PART	_	_	7	advmod	_	_
+
+# sent_id = 1.85b/en
+# text = Jill isn't crying, but Jack is
+# source = Schachter, 1978
+1	Jill	Jill	PROPN	_	Number=Sing	4	nsubj	_	_
+2-3	isn't	_	_	_	_	_	_	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	not	not	PART	_	_	4	advmod	_	_
+4	crying	cry	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	but	but	CCONJ	_	_	8	cc	_	_
+7	Jack	Jack	PROPN	_	Number=Sing	8	nsubj	_	_
+8	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+
+# sent_id = 1.86a/zh
+# text = Ni qu ma?
+# gloss = you go Q
+# text_en = Are you going?
+1	Ni	ni	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Gloss=you
+2	qu	qu	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=go
+3	ma	ma	PART	_	PartType=Int	2	advmod	_	Gloss=QUESTION|SpaceAfter=No
+4	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1.86b/zh
+# text = Qu
+# gloss = go
+# text_en = Yes (answer to "Ni qu ma")
+1	Qu	qu	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=go
+
+# sent_id = 1.86c/zh
+# text = Bu
+# gloss = no
+# text_en = No
+1	Bu	bu	PART	_	Polarity=Neg	0	root	_	Gloss=no
+
+# sent_id = 1.86d/zh
+# text = Bu qu
+# gloss = not go
+# text_en = No, I don't (go)
+1	Bu	bu	PART	_	Polarity=Neg	1	advmod	_	Gloss=not
+2	qu	qu	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=go
+
+# sent_id = 1.87a/fr
+# text = Il vient?
+# gloss = he comes
+# text_en = Is he coming?
+1	Il	il	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=comes|SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+
+# sent_id = 1.87b/fr
+# text = Oui
+# gloss = yes
+# text_en = Yes
+1	Oui	oui	INTJ	_	Polarity=Pos	0	root	_	Gloss=yes
+
+# sent_id = 1.88a/fr
+# text = Il ne vient pas?
+# gloss = he NEG comes not
+# text_en = Isn't he coming?
+1	Il	il	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	ne	ne	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+3	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=comes
+4	pas	pas	PART	_	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+
+# sent_id = 1.88b/fr
+# text = Si
+# gloss = yes
+# text_en = Yes (answering a negative question)
+1	Si	si	INTJ	_	Polarity=Pos	0	root	_	Gloss=yes
+
+# sent_id = 1.88c/fr
+# text = Si il vient
+# gloss = yes he comes
+# text_en = Yes, he's coming
+1	Si	si	INTJ	_	Polarity=Pos	3	discourse	_	Gloss=yes
+2	il	il	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he
+3	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=comes
+
+# sent_id = 1.89a/tl
+# text = Umuulan ba?
+# gloss = is.raining Q
+# text_en = Is it raining?
+1	Umuulan	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=is-raining
+2	ba	_	PART	_	PartType=Int	1	discourse	_	Gloss=QUESTION|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.89b/tl
+# text = Oo
+# gloss = yes
+# text_en = Yes
+1	Oo	_	INTJ	_	Polarity=Pos	0	root	_	Gloss=yes
+
+# sent_id = 1.89c/tl
+# text = Hindi
+# gloss = no
+# text_en = No
+1	Hindi	_	INTJ	_	Polarity=Pos	0	root	_	Gloss=no
+
+# sent_id = 1.90a/tl
+# text = Mayroon bang pagkain?
+# gloss = EXIST Q-LINK food
+# text_en = Is there any food?
+1	Mayroon	_	VERB	_	Polarity=Pos	0	root	_	Gloss=exists
+2	bang	ba	PART	_	PartType=Int	1	discourse	_	Gloss=QUESTION|MSeg=ba-ng|MGloss=QUESTION-LINK
+3	pagkain	_	NOUN	_	_	1	nsubj	_	Gloss=food|SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.90b/tl
+# text = Mayroon
+# gloss = EXIST
+# text_en = Yes (answer to existential questions)
+1	Mayroon	_	VERB	_	Polarity=Pos	0	root	_	Gloss=exists
+
+# sent_id = 1.90c/tl
+# text = Wala
+# gloss = NEG-EXIST
+# text_en = No (answer to existential questions)
+1	Wala	_	VERB	_	Polarity=Neg	0	root	_	Gloss=does-not-exist
+
+# sent_id = 1.91/ha
+# text = Ana ruwa, ko?
+# gloss = one.is rain or
+# text_en = Is it raining or not?
+1	Ana	_	AUX	_	2	aux	_	Gloss=one-is
+2	ruwa	_	VERB	_	0	root	_	Gloss=rain|SpaceAfter=No
+3	,	,	PUNCT	_	4	punct	_	Gloss=,
+4	ko	_	CCONJ	_	2	conj	_	Gloss=or
+5	?	?	PUNCT	_	2	punct	_	Gloss=?
+
+# sent_id = 1.92/tl
+# text = Umuulan, ano?
+# gloss = is.raining CONFIRMATION TAG
+# text_en = It's raining, isn't it?
+1	Umuulan	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=is-raining|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+3	ano	_	PART	_	PartType=Int	1	discourse	_	Gloss=CONFIRMATION-TAG|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.93a/en
+# text = John says that it will rain, but I don't think so
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	says	say	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	that	that	SCONJ	_	_	6	mark	_	_
+4	it	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	will	will	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	rain	rain	VERB	_	VerbForm=Inf	2	ccomp	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	but	but	CCONJ	_	_	12	cc	_	_
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+10-11	don't	_	_	_	_	_	_	_	_
+10	do	do	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	not	not	PART	_	Polarity=Neg	12	advmod	_	_
+12	think	think	VERB	_	VerbForm=Inf	2	conj	_	_
+13	so	so	ADV	_	PronType=Dem	12	ccomp	_	_
+
+# sent_id = 1.93b/en
+# text = John says that it will rain, but I think not
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	says	say	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	that	that	SCONJ	_	_	6	mark	_	_
+4	it	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	will	will	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	rain	rain	VERB	_	VerbForm=Inf	2	ccomp	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	but	but	CCONJ	_	_	10	cc	_	_
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	think	think	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	not	not	PART	_	Polarity=Neg	10	ccomp	_	_
+
+# sent_id = 1.94a/fr
+# text = Je crois que oui
+# gloss = I believe that yes
+# text_en = I believe so
+1	Je	je	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I
+2	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=believe
+3	que	que	SCONJ	_	_	4	mark	_	Gloss=that
+4	oui	oui	INTJ	_	Polarity=Pos	2	ccomp	_	Gloss=yes
+
+# sent_id = 1.94b/fr
+# text = Il dit que non
+# gloss = he says that no
+# text_en = He says not
+1	Il	il	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=says
+3	que	que	SCONJ	_	_	4	mark	_	Gloss=that
+4	non	non	INTJ	_	Polarity=Neg	2	ccomp	_	Gloss=no
+
