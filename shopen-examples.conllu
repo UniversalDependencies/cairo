@@ -1243,3 +1243,108 @@
 3	que	que	SCONJ	_	_	4	mark	_	Gloss=that
 4	non	non	INTJ	_	Polarity=Neg	2	ccomp	_	Gloss=no
 
+# sent_id = 1.95/zh
+# text = Ni buhui xiu zhe jigu, rang wo lai
+# gloss = you know.how.NEG repair this machine let I do.it
+# text_en = You don't know how to repair this machine; let me do it
+1	Ni	ni	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Gloss=you
+2	buhui	hui	VERB	_	Polarity=Neg	0	root	_	Gloss=do-not-know-how
+3	xiu	xiu	VERB	_	_	2	xcomp	_	Gloss=repair
+4	zhe	zhe	DET	_	PronType=Dem	5	det	_	Gloss=this
+5	jigu	jigu	NOUN	_	_	3	obj	_	Gloss=machine|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+7	rang	rang	VERB	_	_	2	conj	_	Gloss=let
+8	wo	wo	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	Gloss=I
+9	lai	lai	VERB	_	_	7	xcomp	_	Gloss=do-it
+
+# sent_id = 1.96/fr
+# text = Jean est grand, mais je ne le suis pas
+# gloss = Jean is tall but I NEG PRO.ADJ am not
+# text_en = Jean is tall, but I'm not
+1	Jean	Jean	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Jean
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Gloss=is
+3	grand	grand	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Gloss=tall|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+5	mais	mais	CCONJ	_	_	8	cc	_	Gloss=but
+6	je	je	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=I
+7	ne	ne	PART	_	Polarity=Neg	8	advmod	_	Gloss=not
+8	le	le	PRON	_	Number=Sing|Person=3|PronType=Prs	3	conj	_	Gloss=it
+9	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	Gloss=am
+10	pas	pas	PART	_	Polarity=Neg	8	advmod	_	Gloss=not
+
+# sent_id = 1.97/ak
+# text = Menoa no sɛɛ, na ɔno nso noa no saa
+# gloss = I.cook it this.way, and he too cooks it that.way
+# text_en = I cook it this way, and he cooks it the same way
+1	Menoa	noa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=I-cook
+2	no	_	PRON	_	Number=Sing|Person=3|PronType=Prs	1	obj	_	Gloss=it
+3	sɛɛ	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=this-way|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+5	na	_	CCONJ	_	_	8	cc	_	Gloss=and
+6	ɔno	_	PRON	_	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he
+7	nso	_	ADV	_	_	8	advmod	_	Gloss=too
+8	noa	noa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	Gloss=cooks
+9	no	_	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=it
+10	saa	_	ADV	_	PronType=Dem	8	advmod	_	Gloss=that-way
+
+# sent_id = 1.98a/tl
+# text = Napakaano nila?
+# gloss = very.what they
+# text_en = What are they very much like?
+1	Napakaano	_	ADJ	_	_	0	root	_	Gloss=very-much-like|MSeg=napaka-ano|MGloss=very-what
+2	nila	_	PRON	_	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.98b/tl
+# text = Napakataas nila
+# gloss = very.tall they
+# text_en = They are very tall
+1	Napakataas	_	ADJ	_	_	0	root	_	Gloss=very-tall|MSeg=napaka-taas|MGloss=very-tall
+2	nila	_	PRON	_	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
+
+# sent_id = 1.98c/tl
+# text = Nagano ka?
+# gloss = (PERF.ACTIVE)what you
+# text_en = What did you do?
+1	Nagano	_	VERB	_	Aspect=Perf|PronType=Int|Voice=Act	0	root	_	Gloss=what-did|MSeg=nag-ano|MGloss=PERF+ACTIVE-what
+2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.98d/tl
+# text = Nagsalita ka
+# gloss = (PERF.ACTIVE)speak you
+# text_en = You spoke
+1	Nagsalita	_	VERB	_	Aspect=Perf|Voice=Act	0	root	_	Gloss=spoke|MSeg=nag-salita|MGloss=PERF+ACTIVE-speak
+2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
+
+# sent_id = 1.98e/tl
+# text = Naano ka?
+# gloss = (PERF.INVOL)what you
+# text_en = What happened to you?
+1	Naano	_	VERB	_	Aspect=Perf|PronType=Int|Voice=Invol	0	root	_	Gloss=what-happened|MSeg=na-ano|MGloss=PERF+INVOL-what
+2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.98f/tl
+# text = Natalisod ka
+# gloss = (PERF.INVOL)trip you
+# text_en = You tripped
+1	Natalisod	_	VERB	_	Aspect=Perf|Voice=Invol	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
+2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
+
+# sent_id = 1.99a/ynn
+# text = Beema'awaranʒan?
+# gloss = where-PERF-I-Q
+# text_en = Where am I?
+1	Beema'awaranʒan	beema'a	VERB	_	Aspect=Perf|Mood=Int|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=where-am-I|MSeg=beema'a-wara-nʒa-n|MGloss=where-PERF-I-Q|SpaceAfter=No
+2	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.99b/ynn
+# text = Beeyaumas aik nisaayau?
+# gloss = when-FUT his going.away
+# text_en = When will he go away?
+1	Beeyaumas	beeyauma	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=when|MSeg=beeyauma-s|MGloss=when-FUT
+2	aik	_	DET	_	Person=3|Poss=Yes|PronType=Prs	3	det	_	Gloss=his
+3	nisaayau	_	NOUN	_	_	nsubj	1	_	Gloss=going-away|SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
