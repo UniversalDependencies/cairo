@@ -1348,3 +1348,131 @@
 3	nisaayau	_	NOUN	_	_	nsubj	1	_	Gloss=going-away|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
+# sent_id = 1.100/tl
+# text = Ipinansulat ni John ng liham kay Mary ang makinilya
+# gloss = wrote.with AG John OBJ letter IO Mary TOP typewriter
+# text_en = John wrote Mary a letter on the typewriter
+1	Ipinansulat	_	VERB	_	_	0	root	_	Gloss=wrote-with
+2	ni	_	ADP	_	_	3	case	_	Gloss=AGENT
+3	John	_	PROPN	_	_	1	nsubj	_	Gloss=John
+4	ng	_	ADP	_	_	5	case	_	Gloss=OBJECT
+5	liham	_	NOUN	_	_	1	obj	_	Gloss=letter
+6	kay	_	ADP	_	_	7	case	_	Gloss=INDIRECT-OBJECT
+7	Mary	_	PROPN	_	_	1	iobj	_	Gloss=Mary
+8	ang	_	ADP	_	_	9	case	_	Gloss=TOPIC
+9	makinilya	_	NOUN	_	_	1	obl	_	Gloss=typewriter
+
+# sent_id = 1.101/ja
+# text = Type de wa John ga Mary ni tegami o kaita
+# gloss = typewriter INSTR TOP John SUBJ Mary IO letter OBJ wrote
+# text_en = John wrote Mary a letter on the typewriter
+1	Type	_	NOUN	_	_	10	obl	_	Gloss=typewriter
+2	de	de	ADP	_	_	1	case	_	Gloss=INSTRUMENTAL
+3	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
+4	John	John	PROPN	_	_	10	nsubj	_	Gloss=John
+5	ga	ga	ADP	_	Agent=Yes	4	case	_	Gloss=SUBJ
+6	Mary	Mary	PROPN	_	_	10	iobj	_	Gloss=Mary
+7	ni	ni	ADP	_	_	6	case	_	Gloss=DATIVE
+8	tegami	tegami	NOUN	_	_	10	obj	_	Gloss=letter
+9	o	o	ADP	_	_	8	case	_	Gloss=OBJ
+10	kaita	kau	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=wrote
+
+# sent_id = 1.102a/en
+# text = It's on the table
+1	It	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	SpaceAfter=No
+2	's	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	on	on	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	table	table	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 1.102b/en
+# text = It's under the table
+1	It	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	SpaceAfter=No
+2	's	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	under	under	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	table	table	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 1.102c/en
+# text = It's beside the table
+1	It	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	SpaceAfter=No
+2	's	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	beside	beside	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	table	table	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 1.103a/ak
+# text = Ɛwɔ pon no so
+# gloss = it.is table the on
+# text_en = It's on the table
+1	Ɛwɔ	_	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Gloss=it-is
+2	pon	_	NOUN	_	_	0	root	_	Gloss=table
+3	no	_	DET	_	Definite=Def|PronType=Art	2	det	_	Gloss=the
+4	so	_	ADP	_	_	2	case	_	Gloss=on
+
+# sent_id = 1.103b/ak
+# text = Ɛwɔ pon no ase
+# gloss = it.is table the under
+# text_en = It's under the table
+1	Ɛwɔ	_	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Gloss=it-is
+2	pon	_	NOUN	_	_	0	root	_	Gloss=table
+3	no	_	DET	_	Definite=Def|PronType=Art	2	det	_	Gloss=the
+4	ase	_	ADP	_	_	2	case	_	Gloss=under
+
+# sent_id = 1.103c/ak
+# text = Ɛwɔ pon no nkyɛn
+# gloss = it.is table the beside
+# text_en = It's beside the table
+1	Ɛwɔ	_	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Gloss=it-is
+2	pon	_	NOUN	_	_	0	root	_	Gloss=table
+3	no	_	DET	_	Definite=Def|PronType=Art	2	det	_	Gloss=the
+4	nkyɛn	_	ADP	_	_	2	case	_	Gloss=beside
+
+# sent_id = 1.104a/wbp
+# text = Ngarrkangku karnta nyangu
+# gloss = man-ERG woman saw
+# text_en = The man saw the woman
+1	Ngarrkangku	ngarrka	NOUN	_	Case=Erg	3	nsubj	_	Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+2	karnta	karnta	NOUN	_	Case=Abs	3	obj	_	Gloss=woman
+3	nyangu	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
+
+# sent_id = 1.104b/wbp
+# text = Nyangu ngarrkangku karnta
+# gloss = saw man-ERG woman
+# text_en = The man saw the woman
+1	Nyangu	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
+2	ngarrkangku	ngarrka	NOUN	_	Case=Erg	1	nsubj	_	Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+3	karnta	karnta	NOUN	_	Case=Abs	1	obj	_	Gloss=woman
+
+# sent_id = 1.105a/wbp
+# text = Ngarrka nyangu karntangku
+# gloss = man saw woman-ERG
+# text_en = The woman saw the man
+1	Ngarrka	ngarrka	NOUN	_	Case=Abs	2	obj	_	Gloss=man
+2	nyangu	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
+3	karntangku	karnta	NOUN	_	Case=Erg	2	nsubj	_	Gloss=woman|MSeg=karnta-ngku|MGloss=woman-ERG
+
+# sent_id = 1.105b/wbp
+# text = Ngarrka karntangku nyangu
+# gloss = man woman-ERG saw
+# text_en = The woman saw the man
+1	Ngarrka	ngarrka	NOUN	_	Case=Abs	3	obj	_	Gloss=man
+2	karntangku	karnta	NOUN	_	Case=Erg	3	nsubj	_	Gloss=woman|MSeg=karnta-ngku|MGloss=woman-ERG
+3	nyangu	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
+
+# send_id = 1.106a/sw
+# text = Nilimpia chakula mwanamke
+# gloss = I-PAST-her-give-for-0 food woman
+# text_en = I gave food for the woman
+1	Nilimpia	pa	VERB	_	Mood=Ind|Number=Sing|Number[dat]=Sing|Person=1|Person[dat]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-gave-for-her|MSeg=ni-li-m-p-i-a|MGloss=I-PAST-her-give-for-0
+2	chakula	chakula	NOUN	_	Number=Sing	1	obj	_	Gloss=food
+3	mwanamke	mwanamke	NOUN	_	Number=Sing	1	obl	_	Gloss=woman
+
+# send_id = 1.106b/sw
+# text = Nilimpa chakula mwanamke
+# gloss = I-PAST-her-give-0 food woman
+# text_en = I gave the woman food
+1	Nilimpa	pa	VERB	_	Mood=Ind|Number=Sing|Number[dat]=Sing|Person=1|Person[dat]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-gave-her|MSeg=ni-li-m-p-a|MGloss=I-PAST-her-give-0
+2	chakula	chakula	NOUN	_	Number=Sing	1	obj	_	Gloss=food
+3	mwanamke	mwanamke	NOUN	_	Number=Sing	1	iobj	_	Gloss=woman
+
