@@ -1460,7 +1460,7 @@
 2	karntangku	karnta	NOUN	_	Case=Erg	3	nsubj	_	Gloss=woman|MSeg=karnta-ngku|MGloss=woman-ERG
 3	nyangu	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
 
-# send_id = 1.106a/sw
+# sent_id = 1.106a/sw
 # text = Nilimpia chakula mwanamke
 # gloss = I-PAST-her-give-for-0 food woman
 # text_en = I gave food for the woman
@@ -1468,11 +1468,36 @@
 2	chakula	chakula	NOUN	_	Number=Sing	1	obj	_	Gloss=food
 3	mwanamke	mwanamke	NOUN	_	Number=Sing	1	obl	_	Gloss=woman
 
-# send_id = 1.106b/sw
+# sent_id = 1.106b/sw
 # text = Nilimpa chakula mwanamke
 # gloss = I-PAST-her-give-0 food woman
 # text_en = I gave the woman food
 1	Nilimpa	pa	VERB	_	Mood=Ind|Number=Sing|Number[dat]=Sing|Person=1|Person[dat]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-gave-her|MSeg=ni-li-m-p-a|MGloss=I-PAST-her-give-0
 2	chakula	chakula	NOUN	_	Number=Sing	1	obj	_	Gloss=food
 3	mwanamke	mwanamke	NOUN	_	Number=Sing	1	iobj	_	Gloss=woman
+
+# sent_id = 1.107/ak
+# text = Kwame na ɔbɛyɛ adwuma no
+# gloss = Kwame FOCUS he.will.do work the
+# text_en = It's Kwame who will do the work
+1	Kwame	Kwame	PROPN	_	Number=Sing	3	nsubj	_	Gloss=Kwame
+2	na	na	ADP	_	Focus=Yes	1	case	_	Gloss=FOCUS
+3	ɔbɛyɛ	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=he-will-do
+4	adwuma	adwuma	NOUN	_	Number=Sing	3	obj	_	Gloss=work
+5	no	no	DET	_	Definite=Def|PronType=Art	4	det	_	Gloss=the
+
+# sent_id = 1.108/ak
+# text = Kwame de, ɔbɛkɔ na Kofi de, ɔbɛtena ha
+# gloss = Kwame CONTRAST he.will.go and Kofi CONTRAST he.will.stay here
+# text_en = Kwame will go but Kofi will stay here
+1	Kwame	Kwame	PROPN	_	Number=Sing	3	nsubj	_	Gloss=Kwame
+2	de	de	ADP	_	Contrast=Yes	1	case	_	Gloss=CONTRAST|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+4	ɔbɛkɔ	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=he-will-go
+5	na	na	CCONJ	_	_	9	cc	_	Gloss=and
+6	Kofi	Kofi	PROPN	_	Number=Sing	9	nsubj	_	Gloss=Kofi
+7	de	de	ADP	_	Contrast=Yes	6	case	_	Gloss=CONTRAST|SpaceAfter=No
+8	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+9	ɔbɛtena	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	Gloss=he-will-stay
+10	ha	ha	ADV	_	PronType=Dem	9	advmod	_	Gloss=here
 
