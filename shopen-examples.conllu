@@ -1501,3 +1501,72 @@
 9	ɔbɛtena	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	Gloss=he-will-stay
 10	ha	ha	ADV	_	PronType=Dem	9	advmod	_	Gloss=here
 
+# sent_id = 1.109/tl
+# text = Nasaan ang mga pinggan?
+# gloss = where TOP PL dish
+# text_en = Where are the dishes?
+1	Nasaan	_	ADV	_	PronType=Int	0	root	_	Gloss=where
+2	ang	ang	ADP	_	Topic=Yes	4	case	_	Gloss=TOPIC
+3	mga	mga	DET	_	Number=Plur	4	det	_	Gloss=PLURAL
+4	pinggan	_	NOUN	_	_	1	nsubj	_	Gloss=dish|SpaceAfter=No
+5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.110/ak
+# text = Wɔnoaa aduan a ɛdɔɔso
+# gloss = they.cooked food REL it.is.enough
+# text_en = They cooked enough / a lot of food
+1	Wɔnoaa	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=they-cooked
+2	aduan	_	NOUN	_	_	1	obj	_	Gloss=food
+3	a	_	SCONJ	_	_	4	mark	_	Gloss=that
+4	ɛdɔɔso	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	Gloss=it-is-enough
+
+# sent_id = 1.111a/sma
+# text = ju̇ktie treæwgəjd'ə dojtəmə
+# gloss = when skis(ACC) one.has.made
+# text_en = when one has made the skis
+# source = Wickman, 1955
+1	ju̇ktie	_	ADV	_	PronType=Int	3	advmod	_	Gloss=when
+2	treæwgəjd'ə	_	NOUN	_	Case=Acc	3	obj	_	Gloss=the-skis
+3	dojtəmə	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=one-has-made
+
+# sent_id = 1.111b/sma
+# text = ju̇ktie treæwgah dajtθjh
+# gloss = when skis(NOM) they.make
+# text_en = when they make skis
+# source = Wickman, 1955
+1	ju̇ktie	_	ADV	_	PronType=Int	3	advmod	_	Gloss=when
+2	treæwgah	_	NOUN	_	Case=Nom	3	obj	_	Gloss=skis
+3	dajtθjh	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=they-make
+
+# sent_id = 1.112a/en
+# text = John will understand
+1	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
+2	will	will	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	understand	understand	VERB	_	VerbForm=Inf	0	root	_	_
+
+# sent_id = 1.112b/en
+# text = John has understood
+1	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
+2	has	have	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	understood	understand	VERB	_	Test=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = 1.112c/en
+# text = John would understand
+1	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
+2	would	will	AUX	_	Mood=Cnd|VerbForm=Fin	3	aux	_	_
+3	understand	understand	VERB	_	VerbForm=Inf	0	root	_	_
+
+# sent_id = 1.113a/en
+# text = John was understood
+1	John	John	PROPN	_	Number=Sing	3	nsubj:pass	_	_
+2	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	understood	understand	VERB	_	Test=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = 1.113b/en
+# text = John won't understand
+1	John	John	PROPN	_	Number=Sing	4	nsubj	_	_
+2-3	won't	_	_	_	_	_	_	_	_
+2	will	will	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	4	aux	_	_
+3	not	not	PART	_	Polarity=Neg	4	advmod	_	_
+4	understand	understand	VERB	_	VerbForm=Inf	0	root	_	_
+
