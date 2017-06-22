@@ -702,13 +702,13 @@
 # text = Niliwaona
 # gloss = I-PAST-you-see
 # text_en = I saw you
-1	Niliwaona	ona	VERB	_	Mood=Ind|Number=Sing|Number[Acc]=Sing|Person=1|Person[Acc]=2|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw-you|MSeg=ni-li-wa-ona|MGloss=I-PAST-you-see
+1	Niliwaona	ona	VERB	_	Mood=Ind|Number=Sing|Number[acc]=Sing|Person=1|Person[acc]=2|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw-you|MSeg=ni-li-wa-ona|MGloss=I-PAST-you-see
 
 # sent_id = 1.57/qu
 # text = Maqamanki
 # gloss = hit-me-you
 # text_en = You hit me
-1	Maqamanki	maqa	VERB	_	Mood=Ind|Number=Sing|Number[Acc]=Sing|Person=2|Person[Acc]=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=you-hit-me|MSeg=maqa-ma-nki|MGloss=hit-me-you
+1	Maqamanki	maqa	VERB	_	Mood=Ind|Number=Sing|Number[acc]=Sing|Person=2|Person[acc]=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=you-hit-me|MSeg=maqa-ma-nki|MGloss=hit-me-you
 
 # sent_id = 1.58/qu
 # text = Qam noqata maqamanki
@@ -716,7 +716,7 @@
 # text_en = You hit me
 1	Qam	qam	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you
 2	noqata	noqa	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me
-3	maqamanki	maqa	VERB	_	Mood=Ind|Number=Sing|Number[Acc]=Sing|Person=2|Person[Acc]=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=hit|MSeg=maqa-ma-nki|MGloss=hit-me-you
+3	maqamanki	maqa	VERB	_	Mood=Ind|Number=Sing|Number[acc]=Sing|Person=2|Person[acc]=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=hit|MSeg=maqa-ma-nki|MGloss=hit-me-you
 
 # sent_id = 1.59/ja
 # text = John wa Mary o sitte-imasu ga, amari yoku wa sirima-sen
