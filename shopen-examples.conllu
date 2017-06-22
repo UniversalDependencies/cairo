@@ -914,9 +914,9 @@
 # gloss = they.saw their body their body
 # text_en = They saw each other
 1	Wohuu	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=they-saw
-2	wɔn	_	PRON	_	Number=Poss|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	Gloss=their
+2	wɔn	_	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	Gloss=their
 3	ho	_	NOUN	_	Number=Sing	1	obj	_	Gloss=body
-4	wɔn	_	PRON	_	Number=Poss|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Gloss=their
+4	wɔn	_	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Gloss=their
 5	ho	_	NOUN	_	Number=Sing	3	compound:redup	_	Gloss=body
 
 # sent_id = 1.76b/ak
@@ -924,7 +924,7 @@
 # gloss = they.saw their body
 # text_en = They saw themselves
 1	Wohuu	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=they-saw
-2	wɔn	_	PRON	_	Number=Poss|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	Gloss=their
+2	wɔn	_	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	Gloss=their
 3	ho	_	NOUN	_	Number=Sing	1	obj	_	Gloss=body
 
 # sent_id = 1.77/fr
@@ -979,7 +979,7 @@
 1	Kada	_	AUX	_	Polarity=Neg	3	aux	_	Gloss=shouldn't
 2	a	_	PRON	_	PronType=Ind	3	nsubj	_	Gloss=one
 3	yi	_	VERB	_	_	0	root	_	Gloss=do
-4	haka	_	PRON	_	PronType=Dem	3	obj	Gloss=that
+4	haka	_	PRON	_	PronType=Dem	3	obj	_	Gloss=that
 
 # sent_id = 1.81b/ha
 # text = Yana so a zo
