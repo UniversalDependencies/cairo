@@ -782,7 +782,7 @@
 2	ni	_	ADP	_	Agent=Yes	3	case	_	Gloss=AGENT
 3	John	_	PROPN	_	_	1	nsubj	_	Gloss=John
 4	mismo	_	DET	_	PronType=Emp	3	nmod	_	Gloss=EMPH
-5	si	_	ADP	_	Topic=Yes	6	_	Gloss=TOPIC
+5	si	_	ADP	_	Topic=Yes	6	case	_	Gloss=TOPIC
 6	Bill	_	PROPN	_	_	1	obj	_	Gloss=Bill
 
 # sent_id = 1.65a/fr
