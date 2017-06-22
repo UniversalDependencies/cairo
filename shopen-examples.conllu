@@ -1345,7 +1345,7 @@
 # text_en = When will he go away?
 1	Beeyaumas	beeyauma	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=when|MSeg=beeyauma-s|MGloss=when-FUT
 2	aik	_	DET	_	Person=3|Poss=Yes|PronType=Prs	3	det	_	Gloss=his
-3	nisaayau	_	NOUN	_	_	nsubj	1	_	Gloss=going-away|SpaceAfter=No
+3	nisaayau	_	NOUN	_	_	1	nsubj	_	Gloss=going-away|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.100/tl
@@ -1490,7 +1490,7 @@
 # text = Kwame de, ɔbɛkɔ na Kofi de, ɔbɛtena ha
 # gloss = Kwame CONTRAST he.will.go and Kofi CONTRAST he.will.stay here
 # text_en = Kwame will go but Kofi will stay here
-1	Kwame	Kwame	PROPN	_	Number=Sing	3	nsubj	_	Gloss=Kwame
+1	Kwame	Kwame	PROPN	_	Number=Sing	4	nsubj	_	Gloss=Kwame
 2	de	de	ADP	_	Contrast=Yes	1	case	_	Gloss=CONTRAST|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=,
 4	ɔbɛkɔ	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=he-will-go
@@ -1548,7 +1548,7 @@
 # text = John has understood
 1	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
 2	has	have	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	understood	understand	VERB	_	Test=Past|VerbForm=Part	0	root	_	_
+3	understood	understand	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1.112c/en
 # text = John would understand
@@ -1560,7 +1560,7 @@
 # text = John was understood
 1	John	John	PROPN	_	Number=Sing	3	nsubj:pass	_	_
 2	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	understood	understand	VERB	_	Test=Past|VerbForm=Part	0	root	_	_
+3	understood	understand	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1.113b/en
 # text = John won't understand
