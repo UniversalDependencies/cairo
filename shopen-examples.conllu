@@ -1606,3 +1606,31 @@
 3	a	a	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=it
 4	san	_	VERB	_	_	0	root	_	Gloss=buy
 
+# sent_id = 1.115a/ha
+# text = Zata tafi
+# gloss = FUT-she go
+# text_en = She will go
+1	Zata	_	AUX	_	Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Fut	2	aux	_	Gloss=she-will|MSeg=za-ta|MGloss=FUT-she
+2	tafi	_	VERB	_	VerbForm=Inf	0	root	_	Gloss=go
+
+# sent_id = 1.115b/ha
+# text = Takan tafi
+# gloss = she-HABIT go
+# text_en = She goes
+1	Takan	_	AUX	_	Aspect=Hab|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	2	aux	_	Gloss=she-does|MSeg=ta-kan|MGloss=she-HABIT
+2	tafi	_	VERB	_	VerbForm=Inf	0	root	_	Gloss=go
+
+# sent_id = 1.115c/ha
+# text = Tana tafiya
+# gloss = she-PROG going
+# text_en = She is going
+1	Tana	_	AUX	_	Aspect=Prog|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	2	aux	_	Gloss=she-is|MSeg=ta-na|MGloss=she-PROG
+2	tafiya	_	VERB	_	VerbForm=Part	0	root	_	Gloss=going
+
+# sent_id = 1.115d/ha
+# text = Bata tafiya
+# gloss = PROG.NEG-she going
+# text_en = She isn't going
+1	Bata	_	AUX	_	Aspect=Prog|Gender=Fem|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	2	aux	_	Gloss=she-is-not|MSeg=ba-ta|MGloss=PROG+NEG-she
+2	tafiya	_	VERB	_	VerbForm=Part	0	root	_	Gloss=going
+
