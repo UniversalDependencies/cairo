@@ -1093,7 +1093,7 @@
 # text = Bu qu
 # gloss = not go
 # text_en = No, I don't (go)
-1	Bu	bu	PART	_	Polarity=Neg	1	advmod	_	Gloss=not
+1	Bu	bu	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
 2	qu	qu	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=go
 
 # sent_id = 1.87a/fr
@@ -1192,7 +1192,7 @@
 1	Umuulan	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=is-raining|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 3	ano	_	PART	_	PartType=Int	1	discourse	_	Gloss=CONFIRMATION-TAG|SpaceAfter=No
-3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.93a/en
 # text = John says that it will rain, but I don't think so
@@ -1269,7 +1269,7 @@
 6	je	je	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=I
 7	ne	ne	PART	_	Polarity=Neg	8	advmod	_	Gloss=not
 8	le	le	PRON	_	Number=Sing|Person=3|PronType=Prs	3	conj	_	Gloss=it
-9	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	Gloss=am
+9	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	Gloss=am
 10	pas	pas	PART	_	Polarity=Neg	8	advmod	_	Gloss=not
 
 # sent_id = 1.97/ak
