@@ -1634,3 +1634,112 @@
 1	Bata	_	AUX	_	Aspect=Prog|Gender=Fem|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	2	aux	_	Gloss=she-is-not|MSeg=ba-ta|MGloss=PROG+NEG-she
 2	tafiya	_	VERB	_	VerbForm=Part	0	root	_	Gloss=going
 
+# sent_id = 1.116a/kn
+# text = Baritta iddiini
+# gloss = writing I.PROG
+# text_en = I am writing
+# source = Upadhyaya and Krishnamurthy, 1972
+1	Baritta	_	VERB	_	VerbForm=Part	0	root	_	Gloss=writing
+2	iddiini	_	AUX	_	Aspect=Prog|Number=Sing|Person=1	1	aux	_	Gloss=I-am
+
+# sent_id = 1.116b/kn
+# text = Baritta irtiini
+# gloss = writing I.PROG.HABIT
+# text_en = I am writing
+# source = Upadhyaya and Krishnamurthy, 1972
+1	Baritta	_	VERB	_	VerbForm=Part	0	root	_	Gloss=writing
+2	irtiini	_	AUX	_	Aspect=Hab,Prog|Number=Sing|Person=1	1	aux	_	Gloss=I-am
+
+# sent_id = 1.117/en
+# text = John must have been sleeping
+1	John	John	PROPN	_	Number=Sing	5	nsubj	_	_
+2	must	must	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	have	have	AUX	_	VerbForm=Inf	5	aux	_	_
+4	been	be	AUX	_	Tense=Past|VerbForm=Part	5	aux	_	_
+5	sleeping	sleep	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+
+# sent_id = 1.118/ttr
+# text = Ali kə ka ɗa nji ƶu
+# gloss = Ali SJNCT HABIT DISTANT eat meat
+# text_en = Ali should regularly eat meat (there)
+# source = Newman, 1970
+1	Ali	Ali	PROPN	_	Number=Sing	5	nsubj	_	Gloss=Ali
+2	kə	_	AUX	_	Mood=Sub	5	aux	_	Gloss=SUBJUNCTIVE
+3	ka	_	AUX	_	Aspect=Hab	5	aux	_	Gloss=HABITUAL
+4	ɗa	_	ADV	_	_	5	advmod	_	Gloss=there
+5	nji	_	VERB	_	_	0	root	_	Gloss=eat
+6	ƶu	_	NOUN	_	Number=Sing	5	obj	_	Gloss=meat
+
+# sent_id = 1.119a/de
+# text = Ich weiss, dass er zu viel Arbeit hat
+# gloss = I know that he too much work has
+# text_en = I know that he has too much work
+1	Ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I
+2	weiss	wissen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=know|SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+4	dass	dass	SCONJ	_	_	9	mark	_	Gloss=that
+5	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=he
+6	zu	zu	ADV	_	_	7	advmod	_	Gloss=too
+7	viel	viel	DET	_	PronType=Ind	8	det	_	Gloss=much
+8	Arbeit	Arbeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	Gloss=work
+9	hat	haben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	Gloss=has
+
+# sent_id = 1.119b/de
+# text = Er hat zu viel Arbeit
+# gloss = he has too much work
+# text_en = He has too much work
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	hat	haben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=has
+3	zu	zu	ADV	_	_	4	advmod	_	Gloss=too
+4	viel	viel	DET	_	PronType=Ind	5	det	_	Gloss=much
+5	Arbeit	Arbeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Gloss=work
+
+# sent_id = 1.119c/de
+# text = Heute hat er zu viel Arbeit
+# gloss = today has he too much work
+# text_en = Today he has too much work
+1	Heute	heute	ADV	_	_	2	advmod	_	Gloss=today
+2	hat	haben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=has
+3	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+4	zu	zu	ADV	_	_	5	advmod	_	Gloss=too
+5	viel	viel	DET	_	PronType=Ind	6	det	_	Gloss=much
+6	Arbeit	Arbeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Gloss=work
+
+# sent_id = 1.120a/de
+# text = Ich weiss, dass er zu viel Arbeit haben wird
+# gloss = I know that he too much work have will
+# text_en = I know that he will have too much work
+1	Ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I
+2	weiss	wissen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=know|SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+4	dass	dass	SCONJ	_	_	9	mark	_	Gloss=that
+5	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=he
+6	zu	zu	ADV	_	_	7	advmod	_	Gloss=too
+7	viel	viel	DET	_	PronType=Ind	8	det	_	Gloss=much
+8	Arbeit	Arbeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	Gloss=work
+9	haben	haben	VERB	_	VerbForm=Inf	2	ccomp	_	Gloss=have
+10	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Gloss=will
+
+# sent_id = 1.120b/de
+# text = Er wird zu viel Arbeit haben
+# gloss = he will too much work have
+# text_en = He will have too much work
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=he
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	Gloss=will
+3	zu	zu	ADV	_	_	4	advmod	_	Gloss=too
+4	viel	viel	DET	_	PronType=Ind	5	det	_	Gloss=much
+5	Arbeit	Arbeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Gloss=work
+6	haben	haben	VERB	_	VerbForm=Inf	0	root	_	Gloss=have
+
+# sent_id = 1.120c/de
+# text = Heute wird er zu viel Arbeit haben
+# gloss = today will he too much work have
+# text_en = Today he will have too much work
+1	Heute	heute	ADV	_	_	7	advmod	_	Gloss=today
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Gloss=will
+3	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=he
+4	zu	zu	ADV	_	_	5	advmod	_	Gloss=too
+5	viel	viel	DET	_	PronType=Ind	6	det	_	Gloss=much
+6	Arbeit	Arbeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Gloss=work
+7	haben	haben	VERB	_	VerbForm=Inf	0	root	_	Gloss=have
+
