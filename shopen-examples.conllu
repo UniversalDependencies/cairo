@@ -1570,3 +1570,39 @@
 3	not	not	PART	_	Polarity=Neg	4	advmod	_	_
 4	understand	understand	VERB	_	VerbForm=Inf	0	root	_	_
 
+# sent_id = 1.114a/bm
+# text = U ye a san
+# gloss = they PAST.AFFIRM it buy
+# text_en = They bought it
+1	U	u	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
+2	ye	_	AUX	_	Polarity=Pos|Tense=Past	4	aux	_	Gloss=were
+3	a	a	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=it
+4	san	_	VERB	_	_	0	root	_	Gloss=buy
+
+# sent_id = 1.114b/bm
+# text = U ma a san
+# gloss = they PAST.NEG it buy
+# text_en = They didn't buy it
+1	U	u	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
+2	ma	_	AUX	_	Polarity=Neg|Tense=Past	4	aux	_	Gloss=weren't
+3	a	a	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=it
+4	san	_	VERB	_	_	0	root	_	Gloss=buy
+
+# sent_id = 1.114c/bm
+# text = U bɛ a san
+# gloss = they PROG.AFFIRM it buy
+# text_en = They are buying it
+1	U	u	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
+2	bɛ	_	AUX	_	Aspect=Prog|Polarity=Pos|Tense=Pres	4	aux	_	Gloss=are
+3	a	a	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=it
+4	san	_	VERB	_	_	0	root	_	Gloss=buy
+
+# sent_id = 1.114d/bm
+# text = U lɛ a san
+# gloss = they PROG.NEG it buy
+# text_en = They aren't buying it
+1	U	u	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
+2	lɛ	_	AUX	_	Aspect=Prog|Polarity=Neg|Tense=Pres	4	aux	_	Gloss=aren't
+3	a	a	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=it
+4	san	_	VERB	_	_	0	root	_	Gloss=buy
+
