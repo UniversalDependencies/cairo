@@ -759,7 +759,7 @@
 # sent_id = 1.62/en
 # text = John himself shaved Bill
 1	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
-2	himself	himself	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emph|Reflex=Yes	1	nmod	_	_
+2	himself	himself	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	1	nmod	_	_
 3	shaved	shave	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	Bill	Bill	PROPN	_	Number=Sing	3	obj	_	_
 
@@ -781,7 +781,7 @@
 1	Inahit	_	VERB	_	_	0	root	_	Gloss=shaved
 2	ni	_	ADP	_	Agent=Yes	3	case	_	Gloss=AGENT
 3	John	_	PROPN	_	_	1	nsubj	_	Gloss=John
-4	mismo	_	DET	_	PronType=Emph	3	nmod	_	Gloss=EMPH
+4	mismo	_	DET	_	PronType=Emp	3	nmod	_	Gloss=EMPH
 5	si	_	ADP	_	Topic=Yes	6	_	Gloss=TOPIC
 6	Bill	_	PROPN	_	_	1	obj	_	Gloss=Bill
 
