@@ -727,7 +727,7 @@
 3	Mary	Mary	PROPN	_	_	5	obj	_	Gloss=Mary
 4	o	o	ADP	_	_	3	case	_	Gloss=OBJECT
 5	sitte-imasu	_	VERB	_	Aspect=Prog	0	root	_	Gloss=know
-6	ga	ga	ADP	_	_	5	case	_	Gloss=but
+6	ga	ga	ADP	_	_	5	case	_	Gloss=but|SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	Gloss=,
 8	amari	amari	ADV	_	_	9	advmod	_	Gloss=really
 9	yoku	yoku	ADV	_	_	11	advmod	_	Gloss=well
