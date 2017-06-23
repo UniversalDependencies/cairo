@@ -1785,7 +1785,7 @@
 5	in	in	ADP	_	_	2	compound:prt	_	_
 
 # sent_id = 1.122d/en
-# text = John carried the package in
+# text = John carried the package out
 1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
 2	carried	carry	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
