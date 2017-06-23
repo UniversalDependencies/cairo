@@ -1743,3 +1743,139 @@
 6	Arbeit	Arbeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Gloss=work
 7	haben	haben	VERB	_	VerbForm=Inf	0	root	_	Gloss=have
 
+# sent_id = 1.121/en
+# text = John woke up, turned off the alarm, and switched the light on
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	woke	wake	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	up	up	ADV	_	_	2	compound:prt	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	turned	turn	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+6	off	off	ADP	_	_	5	compound:prt	_	_
+7	the	the	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	alarm	alarm	NOUN	_	Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	and	and	CCONJ	_	_	11	cc	_	_
+11	switched	switch	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+12	the	the	DET	_	Definite=Def|PronType=Art	13	det	_	_
+13	light	light	NOUN	_	Number=Sing	11	obj	_	_
+14	on	on	ADP	_	_	11	compound:prt	_	_
+
+# sent_id = 1.122a/en
+# text = John kept his head up
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	kept	keep	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	his	his	DET	_	Gender[psor]=Masc|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	head	head	NOUN	_	Number=Sing	2	obj	_	_
+5	up	up	ADV	_	_	2	advmod	_	_
+
+# sent_id = 1.122b/en
+# text = John kept his head down
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	kept	keep	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	his	his	DET	_	Gender[psor]=Masc|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	head	head	NOUN	_	Number=Sing	2	obj	_	_
+5	down	down	ADV	_	_	2	advmod	_	_
+
+# sent_id = 1.122c/en
+# text = John carried the package in
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	carried	carry	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	package	package	NOUN	_	Number=Sing	2	obj	_	_
+5	in	in	ADP	_	_	2	compound:prt	_	_
+
+# sent_id = 1.122d/en
+# text = John carried the package in
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	carried	carry	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	package	package	NOUN	_	Number=Sing	2	obj	_	_
+5	out	out	ADV	_	_	2	advmod	_	_
+
+# sent_id = 1.123a/de
+# text = Er stand sehr früh auf
+# gloss = he stood very early on
+# text_en = He got up very early
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	stand	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=stood
+3	sehr	sehr	ADV	_	_	4	advmod	_	Gloss=very
+4	früh	früh	ADV	_	_	2	advmod	_	Gloss=early
+5	auf	auf	ADP	_	_	2	compound:prt	_	Gloss=on
+
+# sent_id = 1.123b/de
+# text = Er sah den Wagen an
+# gloss = he saw the car at
+# text_en = He looked at the car
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	sah	sehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
+3	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the
+4	Wagen	Wagen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Gloss=car
+5	an	an	ADP	_	_	2	compound:prt	_	Gloss=at
+
+# sent_id = 1.124a/ak
+# text = Kofi gyee Kwame so
+# gloss = Kofi received Kwame on
+# text_en = Kofi answered Kwame
+1	Kofi	Kofi	PROPN	_	Number=Sing	2	nsubj	_	Gloss=Kofi
+2	gyee	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=received
+3	Kwame	Kwame	PROPN	_	Number=Sing	2	obj	_	Gloss=Kwame
+4	so	so	ADP	_	_	2	compound:prt	_	Gloss=on
+
+# sent_id = 1.124b/ak
+# text = Kofi daa Kwame ase
+# gloss = Kofi lay Kwame under
+# text_en = Kofi thanked Kwame
+1	Kofi	Kofi	PROPN	_	Number=Sing	2	nsubj	_	Gloss=Kofi
+2	daa	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=lay
+3	Kwame	Kwame	PROPN	_	Number=Sing	2	obj	_	Gloss=Kwame
+4	ase	ase	ADP	_	_	2	compound:prt	_	Gloss=under
+
+# sent_id = 1.125a/gqa
+# text = Ə ʂənnda wanɓəɓa in
+# gloss = PERF they.send medicine along
+# text_en = They sent medicine along
+# source = Paul Newman, 1971
+1	Ə	ə	AUX	_	Aspect=Perf	2	aux	_	Gloss=PERFECT
+2	ʂənnda	_	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	Gloss=they-send
+3	wanɓəɓa	_	NOUN	_	_	2	obj	_	Gloss=medicine
+4	in	in	PART	_	_	2	compound:prt	_	Gloss=along
+
+# sent_id = 1.125b/gqa
+# text = Ni xiy pirsh kaɗə
+# gloss = I.FUT buy horse away
+# text_en = I will sell a horse
+# source = Paul Newman, 1971
+1	Ni	ni	AUX	_	Number=Sing|Person=1|Tense=Fut	2	aux	_	Gloss=I-will
+2	xiy	_	VERB	_	_	0	root	_	Gloss=buy
+3	pirsh	_	NOUN	_	_	2	obj	_	Gloss=horse
+4	kaɗə	kaɗə	PART	_	_	2	compound:prt	_	Gloss=away
+
+# sent_id = 1.126a/en
+# text = John looked two words up
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	looked	look	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	two	two	NUM	_	NumType=Card	4	nummod	_	_
+4	words	word	NOUN	_	Number=Plur	2	obj	_	_
+5	up	up	ADV	_	_	2	compound:prt	_	_
+
+# sent_id = 1.126b/en
+# text = John looked up two words
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	looked	look	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	up	up	ADV	_	_	2	compound:prt	_	_
+4	two	two	NUM	_	NumType=Card	5	nummod	_	_
+5	words	word	NOUN	_	Number=Plur	2	obj	_	_
+
+# sent_id = 1.127/de
+# text = Ich weiss, dass er sehr früh aufstand
+# gloss = I know that he very early up-stood
+# text_en = I know that he got up very early
+1	Ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I
+2	weiss	wissen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=know|SpaceAfter=No
+3	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+4	dass	dass	SCONJ	_	_	8	mark	_	Gloss=that
+5	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he
+6	sehr	sehr	ADV	_	_	7	advmod	_	Gloss=very
+7	früh	früh	ADV	_	_	8	advmod	_	Gloss=early
+8	aufstand	aufstehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	Gloss=got-up
+
