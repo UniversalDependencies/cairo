@@ -1879,3 +1879,70 @@
 7	früh	früh	ADV	_	_	8	advmod	_	Gloss=early
 8	aufstand	aufstehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	Gloss=got-up
 
+# sent_id = 1.128/en
+# text = John, Bill, and Tom came
+1	John	John	PROPN	_	Number=Sing	7	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	Bill	Bill	PROPN	_	Number=Sing	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	and	and	CCONJ	_	_	6	cc	_	_
+6	Tom	Tom	PROPN	_	Number=Sing	1	conj	_	_
+7	came	come	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# sent_id = 1.129/ja
+# text = John to, Bill to, Tom ga kita
+# gloss = John and Bill and Tom SUBJ came
+# text_en = John, Bill, and Tom came
+1	John	John	PROPN	_	_	9	nsubj	_	Gloss=John
+2	to	to	CCONJ	_	_	1	cc	_	Gloss=and
+3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+4	Bill	Bill	PROPN	_	_	1	conj	_	Gloss=Bill
+5	to	to	CCONJ	_	_	4	cc	_	Gloss=and
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+7	Tom	Tom	PROPN	_	_	1	conj	_	Gloss=Tom
+8	ga	ga	ADP	_	_	1	case	_	Gloss=SUBJECT
+9	kita	kimasu	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=came
+
+# sent_id = 1.130/en
+# text = Both John and Bill like Mary
+1	Both	both	CCONJ	_	_	2	cc:preconj	_	_
+2	John	John	PROPN	_	Number=Sing	6	nsubj	_	_
+3	and	and	CCONJ	_	_	4	cc	_	_
+4	Bill	Bill	PROPN	_	Number=Sing	2	conj	_	_
+5	like	like	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	Mary	Mary	PROPN	_	Number=Sing	5	obj	_	_
+
+# sent_id = 1.131/ha
+# text = Da Audu da Bello sun ci abinci
+# gloss = and Audu and Bello they.PERF eat food
+# text_en = Both Audu and Bello have eaten
+1	Da	da	CCONJ	_	_	2	cc:preconj	_	Gloss=and
+2	Audu	Audu	PROPN	_	_	6	nsubj	_	Gloss=Audu
+3	da	da	CCONJ	_	_	4	cc	_	Gloss=and
+4	Bello	Bello	PROPN	_	_	2	conj	_	Gloss=Bello
+5	sun	_	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	aux	_	Gloss=they-have
+6	ci	_	VERB	_	_	0	root	_	Gloss=eat
+7	abinci	abinci	NOUN	_	_	6	obj	_	Gloss=food
+
+# sent_id = 1.132/ja
+# text = Michiko to Michika to ga gakusei desu
+# gloss = Michiko and Michika and SUBJ student be
+# text_en = Both Michiko and Michika are students
+1	Michiko	Michiko	PROPN	_	_	6	nsubj	_	Gloss=Michiko
+2	to	to	CCONJ	_	_	1	cc	_	Gloss=and
+3	Michika	Michika	PROPN	_	_	1	conj	_	Gloss=Michika
+4	to	to	CCONJ	_	_	3	cc:postconj	_	Gloss=and
+5	ga	ga	ADP	_	_	1	case	_	Gloss=SUBJECT
+6	gakusei	gakusei	NOUN	_	_	0	root	_	Gloss=student
+7	desu	desu	AUX	_	_	6	cop	_	Gloss=be
+
+# sent_id = 1.133/tr
+# text = Šapkanɨ da paltonu da giy
+# gloss = your.hat and your.coat and wear
+# text_en = Wear both your hat and your coat
+1	Šapkanɨ	_	NOUN	_	Case=Acc|Person[psor]=2	5	obj	_	Gloss=your-hat
+2	da	da	CCONJ	_	_	1	cc	_	Gloss=and
+3	paltonu	_	NOUN	_	Case=Acc|Person[psor]=2	1	conj	_	Gloss=your-coat
+4	da	da	CCONJ	_	_	3	cc:postconj	_	Gloss=and
+5	giy	_	VERB	_	Mood=Imp	0	root	_	Gloss=wear
+
