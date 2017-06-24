@@ -1894,10 +1894,10 @@
 # gloss = John and Bill and Tom SUBJ came
 # text_en = John, Bill, and Tom came
 1	John	John	PROPN	_	_	9	nsubj	_	Gloss=John
-2	to	to	CCONJ	_	_	1	cc	_	Gloss=and
+2	to	to	CCONJ	_	_	1	cc	_	Gloss=and|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 4	Bill	Bill	PROPN	_	_	1	conj	_	Gloss=Bill
-5	to	to	CCONJ	_	_	4	cc	_	Gloss=and
+5	to	to	CCONJ	_	_	4	cc	_	Gloss=and|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 7	Tom	Tom	PROPN	_	_	1	conj	_	Gloss=Tom
 8	ga	ga	ADP	_	_	1	case	_	Gloss=SUBJECT
