@@ -2042,3 +2042,93 @@
 2	wɔn	_	PRON	_	Number=Plur|Person=3|PronType=Prs	1	obj	_	Gloss=them
 3	aba	_	VERB	_	Aspect=Perf	1	compound:svc	_	Gloss=have-come
 
+# sent_id = 1.141/tl
+# text = Itinanong ko kung nasaan sila
+# gloss = asked I COMP where they
+# text_en = I asked where they were
+1	Itinanong	_	VERB	_	_	0	root	_	Gloss=asked
+2	ko	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	kung	_	SCONJ	_	_	4	mark	_	Gloss=that
+4	nasaan	_	ADV	_	_	1	ccomp	_	Gloss=where
+5	sila	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
+
+# sent_id = 1.142/uz
+# text = Ula Hasan gayergæ ketkæn dep suradɨ
+# gloss = they Hasan where went COMP asked
+# text_en = They asked where Hasan had gone
+1	Ula	ula	PRON	_	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Gloss=they
+2	Hasan	Hasan	PROPN	_	Number=Sing	4	nsubj	_	Gloss=Hasan
+3	gayergæ	gayergæ	ADV	_	_	4	advmod	_	Gloss=where
+4	ketkæn	_	VERB	_	_	6	ccomp	_	Gloss=went
+5	dep	dep	SCONJ	_	_	4	mark	_	Gloss=that
+6	suradɨ	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=asked
+
+# sent_id = 1.143/en
+# text = I question the claim that the earth is flat
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	question	question	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	claim	claim	NOUN	_	Number=Sing	2	obj	_	_
+5	that	that	SCONJ	_	_	9	mark	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	earth	earth	NOUN	_	Number=Sing	9	nsubj	_	_
+8	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	flat	flat	ADJ	_	Degree=Pos	4	acl	_	_
+
+# sent_id = 1.144/en
+# text = I am afraid that I must leave
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	am	be	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	afraid	afraid	ADJ	_	Degree=Pos	0	root	_	_
+4	that	that	SCONJ	_	_	7	mark	_	_
+5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	must	must	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	leave	leave	VERB	_	VerbForm=Inf	3	ccomp	_	_
+
+# sent_id = 1.145/ak
+# text = Ɛyɛ nokware sɛ mihuu no
+# gloss = it.is truth COMP I.saw him
+# text_en = It's true that I saw him
+1	Ɛyɛ	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Gloss=it-is
+2	nokware	_	NOUN	_	_	0	root	_	Gloss=truth
+3	sɛ	_	SCONJ	_	_	4	mark	_	Gloss=that
+4	mihuu	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ccomp	_	Gloss=I-saw
+5	no	_	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=him
+
+# sent_id = 1.146/en
+# text = He said it was raining
+1	He	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	said	say	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	it	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+4	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	raining	rain	VERB	_	Tense=Pres|VerbForm=Part	2	ccomp	_	_
+
+# sent_id = 1.147/ha
+# text = Ya ce ana ruwa
+# gloss = he.PERF say there.is rain
+# text_en = He said it was raining
+1	Ya	_	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	2	aux	_	Gloss=he-has
+2	ce	_	VERB	_	_	0	root	_	Gloss=say
+3	ana	_	VERB	_	_	2	ccomp	_	Gloss=there-is
+4	ruwa	_	NOUN	_	_	3	nsubj	_	Gloss=rain
+
+# sent_id = 1.148/en
+# text = John anticipated Mary's winning the prize
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	anticipated	anticipate	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Mary	Mary	PROPN	_	Number=Sing	5	nmod	_	SpaceAfter=No
+4	's	's	PART	_	Poss=Yes	3	case	_	_
+5	winning	winning	NOUN	_	Number=Sing|VerbForm=Vnoun	2	obj	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	prize	prize	NOUN	_	Number=Sing	5	obj	_	_
+
+# sent_id = 1.149/uz
+# text = Ula Hasannɨ gayergæ ketkænini suradɨ
+# gloss = they Hasan's where his.going asked
+# text_en = They asked where Hasan had gone
+1	Ula	ula	PRON	_	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=they
+2	Hasannɨ	Hasan	PROPN	_	Number=Sing	4	nmod	_	Gloss=Hasan's
+3	gayergæ	gayergæ	ADV	_	_	4	advmod	_	Gloss=where
+4	ketkænini	_	NOUN	_	VerbForm=Vnoun	5	obj	_	Gloss=going-his
+5	suradɨ	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=asked
+
