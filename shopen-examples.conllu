@@ -1946,3 +1946,99 @@
 4	da	da	CCONJ	_	_	3	cc:postconj	_	Gloss=and
 5	giy	_	VERB	_	Mood=Imp	0	root	_	Gloss=wear
 
+# sent_id = 1.134a/ha
+# text = John da Bill sun zo
+# gloss = John and Bill they.PERF come
+# text_en = John and Bill came
+1	John	John	PROPN	_	_	5	nsubj	_	Gloss=John
+2	da	da	CCONJ	_	_	3	cc	_	Gloss=and
+3	Bill	Bill	PROPN	_	_	1	conj	_	Gloss=Bill
+4	sun	_	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	aux	_	Gloss=they-have
+5	zo	_	VERB	_	_	0	root	_	Gloss=come
+
+# sent_id = 1.134b/ha
+# text = John ya zo da Bill
+# gloss = John he.PERF come with Bill
+# text_en = John came with Bill
+1	John	John	PROPN	_	_	3	nsubj	_	Gloss=John
+2	ya	_	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	3	aux	_	Gloss=he-has
+3	zo	_	VERB	_	_	0	root	_	Gloss=come
+4	da	da	ADP	_	_	5	case	_	Gloss=with
+5	Bill	Bill	PROPN	_	_	3	obl	_	Gloss=Bill
+
+# sent_id = 1.135a/ja
+# text = John to Bill ga kita
+# gloss = John and Bill SUBJ came
+# text_en = John and Bill came
+1	John	John	PROPN	_	_	5	nsubj	_	Gloss=John
+2	to	to	CCONJ	_	_	1	cc	_	Gloss=and
+3	Bill	Bill	PROPN	_	_	1	conj	_	Gloss=Bill
+4	ga	ga	ADP	_	_	1	case	_	Gloss=SUBJECT
+5	kita	kimasu	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=came
+
+# sent_id = 1.135b/ja
+# text = John ga Bill to kita
+# gloss = John SUBJ Bill with came
+1	John	John	PROPN	_	_	5	nsubj	_	Gloss=John
+2	ga	ga	ADP	_	_	1	case	_	Gloss=SUBJECT
+3	Bill	Bill	PROPN	_	_	5	obl	_	Gloss=Bill
+4	to	to	ADP	_	_	3	case	_	Gloss=with
+5	kita	kimasu	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=came
+
+# sent_id = 1.136/ak
+# text = Nnipa no dii nam nomm bia
+# gloss = people the ate meat drank beer
+# text_en = The people ate meat and drank beer
+1	Nnipa	_	NOUN	_	_	3	nsubj	_	Gloss=people
+2	no	no	DET	_	Definite=Def|PronType=Art	1	det	_	Gloss=det
+3	dii	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=ate
+4	nam	_	NOUN	_	_	3	obj	_	Gloss=meat
+5	nomm	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	Gloss=drank
+6	bia	_	NOUN	_	_	5	obj	_	Gloss=beer
+
+# sent_id = 1.137/ha
+# text = Audu ya tafi ofishinsa ya yi aiki
+# gloss = Audu he.PERF go office his he.PERF do work
+# text_en = Audu went to his office and worked
+1	Audu	Audu	PROPN	_	_	3	nsubj	_	Gloss=Audu
+2	ya	_	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	3	aux	_	Gloss=he-has
+3	tafi	_	VERB	_	_	0	root	_	Gloss=go
+4	ofishinsa	_	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	3	obl	_	Gloss=office-his
+5	ya	_	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	6	aux	_	Gloss=he.has
+6	yi	_	VERB	_	_	3	conj	_	Gloss=do
+7	aiki	_	NOUN	_	_	6	obj	_	Gloss=work
+
+# sent_id = 1.138/ak
+# text = Yɛne wɔn abom bio
+# gloss = we-be.with them have.united again
+# text_en = We and they have united again
+# source = Christaller, 1875
+# Shopen: "The sentence structure in (138) involves serial verbs – cf. Schachter (1974) – and may be compared with that of a sentence like (140)"
+1	Yɛne	_	VERB	_	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	3	csubj	_	Gloss=we-be-with|MSeg=yɛ-ne|MGloss=we-be+with
+2	wɔn	_	PRON	_	Number=Plur|Person=3|PronType=Prs	1	obj	_	Gloss=them
+3	abom	_	VERB	_	_	0	root	_	Gloss=have-united
+4	bio	_	ADV	_	_	3	advmod	_	Gloss=again
+
+# sent_id = 1.139/ja
+# text = John wa asa okite, kao o aratta
+# gloss = John TOP morning getting.up face OBJ washed
+# text_en = John got up in the morning and washed his face
+# source = Kuno, 1973
+1	John	John	PROPN	_	_	8	nsubj	_	Gloss=John
+2	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
+3	asa	asa	NOUN	_	_	4	obl	_	Gloss=morning
+4	okite	okosu	VERB	_	VerbForm=Conv	8	advcl	_	Gloss=getting-up|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	kao	kao	NOUN	_	_	8	obj	_	Gloss=face
+7	o	o	ADP	_	_	6	case	_	Gloss=OBJECT
+8	aratta	arau	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=washed
+
+# sent_id = 1.140/ak
+# text = Yɛde wɔn aba
+# gloss = we-take them have.come
+# text_en = We have brought them
+# Shopen: "The sentence structure in (138) involves serial verbs – cf. Schachter (1974) – and may be compared with that of a sentence like (140)"
+1	Yɛde	_	VERB	_	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	Gloss=we-take|MSeg=yɛ-de|MGloss=we-take
+2	wɔn	_	PRON	_	Number=Plur|Person=3|PronType=Prs	1	obj	_	Gloss=them
+3	aba	_	VERB	_	Aspect=Perf	1	compound:svc	_	Gloss=have-come
+
