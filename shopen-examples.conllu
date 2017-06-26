@@ -2354,7 +2354,7 @@
 4	su	_	PRON	_	_	3	obj	_	Gloss=them|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 6	da	da	ADV	_	_	8	advmod	_	Gloss=then
-7	sun	_	AUX	_	Aspect=PERF|Number=Plur|Person=3	8	aux	_	Gloss=they-have
+7	sun	_	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	aux	_	Gloss=they-have
 8	yarda	_	VERB	_	_	0	root	_	Gloss=agree
 
 # sent_id = 1.162/iu
