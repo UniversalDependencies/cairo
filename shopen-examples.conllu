@@ -2132,3 +2132,46 @@
 4	ketkænini	_	NOUN	_	VerbForm=Vnoun	5	obj	_	Gloss=going-his
 5	suradɨ	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=asked
 
+# sent_id = 1.150/ha
+# text = Na ga mutumin da ya yi aikin
+# gloss = I.PERF see the.man REL he.PERF do the.work
+# text_en = I saw the man who did the work
+1	Na	_	AUX	_	Aspect=Perf|Number=Sing|Person=1	2	aux	_	Gloss=I-have
+2	ga	_	VERB	_	_	0	root	_	Gloss=see
+3	mutumin	_	NOUN	_	Definite=Def	2	obj	_	Gloss=the-man
+4	da	_	SCONJ	_	_	6	mark:relcl	_	Gloss=that
+5	ya	_	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	6	aux	_	Gloss=he-has
+6	yi	_	VERB	_	_	3	acl:relcl	_	Gloss=do
+7	aikin	_	NOUN	_	Definite=Def	6	obj	_	Gloss=the-work
+
+# sent_id = 1.151/ak
+# text = Ɔbarima a minim no te hɔ
+# gloss = man REL I.know him lives there
+# text_en = A man whom I know lives there
+1	Ɔbarima	_	NOUN	_	Number=Sing	5	nsubj	_	Gloss=man
+2	a	_	SCONJ	_	_	3	mark:relcl	_	Gloss=that
+3	minim	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	Gloss=I-know
+4	no	_	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=him
+5	te	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=lives
+6	hɔ	_	ADV	_	_	5	advmod	_	Gloss=there
+
+# sent_id = 1.152/qu
+# text = Maqamaq runa fiyu
+# gloss = hit-me-REL man bad
+# text_en = The man who hits me is bad
+1	Maqamaq	maqa	VERB	_	Number[acc]=Sing|Person[acc]=1|VerbForm=Rel	2	acl:relcl	_	Gloss=who-hits-me|MSeg=maqa-ma-q|MGloss=hit-me-REL
+2	runa	runa	NOUN	_	_	3	nsubj	_	Gloss=man
+3	fiyu	fiyu	ADJ	_	_	0	root	_	Gloss=bad
+
+# sent_id = 1.153/ja
+# text = Kore wa watakushi ga kaita hon desu
+# gloss = this TOP I SUBJ wrote book is
+# text_en = This is a book I have written
+1	Kore	kore	PRON	_	PronType=Dem	6	nsubj	_	Gloss=this
+2	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
+3	watakushi	watakushi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I
+4	ga	ga	ADP	_	_	3	case	_	Gloss=SUBJECT
+5	kaita	kaku	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	Gloss=wrote
+6	hon	hon	NOUN	_	_	0	root	_	Gloss=book
+7	desu	desu	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	Gloss=is
+
