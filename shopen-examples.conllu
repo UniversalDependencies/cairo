@@ -2175,3 +2175,201 @@
 6	hon	hon	NOUN	_	_	0	root	_	Gloss=book
 7	desu	desu	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	Gloss=is
 
+# sent_id = 1.154a/en
+# text = John left after Sally arrived
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	left	leave	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	after	after	ADP	_	_	5	mark	_	_
+4	Sally	Sally	PROPN	_	Number=Sing	5	nsubj	_	_
+5	arrived	arrive	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	_
+
+# sent_id = 1.154b/en
+# text = John left after the game
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	left	leave	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	after	after	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	game	game	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 1.155a/ja
+# text = Ressya ga tuku made kore o shite kudasai
+# gloss = train SUBJ arrive until this OBJ do please
+# text_en = Please do this until the train arrives
+1	Ressya	ressya	NOUN	_	_	3	nsubj	_	Gloss=train
+2	ga	ga	ADP	_	_	1	case	_	Gloss=SUBJECT
+3	tuku	tuku	VERB	_	VerbForm=Inf	7	advcl	_	Gloss=arrive
+4	made	made	ADP	_	_	3	mark	_	Gloss=until
+5	kore	kore	PRON	_	PronType=Dem	7	obj	_	Gloss=this
+6	o	o	ADP	_	_	5	case	_	Gloss=OBJECT
+7	shite	suru	VERB	_	VerbForm=Conv	0	root	_	Gloss=doing
+8	kudasai	kudasai	AUX	_	_	7	aux	_	Gloss=please
+
+# sent_id = 1.155b/ja
+# text = Ohiru made kore o shite kudasai
+# gloss = noon until this OBJ do please
+# text_en = Please do this until noon
+1	Ohiru	ohiru	NOUN	_	_	5	obl	_	Gloss=noon
+2	made	made	ADP	_	_	1	mark	_	Gloss=until
+3	kore	kore	PRON	_	PronType=Dem	5	obj	_	Gloss=this
+4	o	o	ADP	_	_	3	case	_	Gloss=OBJECT
+5	shite	suru	VERB	_	VerbForm=Conv	0	root	_	Gloss=doing
+6	kudasai	kudasai	AUX	_	_	5	aux	_	Gloss=please
+
+# sent_id = 1.156a/ha
+# text = Da sun zo zamu yi rawa
+# gloss = at they.PERF come we.FUT do dancing
+# text_en = As soon as they come we'll dance
+1	Da	da	ADP	_	_	3	mark	_	Gloss=at
+2	sun	_	AUX	_	Aspect=Perf|Number=Plur|Person=3	3	aux	_	Gloss=they-have
+3	zo	_	VERB	_	_	5	advcl	_	Gloss=come
+4	zamu	_	AUX	_	Number=Plur|Person=1|Tense=Fut	5	aux	_	Gloss=we-will
+5	yi	_	VERB	_	_	0	root	_	Gloss=do
+6	rawa	_	NOUN	_	_	5	obj	_	Gloss=dancing
+
+# sent_id = 1.156b/ha
+# text = Da dare zamu yi rawa
+# gloss = at night we.FUT do dancing
+# text_en = At night we'll dance
+1	Da	da	ADP	_	_	2	case	_	Gloss=at
+2	dare	_	NOUN	_	_	4	obl	_	Gloss=night
+3	zamu	_	AUX	_	Number=Plur|Person=1|Tense=Fut	4	aux	_	Gloss=we-will
+4	yi	_	VERB	_	_	0	root	_	Gloss=do
+5	rawa	_	NOUN	_	_	4	obj	_	Gloss=dancing
+
+# sent_id = 1.157a/en
+# text = If John goes, then Bill will too
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
+3	goes	go	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	then	then	ADV	_	PronType=Dem	7	advmod	_	_
+6	Bill	Bill	PROPN	_	Number=Sing	7	nsubj	_	_
+7	will	will	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	too	too	ADV	_	_	7	advmod	_	_
+
+# sent_id = 1.157b/en
+# text = If John goes, Bill will too
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
+3	goes	go	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	Bill	Bill	PROPN	_	Number=Sing	6	nsubj	_	_
+6	will	will	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	too	too	ADV	_	_	6	advmod	_	_
+
+# sent_id = 1.158a/vi
+# text = Vi anh mach thay giao, ma Ba phai phat
+# gloss = because older brother report teacher therefore Ba PASS punish
+# text_en = Because you reported him to the teacher, Ba was punished
+# source = Binh, 1971
+1	Vi	_	SCONJ	_	_	4	mark	_	Gloss=because
+2	anh	_	ADJ	_	_	3	amod	_	Gloss=older
+3	mach	_	NOUN	_	_	4	nsubj	_	Gloss=brother
+4	thay	_	VERB	_	_	7	advcl	_	Gloss=report
+5	giao	_	NOUN	_	_	4	obj	_	Gloss=teacher|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+7	ma	_	ADV	_	_	10	advmod	_	Gloss=therefore
+8	Ba	_	PROPN	_	_	10	nsubj:pass	_	Gloss=Ba
+9	phai	_	AUX	_	Voice=Pass	10	aux:pass	_	Gloss=was
+10	phat	_	VERB	_	_	0	root	_	Gloss=punish
+
+# sent_id = 1.158b/vi
+# text = Vi anh mach thay giao, Ba phai phat
+# gloss = because older brother report teacher Ba PASS punish
+# text_en = Because you reported him to the teacher, Ba was punished
+# source = Binh, 1971
+1	Vi	_	SCONJ	_	_	4	mark	_	Gloss=because
+2	anh	_	ADJ	_	_	3	amod	_	Gloss=older
+3	mach	_	NOUN	_	_	4	nsubj	_	Gloss=brother
+4	thay	_	VERB	_	_	9	advcl	_	Gloss=report
+5	giao	_	NOUN	_	_	4	obj	_	Gloss=teacher|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+7	Ba	_	PROPN	_	_	9	nsubj:pass	_	Gloss=Ba
+8	phai	_	AUX	_	Voice=Pass	9	aux:pass	_	Gloss=was
+9	phat	_	VERB	_	_	0	root	_	Gloss=punish
+
+# sent_id = 1.159a/vi
+# text = Khi toi den, thi Ba di roi
+# gloss = when I arrive then Ba go already
+# text_en = When I arrived, Ba had already gone
+# source = Binh, 1971
+1	Khi	_	ADV	_	_	3	advmod	_	Gloss=when
+2	toi	_	PRON	_	_	3	nsubj	_	Gloss=I
+3	den	_	VERB	_	_	5	advcl	_	Gloss=arrive|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	thi	_	ADV	_	_	7	advmod	_	Gloss=then
+6	Ba	_	PROPN	_	_	7	nsubj	_	Gloss=Ba
+7	di	_	VERB	_	_	0	root	_	Gloss=go
+8	roi	_	ADV	_	_	7	advmod	_	Gloss=already
+
+# sent_id = 1.159b/vi
+# text = Khi toi den, Ba di roi
+# gloss = when I arrive Ba go already
+# text_en = When I arrived, Ba had already gone
+# source = Binh, 1971
+1	Khi	_	ADV	_	_	3	advmod	_	Gloss=when
+2	toi	_	PRON	_	_	3	nsubj	_	Gloss=I
+3	den	_	VERB	_	_	6	advcl	_	Gloss=arrive|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	Ba	_	PROPN	_	_	6	nsubj	_	Gloss=Ba
+6	di	_	VERB	_	_	0	root	_	Gloss=go
+7	roi	_	ADV	_	_	6	advmod	_	Gloss=already
+
+# sent_id = 1.160a/vi
+# text = Tuy Ba noi nhanh nhung toi cung van heiu duoc
+# gloss = although Ba speak fast but I still understand possible
+# text_en = Although Ba talked fast I could still understand him
+# source = Binh, 1971
+1	Tuy	_	SCONJ	_	_	3	mark	_	Gloss=although
+2	Ba	_	PROPN	_	_	3	nsubj	_	Gloss=Ba
+3	noi	_	VERB	_	_	5	advcl	_	Gloss=speak
+4	nhanh	_	ADV	_	_	3	advmod	_	Gloss=fast
+5	nhung	_	ADV	_	_	8	advmod	_	Gloss=but
+6	toi	_	PRON	_	_	8	nsubj	_	Gloss=I
+7	cung van	_	ADV	_	_	8	advmod	_	Gloss=still
+8	heiu	_	VERB	_	_	0	root	_	Gloss=understand
+9	duoc	_	ADV	_	_	8	advmod	_	Gloss=possible
+
+# sent_id = 1.160b/vi
+# text = Tuy Ba noi nhanh toi cung van heiu duoc
+# gloss = although Ba speak fast I still understand possible
+# text_en = Although Ba talked fast I could still understand him
+# source = Binh, 1971
+1	Tuy	_	SCONJ	_	_	3	mark	_	Gloss=although
+2	Ba	_	PROPN	_	_	3	nsubj	_	Gloss=Ba
+3	noi	_	VERB	_	_	7	advcl	_	Gloss=speak
+4	nhanh	_	ADV	_	_	3	advmod	_	Gloss=fast
+5	toi	_	PRON	_	_	7	nsubj	_	Gloss=I
+6	cung van	_	ADV	_	_	7	advmod	_	Gloss=still
+7	heiu	_	VERB	_	_	0	root	_	Gloss=understand
+8	duoc	_	ADV	_	_	7	advmod	_	Gloss=possible
+
+# sent_id = 1.161/ha
+# text = Da an tambaye su, da sun yarda
+# gloss = CF one.PERF ask them CF they.PERF agree
+# If they had been asked, they would have agreed
+1	Da	da	SCONJ	_	_	3	mark	_	Gloss=if
+2	an	_	AUX	_	Aspect=Perf	3	aux	_	Gloss=one-has
+3	tambaye	_	VERB	_	_	6	advcl	_	Gloss=ask
+4	su	_	PRON	_	_	3	obj	_	Gloss=them|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+6	da	da	ADV	_	_	8	advmod	_	Gloss=then
+7	sun	_	AUX	_	Aspect=PERF|Number=Plur|Person=3	8	aux	_	Gloss=they-have
+8	yarda	_	VERB	_	_	0	root	_	Gloss=agree
+
+# sent_id = 1.162/iu
+# text = Qiugama isiqpunga
+# gloss = cold-because-I I.am.coming.in
+# text_en = Because I'm cold, I am coming in
+# source = Harper, 1974
+1	Qiugama	_	ADJ	_	Number=Sing|Person=1	2	advcl	_	Gloss=cold-because-I|MSeg=qiu-ga-ma|MGloss=cold-because-I
+2	isiqpunga	_	VERB	_	Number=Sing|Person=1	0	root	_	Gloss=I-am-coming-in
+
+# sent_id = 1.163/iu
+# text = Audlaruvit quviasutjanngittunga
+# gloss = go away-if/when-you I.will.be.unhappy
+# text_en = If/When you go away, I will be unhappy
+# source = Harper, 1974
+1	Audlaruvit	_	VERB	_	Number=Sing|Person=2	2	advcl	_	Gloss=go-away-if-you|MSeg=audla-ru-vit|MGloss=go+away-if-you
+2	quviasutjanngittunga	_	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=I-will-be-unhappy
+
