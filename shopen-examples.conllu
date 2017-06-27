@@ -2373,3 +2373,37 @@
 1	Audlaruvit	_	VERB	_	Number=Sing|Person=2	2	advcl	_	Gloss=go-away-if-you|MSeg=audla-ru-vit|MGloss=go+away-if-you
 2	quviasutjanngittunga	_	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=I-will-be-unhappy
 
+# sent_id = 1.164a/tl
+# text = Darating daw si Pedro bukas
+# gloss = will.arrive they.say TOP Pedro tomorrow
+# text_en = They say Pedro will arrive tomorrow
+1	Darating	_	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-arrive
+2	daw	daw	PART	_	_	1	discourse	_	Gloss=they-say
+3	si	si	ADP	_	Topic=Yes	4	case	_	Gloss=TOPIC
+4	Pedro	Pedro	PROPN	_	_	1	nsubj	_	Gloss=Pedro
+5	bukas	_	ADV	_	_	1	advmod	_	Gloss=tomorrow
+
+# sent_id = 1.164b/tl
+# text = Hindi daw darating si Pedro bukas
+# gloss = NEG they.say will.arrive TOP Pedro tomorrow
+# text_en = They say Pedro won't arrive tomorrow
+1	Hindi	hindi	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+2	daw	daw	PART	_	_	3	discourse	_	Gloss=they-say
+3	darating	_	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-arrive
+4	si	si	ADP	_	Topic=Yes	5	case	_	Gloss=TOPIC
+5	Pedro	Pedro	PROPN	_	_	3	nsubj	_	Gloss=Pedro
+6	bukas	_	ADV	_	_	3	advmod	_	Gloss=tomorrow
+
+# sent_id = 1.164c/tl
+# text = Bakit daw hindi darating si Pedro bukas?
+# gloss = why they.say NEG will.arrive TOP Pedro tomorrow
+# text_en = Why do they say Pedro won't arrive tomorrow?
+1	Bakit	bakit	ADV	_	PronType=Int	4	advmod	_	Gloss=why
+2	daw	daw	PART	_	_	4	discourse	_	Gloss=they-say
+3	hindi	hindi	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
+4	darating	_	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-arrive
+5	si	si	ADP	_	Topic=Yes	6	case	_	Gloss=TOPIC
+6	Pedro	Pedro	PROPN	_	_	4	nsubj	_	Gloss=Pedro
+7	bukas	_	ADV	_	_	4	advmod	_	Gloss=tomorrow|SpaceAfter=No
+8	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
