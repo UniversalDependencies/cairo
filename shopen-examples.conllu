@@ -2479,7 +2479,7 @@
 4	lamang	lamang	ADV	_	_	7	advmod	_	Gloss=just
 5	tuloy	tuloy	ADV	_	_	7	advmod	_	Gloss=as-a-result
 6	siya	_	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=he
-7	nakakapagalmusal	_	VERB	_	0	root	_	Gloss=can-have-breakfast
+7	nakakapagalmusal	_	VERB	_	_	0	root	_	Gloss=can-have-breakfast
 
 # sent_id = 1.169a/ha
 # text = Ita yarinya ce
