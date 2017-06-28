@@ -2407,3 +2407,93 @@
 7	bukas	_	ADV	_	_	4	advmod	_	Gloss=tomorrow|SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
+# sent_id = 1.165a/fr
+# text = Elle y reste aujourd'hui
+# gloss = she there stays today
+# text_en = She is staying there today
+1	Elle	elle	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=she
+2	y	y	ADV	_	PronType=Dem	3	advmod	_	Gloss=there
+3	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=stays
+4	aujourd'hui	aujourd'hui	ADV	_	_	3	advmod	_	Gloss=today
+
+# sent_id = 1.165b/fr
+# text = Il faut y rester aujourd'hui
+# gloss = it is.necessary there to.stay today
+# text_en = It's necessary to stay there today
+1	Il	il	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=it
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=is-necessary
+3	y	y	ADV	_	PronType=Dem	4	advmod	_	Gloss=there
+4	rester	rester	VERB	_	VerbForm=Inf	2	xcomp	_	Gloss=to-stay
+5	aujourd'hui	aujourd'hui	ADV	_	_	4	advmod	_	Gloss=today
+
+# sent_id = 1.165c/fr
+# text = Restez-y aujourd'hui
+# gloss = stay-there today
+# text_en = Stay there today
+1	Restez	rester	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Gloss=stay|SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	Gloss=-|SpaceAfter=No
+3	y	y	ADV	_	PronType=Dem	1	advmod	_	Gloss=there
+4	aujourd'hui	aujourd'hui	ADV	_	_	1	advmod	_	Gloss=today
+
+# sent_id = 1.166/fr
+# text = Personne ne nous en donne
+# gloss = no.one NEG us some gives
+# text_en = No one gives us any
+1	Personne	personne	PRON	_	PronType=Neg	5	nsubj	_	Gloss=nobody
+2	ne	ne	PART	_	Polarity=Neg	5	advmod	_	Gloss=not
+3	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	5	iobj	_	Gloss=us
+4	en	en	PRON	_	PronType=Ind	5	obj	_	Gloss=some
+5	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=gives
+
+# sent_id = 1.167a/tl
+# text = Nagtatrabaho ka na ba daw roon?
+# gloss = are.working you now Q they.say there
+# text_en = Do they say you are working there now?
+1	Nagtatrabaho	_	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=are-working
+2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
+3	na	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
+4	ba	_	PART	_	PronType=Int	1	discourse	_	Gloss=QUESTION
+5	daw	_	PART	_	_	1	discourse	_	Gloss=they-say
+6	roon	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
+7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.167b/tl
+# text = Nagtatrabaho ka na daw ba roon?
+# gloss = are.working you now they.say Q there
+# text_en = Do they say you are working there now?
+1	Nagtatrabaho	_	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=are-working
+2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
+3	na	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
+4	daw	_	PART	_	_	1	discourse	_	Gloss=they-say
+5	ba	_	PART	_	PronType=Int	1	discourse	_	Gloss=QUESTION
+6	roon	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
+7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.168/tl
+# text = Hindi pa man lamang tuloy siya nakakapagalmusal
+# gloss = NEG yet even just as.a.result he can.have.breakfast
+# text_en = As a result, he hasn't even been able to have breakfast yet
+1	Hindi	hindi	PART	_	Polarity=Neg	7	advmod	_	Gloss=not
+2	pa	pa	ADV	_	_	7	advmod	_	Gloss=yet
+3	man	man	ADV	_	_	7	advmod	_	Gloss=even
+4	lamang	lamang	ADV	_	_	7	advmod	_	Gloss=just
+5	tuloy	tuloy	ADV	_	_	7	advmod	_	Gloss=as-a-result
+6	siya	_	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=he
+7	nakakapagalmusal	_	VERB	_	0	root	_	Gloss=can-have-breakfast
+
+# sent_id = 1.169a/ha
+# text = Ita yarinya ce
+# gloss = she girl COP
+# text_en = She is a girl
+1	Ita	ita	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=she
+2	yarinya	yarinya	NOUN	_	Gender=Fem	0	root	_	Gloss=girl
+3	ce	ce	AUX	_	Gender=Fem|Number=Sing	2	cop	_	Gloss=is
+
+# sent_id = 1.169b/ha
+# text = Shi yaro ne
+# gloss = he boy COP
+# text_en = He is a boy
+1	Shi	shi	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	yaro	yaro	NOUN	_	Gender=Masc	0	root	_	Gloss=boy
+3	ne	ne	AUX	_	Gender=Masc|Number=Sing	2	cop	_	Gloss=is
+
