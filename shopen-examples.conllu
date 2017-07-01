@@ -70,9 +70,9 @@
 # text = Mga guro sila
 # gloss = PL teacher they
 # text_en = They are teachers
-1	Mga	_	DET	_	Number=Plur|PronType=Ind	2	det	_	Gloss=PLUR
-2	guro	_	NOUN	_	_	0	root	_	Gloss=teacher
-3	sila	_	PRON	_	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they
+1	Mga	mga	DET	_	Number=Plur|PronType=Ind	2	det	_	Gloss=PLUR
+2	guro	guro	NOUN	_	_	0	root	_	Gloss=teacher
+3	sila	sila	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they
 
 # sent_id = 1.9/ru
 # text = Oni učitelja
@@ -107,31 +107,31 @@
 # gloss = near OBLIQ woman TOP child
 # text_en = The child is near the woman
 1	Malapit	_	ADJ	_	_	0	root	_	Gloss=near
-2	sa	_	ADP	_	_	3	case	_	Gloss=to
-3	babae	_	NOUN	_	_	1	obl	_	Gloss=woman
-4	ang	_	ADP	_	_	5	case	_	Gloss=TOPIC
-5	bata	_	NOUN	_	_	1	nsubj	_	Gloss=child
+2	sa	sa	ADP	_	_	3	case	_	Gloss=to
+3	babae	babae	NOUN	_	_	1	obl	_	Gloss=woman
+4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 
 # sent_id = 1.13/tl
 # text = Malapit kay Maria si Juan
 # gloss = near OBLIQ Maria TOP Juan
 # text_en = Juan is near Maria
 1	Malapit	_	ADJ	_	_	0	root	_	Gloss=near
-2	kay	_	ADP	_	_	3	case	_	Gloss=to
-3	Maria	_	PROPN	_	_	1	obl	_	Gloss=Maria
-4	si	_	ADP	_	_	5	case	_	Gloss=TOPIC
-5	Juan	_	PROPN	_	_	1	nsubj	_	Gloss=Juan
+2	kay	kay	ADP	_	_	3	case	_	Gloss=to
+3	Maria	Maria	PROPN	_	_	1	obl	_	Gloss=Maria
+4	si	si	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+5	Juan	Juan	PROPN	_	_	1	nsubj	_	Gloss=Juan
 
 # sent_id = 1.14/tl
 # text = Malapit sa Maynila ang Pasay City
 # gloss = near OBL Manila TOP Pasay City
 # text_en = Pasay City is near Manila
 1	Malapit	_	ADJ	_	_	0	root	_	Gloss=near
-2	sa	_	ADP	_	_	3	case	_	Gloss=to
-3	Maynila	_	PROPN	_	_	1	obl	_	Gloss=Manila
-4	ang	_	ADP	_	_	5	case	_	Gloss=TOPIC
-5	Pasay	_	PROPN	_	_	1	nsubj	_	Gloss=Pasay
-6	City	_	PROPN	_	_	5	flat	_	Gloss=City
+2	sa	sa	ADP	_	_	3	case	_	Gloss=to
+3	Maynila	Maynila	PROPN	_	_	1	obl	_	Gloss=Manila
+4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+5	Pasay	Pasay	PROPN	_	_	1	nsubj	_	Gloss=Pasay
+6	City	City	PROPN	_	_	5	flat	_	Gloss=City
 
 # sent_id = 1.15a/en
 # text = The people danced
@@ -151,20 +151,21 @@
 # text = Pinanood ko ang mga sumasayaw
 # gloss = watch I TOP PL were.dancing
 # text_en = I watched the ones who were dancing
-1	Pinanood	_	VERB	_	_	0	root	_	Gloss=watch
-2	ko	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
-3	ang	_	ADP	_	_	5	case	_	Gloss=TOPIC
-4	mga	_	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PLUR
-5	sumasayaw	_	VERB	_	Aspect=Prog|Mood=Ind|Tense=Past|VerbForm=Fin	1	obj	_	Gloss=were-dancing
+# http://www.seasite.niu.edu/Tagalog/tagalog_verbs.htm
+1	Pinanood	nood	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=watch
+2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PLUR
+5	sumasayaw	sayaw	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	obj	_	Gloss=were-dancing
 
 # sent_id = 1.16b/tl
 # text = Sumasayaw ang mga tao
 # gloss = were.dancing TOP PL person
 # text_en = The people were dancing
-1	Sumasayaw	_	VERB	_	Aspect=Prog|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=were-dancing
-2	ang	_	ADP	_	_	4	case	_	Gloss=TOPIC
-3	mga	_	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLUR
-4	tao	_	NOUN	_	_	1	nsubj	_	Gloss=person
+1	Sumasayaw	sayaw	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=were-dancing
+2	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+3	mga	mga	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLUR
+4	tao	tao	NOUN	_	_	1	nsubj	_	Gloss=person
 
 # sent_id = 1.17/ak
 # text = Mehwɛɛ asaw no
@@ -216,17 +217,17 @@
 # text = Nagtatrabaho ang lalaki
 # gloss = is.working TOP man
 # text_en = The man is working
-1	Nagtatrabaho	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=is-working
-2	ang	_	ADP	_	_	3	case	_	Gloss=TOPIC
-3	lalaki	_	NOUN	_	_	1	nsubj	_	Gloss=man
+1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=is-working
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=TOPIC
+3	lalaki	lalaki	NOUN	_	_	1	nsubj	_	Gloss=man
 
 # sent_id = 1.25/tl
 # text = Lalaki ang nagtatrabaho
 # gloss = man TOP is.working
 # text_en = The one who is working is a man
-1	Lalaki	_	NOUN	_	_	0	root	_	Gloss=man
-2	ang	_	ADP	_	_	3	case	_	Gloss=TOPIC
-3	nagtatrabaho	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	nsubj	_	Gloss=is-working
+1	Lalaki	lalaki	NOUN	_	_	0	root	_	Gloss=man
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=TOPIC
+3	nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	nsubj	_	Gloss=is-working
 
 # sent_id = 1.26/ilo
 # text = Natayag daydyay babae
@@ -682,21 +683,21 @@
 # text = Hindi ko siya nakita
 # gloss = not I(AG) him(TOP) saw
 # text_en = I didn't see him
-1	Hindi	_	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
-2	ko	_	PRON	_	Agent=Yes|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
-3	siya	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Topic=Yes	4	obj	_	Gloss=him
-4	nakita	_	VERB	_	Tense=Past	0	root	_	Gloss=saw
+1	Hindi	hindi	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
+2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
+3	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Topic=Yes	4	obj	_	Gloss=him
+4	nakita	kita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=saw
 
 # sent_id = 1.55b/tl
 # text = Hindi nakita ni Pedro si Juan
 # gloss = not saw AG Pedro TOP Juan
 # text_en = Pedro didn't see Juan
-1	Hindi	_	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
-2	nakita	_	VERB	_	Tense=Past	0	root	_	Gloss=saw
-3	ni	_	ADP	_	Agent=Yes	4	case	_	Gloss=AGENT
-4	Pedro	_	PROPN	_	_	2	nsubj	_	Gloss=Pedro
-5	si	_	ADP	_	Topic=Yes	6	case	_	Gloss=TOPIC
-6	Juan	_	PROPN	_	_	2	obj	_	Gloss=Juan
+1	Hindi	hindi	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+2	nakita	kita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=saw
+3	ni	ni	ADP	_	Case=Acc	4	case	_	Gloss=AGENT
+4	Pedro	Pedro	PROPN	_	_	2	nsubj	_	Gloss=Pedro
+5	si	si	ADP	_	Case=Nom	6	case	_	Gloss=TOPIC
+6	Juan	Juan	PROPN	_	_	2	obj	_	Gloss=Juan
 
 # sent_id = 1.56/sw
 # text = Niliwaona
@@ -767,23 +768,23 @@
 # text = Inahit ni John ang sarili niya
 # gloss = shaved AG John TOP self his
 # text_en = John shaved himself
-1	Inahit	_	VERB	_	_	0	root	_	Gloss=shaved
-2	ni	_	ADP	_	Agent=Yes	3	case	_	Gloss=AGENT
-3	John	_	PROPN	_	_	1	nsubj	_	Gloss=John
-4	ang	_	ADP	_	Topic=Yes	5	case	_	Gloss=TOPIC
-5	sarili	_	PRON	_	PronType=Prs|Reflex=Yes	1	obj	_	Gloss=self
-6	niya	_	PRON	_	Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Gloss=his
+1	Inahit	ahit	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=shaved
+2	ni	ni	ADP	_	Case=Acc	3	case	_	Gloss=AGENT
+3	John	John	PROPN	_	_	1	nsubj	_	Gloss=John
+4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+5	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obj	_	Gloss=self
+6	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=his
 
 # sent_id = 1.64/tl
 # text = Inahit ni John mismo si Bill
 # gloss = shaved AG John EMPH TOP Bill
 # text_en = John himself shaved Bill
-1	Inahit	_	VERB	_	_	0	root	_	Gloss=shaved
-2	ni	_	ADP	_	Agent=Yes	3	case	_	Gloss=AGENT
-3	John	_	PROPN	_	_	1	nsubj	_	Gloss=John
-4	mismo	_	DET	_	PronType=Emp	3	nmod	_	Gloss=EMPH
-5	si	_	ADP	_	Topic=Yes	6	case	_	Gloss=TOPIC
-6	Bill	_	PROPN	_	_	1	obj	_	Gloss=Bill
+1	Inahit	ahit	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=shaved
+2	ni	ni	ADP	_	Case=Acc	3	case	_	Gloss=AGENT
+3	John	John	PROPN	_	_	1	nsubj	_	Gloss=John
+4	mismo	mismo	DET	_	PronType=Emp	3	nmod	_	Gloss=EMPH
+5	si	si	ADP	_	Case=Nom	6	case	_	Gloss=TOPIC
+6	Bill	Bill	PROPN	_	_	1	obj	_	Gloss=Bill
 
 # sent_id = 1.65a/fr
 # text = Ils me voient
@@ -1035,12 +1036,12 @@
 # gloss = who TOP child	went OBL store
 # text_en = Who is the child who went to the store?
 1	Sino	_	PRON	_	PronType=Int	0	root	_	Gloss=who
-2	ang	_	ADP	_	Topic=Yes	3	case	_	Gloss=TOPIC
-3	batang	_	NOUN	_	Number=Sing	1	nsubj	_	Gloss=child|MSeg=bata-ng|MGloss=child-LINK
-4	pumunta	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl	_	Gloss=went
-5	sa	_	ADP	_	_	6	case	_	Gloss=OBL
-6	tindahan	_	NOUN	_	Number=Sing	4	obl	_	Gloss=store|SpaceAfter=No
-7	?	_	PUNCT	_	_	1	punct	_	Gloss=?
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=TOPIC
+3	batang	bata	NOUN	_	_	1	nsubj	_	Gloss=child|MSeg=bata-ng|MGloss=child-LINK
+4	pumunta	punta	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	3	acl	_	Gloss=went
+5	sa	sa	ADP	_	_	6	case	_	Gloss=OBL
+6	tindahan	tindahan	NOUN	_	_	4	obl	_	Gloss=store|SpaceAfter=No
+7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.85a/en
 # text = Jack fell down, but Jill didn't
@@ -1138,42 +1139,42 @@
 # text = Umuulan ba?
 # gloss = is.raining Q
 # text_en = Is it raining?
-1	Umuulan	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=is-raining
-2	ba	_	PART	_	PartType=Int	1	discourse	_	Gloss=QUESTION|SpaceAfter=No
+1	Umuulan	ulan	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=is-raining
+2	ba	ba	PART	_	PartType=Int	1	discourse	_	Gloss=QUESTION|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.89b/tl
 # text = Oo
 # gloss = yes
 # text_en = Yes
-1	Oo	_	INTJ	_	Polarity=Pos	0	root	_	Gloss=yes
+1	Oo	oo	INTJ	_	Polarity=Pos	0	root	_	Gloss=yes
 
 # sent_id = 1.89c/tl
 # text = Hindi
 # gloss = no
 # text_en = No
-1	Hindi	_	INTJ	_	Polarity=Pos	0	root	_	Gloss=no
+1	Hindi	hindi	INTJ	_	Polarity=Pos	0	root	_	Gloss=no
 
 # sent_id = 1.90a/tl
 # text = Mayroon bang pagkain?
 # gloss = EXIST Q-LINK food
 # text_en = Is there any food?
-1	Mayroon	_	VERB	_	Polarity=Pos	0	root	_	Gloss=exists
+1	Mayroon	mayroon	VERB	_	Polarity=Pos	0	root	_	Gloss=exists
 2	bang	ba	PART	_	PartType=Int	1	discourse	_	Gloss=QUESTION|MSeg=ba-ng|MGloss=QUESTION-LINK
-3	pagkain	_	NOUN	_	_	1	nsubj	_	Gloss=food|SpaceAfter=No
+3	pagkain	pagkain	NOUN	_	_	1	nsubj	_	Gloss=food|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.90b/tl
 # text = Mayroon
 # gloss = EXIST
 # text_en = Yes (answer to existential questions)
-1	Mayroon	_	VERB	_	Polarity=Pos	0	root	_	Gloss=exists
+1	Mayroon	mayroon	VERB	_	Polarity=Pos	0	root	_	Gloss=exists
 
 # sent_id = 1.90c/tl
 # text = Wala
 # gloss = NEG-EXIST
 # text_en = No (answer to existential questions)
-1	Wala	_	VERB	_	Polarity=Neg	0	root	_	Gloss=does-not-exist
+1	Wala	wala	VERB	_	Polarity=Neg	0	root	_	Gloss=does-not-exist
 
 # sent_id = 1.91/ha
 # text = Ana ruwa, ko?
@@ -1189,9 +1190,9 @@
 # text = Umuulan, ano?
 # gloss = is.raining CONFIRMATION TAG
 # text_en = It's raining, isn't it?
-1	Umuulan	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=is-raining|SpaceAfter=No
+1	Umuulan	ulan	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=is-raining|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-3	ano	_	PART	_	PartType=Int	1	discourse	_	Gloss=CONFIRMATION-TAG|SpaceAfter=No
+3	ano	ano	PART	_	PartType=Int	1	discourse	_	Gloss=CONFIRMATION-TAG|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.93a/en
@@ -1292,7 +1293,7 @@
 # gloss = very.what they
 # text_en = What are they very much like?
 1	Napakaano	_	ADJ	_	_	0	root	_	Gloss=very-much-like|MSeg=napaka-ano|MGloss=very-what
-2	nila	_	PRON	_	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they|SpaceAfter=No
+2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.98b/tl
@@ -1300,29 +1301,29 @@
 # gloss = very.tall they
 # text_en = They are very tall
 1	Napakataas	_	ADJ	_	_	0	root	_	Gloss=very-tall|MSeg=napaka-taas|MGloss=very-tall
-2	nila	_	PRON	_	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
+2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
 
 # sent_id = 1.98c/tl
 # text = Nagano ka?
 # gloss = (PERF.ACTIVE)what you
 # text_en = What did you do?
 1	Nagano	_	VERB	_	Aspect=Perf|PronType=Int|Voice=Act	0	root	_	Gloss=what-did|MSeg=nag-ano|MGloss=PERF+ACTIVE-what
-2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.98d/tl
 # text = Nagsalita ka
 # gloss = (PERF.ACTIVE)speak you
 # text_en = You spoke
-1	Nagsalita	_	VERB	_	Aspect=Perf|Voice=Act	0	root	_	Gloss=spoke|MSeg=nag-salita|MGloss=PERF+ACTIVE-speak
-2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
+1	Nagsalita	salita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=spoke|MSeg=nag-salita|MGloss=PERF+ACTIVE-speak
+2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
 
 # sent_id = 1.98e/tl
 # text = Naano ka?
 # gloss = (PERF.INVOL)what you
 # text_en = What happened to you?
 1	Naano	_	VERB	_	Aspect=Perf|PronType=Int|Voice=Invol	0	root	_	Gloss=what-happened|MSeg=na-ano|MGloss=PERF+INVOL-what
-2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.98f/tl
@@ -1330,7 +1331,7 @@
 # gloss = (PERF.INVOL)trip you
 # text_en = You tripped
 1	Natalisod	_	VERB	_	Aspect=Perf|Voice=Invol	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
-2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
+2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
 
 # sent_id = 1.99a/ynn
 # text = Beema'awaranʒan?
@@ -1352,15 +1353,15 @@
 # text = Ipinansulat ni John ng liham kay Mary ang makinilya
 # gloss = wrote.with AG John OBJ letter IO Mary TOP typewriter
 # text_en = John wrote Mary a letter on the typewriter
-1	Ipinansulat	_	VERB	_	_	0	root	_	Gloss=wrote-with
-2	ni	_	ADP	_	_	3	case	_	Gloss=AGENT
-3	John	_	PROPN	_	_	1	nsubj	_	Gloss=John
-4	ng	_	ADP	_	_	5	case	_	Gloss=OBJECT
-5	liham	_	NOUN	_	_	1	obj	_	Gloss=letter
-6	kay	_	ADP	_	_	7	case	_	Gloss=INDIRECT-OBJECT
-7	Mary	_	PROPN	_	_	1	iobj	_	Gloss=Mary
-8	ang	_	ADP	_	_	9	case	_	Gloss=TOPIC
-9	makinilya	_	NOUN	_	_	1	obl	_	Gloss=typewriter
+1	Ipinansulat	sulat	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Insf	0	root	_	Gloss=wrote-with
+2	ni	ni	ADP	_	Case=Acc	3	case	_	Gloss=AGENT
+3	John	John	PROPN	_	_	1	nsubj	_	Gloss=John
+4	ng	ng	ADP	_	Case=Acc	5	case	_	Gloss=OBJECT
+5	liham	liham	NOUN	_	_	1	obj	_	Gloss=letter
+6	kay	kay	ADP	_	_	7	case	_	Gloss=INDIRECT-OBJECT
+7	Mary	Mary	PROPN	_	_	1	iobj	_	Gloss=Mary
+8	ang	ang	ADP	_	Case=Nom	9	case	_	Gloss=TOPIC
+9	makinilya	makinilya	NOUN	_	_	1	obl	_	Gloss=typewriter
 
 # sent_id = 1.101/ja
 # text = Type de wa John ga Mary ni tegami o kaita
@@ -1506,9 +1507,9 @@
 # gloss = where TOP PL dish
 # text_en = Where are the dishes?
 1	Nasaan	_	ADV	_	PronType=Int	0	root	_	Gloss=where
-2	ang	ang	ADP	_	Topic=Yes	4	case	_	Gloss=TOPIC
-3	mga	mga	DET	_	Number=Plur	4	det	_	Gloss=PLURAL
-4	pinggan	_	NOUN	_	_	1	nsubj	_	Gloss=dish|SpaceAfter=No
+2	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+3	mga	mga	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLURAL
+4	pinggan	pinggan	NOUN	_	_	1	nsubj	_	Gloss=dish|SpaceAfter=No
 5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.110/ak
@@ -2046,11 +2047,11 @@
 # text = Itinanong ko kung nasaan sila
 # gloss = asked I COMP where they
 # text_en = I asked where they were
-1	Itinanong	_	VERB	_	_	0	root	_	Gloss=asked
-2	ko	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
-3	kung	_	SCONJ	_	_	4	mark	_	Gloss=that
+1	Itinanong	tanong	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=asked
+2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	kung	kung	SCONJ	_	_	4	mark	_	Gloss=that
 4	nasaan	_	ADV	_	_	1	ccomp	_	Gloss=where
-5	sila	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
+5	sila	sila	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
 
 # sent_id = 1.142/uz
 # text = Ula Hasan gayergæ ketkæn dep suradɨ
@@ -2377,11 +2378,11 @@
 # text = Darating daw si Pedro bukas
 # gloss = will.arrive they.say TOP Pedro tomorrow
 # text_en = They say Pedro will arrive tomorrow
-1	Darating	_	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-arrive
+1	Darating	dating	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-arrive
 2	daw	daw	PART	_	_	1	discourse	_	Gloss=they-say
-3	si	si	ADP	_	Topic=Yes	4	case	_	Gloss=TOPIC
+3	si	si	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
 4	Pedro	Pedro	PROPN	_	_	1	nsubj	_	Gloss=Pedro
-5	bukas	_	ADV	_	_	1	advmod	_	Gloss=tomorrow
+5	bukas	bukas	ADV	_	_	1	advmod	_	Gloss=tomorrow
 
 # sent_id = 1.164b/tl
 # text = Hindi daw darating si Pedro bukas
@@ -2389,10 +2390,10 @@
 # text_en = They say Pedro won't arrive tomorrow
 1	Hindi	hindi	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
 2	daw	daw	PART	_	_	3	discourse	_	Gloss=they-say
-3	darating	_	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-arrive
-4	si	si	ADP	_	Topic=Yes	5	case	_	Gloss=TOPIC
+3	darating	dating	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-arrive
+4	si	si	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
 5	Pedro	Pedro	PROPN	_	_	3	nsubj	_	Gloss=Pedro
-6	bukas	_	ADV	_	_	3	advmod	_	Gloss=tomorrow
+6	bukas	bukas	ADV	_	_	3	advmod	_	Gloss=tomorrow
 
 # sent_id = 1.164c/tl
 # text = Bakit daw hindi darating si Pedro bukas?
@@ -2401,10 +2402,10 @@
 1	Bakit	bakit	ADV	_	PronType=Int	4	advmod	_	Gloss=why
 2	daw	daw	PART	_	_	4	discourse	_	Gloss=they-say
 3	hindi	hindi	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
-4	darating	_	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-arrive
-5	si	si	ADP	_	Topic=Yes	6	case	_	Gloss=TOPIC
+4	darating	dating	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-arrive
+5	si	si	ADP	_	Case=Nom	6	case	_	Gloss=TOPIC
 6	Pedro	Pedro	PROPN	_	_	4	nsubj	_	Gloss=Pedro
-7	bukas	_	ADV	_	_	4	advmod	_	Gloss=tomorrow|SpaceAfter=No
+7	bukas	bukas	ADV	_	_	4	advmod	_	Gloss=tomorrow|SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
 # sent_id = 1.165a/fr
@@ -2449,24 +2450,24 @@
 # text = Nagtatrabaho ka na ba daw roon?
 # gloss = are.working you now Q they.say there
 # text_en = Do they say you are working there now?
-1	Nagtatrabaho	_	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=are-working
-2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
-3	na	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
-4	ba	_	PART	_	PronType=Int	1	discourse	_	Gloss=QUESTION
-5	daw	_	PART	_	_	1	discourse	_	Gloss=they-say
-6	roon	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
+1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=are-working
+2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
+3	na	na	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
+4	ba	ba	PART	_	PronType=Int	1	discourse	_	Gloss=QUESTION
+5	daw	daw	PART	_	_	1	discourse	_	Gloss=they-say
+6	roon	roon	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
 7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.167b/tl
 # text = Nagtatrabaho ka na daw ba roon?
 # gloss = are.working you now they.say Q there
 # text_en = Do they say you are working there now?
-1	Nagtatrabaho	_	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=are-working
-2	ka	_	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
-3	na	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
-4	daw	_	PART	_	_	1	discourse	_	Gloss=they-say
-5	ba	_	PART	_	PronType=Int	1	discourse	_	Gloss=QUESTION
-6	roon	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
+1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=are-working
+2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
+3	na	na	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
+4	daw	daw	PART	_	_	1	discourse	_	Gloss=they-say
+5	ba	ba	PART	_	PronType=Int	1	discourse	_	Gloss=QUESTION
+6	roon	roon	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
 7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.168/tl
@@ -2478,8 +2479,8 @@
 3	man	man	ADV	_	_	7	advmod	_	Gloss=even
 4	lamang	lamang	ADV	_	_	7	advmod	_	Gloss=just
 5	tuloy	tuloy	ADV	_	_	7	advmod	_	Gloss=as-a-result
-6	siya	_	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=he
-7	nakakapagalmusal	_	VERB	_	_	0	root	_	Gloss=can-have-breakfast
+6	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=he
+7	nakakapagalmusal	almusal	VERB	_	_	0	root	_	Gloss=can-have-breakfast
 
 # sent_id = 1.169a/ha
 # text = Ita yarinya ce
@@ -2620,4 +2621,53 @@
 4	en	en	ADP	_	_	6	case	_	Gloss=in
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
 6	biblioteca	biblioteca	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	Gloss=library
+
+# sent_id = 1.180/ha
+# text = Babu littafi a kan tebur
+# gloss = EXIST.NEG book at top.of table
+# text_en = There isn't a book on the table
+1	Babu	_	VERB	_	Polarity=Neg	0	root	_	Gloss=there-is-not
+2	littafi	_	NOUN	_	_	1	nsubj	_	Gloss=book
+3	a	a	ADP	_	_	5	case	_	Gloss=at
+4	kan	_	ADP	_	_	5	kan	_	Gloss=top-of
+5	tebur	_	NOUN	_	_	1	obl	_	Gloss=table
+
+# sent_id = 1.181/ak
+# text = Sika bi wɔ me foto mu
+# gloss = money some is.located my bag in
+# text_en = There is some money in my bag
+1	Sika	_	NOUN	_	_	3	nsubj	_	Gloss=money
+2	bi	_	DET	_	PronType=Dem	1	det	_	Gloss=some
+3	wɔ	_	VERB	_	_	0	root	_	Gloss=is-located
+4	me	_	PRON	_	Poss=Yes	5	nmod	_	Gloss=my
+5	foto	_	NOUN	_	_	3	obl	_	Gloss=bag
+6	mu	_	ADP	_	_	5	case	_	Gloss=in
+
+# sent_id = 1.182/ja
+# text = Yama ni ki ga aru
+# gloss = mountain on tree SUBJ is
+# There are trees on the mountain
+1	Yama	yama	NOUN	_	_	5	obl	_	Gloss=mountain
+2	ni	ni	ADP	_	_	1	case	_	Gloss=on
+3	ki	ki	NOUN	_	_	5	nsubj	_	Gloss=tree
+4	ga	ga	ADP	_	_	3	case	_	Gloss=SUBJECT
+5	aru	aru	VERB	_	_	0	root	_	Gloss=is
+
+# sent_id = 1.183a/tl
+# text = Mayroong libro sa mesa
+# gloss = EXIST/POSS-LINK book on table
+# text_en = There is a book on the table
+1	Mayroong	mayroon	VERB	_	Polarity=Pos	0	root	_	Gloss=there-is
+2	libro	libro	NOUN	_	_	1	nsubj	_	Gloss=book
+3	sa	sa	ADP	_	_	4	case	_	Gloss=on
+4	mesa	mesa	NOUN	_	_	1	obl	_	Gloss=table
+
+# sent_id = 1.183b/tl
+# text = Walang libro sa mesa
+# gloss = EXIST/POSS(NEG)-LINK book on table
+# text_en = There isn't a book on the table
+1	Walang	wala	VERB	_	Polarity=Neg	0	root	_	Gloss=there-is-not
+2	libro	libro	NOUN	_	_	1	nsubj	_	Gloss=book
+3	sa	sa	ADP	_	_	4	case	_	Gloss=on
+4	mesa	mesa	NOUN	_	_	1	obl	_	Gloss=table
 
