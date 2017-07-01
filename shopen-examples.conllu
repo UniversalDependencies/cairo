@@ -2497,3 +2497,127 @@
 2	yaro	yaro	NOUN	_	Gender=Masc	0	root	_	Gloss=boy
 3	ne	ne	AUX	_	Gender=Masc|Number=Sing	2	cop	_	Gloss=is
 
+# sent_id = 1.170/bm
+# text = Alamisadon don
+# gloss = Thursday PREDICATOR
+# text_en = It's Thursday
+1	Alamisadon	_	PROPN	_	_	0	root	_	Gloss=Thursday
+2	don	_	AUX	_	_	1	cop	_	Gloss=be
+
+# sent_id = 1.171/bm
+# text = Bi ye Alamisadon ye
+# gloss = today PRES Thursday be
+# text_en = Today is Thursday
+1	Bi	_	NOUN	_	_	3	nsubj	_	Gloss=today
+2	ye	_	AUX	_	Tense=Pres	3	aux	_	Gloss=PRESENT
+3	Alamisadon	_	PROPN	_	_	0	root	_	Gloss=Thursday
+4	ye	_	AUX	_	_	3	cop	_	Gloss=be
+
+# sent_id = 1.172/ha
+# text = Audu ne
+# gloss = Audu COP
+# text_en = It's Audu
+1	Audu	Audu	PROPN	_	Number=Sing	0	root	_	Gloss=Audu
+2	ne	_	AUX	_	Gender=Masc|Number=Sing	1	cop	Gloss=is
+
+# sent_id = 1.173a/ilo
+# text = Ina daydyay babae
+# gloss = mother that woman
+# text_en = That woman is a mother
+1	Ina	_	NOUN	_	_	0	root	_	Gloss=mother
+2	daydyay	_	DET	_	PronType=Dem	3	det	_	Gloss=that
+3	babae	_	NOUN	_	_	1	nsubj	_	Gloss=woman
+
+# sent_id = 1.173b/ilo
+# text = Napintas daydyay babae
+# gloss = beautiful that woman
+# text_en = That woman is beautiful
+1	Napintas	_	ADJ	_	_	0	root	_	Gloss=beautiful
+2	daydyay	_	DET	_	PronType=Dem	3	det	_	Gloss=that
+3	babae	_	NOUN	_	_	1	nsubj	_	Gloss=woman
+
+# sent_id = 1.174a/sw
+# text = Hamisi mpishi
+# gloss = Hamisi cook
+# text_en = Hamisi is a cook
+1	Hamisi	Hamisi	PROPN	_	Number=Sing	2	nsubj	_	Gloss=Hamisi
+2	mpishi	mpishi	NOUN	_	Number=Sing	0	root	_	Gloss=cook
+
+# sent_id = 1.174b/sw
+# text = Hamisi alikuwa mpishi
+# gloss = Hamisi was cook
+# text_en = Hamisi was a cook
+1	Hamisi	Hamisi	PROPN	_	Number=Sing	3	nsubj	_	Gloss=Hamisi
+2	alikuwa	_	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	Gloss=was
+3	mpishi	mpishi	NOUN	_	Number=Sing	0	root	_	Gloss=cook
+
+# sent_id = 1.174c/sw
+# text = Hamisi atakuwa mpishi
+# gloss = Hamisi will-be cook
+# text_en = Hamisi will be a cook
+1	Hamisi	Hamisi	PROPN	_	Number=Sing	3	nsubj	_	Gloss=Hamisi
+2	atakuwa	_	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	3	cop	_	Gloss=will-be
+3	mpishi	mpishi	NOUN	_	Number=Sing	0	root	_	Gloss=cook
+
+# sent_id = 1.175/vi
+# text = Ong Ba co xem quyen truyen ay
+# gloss = Mr Ba EMPH read book story that
+# text_en = Mr Ba did read that novel
+1	Ong	_	NOUN	_	_	4	nsubj	_	Gloss=Mr
+2	Ba	Ba	PROPN	_	_	1	flat	_	Gloss=Ba
+3	co	co	ADV	_	_	4	advmod	_	Gloss=indeed
+4	xem	_	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=read
+5	quyen	_	NOUN	_	_	4	obj	_	Gloss=book
+6	truyen	_	NOUN	_	_	5	nmod	_	Gloss=story
+7	ay	ay	DET	_	PronType=Dem	5	det	_	Gloss=that
+
+# sent_id = 1.176/th
+# text = Naarii, kin Kaaw sia
+# gloss = Nari rice eat EMPH
+# text_en = Nari, do eat your rice
+# source = Warotamasikkhadit, 1972
+1	Naarii	_	PROPN	_	_	3	vocative	_	Gloss=Nari|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	kin	_	NOUN	_	_	4	obj	_	Gloss=rice
+4	Kaaw	_	VERB	_	_	0	root	_	Gloss=eat
+5	sia	_	ADV	_	_	4	advmod	_	Gloss=really
+
+# sent_id = 1.177a/en
+# text = I am so telling the truth
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	am	be	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	so	so	ADV	_	_	4	advmod	_	_
+4	telling	tell	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	truth	truth	NOUN	_	Number=Sing	4	obj	_	_
+
+# sent_id = 1.177b/en
+# text = I am too telling the truth
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	am	be	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	too	too	ADV	_	_	4	advmod	_	_
+4	telling	tell	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	truth	truth	NOUN	_	Number=Sing	4	obj	_	_
+
+# sent_id = 1.178/ha
+# text = Akwai littafi a kan tebur
+# gloss = EXIST book at top.of table
+# text_en = There is a book on the table
+1	Akwai	_	VERB	_	_	0	root	_	Gloss=there-is
+2	littafi	_	NOUN	_	_	1	nsubj	_	Gloss=book
+3	a	a	ADP	_	_	5	case	_	Gloss=at
+4	kan	_	ADP	_	_	5	kan	_	Gloss=top-of
+5	tebur	_	NOUN	_	_	1	obl	_	Gloss=table
+
+# sent_id = 1.179/es
+# text = Hay muchos libros en la biblioteca
+# gloss = EXIST many books in the library
+# text_en = There are many books in the library
+1	Hay	haber	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=there-is
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	Gloss=many
+3	libros	libro	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	Gloss=books
+4	en	en	ADP	_	_	6	case	_	Gloss=in
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
+6	biblioteca	biblioteca	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	Gloss=library
+
