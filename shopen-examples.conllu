@@ -2658,8 +2658,8 @@
 # text = Mayroong libro sa mesa
 # gloss = EXIST/POSS-LINK book on table
 # text_en = There is a book on the table
-1	Mayroong	mayroon	VERB	_	Polarity=Pos	0	root	_	Gloss=there-is
-2	libro	libro	NOUN	_	_	1	nsubj	_	Gloss=book
+1	Mayroong	mayroon	VERB	_	Polarity=Pos|Poss=Yes	0	root	_	Gloss=there-is|MSeg=mayroon-g|MGloss=exists-POSSESSIVE
+2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
 3	sa	sa	ADP	_	_	4	case	_	Gloss=on
 4	mesa	mesa	NOUN	_	_	1	obl	_	Gloss=table
 
@@ -2667,8 +2667,26 @@
 # text = Walang libro sa mesa
 # gloss = EXIST/POSS(NEG)-LINK book on table
 # text_en = There isn't a book on the table
-1	Walang	wala	VERB	_	Polarity=Neg	0	root	_	Gloss=there-is-not
-2	libro	libro	NOUN	_	_	1	nsubj	_	Gloss=book
+1	Walang	wala	VERB	_	Polarity=Neg|Poss=Yes	0	root	_	Gloss=there-is-not|MSeg=wala-ng|MGloss=does+not+exist-POSSESSIVE
+2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
 3	sa	sa	ADP	_	_	4	case	_	Gloss=on
 4	mesa	mesa	NOUN	_	_	1	obl	_	Gloss=table
+
+# sent_id = 1.183c/tl
+# text = Mayroong libro ang bata
+# gloss = EXIST/POSS-LINK book TOP child
+# text_en = The child has a book
+1	Mayroong	mayroon	VERB	_	Polarity=Pos|Poss=Yes	0	root	_	Gloss=there-is|MSeg=mayroon-g|MGloss=exists-POSSESSIVE
+2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
+3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
+
+# sent_id = 1.183d/tl
+# text = Walang libro ang bata
+# gloss = EXIST/POSS(NEG)-LINK book TOP child
+# text_en = The child doesn't have a book
+1	Walang	wala	VERB	_	Polarity=Neg|Poss=Yes	0	root	_	Gloss=there-is-not|MSeg=wala-ng|MGloss=does+not+exist-POSSESSIVE
+2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
+3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 
