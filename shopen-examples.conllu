@@ -106,7 +106,7 @@
 # text = Malapit sa babae ang bata
 # gloss = near OBLIQ woman TOP child
 # text_en = The child is near the woman
-1	Malapit	_	ADJ	_	_	0	root	_	Gloss=near
+1	Malapit	malapit	ADJ	_	_	0	root	_	Gloss=near
 2	sa	sa	ADP	_	_	3	case	_	Gloss=to
 3	babae	babae	NOUN	_	_	1	obl	_	Gloss=woman
 4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
@@ -116,7 +116,7 @@
 # text = Malapit kay Maria si Juan
 # gloss = near OBLIQ Maria TOP Juan
 # text_en = Juan is near Maria
-1	Malapit	_	ADJ	_	_	0	root	_	Gloss=near
+1	Malapit	malapit	ADJ	_	_	0	root	_	Gloss=near
 2	kay	kay	ADP	_	_	3	case	_	Gloss=to
 3	Maria	Maria	PROPN	_	_	1	obl	_	Gloss=Maria
 4	si	si	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
@@ -126,7 +126,7 @@
 # text = Malapit sa Maynila ang Pasay City
 # gloss = near OBL Manila TOP Pasay City
 # text_en = Pasay City is near Manila
-1	Malapit	_	ADJ	_	_	0	root	_	Gloss=near
+1	Malapit	malapit	ADJ	_	_	0	root	_	Gloss=near
 2	sa	sa	ADP	_	_	3	case	_	Gloss=to
 3	Maynila	Maynila	PROPN	_	_	1	obl	_	Gloss=Manila
 4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
@@ -1035,7 +1035,7 @@
 # text = Sino ang batang pumunta sa tindahan?
 # gloss = who TOP child	went OBL store
 # text_en = Who is the child who went to the store?
-1	Sino	_	PRON	_	PronType=Int	0	root	_	Gloss=who
+1	Sino	sino	PRON	_	PronType=Int	0	root	_	Gloss=who
 2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=TOPIC
 3	batang	bata	NOUN	_	_	1	nsubj	_	Gloss=child|MSeg=bata-ng|MGloss=child-LINK
 4	pumunta	punta	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	3	acl	_	Gloss=went
@@ -1292,7 +1292,8 @@
 # text = Napakaano nila?
 # gloss = very.what they
 # text_en = What are they very much like?
-1	Napakaano	_	ADJ	_	_	0	root	_	Gloss=very-much-like|MSeg=napaka-ano|MGloss=very-what
+# "Napaka-" is an intensifying prefix meaning "very". For example, "napakabuti" means "so very good".
+1	Napakaano	ano	ADJ	_	PronType=Int	0	root	_	Gloss=very-much-like|MSeg=napaka-ano|MGloss=very-what
 2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
@@ -1300,14 +1301,14 @@
 # text = Napakataas nila
 # gloss = very.tall they
 # text_en = They are very tall
-1	Napakataas	_	ADJ	_	_	0	root	_	Gloss=very-tall|MSeg=napaka-taas|MGloss=very-tall
+1	Napakataas	taas	ADJ	_	_	0	root	_	Gloss=very-tall|MSeg=napaka-taas|MGloss=very-tall
 2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
 
 # sent_id = 1.98c/tl
 # text = Nagano ka?
 # gloss = (PERF.ACTIVE)what you
 # text_en = What did you do?
-1	Nagano	_	VERB	_	Aspect=Perf|PronType=Int|Voice=Act	0	root	_	Gloss=what-did|MSeg=nag-ano|MGloss=PERF+ACTIVE-what
+1	Nagano	ano	VERB	_	Aspect=Perf|Mood=Ind|PronType=Int|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=what-did|MSeg=nag-ano|MGloss=PERF+ACTIVE-what
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
@@ -1322,7 +1323,7 @@
 # text = Naano ka?
 # gloss = (PERF.INVOL)what you
 # text_en = What happened to you?
-1	Naano	_	VERB	_	Aspect=Perf|PronType=Int|Voice=Invol	0	root	_	Gloss=what-happened|MSeg=na-ano|MGloss=PERF+INVOL-what
+1	Naano	ano	VERB	_	Aspect=Perf|Mood=Ind|PronType=Int|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=what-happened|MSeg=na-ano|MGloss=PERF+INVOL-what
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
@@ -1330,7 +1331,7 @@
 # text = Natalisod ka
 # gloss = (PERF.INVOL)trip you
 # text_en = You tripped
-1	Natalisod	_	VERB	_	Aspect=Perf|Voice=Invol	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
+1	Natalisod	tisod	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
 
 # sent_id = 1.99a/ynn
@@ -1506,7 +1507,7 @@
 # text = Nasaan ang mga pinggan?
 # gloss = where TOP PL dish
 # text_en = Where are the dishes?
-1	Nasaan	_	ADV	_	PronType=Int	0	root	_	Gloss=where
+1	Nasaan	nasaan	ADV	_	PronType=Int	0	root	_	Gloss=where
 2	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
 3	mga	mga	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLURAL
 4	pinggan	pinggan	NOUN	_	_	1	nsubj	_	Gloss=dish|SpaceAfter=No
@@ -2050,7 +2051,7 @@
 1	Itinanong	tanong	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=asked
 2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
 3	kung	kung	SCONJ	_	_	4	mark	_	Gloss=that
-4	nasaan	_	ADV	_	_	1	ccomp	_	Gloss=where
+4	nasaan	nasaan	ADV	_	PronType=Int	1	ccomp	_	Gloss=where
 5	sila	sila	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
 
 # sent_id = 1.142/uz
@@ -2480,7 +2481,7 @@
 4	lamang	lamang	ADV	_	_	7	advmod	_	Gloss=just
 5	tuloy	tuloy	ADV	_	_	7	advmod	_	Gloss=as-a-result
 6	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=he
-7	nakakapagalmusal	almusal	VERB	_	_	0	root	_	Gloss=can-have-breakfast
+7	nakakapagalmusal	almusal	VERB	_	Aspect=Imp|Mood=Pot|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=can-have-breakfast
 
 # sent_id = 1.169a/ha
 # text = Ita yarinya ce
