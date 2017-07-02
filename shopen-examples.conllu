@@ -2520,7 +2520,7 @@
 # gloss = Audu COP
 # text_en = It's Audu
 1	Audu	Audu	PROPN	_	Number=Sing	0	root	_	Gloss=Audu
-2	ne	_	AUX	_	Gender=Masc|Number=Sing	1	cop	Gloss=is
+2	ne	_	AUX	_	Gender=Masc|Number=Sing	1	cop	_	Gloss=is
 
 # sent_id = 1.173a/ilo
 # text = Ina daydyay babae
