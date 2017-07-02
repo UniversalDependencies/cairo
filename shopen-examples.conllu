@@ -2609,7 +2609,7 @@
 1	Akwai	_	VERB	_	_	0	root	_	Gloss=there-is
 2	littafi	_	NOUN	_	_	1	nsubj	_	Gloss=book
 3	a	a	ADP	_	_	5	case	_	Gloss=at
-4	kan	_	ADP	_	_	5	kan	_	Gloss=top-of
+4	kan	_	ADP	_	_	5	case	_	Gloss=top-of
 5	tebur	_	NOUN	_	_	1	obl	_	Gloss=table
 
 # sent_id = 1.179/es
@@ -2630,7 +2630,7 @@
 1	Babu	_	VERB	_	Polarity=Neg	0	root	_	Gloss=there-is-not
 2	littafi	_	NOUN	_	_	1	nsubj	_	Gloss=book
 3	a	a	ADP	_	_	5	case	_	Gloss=at
-4	kan	_	ADP	_	_	5	kan	_	Gloss=top-of
+4	kan	_	ADP	_	_	5	case	_	Gloss=top-of
 5	tebur	_	NOUN	_	_	1	obl	_	Gloss=table
 
 # sent_id = 1.181/ak
