@@ -2690,3 +2690,127 @@
 3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
 4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 
+# sent_id = 1.184a/ja
+# text = Kore wa hon desu yo
+# gloss = this TOP book is STATEMENT
+# text_en = (I am telling you that) this is a book
+1	Kore	kore	PRON	_	PronType=Dem	3	nsubj	_	Gloss=this
+2	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
+3	hon	hon	NOUN	_	_	0	root	_	Gloss=book
+4	desu	desu	AUX	_	VerbForm=Fin	3	cop	_	Gloss=be
+5	yo	yo	AUX	_	Mood=Ind	3	aux	_	Gloss=STATEMENT
+
+# sent_id = 1.184b/ja
+# text = Kore wa hon desu ka?
+# gloss = this TOP book is Q
+# text_en = Is this a book?
+1	Kore	kore	PRON	_	PronType=Dem	3	nsubj	_	Gloss=this
+2	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
+3	hon	hon	NOUN	_	_	0	root	_	Gloss=book
+4	desu	desu	AUX	_	VerbForm=Fin	3	cop	_	Gloss=be
+5	ka	ka	AUX	_	Mood=Int	3	aux	_	Gloss=QUESTION
+6	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+# sent_id = 1.184c/ja
+# text = John wa baka sa
+# gloss = John TOP foolish STATEMENT
+# text_en = (It goes without saying that) John is a fool
+1	John	John	PROPN	_	_	3	nsubj	_	Gloss=John
+2	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
+3	baka	baka	ADJ	_	_	0	root	_	Gloss=foolish
+4	sa	sa	AUX	_	Mood=Ind	3	aux	_	Gloss=STATEMENT
+
+# sent_id = 1.185a/tl
+# text = Mabuti a ang ani?
+# gloss = good Q TOP harvest
+# text_en = Is the harvest good?
+1	Mabuti	mabuti	ADJ	_	_	0	root	_	Gloss=good
+2	a	a	AUX	_	Mood=Int	1	aux	_	Gloss=QUESTION
+3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest
+5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.185b/tl
+# text = Mabuti kaya ang ani?
+# gloss = good Q.SPECULATIVE TOP harvest
+# text_en = Do you suppose the harvest will be good?
+1	Mabuti	mabuti	ADJ	_	_	0	root	_	Gloss=good
+2	kaya	kaya	AUX	_	Mood=Int	1	aux	_	Gloss=QUESTION-SPECULATIVE
+3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest
+5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = 1.185c/tl
+# text = Mabuti sana ang ani
+# gloss = good WISH TOP harvest
+# text_en = I hope the harvest is good
+1	Mabuti	mabuti	ADJ	_	_	0	root	_	Gloss=good
+2	sana	sana	AUX	_	Mood=Des	1	aux	_	Gloss=WISH
+3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest
+
+# sent_id = 1.186a/tl
+# text = Huwag kayong umalis
+# gloss = NEG you-LINK leave
+# text_en = Don't leave
+1	Huwag	huwag	AUX	_	Mood=Imp|Polarity=Neg	3	aux	_	Gloss=do-not
+2	kayong	kayo	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MSeg=kayo-ng|MGloss=you-LINK
+3	umalis	alis	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=leave
+
+# sent_id = 1.186b/tl
+# text = Huwag siyang pumarito
+# gloss = NEG he-LINK come.here
+# text_en = He shouldn't come here
+1	Huwag	huwag	AUX	_	Mood=Imp|Polarity=Neg	3	aux	_	Gloss=do-not
+2	siyang	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MSeg=siya-ng|MGloss=he-LINK
+3	pumarito	parito	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=come-here
+
+# sent_id = 1.187a/fr
+# text = Jean ne veut pas manger
+# gloss = Jean NEG wants not to.eat
+# text_en = Jean doesn't want to eat
+1	Jean	Jean	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Jean
+2	ne	ne	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+3	veut	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=wants
+4	pas	pas	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+5	manger	manger	VERB	_	VerbForm=Inf	3	xcomp	_	Gloss=to-eat
+
+# sent_id = 1.187b/fr
+# text = Jean ne veut rien manger
+# gloss = Jean NEG wants nothing to eat
+# text_en = Jean doesn't want to eat anything
+1	Jean	Jean	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Jean
+2	ne	ne	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+3	veut	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=wants
+4	rien	rien	PRON	_	PronType=Neg	5	obj	_	Gloss=nothing
+5	manger	manger	VERB	_	VerbForm=Fin	3	xcomp	_	Gloss=to-eat
+
+# sent_id = 1.188a/ha
+# text = Bà Halima ta yi bá
+# gloss = NEG Halima she.PERF do NEG
+# text_en = It's not the case that Halima did it
+1	Bà	ba	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
+2	Halima	Halima	PROPN	_	_	4	nsubj	_	Gloss=Halima
+3	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	4	aux	_	Gloss=she-has
+4	yi	yi	VERB	_	_	0	root	_	Gloss=done
+5	bá	ba	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
+
+# sent_id = 1.188b/ha
+# text = Halima bàta yi bá
+# gloss = Halima NEG-she.PERF do NEG
+# text_en = Halima didn't do it
+1	Halima	Halima	PROPN	_	_	3	nsubj	_	Gloss=Halima
+2	bàta	ba	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Neg	3	aux	_	Gloss=did-not|MSeg=bà-ta|MGloss=not-she+PERFECT
+3	yi	yi	VERB	_	_	0	root	_	Gloss=done
+4	bá	ba	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+
+# sent_id = 1.188c/ha
+# text = Bà Halima bá ta yi
+# gloss = NEG Halima NEG she.PERF do
+# text_en = It's not Halima who did it
+1	Bà	ba	PART	_	Polarity=Neg	2	advmod:emph	_	Gloss=not
+2	Halima	Halima	PROPN	_	_	5	nsubj	_	Gloss=Halima
+3	bá	ba	PART	_	Polarity=Neg	2	advmod:emph	_	Gloss=not
+4	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	5	aux	_	Gloss=she-has
+5	yi	yi	VERB	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	Gloss=do
+
