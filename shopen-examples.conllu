@@ -2967,3 +2967,206 @@
 2	kuayarat	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	Gloss=stole|MSeg=kuayar-at|MGloss=steal-2SG.PAST
 3	tukunu	_	SCONJ	_	_	2	mark	_	Gloss=because
 
+# sent_id = 2.11a/fj
+# text = e raica a gone a qase
+# gloss = 3SG see-TRANS ART child ART old.person
+# text_en = the child saw the old person
+# source = Dixon, 1988
+1	e	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	expl	_	Gloss=he|MGloss=3SG
+2	raica	_	VERB	_	_	0	root	_	Gloss=saw|MSeg=rai-ca|MGloss=see-TRANS
+3	a	_	DET	_	PronType=Art	4	det	_	Gloss=the
+4	gone	_	NOUN	_	_	2	nsubj	_	Gloss=child
+5	a	_	DET	_	PronType=Art	6	det	_	Gloss=the
+6	qase	_	NOUN	_	_	2	obj	_	Gloss=old-person
+
+# sent_id = 2.11b/fj
+# text = e raica a gone a qase
+# gloss = 3SG see-TRANS ART child ART old.person
+# text_en = the old person saw the child
+# source = Dixon, 1988
+1	e	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	expl	_	Gloss=he|MGloss=3SG
+2	raica	_	VERB	_	_	0	root	_	Gloss=saw|MSeg=rai-ca|MGloss=see-TRANS
+3	a	_	DET	_	PronType=Art	4	det	_	Gloss=the
+4	gone	_	NOUN	_	_	2	obj	_	Gloss=child
+5	a	_	DET	_	PronType=Art	6	det	_	Gloss=the
+6	qase	_	NOUN	_	_	2	nsubj	_	Gloss=old-person
+
+# sent_id = 2.12/fj
+# text = bau 'ada va'atotolo noo
+# gloss = somewhat run ADV-quick ASP
+# text_en = try and run more quickly
+# source = Dixon, 1988
+1	bau	_	ADV	_	_	2	advmod	_	Gloss=somewhat
+2	'ada	_	VERB	_	_	0	root	_	Gloss=run
+3	va'atotolo	_	ADV	_	_	2	advmod	_	Gloss=quickly|MSeg=va'a-totolo|MGloss=ADV-quick
+4	noo	_	AUX	_	_	2	aux	_	Gloss=ASP
+
+# sent_id = 2.13/fj
+# text = mai Wairi'i
+# gloss = from Wairi'i
+# text_en = from Wairi'i
+# source = Dixon, 1988
+1	mai	_	ADP	_	_	2	case	_	Gloss=from
+2	Wairi'i	_	PROPN	_	_	0	root	_	Gloss=Wairi'i
+
+# sent_id = 2.14/fj
+# text = a ligai Jone
+# gloss = ART hand-POSS John
+# text_en = John's hand
+# source = Dixon, 1988
+1	a	_	DET	_	PronType=Art	2	det	_	Gloss=the|MGloss=ART
+2	ligai	liga	NOUN	_	Poss=Yes	0	root	_	Gloss=hand|MSeg=liga-i|MGloss=hand-POSS
+3	Jone	_	PROPN	_	_	2	nmod	_	Gloss=John
+
+# sent_id = 2.15/fj
+# text = e vina'a ca'e o Waitabu mai Suva
+# gloss = 3SG good more ART Waitabu from Suva
+# text_en = Waitabu is better than Suva
+# source = Dixon, 1988
+1	e	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	expl	_	Gloss=it|MGloss=3SG
+2	vina'a	_	ADJ	_	_	0	root	_	Gloss=good
+3	ca'e	_	ADV	_	_	2	advmod	_	Gloss=more
+4	o	_	DET	_	PronType=Art	5	det	_	Gloss=the|MGloss=ART
+5	Waitabu	_	PROPN	_	_	2	nsubj	_	Gloss=Waitabu
+6	mai	_	ADP	_	_	7	case	_	Gloss=from
+7	Suva	_	PROPN	_	_	2	obl	_	Gloss=Suva
+
+# sent_id = 2.16/fj
+# text = niu sa daga.daga va'alevu
+# gloss = when=1SG ASP tired ADV-great
+# text_en = when I'm very tired
+# source = Dixon, 1988
+1-2	niu	_	_	_	_	_	_	_	Gloss=when-I|MSeg=ni=u|MGloss=when=1SG
+1	ni	_	SCONJ	_	_	4	mark	_	Gloss=when
+2	u	_	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=1SG
+3	sa	_	AUX	_	_	4	aux	_	Gloss=ASP|MGloss=ASP
+4	daga.daga	_	ADJ	_	_	0	root	_	Gloss=tired
+5	va'alevu	_	ADV	_	_	4	advmod	_	Gloss=very|MSeg=va'a-levu|MGloss=ADV-great
+
+# sent_id = 2.17/tuv
+# text = ɛ̀sàkɪ̀ apà akɪ̀muj
+# gloss = 3-want-ASP father.NOM food
+# text_en = father wants food
+# source = Dimmendaal, 1983
+1	ɛ̀sàkɪ̀	_	VERB	_	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	Gloss=wants|MSeg=ɛ̀-sàk-ɪ̀|MGloss=3-want-ASP
+2	apà	_	NOUN	_	Case=Nom	1	nsubj	_	Gloss=father|MGloss=father.NOM
+3	akɪ̀muj	_	NOUN	_	_	1	obj	_	Gloss=food
+
+# sent_id = 2.18a/tuv
+# text = ɛ̀àgùmɪ̀ nilèmu̥
+# gloss = 3-PAST-fire-ASP blindly
+# text_en = he fired blindly
+# source = Dimmendaal, 1983
+1	ɛ̀àgùmɪ̀	_	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=he-fired|MSeg=ɛ̀-à-gùm-ɪ̀|MGloss=3-PAST-fire-ASP
+2	nilèmu̥	_	ADV	_	_	1	advmod	_	Gloss=blindly
+
+# sent_id = 2.18b/tuv
+# text = ɛ̀àgùmɪ̀ à atɔmɛ̥̀
+# gloss = 3-PAST-fire-ASP PREP gun
+# text_en = he fired with a gun
+# source = Dimmendaal, 1983
+1	ɛ̀àgùmɪ̀	_	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=he-fired|MSeg=ɛ̀-à-gùm-ɪ̀|MGloss=3-PAST-fire-ASP
+2	à	_	ADP	_	_	3	case	_	Gloss=with|MGloss=PREP
+3	atɔmɛ̥̀	_	NOUN	_	_	1	obl	_	Gloss=gun
+
+# sent_id = 2.18c/tuv
+# text = itòò keŋ̀ à èdyà lò
+# gloss = mother his of boy this
+# text_en = the mother of this boy
+# source = Dimmendaal, 1983
+1	itòò	_	NOUN	_	_	0	root	_	Gloss=mother
+2	keŋ̀	_	DET	_	_	1	det	_	Gloss=his
+3	à	_	ADP	_	_	4	case	_	Gloss=of
+4	èdyà	_	NOUN	_	_	1	nmod	_	Gloss=boy
+5	lò	_	DET	_	_	4	det	_	Gloss=this
+
+# sent_id = 2.18d/tuv
+# text = lògerì̥ loeputukìo erot̀
+# gloss = because REL-3-muddy-ASP-VERB road.NOM
+# text_en = because the road is muddy
+# source = Dimmendaal, 1983
+1	lògerì̥	_	SCONJ	_	_	2	mark	_	Gloss=because
+2	loeputukìo	_	VERB	_	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	Gloss=is-muddy|MSeg=lo-e-putuk-ì-o|MGloss=REL-3-muddy-ASP-VERB
+3	erot̀	_	NOUN	_	_	2	nsubj	_	Gloss=road|MGloss=road.NOM
+
+# sent_id = 2.19/tuv
+# text = ɛ̀jɔk̀ erot̀ lò akìdwaŋ ŋol̀
+# gloss = 3-good road.NOM this INFIN-supersede that
+# text_en = this road is better than that one
+# source = Dimmendaal, 1983
+1	ɛ̀jɔk̀	_	ADJ	_	Person=3	0	root	_	Gloss=good|MSeg=ɛ̀-jɔk̀|MGloss=3-good
+2	erot̀	_	NOUN	_	_	1	nsubj	_	Gloss=road|MGloss=road.NOM
+3	lò	_	DET	_	_	2	det	_	Gloss=this
+4	akìdwaŋ	_	VERB	_	VerbForm=Inf	1	advcl	_	Gloss=superseding|MSeg=ak-ìdwaŋ|MGloss=INFIN-supersede
+5	ŋol̀	_	PRON	_	PronType=Dem	4	obj	_	Gloss=that
+
+# sent_id = 2.20/tuv
+# text = awòs ayɔ̀ŋ à nikonì̥
+# gloss = 1SG-clever 1SG.NOM PREP LOC-your
+# text_en = I am as clever as you
+# source = Dimmendaal, 1983
+1	awòs	_	ADJ	_	Number=Sing|Person=1	0	root	_	Gloss=am-clever|MSeg=a-wòs|MGloss=1SG-clever
+2	ayɔ̀ŋ	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I|MGloss=1SG.NOM
+3	à	_	ADP	_	_	4	case	_	Gloss=than|MGloss=PREP
+4	nikonì̥	_	PRON	_	Case=Loc|Number=Sing|Person=2	1	obl	_	Gloss=you|MSeg=ni-konì̥|MGloss=LOC-your
+
+# sent_id = 2.21/cle
+# text = kaLkiúʔM miVHziïLi zaM nïM
+# gloss = PAST-strike.COMPL.3 CLSFR-head-1SG person that
+# text_en = that person struck my head
+# source = Rupp, 1989
+# Capital letters represent tones.
+1	kaLkiúʔM	_	VERB	_	Animacy[obj]=Inan|Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=struck|MSeg=kaL-kiúʔM|MGloss=PAST-strike.COMPL.3
+2	miVHziïLi	_	NOUN	_	Animacy=Inan|Number[psor]=Sing|Person[psor]=1	1	obj	_	Gloss=my-head|MSeg=miVH-ziïL-i|MGloss=CLSFR-head-1SG
+3	zaM	_	NOUN	_	_	1	nsubj	_	Gloss=person
+4	nïM	_	DET	_	PronType=Dem	3	det	_	Gloss=that
+
+# sent_id = 2.22a/cle
+# text = ʔiHų:LHi ziúL
+# gloss = INTENTIVE-wash-1SG well
+# text_en = I will wash it well
+# source = Rupp, 1989
+1	ʔiHų:LHi	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=I-will-wash|MSeg=ʔiH-ų:LH-i|MGloss=INTENIVE-wash-1SG
+2	ziúL	_	ADV	_	_	1	advmod	_	Gloss=well
+
+# sent_id = 2.22b/cle
+# text = he:LH nu:M
+# gloss = among weeds
+# text_en = among the weeds
+# source = Rupp, 1989
+1	he:LH	_	ADP	_	_	2	case	_	Gloss=among
+2	nu:M	_	NOUN	_	_	0	root	_	Gloss=weeds
+
+# sent_id = 2.22c/cle
+# text = siá:VH diáʔL siïMių:Mi
+# gloss = mother.3 PL baby
+# text_en = the mother of the babies
+# source = Rupp, 1989
+1	siá:VH	_	NOUN	_	Person=3	0	root	_	Gloss=mother|MGloss=mother.3
+2	diáʔL	_	DET	_	Number=Plur|PronType=Ind	3	det	_	Gloss=PLURAL|MGloss=PL
+3	siïMių:Mi	_	NOUN	_	_	1	nmod	_	Gloss=baby
+
+# sent_id = 2.22d/cle
+# text = gá:Mi giʔVH tïVHi niuM liaʔM siïM kéL hniáM
+# gloss = big.3 more foot.2SG 2SG like as of.1SG 1SG
+# text_en = your foot is bigger than mine
+# source = Rupp, 1989
+1	gá:Mi	_	ADJ	_	Person=3	0	root	_	Gloss=big|MGloss=big.3
+2	giʔVH	_	ADV	_	_	1	advmod	_	Gloss=more
+3	tïVHi	_	NOUN	_	Number[psor]=Sing|Person[psor]=2	1	nsubj	_	Gloss=your-foot|MGloss=foot.2SG
+4	niuM	_	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nmod	_	Gloss=your|MGloss=2SG
+5	liaʔM	_	SCONJ	_	_	8	case	_	Gloss=like
+6	siïM	_	ADP	_	_	8	case	_	Gloss=as
+7	kéL	_	ADP	_	Number=Sing|Person=1	8	case	_	Gloss=of|MGloss=of.1SG
+8	hniáM	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	obl	_	Gloss=me|MGloss=1SG
+
+# sent_id = 2.22e/cle
+# text = kia:ʔVH ʔaLʔeM naMfáʔLi hɬi:LHaL
+# gloss = because not significant pay-1SG
+# text_en = because my wages aren't sufficient
+# source = Rupp, 1989
+1	kia:ʔVH	_	SCONJ	_	_	3	mark	_	Gloss=because
+2	ʔaLʔeM	_	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+3	naMfáʔLi	_	ADJ	_	_	0	root	_	Gloss=significant
+4	hɬi:LHaL	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Gloss=pay|MSeg=hɬi:LH-aL|MGloss=pay-1SG
+
