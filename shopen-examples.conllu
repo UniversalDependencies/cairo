@@ -2814,3 +2814,59 @@
 4	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	5	aux	_	Gloss=she-has
 5	yi	yi	VERB	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	Gloss=do
 
+# chapter_id = 2
+# chapter_author = Dryer, Matthew S.
+# chapter_title = Word order
+# sent_id = 2.1/lez
+# text = Alfijadi maq̃ala kx̂ena
+# gloss = Alfija-ERG article write-AORIST
+# text_en = Alfija wrote an article
+1	Alfijadi	Alfija	PROPN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=Alfija|MSeg=Alfija-di|MGloss=Alfija-ERG
+2	maq̃ala	maq̃ala	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=article
+3	kx̂ena	kx̂e	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=wrote|MSeg=kx̂e-na|MGloss=write-AORIST
+
+# sent_id = 2.2/lez
+# text = Mirzebega k'ewiz harajna: ‘…’
+# gloss = Mirzebeg-ERG strong-ADV shout-AORIST
+# text_en Mirzebeg shouted loudly: “…”
+1	Mirzebega	Mirzebeg	PROPN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=Mirzebeg|MSeg=Mirzebeg-a|MGloss=Mirzebeg-ERG
+2	k'ewiz	k'ewiz	ADV	_	_	3	advmod	_	Gloss=loudly|MSeg=k'ewi-z|MGloss=strong-ADV
+3	harajna	haraj	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=shouted|MSeg=haraj-na|MGloss=shout-AORIST|SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	Gloss=:
+5	‘	‘	PUNCT	_	_	6	punct	_	Gloss=‘|SpaceAfter=No
+6	…	…	PUNCT	_	_	3	punct	_	Gloss=…|SpaceAfter=No
+7	’	’	PUNCT	_	_	6	punct	_	Gloss=’
+
+# sent_id = 2.3/lez
+# text = duxturrin patariw
+# gloss = doctor-GEN.PL to
+# text_en = to doctors
+1	duxturrin	duxtur	NOUN	_	Case=Gen|Number=Plur	0	root	_	Gloss=doctor|MSeg=duxtur-rin|MGloss=doctor-GEN+PL
+2	patariw	patariw	ADP	_	_	1	case	_	Gloss=to
+
+# sent_id = 2.4/lez
+# text = Faridan wax
+# gloss = Farid-GEN sister
+# text_en = Farid's sister
+1	Faridan	Farid	PROPN	_	Case=Gen|Number=Sing	1	nmod	_	Gloss=Farid's|MSeg=Farid-an|MGloss=Farid-GEN
+2	wax	wax	NOUN	_	Case=Abs|Number=Sing	0	root	_	Gloss=sister
+
+# sent_id = 2.5/lez
+# text = sad müküdalaj žizwi ask'anzawa
+# gloss = one other-SUPEREL a.little low-IMPERF
+# text_en = one is a little shorter than the other one
+1	sad	sad	PRON	_	Case=Abs|Number=Sing	4	nsubj	_	Gloss=one
+2	müküdalaj	müküda	PRON	_	Case=Del|Number=Sing	4	obl	_	Gloss=from-the-other-one|MSeg=müküda-laj|MGloss=other-SUPEREL
+3	žizwi	žizwi	ADV	_	_	4	advmod	_	Gloss=a-little
+4	ask'anzawa	ask'an	ADJ	_	Aspect=Imp	0	root	_	Gloss=low|MSeg=ask'an-zawa|MGloss=low-IMPERF
+
+# sent_id = 2.6/lez
+# text = rušaz reǧü x̂ana k'an tuširwiläj
+# gloss = girl-DAT ashamed be want be.NEG-PTCPL-because
+# text_en = because he did not want the girl to be embarrassed
+1	rušaz	ruš	NOUN	_	Case=Dat|Number=Sing	5	iobj	_	Gloss=girl|MSeg=ruš-az|MGloss=girl-DAT
+2	reǧü	reǧü	ADJ	_	_	5	ccomp	_	Gloss=ashamed
+3	x̂ana	x̂ana	AUX	_	_	2	cop	_	Gloss=be
+4	k'an	k'an	AUX	_	_	5	aux	_	Gloss=want
+5	tuširwiläj	tuš	VERB	_	Mood=Sub|Polarity=Neg|VerbForm=Part	0	root	_	Gloss=because-not-was|MSeg=tuš-ir-wiläj|MGloss=be.NEG-PTCPL-because
+
