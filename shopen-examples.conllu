@@ -2848,7 +2848,7 @@
 # text = Faridan wax
 # gloss = Farid-GEN sister
 # text_en = Farid's sister
-1	Faridan	Farid	PROPN	_	Case=Gen|Number=Sing	1	nmod	_	Gloss=Farid's|MSeg=Farid-an|MGloss=Farid-GEN
+1	Faridan	Farid	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	Gloss=Farid's|MSeg=Farid-an|MGloss=Farid-GEN
 2	wax	wax	NOUN	_	Case=Abs|Number=Sing	0	root	_	Gloss=sister
 
 # sent_id = 2.5/lez
