@@ -2708,7 +2708,7 @@
 2	wa	wa	ADP	_	Topic=Yes	1	case	_	Gloss=TOPIC
 3	hon	hon	NOUN	_	_	0	root	_	Gloss=book
 4	desu	desu	AUX	_	VerbForm=Fin	3	cop	_	Gloss=be
-5	ka	ka	AUX	_	Mood=Int	3	aux	_	Gloss=QUESTION
+5	ka	ka	AUX	_	Mood=Int	3	aux	_	Gloss=QUESTION|SpaceAfter=No
 6	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
 # sent_id = 1.184c/ja
@@ -2727,7 +2727,7 @@
 1	Mabuti	mabuti	ADJ	_	_	0	root	_	Gloss=good
 2	a	a	AUX	_	Mood=Int	1	aux	_	Gloss=QUESTION
 3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
-4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest
+4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest|SpaceAfter=No
 5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.185b/tl
@@ -2737,7 +2737,7 @@
 1	Mabuti	mabuti	ADJ	_	_	0	root	_	Gloss=good
 2	kaya	kaya	AUX	_	Mood=Int	1	aux	_	Gloss=QUESTION-SPECULATIVE
 3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
-4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest
+4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest|SpaceAfter=No
 5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.185c/tl
