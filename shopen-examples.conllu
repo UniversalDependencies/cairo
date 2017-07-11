@@ -2870,3 +2870,100 @@
 4	k'an	k'an	AUX	_	_	5	aux	_	Gloss=want
 5	tuširwiläj	tuš	VERB	_	Mood=Sub|Polarity=Neg|VerbForm=Part	0	root	_	Gloss=because-not-was|MSeg=tuš-ir-wiläj|MGloss=be.NEG-PTCPL-because
 
+# sent_id = 2.7/xsl
+# text = t'eere lį ráreyįht'u
+# gloss = girl dog 3.hit
+# text_en = the girl hit the dog
+# source = Rice, 1989
+1	t'eere	_	NOUN	_	_	3	nsubj	_	Gloss=girl
+2	lį	_	NOUN	_	_	3	obj	_	Gloss=dog
+3	ráreyįht'u	_	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=hit
+
+# sent_id = 2.8a/xsl
+# text = dzá dahehłe
+# gloss = bad 1.dance
+# text_en = I dance badly
+# source = Rice, 1989
+1	dzá	_	ADV	_	_	2	advmod	_	Gloss=badly
+2	dahehłe	_	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=dance
+
+# sent_id = 2.8b/xsl
+# text = dene hé
+# gloss = man with
+# text_en = with the man
+# source = Rice, 1989
+1	dene	_	NOUN	_	_	0	root	_	Gloss=man
+2	hé	_	ADP	_	_	1	case	_	Gloss=with
+
+# sent_id = 2.8c/xsl
+# text = ʔabá gok'eríʔeé
+# gloss = father jacket
+# text_en = father's jacket
+# source = Rice, 1989
+1	ʔabá	_	NOUN	_	_	2	nmod	_	Gloss=father
+2	gok'eríʔeé	_	NOUN	_	_	0	root	_	Gloss=jacket
+
+# sent_id = 2.8d/xsl
+# text = sǫdee nǫdee ts'ęʔóné hįshá
+# gloss = 1SG:older.brother 2SG:older.brother than 3.big
+# text_en = my brother is bigger than your brother
+# source = Rice, 1989
+1	sǫdee	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	4	nsubj	_	Gloss=my-brother
+2	nǫdee	_	NOUN	_	Number[psor]=Sing|Person[psor]=2	4	obl	_	Gloss=your-brother
+3	ts'ęʔóné	_	ADP	_	_	2	case	_	Gloss=than
+4	hįshá	_	ADJ	_	Person=3	0	root	_	Gloss=is-big
+
+# sent_id = 2.8e/xsl
+# text = kǫ́ seghǫ húle t'áh
+# gloss = match 1SG.for 3:be.none because
+# text_en = because I had no matches
+# source = Rice, 1989
+1	kǫ́	_	NOUN	_	_	2	nsubj	_	Gloss=match
+2	seghǫ	_	PRON	_	Case=Ben|Number=Sing|Person=1|PronType=Prs	0	root	_	Gloss=for-me
+3	húle	_	VERB	_	Mood=Ind|Person=3|VerbForm=Fin	2	cop	_	Gloss=is
+4	t'áh	_	SCONJ	_	_	2	mark	_	Gloss=because
+
+# sent_id = 2.9/ssd
+# text = fenge tango makete
+# gloss = taipan-SPEC man bit-3SG.PRES
+# text_en = a taipan bites a man
+# source = Wells, 1979
+1	fenge	fe	NOUN	_	Definite=Spec	3	nsubj	_	Gloss=taipan|MSeg=fe-nge|MGloss=taipan-SPEC
+2	tango	tango	NOUN	_	_	3	obj	_	Gloss=man
+3	makete	make	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=bites|MSeg=make-te|MGloss=bite-3SG.PRES
+
+# sent_id = 2.10a/ssd
+# text = nu pitik kinit
+# gloss = he quickly go-3SG.PRES
+# text_en = he is going quickly
+# source = Wells, 1979
+1	nu	_	PRON	_	Person=3|PronType=Prs	3	nsubj	_	Gloss=he
+2	pitik	_	ADV	_	_	3	advmod	_	Gloss=quickly
+3	kinit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=goes|MSeg=kin-it|MGloss=go-3SG.PRES
+
+# sent_id = 2.10b/ssd
+# text = mbanduwaŋ mbi
+# gloss = bow INSTR
+# text_en = with a bow
+# source = Wells, 1979
+1	mbanduwaŋ	_	NOUN	_	_	0	root	_	Gloss=bow
+2	mbi	_	ADP	_	Case=Ins	1	case	_	Gloss=with
+
+# sent_id = 2.10c/ssd
+# text = tisa tuku age
+# gloss = teacher of dog
+# text_en = the teacher's dog
+# source = Wells, 1979
+1	tisa	_	NOUN	_	_	3	nmod	_	Gloss=teacher
+2	tuku	_	ADP	_	_	1	case	_	Gloss=of
+3	age	_	NOUN	_	_	0	root	_	Gloss=dog
+
+# sent_id = 2.10d/ssd
+# text = ne kuayarat tukunu
+# gloss = you steal-2SG.PAST because
+# text_en = because you stole it
+# source = Wells, 1979
+1	ne	_	PRON	_	Person=2|PronType=Prs	2	nsubj	_	Gloss=you
+2	kuayarat	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	Gloss=stole|MSeg=kuayar-at|MGloss=steal-2SG.PAST
+3	tukunu	_	SCONJ	_	_	2	mark	_	Gloss=because
+
