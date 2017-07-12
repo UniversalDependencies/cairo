@@ -3170,3 +3170,215 @@
 3	naMfáʔLi	_	ADJ	_	_	0	root	_	Gloss=significant
 4	hɬi:LHaL	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Gloss=pay|MSeg=hɬi:LH-aL|MGloss=pay-1SG
 
+# sent_id = 2.23/en
+# text = The woman saw the dog
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	woman	woman	NOUN	_	Number=Sing	3	nsubj	_	_
+3	saw	see	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	dog	dog	NOUN	_	Number=Sing	3	obj	_	_
+
+# sent_id = 2.24/en
+# text = on the table
+1	on	on	ADP	_	_	3	case	_	_
+2	the	the	DET	_	Definite=Def|PronType=Art	3	det	_	_
+3	table	table	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 2.25/en
+# text = Nancy is more intelligent than Jeff
+1	Nancy	Nancy	PROPN	_	Number=Sing	4	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	more	more	ADV	_	Degree=Cmp	4	advmod	_	_
+4	intelligent	intelligent	ADJ	_	Degree=Pos	0	root	_	_
+5	than	than	SCONJ	_	_	6	case	_	_
+6	Jeff	Jeff	PROPN	_	Number=Sing	4	obl	_	_
+
+# sent_id = 2.26/en
+# text = because it was raining
+1	because	because	SCONJ	_	_	4	mark	_	_
+2	it	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	raining	rain	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+
+# sent_id = 2.27a/en
+# text = the box's cover
+1	the	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	box	box	NOUN	_	Number=Sing	4	nmod	_	SpaceAfter=No
+3	's	's	PART	_	Case=Gen	2	case	_	_
+4	cover	cover	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 2.27b/en
+# text = the cover of the box
+1	the	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	cover	cover	NOUN	_	Number=Sing	0	root	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	box	box	NOUN	_	Number=Sing	2	nmod	_	_
+
+# sent_id = 2.28a/en
+# text = John slowly walked into the room
+1	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
+2	slowly	slowly	ADV	_	_	3	advmod	_	_
+3	walked	walk	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	into	into	ADP	_	_	6	case	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	room	room	NOUN	_	Number=Sing	3	obl	_	_
+
+# sent_id = 2.28b/en
+# text = John walked into the room slowly
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	walked	walk	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	into	into	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	room	room	NOUN	_	Number=Sing	2	obl	_	_
+6	slowly	slowly	ADV	_	_	2	advmod	_	_
+
+# sent_id = 2.29b/en
+# text = John is walking slowly
+1	John	John	PROPN	_	Number=Sing	3	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	walking	walk	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+4	slowly	slowly	ADV	_	_	3	advmod	_	_
+
+# sent_id = 2.30/hnj
+# text = Peter muab pob khuum rua Maria
+# gloss = Peter give gift gift to Maria
+# text_en = Peter gave a gift to Maria
+# source = Harriehausen, 1990
+1	Peter	_	PROPN	_	_	2	nsubj	_	Gloss=Peter
+2	muab	_	VERB	_	_	0	root	_	Gloss=give
+3	pob	_	NOUN	_	_	2	obj	_	Gloss=gift
+4	khuum	_	NOUN	_	_	3	compound	_	Gloss=gift
+5	rua	_	ADP	_	_	6	case	_	Gloss=to
+6	Maria	_	PROPN	_	_	2	obl	_	Gloss=Maria
+
+# sent_id = 2.31a/hnj
+# text = Moob lab has lug txawv luag
+# gloss = Hmoob red speak speak strangely strangely
+# text_en = Red Hmoob speaks strangely
+# source = Harriehausen, 1990
+1	Moob	_	PROPN	_	_	3	nsubj	_	Gloss=Hmoob
+2	lab	_	ADJ	_	_	1	amod	_	Gloss=red
+3	has	_	VERB	_	_	0	root	_	Gloss=speak
+4	lug	_	VERB	_	_	3	compound	_	Gloss=speak
+5	txawv	_	ADV	_	_	3	advmod	_	Gloss=strangely
+6	luag	_	ADV	_	_	5	compound	_	Gloss=strangely
+
+# sent_id = 2.31b/hnj
+# text = tsuv luj dula miv
+# gloss = tiger big than cat
+# text_en = a tiger is bigger than a cat
+# source = Harriehausen, 1990
+1	tsuv	_	NOUN	_	_	2	nsubj	_	Gloss=tiger
+2	luj	_	ADJ	_	_	0	root	_	Gloss=big
+3	dula	_	SCONJ	_	_	4	case	_	Gloss=than
+4	miv	_	NOUN	_	_	2	obl	_	Gloss=cat
+
+# sent_id = 2.31c/hnj
+# text = lub thawv saab sau
+# gloss = CLSFR box cover cover
+# text_en = the box's cover
+# source = Harriehausen, 1990
+1	lub	_	NOUN	_	_	2	clf	_	Gloss=CLASSIFIER|MGloss=CLSFR
+2	thawv	_	NOUN	_	_	3	nmod	_	Gloss=box
+3	saab	_	NOUN	_	_	0	root	_	Gloss=cover
+4	sau	_	NOUN	_	_	3	compound	_	Gloss=cover
+
+# sent_id = 2.32/nhg
+# text = sente tlɔkatl kɪpɪyaya sente puro
+# gloss = one-NUM man he-it-have-IMPERF one-NUM burro
+# text_en = a man had a donkey
+# source = Tuggy, 1977
+1	sente	_	NUM	_	_	2	nummod	_	Gloss=one|MSeg=sen-te|MGloss=one-NUM
+2	tlɔkatl	_	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=man
+3	kɪpɪyaya	_	VERB	_	Aspect=Imp|Gender=Masc|Gender[obj]=Neut|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=had|MSeg=0-kɪ-pɪya-ya|MGloss=he-it-have-IMPERF
+4	sente	_	NUM	_	_	5	nummod	_	Gloss=one|MSeg=sen-te|MGloss=one-NUM
+5	puro	_	NOUN	_	Gender=Neut|Number=Sing	3	obj	_	Gloss=donkey
+
+# sent_id = 2.33a/nhg
+# text = ipa ičɔ
+# gloss = 3SG-at his-home
+# text_en = at his house
+# source = Tuggy, 1977
+1	ipa	_	ADP	_	Number=Sing|Person=3	2	case	_	Gloss=at|MSeg=i-pa|MGloss=3SG-at
+2	ičɔ	_	NOUN	_	Number[psor]=Sing|Person[psor]=3	0	root	_	Gloss=his-house|MSeg=i-čɔ|MGloss=his-home
+
+# sent_id = 2.33b/nhg
+# text = ičɔ mali
+# gloss = 3SG-home Mary
+# Mary's home
+# source = Tuggy, 1977
+1	ičɔ	_	NOUN	_	Number[psor]=Sing|Person[psor]=3	0	root	_	Gloss=her-home|MSeg=i-čɔ|MGloss=3SG-home
+2	mali	_	PROPN	_	Gender=Fem	1	nmod	_	Gloss=Mary
+
+# sent_id = 2.33c/nhg
+# text = yaha kačɪ wieyɪ ke taha
+# gloss = he more big than you
+# text_en = he is bigger than you
+# source = Tuggy, 1977
+1	yaha	_	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he
+2	kačɪ	_	ADV	_	Degree=Cmp	3	advmod	_	Gloss=more
+3	wieyɪ	_	ADJ	_	_	0	root	_	Gloss=big
+4	ke	_	SCONJ	_	_	5	case	_	Gloss=than
+5	taha	_	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obl	_	Gloss=you
+
+# sent_id = 2.33d/nhg
+# text = kwɔk walɔs nɪtlacɪlinis
+# gloss = when come-FUT 1SG-UNSPEC.OBJ-clang-FUT
+# text_en = when he comes, I will ring the bells
+# source = Tuggy, 1977
+1	kwɔk	kwɔk	SCONJ	_	_	2	mark	_	Gloss=when
+2	walɔs	walɔ	VERB	_	Tense=Fut	3	advcl	_	Gloss=comes|MSeg=walɔ-s|MGloss=come-FUT
+3	nɪtlacɪlinis	cɪlini	VERB	_	Mood=Ind|Number=Sing|Person=1|Person[obj]=0|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=I-will-ring-the-bell|MSeg=nɪ-tla-cɪlini-s|MGloss=1SG-UNSPEC.OBJ-clang-FUT
+
+# sent_id = 2.34/hix
+# text = toto yahosɨye kamara
+# gloss = man 3SUBJ.3OBJ-grab-REM.PAST jaguar
+# text_en = the jaguar grabbed the man
+# source = Derbyshire, 1979
+1	toto	_	NOUN	_	_	2	obj	_	Gloss=man
+2	yahosɨye	ahosɨ	VERB	_	Mood=Ind|Person=3|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	Gloss=grabbed|MSeg=y-ahosɨ-ye|MGloss=3SUBJ.3OBJ-grab-REM.PAST
+3	kamara	_	NOUN	_	_	2	nsubj	_	Gloss=jaguar
+
+# sent_id = 2.35a/hix
+# text = maryeya ke
+# gloss = knife with
+# text_en = with a knife
+# source = Derbyshire, 1979
+1	maryeya	_	NOUN	_	_	0	root	_	Gloss=knife
+2	ke	_	ADP	_	_	1	case	_	Gloss=with
+
+# sent_id = 2.35b/hix
+# text = Waraka kanawarɨ
+# gloss = Waraka canoe-POSSD
+# text_en = Waraka's canoe
+# source = Derbyshire, 1979
+1	Waraka	_	PROPN	_	_	2	nmod	_	Gloss=Waraka
+2	kanawarɨ	_	NOUN	_	Poss=Yes	0	root	_	Gloss='s-canoe|MSeg=kanawa-rɨ|MGloss=canoe-POSSD
+
+# sent_id = 2.36a/lkr
+# text = ùbúr ápùot dháagɛ̀
+# gloss = Ubur COMPLET-beat woman-ERG
+# text_en = the woman beat Ubur
+# source = Andersen, 1988
+1	ùbúr	_	PROPN	_	_	2	obj	_	Gloss=Ubur
+2	ápùot	_	VERB	_	Aspect=Perf	0	root	_	Gloss=beat|MSeg=á-pùot|MGloss=COMPLET-beat
+3	dháagɛ̀	dháagɔ	NOUN	_	Case=Erg	2	nsubj	_	Gloss=woman|MSeg=dháag-ɛ̀|MGloss=woman-ERG
+
+# sent_id = 2.36b/lkr
+# text = dháagɔ ámɪ́ɛl̀
+# gloss = woman COMPLET-dance
+# text_en = the woman danced
+# source = Andersen, 1988
+1	dháagɔ	dháagɔ	NOUN	_	Case=Abs	2	nsubj	_	Gloss=woman
+2	ámɪ́ɛl̀	_	VERB	_	Aspect=Perf	0	root	_	Gloss=danced|MSeg=á-mɪ́ɛl̀|MGloss=COMPLET-dance
+
+# sent_id = 2.37/zh
+# text = Zhāngsan bī tā pàng
+# gloss = Zhangsan COMPAR 3SG fat
+# text_en = Zhangsan is fatter than her/him
+1	Zhāngsan	_	PROPN	_	_	4	nsubj	_	Gloss=Zhangsan
+2	bī	_	SCONJ	_	_	3	case	_	Gloss=than|MGloss=COMPAR
+3	tā	_	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obl	_	Gloss=he/she
+4	pàng	_	ADJ	_	_	0	root	_	Gloss=fat
+
