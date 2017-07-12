@@ -3337,7 +3337,7 @@
 # text_en = the jaguar grabbed the man
 # source = Derbyshire, 1979
 1	toto	_	NOUN	_	_	2	obj	_	Gloss=man
-2	yahosɨye	ahosɨ	VERB	_	Mood=Ind|Person=3|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	Gloss=grabbed|MSeg=y-ahosɨ-ye|MGloss=3SUBJ.3OBJ-grab-REM.PAST
+2	yahosɨye	ahosɨ	VERB	_	Mood=Ind|Person=3|Person[obj]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=grabbed|MSeg=y-ahosɨ-ye|MGloss=3SUBJ.3OBJ-grab-REM.PAST
 3	kamara	_	NOUN	_	_	2	nsubj	_	Gloss=jaguar
 
 # sent_id = 2.35a/hix
