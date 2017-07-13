@@ -3515,3 +3515,115 @@
 3	a	_	ADP	_	_	4	case	_	Gloss=LINK
 4	nalaíng	_	ADJ	_	_	2	amod	_	Gloss=smart
 
+# sent_id = 2.46/bsn
+# text = yūre tudibūsaabã ĩdã
+# gloss = 1SG-OBJ scold-a.lot-PRES-3PL 3PL
+# text_en = they scolded me a lot
+# source = Jones and Jones, 1991
+1	yūre	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	Gloss=me|MSeg=yū-re|MGloss=1SG-OBJ
+2	tudibūsaabã	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=scold-a-lot|MSeg=tudi-būsa-a-bã|MGloss=scold-a.lot-PRES-3PL
+3	ĩdã	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they|MGloss=3PL
+
+# sent_id = 2.47/jac
+# text = c'ul xu scan̈alwi naj
+# gloss = good did dance he
+# text_en = he danced well
+# source = Craig, 1977
+1	c'ul	_	VERB	_	_	0	root	_	Gloss=good
+2	xu	_	AUX	_	_	1	aux	_	Gloss=did
+3	scan̈alwi	_	VERB	_	_	1	advcl	_	Gloss=dancing
+4	naj	_	PRON	_	_	1	nsubj	_	Gloss=he
+
+# sent_id = 2.48/vma
+# text = ngayu pamararrilha ngurrawurrini
+# gloss = 1SG call.out-PAST camp-toward
+# text_en = I called out towards the camp
+# source = Dench, 1995
+1	ngayu	_	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=1SG
+2	pamararrilha	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=called-out|MSeg=pamararri-lha|MGloss=call.out-PAST
+3	ngurrawurrini	_	NOUN	_	Case=All	2	obl	_	Gloss=towards-the-camp|MSeg=ngurra-wurrini|MGloss=camp-toward
+
+# sent_id = 2.49/kr
+# text = kâmga rúskәna
+# gloss = man=OBJ 1SG.saw
+# text_en = I saw the man
+# source = Hutchison, 1976
+1-2	kâmga	_	_	_	_	_	_	_	MSeg=kâm=ga|MGloss=man=OBJ
+1	kâm	_	NOUN	_	_	3	obj	_	Gloss=man
+2	ga	_	ADP	_	_	1	case	_	Gloss=OBJ
+3	rúskəna	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw|MGloss=1SG.saw
+
+# sent_id = 2.50/kr
+# text = kâm kúràga rúskәna
+# gloss = man big=OBJ 1SG.saw
+# text_en = I saw the big man
+# source = Hutchison, 1976
+1	kâm	_	NOUN	_	_	4	obj	_	Gloss=man
+2-3	kúràga	_	_	_	_	_	_	_	MSeg=kúrà=ga|MGloss=big=OBJ
+2	kúrà	_	ADJ	_	_	1	amod	_	Gloss=big
+3	ga	_	ADP	_	_	1	case	_	Gloss=OBJ
+4	rúskəna	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw|MGloss=1SG.saw
+
+# sent_id = 2.51/kr
+# text = fátò kâm kúràvega rúskәna
+# gloss = compound man big=GEN=OBJ 1SG.saw
+# text_en = I saw the big man's compound
+# source = Hutchison, 1976
+1	fátò	_	NOUN	_	_	6	obj	_	Gloss=compound
+2	kâm	_	NOUN	_	_	1	nmod	_	Gloss=man
+3-5	kúràvega	_	_	_	_	_	_	_	MSeg=kúrà=ve=ga|MGloss=big=GEN=OBJ
+3	kúrà	_	ADJ	_	_	2	amod	_	Gloss=big
+4	ve	_	ADP	_	_	2	case	_	Gloss=GEN
+5	ga	_	ADP	_	_	1	case	_	Gloss=OBJ
+6	rúskəna	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw|MGloss=1SG.saw
+
+# sent_id = 2.52a/kmn
+# text = wutyæn dænike
+# gloss = basket INDEF=LOC
+# text_en = into a basket
+# source = Feldman, 1986
+1	wutyæn	_	NOUN	_	_	0	root	_	Gloss=basket
+2-3	dænike	_	_	_	_	_	_	_	MSeg=dæni=ke|MGloss=INDEF=LOC
+2	dæni	_	DET	_	Definite=Ind|PronType=Art	1	det	_	Gloss=a
+3	ke	_	ADP	_	_	1	case	_	Gloss=into
+
+# sent_id = 2.52b/thd
+# text = Pa:th nhaŋnman tha·thiř̃ ru:r̃ mant
+# gloss = fire his=ERG burn-PUNCT insect small
+# text_en = his fire scorched the small grub
+# source = Hall, 1972
+1	Pa:th	_	NOUN	_	_	4	nsubj	_	Gloss=fire
+2-3	nhaŋnman	_	_	_	_	_	_	_	MSeg=nhaŋn=man|MGloss=his=ERG
+2	nhaŋn	_	DET	_	Person=3|Poss=Yes|PronType=Prs	1	det	_	Gloss=his
+3	man	_	ADP	_	Case=Erg	1	case	_	Gloss=ERG
+4	tha·thiř̃	_	VERB	_	_	0	root	_	Gloss=scorched|MSeg=tha·th-iř̃|MGloss=burn-PUNCT
+5	ru:r̃	_	NOUN	_	Case=Abs	4	obj	_	Gloss=insect
+6	mant	_	ADJ	_	_	5	amod	_	Gloss=small
+
+# sent_id = 2.53/ko
+# text = nanun ku khun kaylul poassta
+# gloss = 1SG-TOP that big dog-ACC see-PAST-DECL
+# text_en = I saw that big dog
+1	nanun	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Topic=Yes	6	nsubj	_	Gloss=I|MSeg=na-nun|MGloss=1SG-TOP
+2	ku	_	DET	_	PronType=Dem	4	det	_	Gloss=that
+3	khun	_	ADJ	_	_	4	amod	_	Gloss=big
+4-5	kaylul	_	_	_	_	_	_	_	MSeg=kay-lul|MGloss=dog-ACC
+4	kay	_	NOUN	_	_	6	obj	_	Gloss=dog
+5	lul	_	ADP	_	Case=Acc	4	case	_	Gloss=ACC
+6	poassta	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw|MSeg=po-ass-ta|MGloss=see-PAST-DECL
+
+# sent_id = 2.54/ko
+# text = nanun cakun kaywa khun koyangilul poassta
+# gloss = 1SG-TOP small dog-and big cat-ACC see-PAST-DECL
+# text_en = I saw a small dog and a big cat
+1	nanun	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Topic=Yes	8	nsubj	_	Gloss=I|MSeg=na-nun|MGloss=1SG-TOP
+2	cakun	_	ADJ	_	_	3	amod	_	Gloss=small
+3-4	kaywa	_	_	_	_	_	_	_	MSeg=kay-wa|MGloss=dog-and
+3	kay	_	NOUN	_	_	8	obj	_	Gloss=dog
+4	wa	_	CCONJ	_	_	3	cc	_	Gloss=and
+5	khun	_	ADJ	_	_	6	amod	_	Gloss=big
+6-7	koyangilul	_	_	_	_	_	_	_	MSeg=koyangi-lul|MGloss=cat-ACC
+6	koyangi	_	NOUN	_	_	3	conj	_	Gloss=cat
+7	lul	_	ADP	_	Case=Acc	3	case	_	Gloss=ACC
+8	poassta	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw|MSeg=po-ass-ta|MGloss=see-PAST-DECL
+
