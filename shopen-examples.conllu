@@ -3382,3 +3382,116 @@
 3	tā	_	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obl	_	Gloss=he/she
 4	pàng	_	ADJ	_	_	0	root	_	Gloss=fat
 
+# sent_id = 2.38a/khe
+# text = lembul nggulun
+# gloss = bad teacher
+# text_en = a bad teacher
+# source = Van Enk and De Vries, 1997
+1	lembul	_	ADJ	_	_	2	amod	_	Gloss=bad
+2	nggulun	_	NOUN	_	_	0	root	_	Gloss=teacher
+
+# sent_id = 2.38b/khe
+# text = yanop khonggélkhayan
+# gloss = man big-very
+# text_en = a very big person
+# source = Van Enk and De Vries, 1997
+1	yanop	_	NOUN	_	_	0	root	_	Gloss=man
+2	khonggélkhayan	_	ADJ	_	_	1	amod	_	Gloss=very-big|MSeg=khonggél-khayan|MGloss=big-very
+
+# sent_id = 2.39a/mky
+# text = npun bobay ada ni sandal do
+# gloss = 3SG-kill mosquito with 3SG.POSS sandal REALIS
+# text_en = he killed the mosquito with his sandal
+# source = Bowden, 1997
+1	npun	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=killed|MSeg=n-pun|MGloss=3SG-kill
+2	bobay	_	NOUN	_	_	1	obj	_	Gloss=mosquito
+3	ada	_	ADP	_	_	5	case	_	Gloss=with
+4	ni	_	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	Gloss=his|MGloss=3SG.POSS
+5	sandal	_	NOUN	_	_	1	obl	_	Gloss=sandal
+6	do	_	AUX	_	Mood=Ind	1	aux	_	Gloss=REALIS
+
+# sent_id = 2.39b/mky
+# text = nbattalon kurusi li
+# gloss = 3SG-sit chair LOC
+# text_en = he's sitting on the chair
+# source = Bowden, 1997
+1	nbattalon	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=sits|MSeg=n-battalon|MGloss=3SG-sit
+2	kurusi	_	NOUN	_	_	1	obl	_	Gloss=chair
+3	li	_	ADP	_	Case=Loc	2	case	_	Gloss=on|MGloss=LOC
+
+# sent_id = 2.40a/en
+# text = the tall woman
+1	the	the	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	tall	tall	ADJ	_	Degree=Pos	3	amod	_	_
+3	woman	woman	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 2.40b/en
+# text = the very tall woman
+1	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+2	very	very	ADV	_	_	3	advmod	_	_
+3	tall	tall	ADJ	_	Degree=Pos	4	amod	_	_
+4	woman	woman	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 2.41a/en
+# text = the woman taller than John
+1	the	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	woman	woman	NOUN	_	Number=Sing	0	root	_	_
+3	taller	tall	ADJ	_	Degree=Cmp	2	amod	_	_
+4	than	than	SCONJ	_	_	5	case	_	_
+5	John	John	PROPN	_	Number=Sing	3	obl	_	_
+
+# sent_id = 2.41b/en
+# text = the woman angry at John
+1	the	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	woman	woman	NOUN	_	Number=Sing	0	root	_	_
+3	angry	angry	ADJ	_	Degree=Pos	2	amod	_	_
+4	at	at	ADP	_	_	5	case	_	_
+5	John	John	PROPN	_	Number=Sing	3	obl	_	_
+
+# sent_id = 2.42/en
+# text = the woman taller than the man who John was talking to
+1	the	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	woman	woman	NOUN	_	Number=Sing	0	root	_	_
+3	taller	tall	ADJ	_	Degree=Cmp	2	amod	_	_
+4	than	than	SCONJ	_	_	6	case	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	man	man	NOUN	_	Number=Sing	3	obl	_	_
+7	who	who	PRON	_	PronType=Int	10	obl	_	_
+8	John	John	PROPN	_	Number=Sing	10	nsubj	_	_
+9	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
+10	talking	talk	VERB	_	Tense=Pres|VerbForm=Part	6	acl:relcl	_	_
+11	to	to	ADP	_	_	7	case	_	_
+
+# sent_id = 2.43a/en
+# text = Mary, I saw
+1	Mary	Mary	PROPN	_	Number=Sing	4	obj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	saw	see	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# sent_id = 2.43b/en
+# text = I saw Mary
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	saw	see	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Mary	Mary	PROPN	_	Number=Sing	2	obj	_	_
+
+# sent_id = 2.44a/en
+# text = Into the room came the Prime Minister
+1	Into	into	ADP	_	_	3	case	_	_
+2	the	the	DET	_	Definite=Def|PronType=Art	3	det	_	_
+3	room	room	NOUN	_	Number=Sing	4	obl	_	_
+4	came	come	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+6	Prime	prime	ADJ	_	Degree=Pos	7	amod	_	_
+7	Minister	minister	NOUN	_	Number=Sing	4	nsubj	_	_
+
+# sent_id = 2.44b/en
+# text = The Prime Minister came into the room
+1	The	the	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	Prime	prime	ADJ	_	Degree=Pos	3	amod	_	_
+3	Minister	minister	NOUN	_	Number=Sing	4	nsubj	_	_
+4	came	come	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	into	into	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	room	room	NOUN	_	Number=Sing	4	obl	_	_
+
