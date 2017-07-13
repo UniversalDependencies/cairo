@@ -3495,3 +3495,23 @@
 6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	room	room	NOUN	_	Number=Sing	4	obl	_	_
 
+# sent_id = 2.45a/ilo
+# text = ti nalaíng nga ubíng
+# gloss = ART smart LINK child
+# text_en = the smart child
+# source = Rubino, 1998:40
+1	ti	_	DET	_	_	4	det	_	Gloss=the|MGloss=ART
+2	nalaíng	_	ADJ	_	_	4	amod	_	Gloss=smart
+3	nga	_	ADP	_	_	4	case	_	Gloss=LINK
+4	ubíng	_	NOUN	_	_	0	root	_	Gloss=child
+
+# sent_id = 2.45b/ilo
+# text = ti ubíng a nalaíng
+# gloss = ART child LINK smart
+# text_en = the smart child (as opposed to the others)
+# source = Rubino, 1998:40
+1	ti	_	DET	_	_	2	det	_	Gloss=the|MGloss=ART
+2	ubíng	_	NOUN	_	_	0	root	_	Gloss=child
+3	a	_	ADP	_	_	4	case	_	Gloss=LINK
+4	nalaíng	_	ADJ	_	_	2	amod	_	Gloss=smart
+
