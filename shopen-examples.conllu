@@ -3544,7 +3544,7 @@
 3	ngurrawurrini	_	NOUN	_	Case=All	2	obl	_	Gloss=towards-the-camp|MSeg=ngurra-wurrini|MGloss=camp-toward
 
 # sent_id = 2.49/kr
-# text = kâmga rúskәna
+# text = kâmga rúskəna
 # gloss = man=OBJ 1SG.saw
 # text_en = I saw the man
 # source = Hutchison, 1976
@@ -3554,7 +3554,7 @@
 3	rúskəna	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw|MGloss=1SG.saw
 
 # sent_id = 2.50/kr
-# text = kâm kúràga rúskәna
+# text = kâm kúràga rúskəna
 # gloss = man big=OBJ 1SG.saw
 # text_en = I saw the big man
 # source = Hutchison, 1976
@@ -3565,7 +3565,7 @@
 4	rúskəna	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=I-saw|MGloss=1SG.saw
 
 # sent_id = 2.51/kr
-# text = fátò kâm kúràvega rúskәna
+# text = fátò kâm kúràvega rúskəna
 # gloss = compound man big=GEN=OBJ 1SG.saw
 # text_en = I saw the big man's compound
 # source = Hutchison, 1976
