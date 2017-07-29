@@ -3692,7 +3692,7 @@
 # text = juhr dũ:hlə
 # mtext = juhr dũ:h-lə
 # gloss = boulder beneath-in
-# text = under the boulder
+# text_en = under the boulder
 1	juhr	_	NOUN	_	_	0	root	_	Gloss=boulder
 2	dũ:hlə	_	NOUN	_	NounType=Loc	1	case	_	Gloss=beneath|MSeg=dũ:h-lə|MGloss=beneath-in
 
