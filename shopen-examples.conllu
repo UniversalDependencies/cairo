@@ -3685,6 +3685,7 @@
 # mtext = hã: khɍ̃-kə
 # gloss = cliff foot-at
 # text_en = at the foot of the cliff
+# source = Watters, 2002
 1	hã:	_	NOUN	_	_	0	root	_	Gloss=cliff
 2	khɍ̃kə	_	NOUN	_	NounType=Loc	1	case	_	Gloss=at-the-foot-of|MSeg=khɍ̃-kə|MGloss=foot-at
 
@@ -3693,6 +3694,7 @@
 # mtext = juhr dũ:h-lə
 # gloss = boulder beneath-in
 # text_en = under the boulder
+# source = Watters, 2002
 1	juhr	_	NOUN	_	_	0	root	_	Gloss=boulder
 2	dũ:hlə	_	NOUN	_	NounType=Loc	1	case	_	Gloss=beneath|MSeg=dũ:h-lə|MGloss=beneath-in
 
