@@ -3627,3 +3627,72 @@
 7	lul	_	ADP	_	Case=Acc	3	case	_	Gloss=ACC
 8	poassta	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw|MSeg=po-ass-ta|MGloss=see-PAST-DECL
 
+# sent_id = 2.55/mam
+# text = ma b'aj taq'na7n Cheep tjaq' kjo7n tuuk' Xwaan te xjaal
+# mtext = ma b'aj t-aq'na-7n Cheep t-jaq' kjo7n t-uuk' Xwaan t-e xjaal
+# gloss = REC.PAST DIR 3SG.ERG-work-DIR José 3SG-in cornfield 3SG-with Juan 3SG-for person
+# text_en = José worked in the cornfield with Juan for the person
+# source = England, 1983
+###!!! REC.PAST = recent past. UD does not have a feature for this.
+###!!! What to do with directionals / directional particles / markers ("DIR")? An article describes them as grammaticalized motion verbs, and the constructions with them as asymmetric serial verb constructions.
+1	ma	_	AUX	_	Tense=Past	3	aux	_	Gloss=was|MGloss=REC.PAST
+2	b'aj	_	AUX	_	PartType=Dir	3	aux	_	Gloss=DIR
+3	taq'na7n	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=work|MSeg=t-aq'na-7n|MGloss=3SG.ERG-work-DIR
+4	Cheep	_	PROPN	_	_	3	nsubj	_	Gloss=José
+5	tjaq'	_	NOUN	_	NounType=Rel|Number[psor]=Sing	6	case	_	Gloss=in|MSeg=t-jaq'|MGloss=3SG-inness
+6	kjo7n	_	NOUN	_	_	3	obl	_	Gloss=cornfield
+7	tuuk'	_	NOUN	_	NounType=Rel|Number[psor]=Sing|Person[psor]=3	8	case	_	Gloss=with|MSeg=t-uuk'|MGloss=3SG-withness
+8	Xwaan	_	PROPN	_	_	3	obl	_	Gloss=Juan
+9	te	_	NOUN	_	NounType=Rel|Number[psor]=Sing|Person[psor]=3	10	case	_	Gloss=for|MSeg=t-e|MGloss=3SG-forness
+10	xjaal	_	NOUN	_	_	3	obl	_	Gloss=person
+
+# sent_id = 2.56/mam
+# text = tkamb' meeb'a
+# mtext = t-kamb' meeb'a
+# gloss = 3SG-prize orphan
+# text_en = the orphan's prize
+# source = England, 1983
+1	tkamb'	_	NOUN	_	Number[psor]=Sing|Person[psor]=3	0	root	_	Gloss=prize-of|MSeg=t-kamb'|MGloss=3SG-prize
+2	meeb'a	_	NOUN	_	_	1	nmod	_	Gloss=orphan
+
+# sent_id = 2.57/kgj
+# text = bazae okər
+# mtext = baza-e o-kər
+# gloss = bird-GEN 3SG.POSS-wing
+# text_en = a bird's wing
+# source = Watters, 2002
+1	bazae	_	NOUN	_	Case=Gen	2	nmod	_	Gloss=bird's|MSeg=baza-e|MGloss=bird-GEN
+2	okər	_	NOUN	_	Number[psor]=Sing|Person[psor]=3	0	root	_	Gloss=wing|MSeg=o-kər|MGloss=3SG.POSS-wing
+
+# sent_id = 2.58a/kgj
+# text = nəchĩ:kə
+# mtext = nə-chĩ:-kə
+# gloss = 2SG-behind-at
+# text_en = behind you
+# source = Watters, 2002
+1	nəchĩ:kə	_	NOUN	_	NounType=Loc|Number[psor]=Sing|Person[psor]=2	0	root	_	Gloss=behind-you|MSeg=nə-chĩ:-kə|MGloss=2SG-behind-at
+
+# sent_id = 2.58b/kgj
+# text = oŋahtə
+# mtext = o-ŋah-tə
+# gloss = 3SG-front-on
+# text_en = ahead-of-it
+# source = Watters, 2002
+1	oŋahtə	_	NOUN	_	NounType=Loc|Number[psor]=Sing|Person[psor]=3	0	root	_	Gloss=ahead-of-it|MSeg=o-ŋah-tə|MGloss=3SG-front-on
+
+# sent_id = 2.59a/kgj
+# text = hã: khɍ̃kə
+# mtext = hã: khɍ̃-kə
+# gloss = cliff foot-at
+# text_en = at the foot of the cliff
+1	hã:	_	NOUN	_	_	0	root	_	Gloss=cliff
+2	khɍ̃kə	_	NOUN	_	NounType=Loc	1	case	_	Gloss=at-the-foot-of|MSeg=khɍ̃-kə|MGloss=foot-at
+
+# sent_id = 2.59b/kgj
+# text = juhr dũ:hlə
+# mtext = juhr dũ:h-lə
+# gloss = boulder beneath-in
+# text = under the boulder
+1	juhr	_	NOUN	_	_	0	root	_	Gloss=boulder
+2	dũ:hlə	_	NOUN	_	NounType=Loc	1	case	_	Gloss=beneath|MSeg=dũ:h-lə|MGloss=beneath-in
+
