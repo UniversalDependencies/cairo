@@ -3698,3 +3698,73 @@
 1	juhr	_	NOUN	_	_	0	root	_	Gloss=boulder
 2	dũ:hlə	_	NOUN	_	NounType=Loc	1	case	_	Gloss=beneath|MSeg=dũ:h-lə|MGloss=beneath-in
 
+# sent_id = 2.60a/mpb
+# text = yinʸa puntu
+# gloss = man head
+# text_en = the man's head
+# source = Birk, 1976
+1	yinʸa	_	NOUN	_	_	2	nmod	_	Gloss=man
+2	puntu	_	NOUN	_	_	0	root	_	Gloss=head
+
+# sent_id = 2.60b/mpb
+# text = muyinʸ yinʸanö
+# mtext = muyinʸ yinʸa-nö
+# gloss = dog man-GEN
+# text_en = the man's dog
+# source = Birk, 1976
+1	muyinʸ	_	NOUN	_	_	0	root	_	Gloss=dog
+2	yinʸanö	_	NOUN	_	Case=Gen	1	nmod	_	Gloss=man's|MSeg=yinʸa-nö|MGloss=man-GEN
+
+# sent_id = 2.61a/fr
+# text = le livre de Jean
+# gloss = the book of Jean
+# text_en = Jean's book
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing	2	det	_	Gloss=the
+2	livre	livre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=book
+3	de	de	ADP	_	_	4	case	_	Gloss=of
+4	Jean	Jean	PROPN	_	_	2	nmod	_	Gloss=Jean
+
+# sent_id = 2.61b/fr
+# text = son livre
+# gloss = 3SG.POSS book
+# text_en = his/her book
+1	son	son	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	2	det	_	Gloss=his,her
+2	livre	livre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=book
+
+# sent_id = 2.62a/zmr
+# text = Micky piyamerr
+# gloss = Micky hair
+# text_en = Micky's hair
+# source = Tryon, 1970
+1	Micky	_	PROPN	_	_	2	nmod	_	Gloss=Micky
+2	piyamerr	_	NOUN	_	_	0	root	_	Gloss=hair
+
+# sent_id = 2.62b/zmr
+# text = piya ngany
+# gloss = head my
+# text_en = my head
+1	piya	_	NOUN	_	_	0	root	_	Gloss=head
+2	ngany	_	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	Gloss=my
+
+# sent_id = 2.63a/ku
+# text = ʔəm pyawə xənjə́r ʔəfroše
+# mtext = ʔəm pyaw-ə xənjə́r ʔə-froše
+# gloss = this man-this dagger IMPERF-sell
+# text_en = this man sells daggers
+# source = Abdulla and McCarus, 1967
+1	ʔəm	_	DET	_	PronType=Dem	2	det	_	Gloss=this
+2	pyawə	_	NOUN	_	Definite=Def	4	nsubj	_	Gloss=man|MSeg=pyaw-ə|MGloss=man-this
+3	xənjə́r	_	NOUN	_	_	4	obj	_	Gloss=dagger
+4	ʔəfroše	_	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin	0	root	_	Gloss=sells|MSeg=ʔə-froše|MGloss=IMPERF-sell
+
+# sent_id = 2.63b/ku
+# text = bïrakə́m lə dïtróyt dàʔəniše
+# mtext = bïra-kə́-m lə dïtróyt dàʔəniše
+# gloss = brother-the-my in Detroit lives
+# text_en = my brother lives in Detroit
+# source = Abdulla and McCarus, 1967
+1	bïrakə́m	_	NOUN	_	Definite=Def|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	Gloss=my-brother|MSeg=bïra-kə́-m|MGloss=brother-the-my
+2	lə	_	ADP	_	_	3	case	_	Gloss=in
+3	dïtróyt	_	PROPN	_	_	4	obl	_	Gloss=Detroit
+4	dàʔəniše	_	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=lives
+
