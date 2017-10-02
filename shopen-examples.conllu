@@ -3768,3 +3768,29 @@
 3	dïtróyt	_	PROPN	_	_	4	obl	_	Gloss=Detroit
 4	dàʔəniše	_	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=lives
 
+# sent_id = 2.64a/ntp
+# Northern Tepehuan (Uto-Aztecan, Mexico)
+# text = takávo savı̵̂li piidyúru ɨɨmádu ándɨrɨši múi í̵í̵koli
+# gloss = yesterday bought Peter with Andrew  many orange
+# text_en = yesterday, Peter and Andrew bought many oranges
+# source = Bascom, 1982
+1	takávo	_	ADV	_	_	2	advmod	_	Gloss=yesterday
+2	savı̵̂li	_	VERB	_	_	0	root	_	Gloss=bought
+3	piidyúru	_	PROPN	_	_	2	nsubj	_	Gloss=Peter
+4	ɨɨmádu	_	ADP	_	_	5	case	_	Gloss=with
+5	ándɨrɨši	_	PROPN	_	_	2	obl	_	Gloss=Andrew
+6	múi	_	DET	_	_	7	det	_	Gloss=many
+7	í̵í̵koli	_	NOUN	_	_	2	obj	_	Gloss=orange
+
+# sent_id = 2.64b/ntp
+# text = savı̵̂li áánɨ váík ímai giñ-ooñí-ga vɨɨtárɨ
+# gloss = bought I three squash my-wife-POSSD for
+# text_en = I bought three squash for my wife
+# source = Bascom, 1982
+1	savı̵̂li	_	VERB	_	_	0	root	_	Gloss=bought
+2	áánɨ	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	váík	_	NUM	_	_	4	nummod	_	Gloss=three
+4	ímai	_	NOUN	_	_	1	obj	_	Gloss=squash
+5	giñooñíga	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	1	obl	_	Gloss=my-wife|MSeg=giñ-ooñí-ga|MGloss=my-wife-POSSD
+6	vɨɨtárɨ	_	ADP	_	_	5	case	_	Gloss=for
+
