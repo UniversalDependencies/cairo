@@ -3783,6 +3783,7 @@
 7	í̵í̵koli	_	NOUN	_	_	2	obj	_	Gloss=orange
 
 # sent_id = 2.64b/ntp
+# Northern Tepehuan (Uto-Aztecan, Mexico)
 # text = savı̵̂li áánɨ váík ímai giñooñíga vɨɨtárɨ
 # gloss = bought I three squash my-wife-POSSD for
 # text_en = I bought three squash for my wife
@@ -3793,4 +3794,24 @@
 4	ímai	_	NOUN	_	_	1	obj	_	Gloss=squash
 5	giñooñíga	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	1	obl	_	Gloss=my-wife|MSeg=giñ-ooñí-ga|MGloss=my-wife-POSSD
 6	vɨɨtárɨ	_	ADP	_	_	5	case	_	Gloss=for
+
+# sent_id = 2.65a/arv
+# Arbore (Cushitic, Ethiopia)
+# text = mo ʔíy ḳor ḳúure
+# gloss = man 3SG.DEF tree cut-PERF
+# text_en = the man cut the tree
+# source = Hayward, 1984
+1	mo	_	NOUN	_	_	4	nsubj	_	Gloss=man
+2	ʔíy	_	AUX	_	Definite=Def|Number=Sing|Person=3	4	aux	_	Gloss=3SG.DEF
+3	ḳor	_	NOUN	_	_	4	obj	_	Gloss=tree
+4	ḳúure	_	VERB	_	Aspect=Perf	0	root	_	Gloss=cut|MSeg=ḳúur-e|MGloss=cut-PERF
+
+# sent_id = 2.65b/arv
+# Arbore (Cushitic, Ethiopia)
+# text = gaydanti géer
+# gloss = hoe-POSSD old.man
+# text_en = the old man's hoe
+# source = Hayward, 1984
+1	gaydanti	_	NOUN	_	Poss=Yes	0	root	_	Gloss=hoe|MSeg=gaydan-ti|MGloss=hoe-POSSD
+2	géer	_	NOUN	_	_	1	nmod	_	Gloss=old-man
 
