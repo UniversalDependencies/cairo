@@ -3832,6 +3832,6 @@
 # gloss = Tom house
 # text_en = Tom's house
 # source = D. L. Payne and Payne, 1990
-1	Tomáása	_	PROPN	_	_	1	nmod	_	Gloss=Tom
+1	Tomáása	_	PROPN	_	_	2	nmod	_	Gloss=Tom
 2	rooriy	_	NOUN	_	_	0	root	_	Gloss=house
 
