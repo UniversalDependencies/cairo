@@ -3835,3 +3835,45 @@
 1	Tomáása	_	PROPN	_	_	2	nmod	_	Gloss=Tom
 2	rooriy	_	NOUN	_	_	0	root	_	Gloss=house
 
+# sent_id = 2.67a/lez
+# Lezgian (Caucasus)
+# text = duxturrin patariw fena
+# gloss = doctor-PL-GEN to go-AORIST
+# text_en = she went to doctors
+1	duxturrin	_	NOUN	_	Case=Gen|Number=Plur	3	obl	_	Gloss=doctors|MSeg=duxtur-r-in|MGloss=doctor-PL-GEN
+2	patariw	_	ADP	_	_	1	case	_	Gloss=to
+3	fena	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=went|MSeg=fe-na|MGloss=go-AORIST
+
+# sent_id = 2.67b/xsl
+# Slave (Athabaskan, Canada)
+# text = Mary Joe gha ke ehtsį
+# gloss = Mary Joe for slippers 3:is.making
+# text_en = Mary is making slippers for Joe
+1	Mary	_	PROPN	_	_	5	nsubj	_	Gloss=Mary
+2	Joe	_	PROPN	_	_	5	obl	_	Gloss=Joe
+3	gha	_	ADP	_	_	2	case	_	Gloss=for
+4	ke	_	NOUN	_	_	5	obj	_	Gloss=slippers
+5	ehtsį	_	VERB	_	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	Gloss=is-making|MGloss=3:is.making
+
+# sent_id = 2.68a/en
+# text = Mary cut the fish with the knife
+1	Mary	_	PROPN	_	Number=Sing	2	nsubj	_	_
+2	cut	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	_	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	fish	_	NOUN	_	Number=Sing	2	obj	_	_
+5	with	_	ADP	_	_	7	case	_	_
+6	the	_	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	knife	_	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 2.68b/fj
+# Fijian (Austronesian)
+# text = au na talai Elia i 'Orovou
+# gloss = 1SG FUT send Elia to 'Orovou
+# text_en = I'll send Elia to 'Orovou
+1	au	_	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=1SG
+2	na	_	AUX	_	Tense=Fut	3	aux	_	Gloss=FUT
+3	talai	_	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=send
+4	Elia	_	PROPN	_	_	3	obj	_	Gloss=Elia
+5	i	_	ADP	_	_	6	case	_	Gloss=to
+6	'Orovou	_	PROPN	_	_	3	obl	_	Gloss='Orovou
+
