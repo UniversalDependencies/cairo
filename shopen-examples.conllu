@@ -3815,3 +3815,23 @@
 1	gaydanti	_	NOUN	_	Poss=Yes	0	root	_	Gloss=hoe|MSeg=gaydan-ti|MGloss=hoe-POSSD
 2	géer	_	NOUN	_	_	1	nmod	_	Gloss=old-man
 
+# sent_id = 2.66a/yad
+# Yagua (Amazon)
+# text = siimyiy Alchíconíí quiivą
+# gloss = 3SG-eat Alchíco-DEF.OBJ fish
+# text_en = Alchico is eating the fish
+# The morpheme níí on the subject is a pronominal clitic coreferencing the object.
+# source = D. L. Payne and Payne, 1990
+1	siimyiy	_	VERB	_	_	0	root	_	Gloss=eats|MSeg=s-iimyiy|MGloss=3SG-eat
+2	Alchíconíí	_	PROPN	_	Definite[obj]=Def	1	nsubj	_	Gloss=Alchico|MSeg=Alchíco-níí|MGloss=Alchíco-DEF.OBJ
+3	quiivą	_	NOUN	_	_	1	obj	_	Gloss=fish
+
+# sent_id = 2.66b/yad
+# Yagua (Amazon)
+# text = Tomáása rooriy
+# gloss = Tom house
+# text_en = Tom's house
+# source = D. L. Payne and Payne, 1990
+1	Tomáása	_	PROPN	_	_	1	nmod	_	Gloss=Tom
+2	rooriy	_	NOUN	_	_	0	root	_	Gloss=house
+
