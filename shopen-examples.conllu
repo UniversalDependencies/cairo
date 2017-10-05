@@ -3877,3 +3877,83 @@
 5	i	_	ADP	_	_	6	case	_	Gloss=to
 6	'Orovou	_	PROPN	_	_	3	obl	_	Gloss='Orovou
 
+# sent_id = 2.69/awg
+# Anguthimri (Pama-Nyungan, Australia, extinct)
+# text = ʔwara bwaʔa bagu t̪ana
+# gloss = dog-ERG meat teeth-INSTR bite-PAST
+# text_en = the dog bit the meat with his teeth
+# source = Crowley, 1981
+1	ʔwara	_	NOUN	_	Case=Erg	4	nsubj	_	Gloss=dog|MSeg=ʔwa-ra|MGloss=dog-ERG
+2	bwaʔa	_	NOUN	_	Case=Abs	4	obj	_	Gloss=meat
+3	bagu	_	NOUN	_	Case=Ins	4	obl	_	Gloss=with-teeth|MSeg=ba-gu|MGloss=teeth-INSTR
+4	t̪ana	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=bit|MSeg=t̪a-na|MGloss=bite-PAST
+
+# sent_id = 2.70a/xsl
+# Slave (Athabaskan, Canada)
+# text = bets'ę́ wohse wolé
+# gloss = 3.to 1SG.shout.OPT be.OPT
+# text_en = I will shout to him/her
+1	bets'ę́	_	PRON	_	Case=Dat|Person=3|PronType=Prs	2	obl	_	Gloss=to-him/her|MGloss=3.to
+2	wohse	_	VERB	_	Mood=Opt|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Gloss=I-shout|MGloss=1SG.shout.OPT
+3	wolé	_	AUX	_	Mood=Opt|VerbForm=Fin	2	aux	_	Gloss=will|MGloss=be.OPT
+
+# sent_id = 2.70b/ssd
+# Siroi (New Guinea)
+# text = pasa mingeŋ
+# gloss = talk be-1PL.PAST
+# text_en = we were talking
+1	pasa	_	VERB	_	_	0	root	_	Gloss=talking|MGloss=talk
+2	mingeŋ	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	aux	_	Gloss=we-were|MSeg=min-geŋ|MGloss=be-1PL.PAST
+
+# sent_id = 2.71a/en
+# text = She is sleeping
+1	She	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sleeping	sleep	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+
+# sent_id = 2.71b/tuv
+# Turkana (Eastern Sudanic, Kenya)
+# text = kìponì atɔmatà
+# gloss = 1PL-go-ASP 1PL-drink-PL
+# text_en = we shall drink
+1	kìponì	_	AUX	_	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	2	aux	_	Gloss=we-go|MSeg=kì-pon-ì|MGloss=1PL-go-ASP
+2	atɔmatà	_	VERB	_	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	Gloss=we-drink|MSeg=atɔ-mat-à|MGloss=1PL-drink-PL
+
+# sent_id = 2.72/lez
+# Lezgian (Caucasus)
+# text = zaway a bejaburčiwal exiz žezwačir
+# gloss = 1SG-ADESS that shame bear-INFIN can-IMPERF-NEG-PAST
+# text_en = I could not bear that shame
+1	zaway	_	PRON	_	Case=Ade|Number=Sing|Person=1|PronType=Prs	3	nmod	_	Gloss=on-me|MSeg=za-way|MGloss=1SG-ADESS
+2	a	_	DET	_	PronType=Dem	3	det	_	Gloss=that
+3	bejaburčiwal	_	NOUN	_	_	4	obj	_	Gloss=shame
+4	exiz	_	VERB	_	VerbForm=Inf	0	root	_	Gloss=bear|MSeg=ex-iz|MGloss=bear-INFIN
+5	žezwačir	_	AUX	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin	4	aux	_	Gloss=could-not|MSeg=že-zwa-č-ir|MGloss=can-IMPERF-NEG-PAST
+
+# sent_id = 2.73/mor
+# Moro (Niger-Congo, Sudan)
+# text = ñagaməlu ñagaber ñagaɽəwad̵aṭa ñagasa ed̵e
+# gloss = 2PL-not.yet 2PL-not 2PL-able 2PL-eat meat.PL
+# text_en = you are still not able to eat meat
+# source = Black and Black, 1971
+1	ñagaməlu	_	ADV	_	Number=Plur|Person=2|Polarity=Neg	4	advmod	_	Gloss=not-yet|MSeg=ña-gaməlu|MGloss=2PL-not.yet
+2	ñagaber	_	AUX	_	Number=Plur|Person=2|Polarity=Neg	4	aux	_	Gloss=not|MSeg=ña-gaber|MGloss=2PL-not
+3	ñagaɽəwad̵aṭa	_	AUX	_	Number=Plur|Person=2	4	aux	_	Gloss=you-are-able|MSeg=ña-gaɽəwad̵aṭa|MGloss=2PL-able
+4	ñagasa	_	VERB	_	Number=Plur|Person=2	0	root	_	Gloss=eat|MSeg=ña-gasa|MGloss=2PL-eat
+5	ed̵e	_	NOUN	_	Number=Plur	4	obj	_	Gloss=meat|MGloss=meat.PL
+
+# sent_id = 2.74a/en
+# text = Susan is a doctor
+1	Susan	Susan	PROPN	_	Number=Sing	4	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	doctor	doctor	NOUN	_	Number=Sing	0	root
+
+# sent_id = 2.74b/xsl
+# Slave (Athabaskan, Canada)
+# text = ʔeyá hįłį
+# gloss = sick 3SG.be
+# text_en = she is sick
+1	ʔeyá	_	ADJ	_	_	0	root	_	Gloss=sick
+2	hįłį	_	AUX	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	1	cop	_	Gloss=is|MGloss=3SG.be
+
