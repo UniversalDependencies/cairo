@@ -3957,3 +3957,45 @@
 1	ʔeyá	_	ADJ	_	_	0	root	_	Gloss=sick
 2	hįłį	_	AUX	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	1	cop	_	Gloss=is|MGloss=3SG.be
 
+# sent_id = 2.75a/tr
+# text = Sen kitapları aldın mı
+# gloss = 2SG book-PL-ACC take-PAST-2SG Q
+# text_en = did you TAKE the books?
+1	Sen	_	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MGloss=2SG
+2	kitapları	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	Gloss=books|MSeg=kitap-lar-ı|MGloss=book-PL-ACC
+3	aldın	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	Gloss=took|MSeg=al-dı-n|MGloss=take-PAST-2SG
+4	mı	_	PART	_	PartType=Int	3	advmod	_	Gloss=QUESTION|MGloss=Q
+
+# sent_id = 2.75b/tr
+# text = Sen kitapları mı aldın
+# gloss = 2SG book-PL-ACC Q take-PAST-2SG
+# text_en = did you take THE BOOKS?
+1	Sen	_	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|MGloss=2SG
+2	kitapları	_	NOUN	_	Case=Acc|Number=Plur	4	obj	_	Gloss=books|MSeg=kitap-lar-ı|MGloss=book-PL-ACC
+3	mı	_	PART	_	PartType=Int	4	advmod	_	Gloss=QUESTION|MGloss=Q
+4	aldın	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	Gloss=took|MSeg=al-dı-n|MGloss=take-PAST-2SG
+
+# sent_id = 2.76a/knw
+# ǃXu/ǃKung (Khoisan, southern Africa)
+# text = da'ama re ho nǃeng
+# gloss = child Q see eland
+# text_en = does the child see the eland?
+# source = Snyman, J. W. 1970. An Introduction to the !Xu (!Kung) Language. Capetown: A. A. Balkema.
+1	da'ama	_	NOUN	_	_	3	nsubj	_	Gloss=child
+2	re	_	PART	_	PartType=Int	3	advmod	_	Gloss=QUESTION|MGloss=Q
+3	ho	_	VERB	_	_	0	root	_	Gloss=see
+4	nǃeng	_	NOUN	_	_	3	obj	_	Gloss=eland
+
+# sent_id = 2.76b/knw
+# ǃXu/ǃKung (Khoisan, southern Africa)
+# text = ǁe'ike re da'ama ho nǃeng?
+# gloss = today Q child see eland
+# text_en = does the child see the eland today?
+# source = Snyman, J. W. 1970. An Introduction to the !Xu (!Kung) Language. Capetown: A. A. Balkema.
+1	ǁe'ike	_	ADV	_	_	4	advmod	_	Gloss=today
+2	re	_	PART	_	PartType=Int	4	advmod	_	Gloss=QUESTION|MGloss=Q
+3	da'ama	_	NOUN	_	_	4	nsubj	_	Gloss=child
+4	ho	_	VERB	_	_	0	root	_	Gloss=see
+5	nǃeng	_	NOUN	_	_	4	obj	_	Gloss=eland|SpaceAfter=No
+6	?	_	PUNCT	_	_	4	punct	_	Gloss=?
+
