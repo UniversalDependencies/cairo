@@ -3999,3 +3999,57 @@
 5	nǃeng	_	NOUN	_	_	4	obj	_	Gloss=eland|SpaceAfter=No
 6	?	_	PUNCT	_	_	4	punct	_	Gloss=?
 
+# sent_id = 2.77/new
+# Dolakha Newari (Tibeto-Burman, Nepal)
+# source = Genetti, 1994
+# text = Dolakhā khā tuŋ lāeu rā
+# gloss = Dolakha talk EMPH speak-3SG.FUT Q
+# text_en = will she speak the Dolakha language?
+1	Dolakhā	_	NOUN	_	_	2	nmod	_	Gloss=Dolakha
+2	khā	_	NOUN	_	_	4	obj	_	Gloss=language|MGloss=talk
+3	tuŋ	_	PART	_	PartType=Emph	2	advmod:emph	_	Gloss=EMPH
+4	lāeu	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-speak|MSeg=lā-eu|MGloss=speak-3SG.FUT
+5	rā	_	PART	_	PartType=Int	4	advmod	_	Gloss=QUESTION|MGloss=Q
+
+# sent_id = 2.78/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# text = siïH maMzáL kaʔMtiLM ku:H kia:LHaH
+# gloss = Q PAST-run.out:3 completely money POSS.IPL
+# text_en = has our money completely run out?
+1	siïH	_	PART	_	PartType=Int	2	advmod	_	Gloss=QUESTION|MGloss=Q
+2	maMzáL	_	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=run-out|MSeg=maM-záL|MGloss=PAST-run.out:3
+3	kaʔMtiLM	_	ADV	_	_	2	advmod	_	Gloss=completely
+4	ku:H	_	NOUN	_	_	2	nsubj	_	Gloss=money
+5	kia:LHaH	_	DET	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	det	_	Gloss=our|MGloss=POSS.1PL
+
+# sent_id = 2.79a/bmi
+# Bagirmi (Central Sudanic, Chad)
+# source = Stevenson, 1969
+# text = i ak ŋʷonʉm kau lɛʔ
+# gloss = 2SG see son-1SG at:all Q
+# text_en = did you see my son at all?
+1	i	_	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|MGloss=2SG
+2	ak	_	VERB	_	_	0	root	_	Gloss=see
+3	ŋʷonʉm	ŋʷon	NOUN	_	Number[psor]=Sing|Person[psor]=1	2	obj	_	Gloss=my-son|MSeg=ŋʷon-ʉm|MGloss=son-1SG
+4	kau	_	ADV	_	_	2	advmod	_	Gloss=at-all|MGloss=at:all
+5	lɛʔ	_	PART	_	PartType=Int	2	advmod	_	Gloss=QUESTION|MGloss=Q
+
+# sent_id = 2.79b/mor
+# Moro (Niger-Congo, Nuba Hills, Sudan)
+# text = an ñagabəṭə nəsuk
+# gloss = Q 2PL-go to-Suk
+# text_en = are you going to the Suk?
+1	an	_	PART	_	PartType=Int	2	advmod	_	Gloss=QUESTION|MGloss=Q
+2	ñagabəṭə	_	VERB	_	Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Gloss=you-go|MSeg=ña-gabəṭə|MGloss=2PL-go
+3	nəsuk	_	NOUN	_	Case=All	2	obl	_	Gloss=to-the-suk|MSeg=nə-suk|MGloss=to-Suk
+
+# sent_id = 2.80/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# text = naMbaH ŋiúH siïH ʔá:H
+# gloss = STAT-hit.3 house Q not
+# text_en = the house was hit, was it not?
+1	naMbaH	_	VERB	_	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	Gloss=was-hit|MSeg=naM-baH|MGloss=STAT-hit.3
+2	ŋiúH	_	NOUN	_	_	1	nsubj	_	Gloss=house
+3	siïH	_	PART	_	PartType=Int	4	advmod	_	Gloss=QUESTION|MGloss=Q
+4	ʔá:H	_	PART	_	Polarity=Neg	1	discourse	_	Gloss=not
+
