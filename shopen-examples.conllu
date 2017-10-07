@@ -4020,7 +4020,7 @@
 2	maMzáL	_	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=run-out|MSeg=maM-záL|MGloss=PAST-run.out:3
 3	kaʔMtiLM	_	ADV	_	_	2	advmod	_	Gloss=completely
 4	ku:H	_	NOUN	_	_	2	nsubj	_	Gloss=money
-5	kia:LHaH	_	DET	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	det	_	Gloss=our|MGloss=POSS.1PL
+5	kia:LHaH	_	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	det	_	Gloss=our|MGloss=POSS.1PL
 
 # sent_id = 2.79a/bmi
 # Bagirmi (Central Sudanic, Chad)
