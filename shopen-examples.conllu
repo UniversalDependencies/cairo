@@ -4053,3 +4053,25 @@
 3	siïH	_	PART	_	PartType=Int	4	advmod	_	Gloss=QUESTION|MGloss=Q
 4	ʔá:H	_	PART	_	Polarity=Neg	1	discourse	_	Gloss=not
 
+# sent_id = 2.81/en
+# text = The teacher knows that Billy ate the cookies
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	teacher	teacher	NOUN	_	Number=Sing	3	nsubj	_	_
+3	knows	know	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	_	_	6	mark	_	_
+5	Billy	Billy	PROPN	_	Number=Sing	6	nsubj	_	_
+6	ate	eat	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	the	the	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	cookies	cookie	NOUN	_	Number=Plur	6	obj	_	_
+
+# sent_id = 2.82/xsl
+# Slave (Athabaskan, Canada)
+# text = ʔelá táhła nį kodeyihshá yíle
+# gloss = boat 3.land COMP 1SG.know not
+# text_en = I didn't know that the boat came in
+1	ʔelá	_	NOUN	_	_	1	nsubj	_	Gloss=boat
+2	táhła	_	VERB	_	Mood=Ind|Person=3|VerbForm=Fin	4	ccomp	_	Gloss=lands|MGloss=3.land
+3	nį	_	SCONJ	_	_	2	mark	_	Gloss=that|MGloss=COMP
+4	kodeyihshá	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=I-know|MGloss=1SG.know
+5	yíle	_	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
+
