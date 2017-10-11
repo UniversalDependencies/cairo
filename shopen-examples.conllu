@@ -4069,7 +4069,7 @@
 # text = ʔelá táhła nį kodeyihshá yíle
 # gloss = boat 3.land COMP 1SG.know not
 # text_en = I didn't know that the boat came in
-1	ʔelá	_	NOUN	_	_	1	nsubj	_	Gloss=boat
+1	ʔelá	_	NOUN	_	_	2	nsubj	_	Gloss=boat
 2	táhła	_	VERB	_	Mood=Ind|Person=3|VerbForm=Fin	4	ccomp	_	Gloss=lands|MGloss=3.land
 3	nį	_	SCONJ	_	_	2	mark	_	Gloss=that|MGloss=COMP
 4	kodeyihshá	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=I-know|MGloss=1SG.know
