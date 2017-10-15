@@ -4075,3 +4075,86 @@
 4	kodeyihshá	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=I-know|MGloss=1SG.know
 5	yíle	_	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
 
+# sent_id = 2.83a/fj
+# text = 'eirau 'auta a pua'a
+# gloss = 1EXCL.DU bring ART pig
+# text_en = we (two) brought the pig
+1	'eirau	_	PRON	_	Clusivity=Ex|Number=Dual|Person=1|PronType=Prs	2	nsubj	_	Gloss=we|MGloss=1EXCL.DU
+2	'auta	_	VERB	_	_	0	root	_	Gloss=bring
+3	a	_	DET	_	PronType=Art	4	det	_	Gloss=the
+4	pua'a	_	NOUN	_	_	2	obj	_	Gloss=pig
+
+# sent_id = 2.83b/kpw
+# Kobon (Trans-New Guinea)
+# source = John Davies, 1981. Kobon. Lingua Descriptive Series 3
+# text = ñi ap wañib i ud arnɨm Dusin laŋ
+# gloss = boy INDEF string.bag this take go-should.3SG Dusin above
+# text_en = a boy should take this string bag up to Dusin
+1	ñi	_	NOUN	_	_	5	nsubj	_	Gloss=boy
+2	ap	_	DET	_	Definite=Ind|PronType=Art	1	det	_	Gloss=a|MGloss=INDEF
+3	wañib	_	NOUN	_	_	5	obj	_	Gloss=string-bag|MGloss=string.bag
+4	i	_	DET	_	PronType=Dem	3	det	_	Gloss=this
+5	ud	_	VERB	_	_	0	root	_	Gloss=take
+6	arnɨm	_	VERB	_	Number=Sing|Person=3	5	aux	_	Gloss=should|MSeg=ar-nɨm|MGloss=go-should.3SG
+7	Dusin	_	PROPN	_	_	5	obl	_	Gloss=Dusin
+8	laŋ	_	ADP	_	_	7	case	_	Gloss=above
+
+# sent_id = 2.84a/ceb
+# Cebuano (Austronesian, Philippines)
+# text = gipalit sa babayi ang saging
+# gloss = OBJ.FOCUS-buy NONTOPIC woman TOPIC banana
+# text_en = the woman bought the bananas
+1	gipalit	_	VERB	_	Voice=Paf	0	root	_	Gloss=bought|MSeg=gi-palit|MGloss=OBJ.FOCUS-buy
+2	sa	_	ADP	_	_	3	case	_	Gloss=NONTOPIC
+3	babayi	_	NOUN	_	_	1	obl	_	Gloss=woman
+4	ang	_	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+5	saging	_	NOUN	_	_	1	obj	_	Gloss=banana
+
+# sent_id = 2.84b/ceb
+# Cebuano (Austronesian, Philippines)
+# text = gisulatan ni Maria si Dudung ug isturya
+# gloss = LOC.FOCUS-write-LOC.FOCUS GEN Maria TOPIC Dodong INDEF story
+# text_en = Maria wrote a story for Dodong
+1	gisulatan	_	VERB	_	Voice=Laf	0	root	_	Gloss=wrote|MSeg=gi-sulat-an|MGloss=LOC.FOCUS-write-LOC.FOCUS
+2	ni	_	ADP	_	Case=Gen	3	case	_	Gloss=GEN
+3	Maria	_	PROPN	_	_	1	obl	_	Gloss=Maria
+4	si	_	ADP	_	_	5	case	_	Gloss=TOPIC
+5	Dudung	_	PROPN	_	_	1	obl	_	Gloss=Dodong
+6	ug	_	DET	_	Definite=Ind	7	det	_	Gloss=a|MGloss=INDEF
+7	isturya	_	NOUN	_	_	1	obj	_	Gloss=story
+
+# sent_id = 2.85/fj
+# text = a gone yai
+# gloss = ART child this
+# text_en = this child
+1	a	_	DET	_	PronType=Art	2	det	_	Gloss=ART
+2	gone	_	NOUN	_	_	0	root	_	Gloss=child
+3	yai	_	DET	_	PronType=Dem	2	det	_	Gloss=this
+
+# sent_id = 2.86a/en
+# text = Because it was raining, the children came into the house
+1	Because	because	SCONJ	_	_	4	mark	_	_
+2	it	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	raining	rain	VERB	_	Tense=Pres|VerbForm=Part	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	children	child	NOUN	_	Number=Sing	8	nsubj	_	_
+8	came	come	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+9	into	into	ADP	_	_	11	case	_	_
+10	the	the	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	house	house	NOUN	_	Number=Sing	8	obl	_	_
+
+# sent_id = 2.86b/en
+# text = The children came into the house because it was raining
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	children	child	NOUN	_	Number=Sing	3	nsubj	_	_
+3	came	come	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	into	into	ADP	_	_	6	case	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	house	house	NOUN	_	Number=Sing	3	obl	_	_
+7	because	because	SCONJ	_	_	10	mark	_	_
+8	it	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
+10	raining	rain	VERB	_	Tense=Pres|VerbForm=Part	3	advcl	_	_
+
