@@ -4115,7 +4115,7 @@
 # text = gisulatan ni Maria si Dudung ug isturya
 # gloss = LOC.FOCUS-write-LOC.FOCUS GEN Maria TOPIC Dodong INDEF story
 # text_en = Maria wrote a story for Dodong
-1	gisulatan	_	VERB	_	Voice=Laf	0	root	_	Gloss=wrote|MSeg=gi-sulat-an|MGloss=LOC.FOCUS-write-LOC.FOCUS
+1	gisulatan	_	VERB	_	Voice=Locf	0	root	_	Gloss=wrote|MSeg=gi-sulat-an|MGloss=LOC.FOCUS-write-LOC.FOCUS
 2	ni	_	ADP	_	Case=Gen	3	case	_	Gloss=GEN
 3	Maria	_	PROPN	_	_	1	obl	_	Gloss=Maria
 4	si	_	ADP	_	_	5	case	_	Gloss=TOPIC
