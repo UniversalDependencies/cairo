@@ -4158,3 +4158,74 @@
 9	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 10	raining	rain	VERB	_	Tense=Pres|VerbForm=Part	3	advcl	_	_
 
+# sent_id = 2.87a/en
+# text = the boy that the dog bit
+1	the	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	boy	boy	NOUN	_	Number=Sing	0	root	_	_
+3	that	that	SCONJ	_	_	6	mark	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	dog	dog	NOUN	_	Number=Sing	6	nsubj	_	_
+6	bit	bite	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
+
+# sent_id = 2.87b/fj
+# text = a pua'a 'eirau 'auta
+# gloss = ART pig 1EXCL.DU bring
+# text_en = the pig which we (two) brought
+1	a	_	DET	_	PronType=Art	2	det	_	Gloss=the|MGloss=ART
+2	pua'a	_	NOUN	_	_	0	root	_	Gloss=pig
+3	'eirau	_	PRON	_	Clusivity=Ex|Number=Dual|Person=1|PronType=Prs	4	nsubj	_	Gloss=we-two|MGloss=1EXCL.DU
+4	'auta	_	VERB	_	Mood=Ind|VerbForm=Fin	2	acl:relcl	_	Gloss=bring
+
+# sent_id = 2.87c/nhg
+# Tetelcingo Nahuatl (Uto-Aztecan, Morelos, Mexico)
+# text = inu ɔcintlı tli komwikak
+# gloss = that water REL it-bring-PERF
+# text_en = that water which he had brought
+1	inu	_	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	ɔcintlı	_	NOUN	_	_	0	root	_	Gloss=water
+3	tli	_	PRON	_	PronType=Rel	4	obj	_	Gloss=which|MGloss=REL
+4	komwikak	_	VERB	_	Aspect=Perf|Mood=Ind|Person=3|VerbForm=Fin	2	acl:relcl	_	Gloss=brought-it|MSeg=k-omwika-k|MGloss=it-bring-PERF
+
+# sent_id = 2.88a/lez
+# text = gada k'waliz raq̃uraj ruš
+# gloss = boy house-DAT send-PTCPL girl
+# text_en = the girl who sent the boy home
+1	gada	_	NOUN	_	_	3	obj	_	Gloss=boy
+2	k'waliz	_	NOUN	_	Case=Dat	3	obl	_	Gloss=to-house|MSeg=k'wal-iz|MGloss=house-DAT
+3	raq̃uraj	_	VERB	_	VerbForm=Part	4	acl	_	Gloss=having-sent|MSeg=raq̃ur-aj|MGloss=send-PTCPL
+4	ruš	_	NOUN	_	_	0	root	_	Gloss=girl
+
+# sent_id = 2.88b/kmn
+# Awtuw / Kamnum (Sepik, Papua New Guinea)
+# text = rey æye dəkrayre ramere wan duwpo
+# gloss = NONFEM.SG food ASP-eat-ASP-OBJ man-OBJ 1SG ASP-see-PAST
+# text_en = I saw the man who is eating food
+1	rey	_	PRON	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=he|MGloss=NONFEM.SG
+2	æye	_	NOUN	_	_	3	obj	_	Gloss=food
+3	dəkrayre	_	VERB	_	Case=Acc	4	acl	_	Gloss=who-was-eating|MSeg=dək-ra-y-re|MGloss=ASP-eat-ASP-OBJ
+4	ramere	_	NOUN	_	Case=Acc	6	obj	_	Gloss=man|MSeg=rame-re|MGloss=man-OBJ
+5	wan	_	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=I|MGloss=1SG
+6	duwpo	_	VERB	_	Tense=Past	0	root	_	Gloss=saw|MSeg=d-uwp-o|MGloss=ASP-see-PAST
+
+# sent_id = 2.89a/xsl
+# Slave (Athabaskan, Canada)
+# text = tthik'íhí neyaa yet'ah golǫ thehk'é s̨íi
+# gloss = gun 2SG.son it.with moose 3.shot COMP
+# text_en = the gun that your son shot the moose with
+1	tthik'íhí	_	NOUN	_	_	0	root	_	Gloss=gun
+2	neyaa	_	NOUN	_	Number[psor]=Sing|Person[psor]=2	5	nsubj	_	Gloss=your-son|MGloss=2SG.son
+3	yet'ah	_	PRON	_	Case=Ins|Number=Sing|Person=3	5	obl	_	Gloss=with-it|MGloss=it.with
+4	golǫ	_	NOUN	_	_	5	obj	_	Gloss=moose
+5	thehk'é	_	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	Gloss=shot|MGloss=3.shot
+6	s̨íi	_	SCONJ	_	_	5	mark	_	Gloss=that|MGloss=COMP
+
+# sent_id = 2.70b/ssd
+# Siroi (New Guinea, Madang)
+# text = am rugange ŋayongina ta
+# gloss = eye mud-SPEC ruin-3SG.PAST that
+# text_en = the eye which the mud had injured
+1	am	_	NOUN	_	_	0	root	_	Gloss=eye
+2	rugange	_	NOUN	_	Definite=Spec	3	nsubj	_	Gloss=mud|MSeg=ruga-nge|MGloss=mud-SPEC
+3	ŋayongina	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	Gloss=ruined|MSeg=ŋayong-ina|MGloss=ruin-3SG.PAST
+4	ta	_	PRON	_	PronType=Rel	3	obj	_	Gloss=that
+
