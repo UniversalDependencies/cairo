@@ -4229,3 +4229,66 @@
 3	ŋayongina	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	Gloss=ruined|MSeg=ŋayong-ina|MGloss=ruin-3SG.PAST
 4	ta	_	PRON	_	PronType=Rel	3	obj	_	Gloss=that
 
+# sent_id = 2.90/xsl
+# Slave (Athabaskan, Canada)
+# text = lį gah hedéhfe i gháyeyidá
+# gloss = dog rabbit chased COMP 1SG.saw
+# text_en = I saw the dog that chased the rabbit OR I saw the rabbit that the dog chased
+1	lį	_	NOUN	_	_	3	nsubj	_	Gloss=dog
+2	gah	_	NOUN	_	_	3	obj	_	Gloss=rabbit
+3	hedéhfe	_	VERB	_	Mood=Ind|VerbForm=Fin	5	ccomp	_	Gloss=chased
+4	i	_	SCONJ	_	_	3	mark	_	Gloss=that|MGloss=COMP
+5	gháyeyidá	_	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Gloss=I-saw|MGloss=1SG.saw
+
+# sent_id = 2.91a/ty
+# Tahitian (Austronesian, Tahiti)
+# source = Tryon, 1970a
+# text = te mau fare
+# gloss = the PL house
+# text_en = the houses
+1	te	_	DET	_	Definite=Def|PronType=Art	3	det	_	Gloss=the
+2	mau	_	DET	_	Number=Plur|PronType=Art	3	det	_	Gloss=PL
+3	fare	_	NOUN	_	_	0	root	_	Gloss=house
+
+# sent_id = 2.91b/tet
+# Tetun (Austronesian, Indonesia and East Timor)
+# source = Van Klinken, 1999
+# text = hotu kakehe sia
+# gloss = all fan PL
+# text_en = all the fans
+1	hotu	_	DET	_	PronType=Tot	2	det	_	Gloss=all
+2	kakehe	_	NOUN	_	_	0	root	_	Gloss=fan
+3	sia	_	DET	_	Number=Plur|PronType=Art	2	det	_	Gloss=PL
+
+# sent_id = 2.92a/bmi
+# Bagirmi (Central Sudanic, Chad)
+# source = Hoffman, 1963
+# text = bɨs an amage
+# gloss = dog of 1SG=PL
+# text_en = my dogs
+1	bɨs	_	NOUN	_	_	0	root	_	Gloss=dog
+2	an	_	ADP	_	_	3	case	_	Gloss=of
+3-4	amage	_	_	_	_	_	_	_	MSeg=ama=ge|MGloss=1SG=PL
+3	ama	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nmod:poss	_	Gloss=me|MGloss=1SG
+4	ge	_	DET	_	Number=Plur|PronType=Art	1	det	_	Gloss=PL
+
+# sent_id = 2.92b/mrt
+# Margi (Afro-Asiatic, Chadic, Nigeria)
+# source = Hoffman, 1963
+# text = dàrà də̀zə̀yàr
+# gloss = cap red=PL
+# text_en = red caps
+1	dàrà	_	NOUN	_	_	0	root	_	Gloss=cap
+2-3	də̀zə̀yàr	_	_	_	_	_	_	_	MSeg=də̀zə̀=yàr|MGloss=red=PL
+2	də̀zə̀	_	ADJ	_	_	1	amod	_	Gloss=red
+3	yàr	_	DET	_	Number=Plur|PronType=Art	1	det	_	Gloss=PL
+
+# sent_id = 2.93/ssd
+# Siroi (New Guinea, Madang)
+# text = kulim kat nuŋe
+# gloss = sister PL his
+# text_en = his sisters
+1	kulim	_	NOUN	_	_	0	root	_	Gloss=sister
+2	kat	_	DET	_	Number=Plur|PronType=Art	1	det	_	Gloss=PL
+3	nuŋe	_	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nmod:poss	_	Gloss=his
+
