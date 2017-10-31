@@ -4292,3 +4292,55 @@
 2	kat	_	DET	_	Number=Plur|PronType=Art	1	det	_	Gloss=PL
 3	nuŋe	_	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nmod:poss	_	Gloss=his
 
+# sent_id = 2.94/la
+# text = ubi puellam audīvī
+# gloss = when girl-ACC hear-PERF-1SG
+# text_en = when I heard the girl
+1	ubi	ubi	ADV	_	PronType=Rel	3	advmod	_	Gloss=when
+2	puellam	puella	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	Gloss=girl|MSeg=puella-m|MGloss=girl-ACC
+3	audīvī	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Gloss=I-heard|MSeg=audī-v-ī|MGloss=hear-PERF-1SG
+
+# sent_id = 2.95a/bdm
+# Buduma / Yedina (Chadic, Sudan)
+# source = Lukas, 1939
+# text = kugúi̯ atái̯ ámbai̯
+# gloss = hen 3SG.MASC:PRES-lay egg
+# text_en = the hen lays eggs
+1	kugúi̯	_	NOUN	_	_	2	nsubj	_	Gloss=hen
+2	atái̯	_	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=lays|MSeg=a-tái̯|MGloss=3SG.MASC:PRES-lay
+3	ámbai̯	_	NOUN	_	_	2	obj	_	Gloss=egg
+
+# sent_id = 2.95b/bdm
+# Buduma / Yedina (Chadic, Sudan)
+# source = Lukas, 1939
+# text = dōmo hā́mera nácin ga
+# gloss = 1SG cold 3SG.MASC:PAST-grip-1SG.OBJ since
+# text_en = since I am cold
+1	dōmo	_	PRON	_	Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=I|MGloss=1SG
+2	hā́mera	_	NOUN	_	_	3	nsubj	_	Gloss=cold
+3	nácin	_	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gripped|MSeg=ná-ci-n|MGloss=3SG.MASC:PAST-grip-1SG.OBJ
+4	ga	_	SCONJ	_	_	3	mark	_	Gloss=since
+
+# sent_id = 2.96/hae
+# Harar Oromo (Afro-Asiatic, Cushitic, Ethiopia)
+# source = Owens, Jonathan. 1985. A grammar of Harar Oromo (Northeastern Ethiopia): including a text and a glossary. Hamburg: Buske
+# text = akkán d'ufén beexa
+# gloss = COMP-1SG came-1SG know
+# text_en = I know that I came
+1	akkán	_	SCONJ	_	Number=Sing|Person=1	2	mark	_	Gloss=that-I|MSeg=akká-n|MGloss=COMP-1SG
+2	d'ufén	_	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	3	ccomp	_	Gloss=came|MSeg=d'ufé-n|MGloss=came-1SG
+3	beexa	_	VERB	_	_	0	root	_	Gloss=know
+
+# sent_id = 2.97/hi
+# text = aurat ne kahaa ki aadmii ne patthar maaraa
+# gloss = woman ERG said COMP man ERG rock threw
+# text_en = the woman said that the man threw the rock
+1	aurat	aurat	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nsubj	_	Gloss=woman
+2	ne	ne	ADP	_	Case=Erg	1	case	_	Gloss=ERG
+3	kahaa	kahnaa	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=said
+4	ki	ki	SCONJ	_	_	8	mark	_	Gloss=that|MGloss=COMP
+5	aadmii	aadmii	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nsubj	_	Gloss=man
+6	ne	ne	ADP	_	Case=Erg	5	case	_	Gloss=ERG
+7	patthar	patthar	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Gloss=rock
+8	maaraa	maarnaa	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	Gloss=threw
+
