@@ -1,1 +1,190 @@
+1	A	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Offset=0-1
+2	rapariga	_	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Offset=2-10
+3	escreveu	_	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=11-19
+4	uma	_	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Offset=20-23
+5	carta	_	NOUN	_	Gender=Fem|Number=Sing	3	dobj	_	Offset=24-29
+6	para	_	ADP	_	_	8	case	_	Offset=30-34
+7	a	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Offset=35-36
+8	amiga.	_	NOUN	_	Gender=Fem|Number=Sing	5	iobj	_	Offset=37-43
+
+1	Acho	_	Token	_	_	0	_	_	Offset=44-48
+2	que	_	Token	_	_	0	_	_	Offset=49-52
+3	está	_	Token	_	_	0	_	_	Offset=53-57
+4	a	_	Token	_	_	0	_	_	Offset=58-59
+5	chover.	_	Token	_	_	0	_	_	Offset=60-67
+
+1	Ele	_	Token	_	_	0	_	_	Offset=68-71
+2	tentou	_	Token	_	_	0	_	_	Offset=72-78
+3	deixar	_	Token	_	_	0	_	_	Offset=79-85
+4	de	_	Token	_	_	0	_	_	Offset=86-88
+5	fumar	_	Token	_	_	0	_	_	Offset=89-94
+6	e	_	Token	_	_	0	_	_	Offset=95-96
+7	de	_	Token	_	_	0	_	_	Offset=97-99
+8	beber.	_	Token	_	_	0	_	_	Offset=100-106
+
+1	Queres	_	Token	_	_	0	_	_	Offset=107-113
+2	ir?	_	Token	_	_	0	_	_	Offset=114-117
+
+1	Sam,	_	Token	_	_	0	_	_	Offset=118-122
+2	abre	_	Token	_	_	0	_	_	Offset=123-127
+3	a	_	Token	_	_	0	_	_	Offset=128-129
+4	janela!	_	Token	_	_	0	_	_	Offset=130-137
+
+1	Ela	_	Token	_	_	0	_	_	Offset=138-141
+2	obrigou	_	Token	_	_	0	_	_	Offset=142-149
+3	o	_	Token	_	_	0	_	_	Offset=150-151
+4	marido	_	Token	_	_	0	_	_	Offset=152-158
+5	a	_	Token	_	_	0	_	_	Offset=159-160
+6	lavar	_	Token	_	_	0	_	_	Offset=161-166
+7	o	_	Token	_	_	0	_	_	Offset=167-168
+8	carro.	_	Token	_	_	0	_	_	Offset=169-175
+
+1	O	_	Token	_	_	0	_	_	Offset=176-177
+2	vizinho	_	Token	_	_	0	_	_	Offset=178-185
+3	do	_	Token	_	_	0	_	_	Offset=186-188
+4	Peter	_	Token	_	_	0	_	_	Offset=189-194
+5	pintou	_	Token	_	_	0	_	_	Offset=195-201
+6	a	_	Token	_	_	0	_	_	Offset=202-203
+7	vedação	_	Token	_	_	0	_	_	Offset=204-211
+8	de	_	Token	_	_	0	_	_	Offset=212-214
+9	vermelho.	_	Token	_	_	0	_	_	Offset=215-224
+
+1	O	_	Token	_	_	0	_	_	Offset=225-226
+2	meu	_	Token	_	_	0	_	_	Offset=227-230
+3	pai	_	Token	_	_	0	_	_	Offset=231-234
+4	é	_	Token	_	_	0	_	_	Offset=235-236
+5	mais	_	Token	_	_	0	_	_	Offset=237-241
+6	fixe	_	Token	_	_	0	_	_	Offset=242-246
+7	que	_	Token	_	_	0	_	_	Offset=247-250
+8	o	_	Token	_	_	0	_	_	Offset=251-252
+9	teu.	_	Token	_	_	0	_	_	Offset=253-257
+
+1	A	_	Token	_	_	0	_	_	Offset=258-259
+2	Mary	_	Token	_	_	0	_	_	Offset=260-264
+3	ganhou	_	Token	_	_	0	_	_	Offset=265-271
+4	o	_	Token	_	_	0	_	_	Offset=272-273
+5	bronze,	_	Token	_	_	0	_	_	Offset=274-281
+6	o	_	Token	_	_	0	_	_	Offset=282-283
+7	Pedro	_	Token	_	_	0	_	_	Offset=284-289
+8	a	_	Token	_	_	0	_	_	Offset=290-291
+9	prata	_	Token	_	_	0	_	_	Offset=292-297
+10	e	_	Token	_	_	0	_	_	Offset=298-299
+11	a	_	Token	_	_	0	_	_	Offset=300-301
+12	Jane	_	Token	_	_	0	_	_	Offset=302-306
+13	o	_	Token	_	_	0	_	_	Offset=307-308
+14	ouro.	_	Token	_	_	0	_	_	Offset=309-314
+
+1	Iguazu	_	Token	_	_	0	_	_	Offset=315-321
+2	é	_	Token	_	_	0	_	_	Offset=322-323
+3	um	_	Token	_	_	0	_	_	Offset=324-326
+4	país	_	Token	_	_	0	_	_	Offset=327-331
+5	grande	_	Token	_	_	0	_	_	Offset=332-338
+6	ou	_	Token	_	_	0	_	_	Offset=339-341
+7	pequeno?	_	Token	_	_	0	_	_	Offset=342-350
+
+1	Nem	_	Token	_	_	0	_	_	Offset=351-354
+2	o	_	Token	_	_	0	_	_	Offset=355-356
+3	Peter	_	Token	_	_	0	_	_	Offset=357-362
+4	Smith	_	Token	_	_	0	_	_	Offset=363-368
+5	nem	_	Token	_	_	0	_	_	Offset=369-372
+6	a	_	Token	_	_	0	_	_	Offset=373-374
+7	Mary	_	Token	_	_	0	_	_	Offset=375-379
+8	Brown	_	Token	_	_	0	_	_	Offset=380-385
+9	poderiam	_	Token	_	_	0	_	_	Offset=386-394
+10	ser	_	Token	_	_	0	_	_	Offset=395-398
+11	seleccionados.	_	Token	_	_	0	_	_	Offset=399-413
+
+1	Eles	_	Token	_	_	0	_	_	Offset=414-418
+2	não	_	Token	_	_	0	_	_	Offset=419-422
+3	fazem	_	Token	_	_	0	_	_	Offset=423-428
+4	ideia	_	Token	_	_	0	_	_	Offset=429-434
+5	de	_	Token	_	_	0	_	_	Offset=435-437
+6	quem	_	Token	_	_	0	_	_	Offset=438-442
+7	escreveu	_	Token	_	_	0	_	_	Offset=443-451
+8	aquilo.	_	Token	_	_	0	_	_	Offset=452-459
+
+1	Estás	_	Token	_	_	0	_	_	Offset=460-465
+2	a	_	Token	_	_	0	_	_	Offset=466-467
+3	olhar	_	Token	_	_	0	_	_	Offset=468-473
+4	para	_	Token	_	_	0	_	_	Offset=474-478
+5	o	_	Token	_	_	0	_	_	Offset=479-480
+6	quê?	_	Token	_	_	0	_	_	Offset=481-485
+
+1	Quando	_	Token	_	_	0	_	_	Offset=486-492
+2	achas	_	Token	_	_	0	_	_	Offset=493-498
+3	que	_	Token	_	_	0	_	_	Offset=499-502
+4	podes	_	Token	_	_	0	_	_	Offset=503-508
+5	vir?	_	Token	_	_	0	_	_	Offset=509-513
+
+1	Ele	_	Token	_	_	0	_	_	Offset=514-517
+2	comprou	_	Token	_	_	0	_	_	Offset=518-525
+3	um	_	Token	_	_	0	_	_	Offset=526-528
+4	carro	_	Token	_	_	0	_	_	Offset=529-534
+5	mas	_	Token	_	_	0	_	_	Offset=535-538
+6	o	_	Token	_	_	0	_	_	Offset=539-540
+7	seu	_	Token	_	_	0	_	_	Offset=541-544
+8	irmão	_	Token	_	_	0	_	_	Offset=545-550
+9	apenas	_	Token	_	_	0	_	_	Offset=551-557
+10	uma	_	Token	_	_	0	_	_	Offset=558-561
+11	bicicleta.	_	Token	_	_	0	_	_	Offset=562-572
+
+1	O	_	Token	_	_	0	_	_	Offset=573-574
+2	Peter	_	Token	_	_	0	_	_	Offset=575-580
+3	e	_	Token	_	_	0	_	_	Offset=581-582
+4	a	_	Token	_	_	0	_	_	Offset=583-584
+5	Mary	_	Token	_	_	0	_	_	Offset=585-589
+6	abraçaram-se	_	Token	_	_	0	_	_	Offset=590-602
+7	e	_	Token	_	_	0	_	_	Offset=603-604
+8	depois	_	Token	_	_	0	_	_	Offset=605-611
+9	saíram	_	Token	_	_	0	_	_	Offset=612-618
+10	da	_	Token	_	_	0	_	_	Offset=619-621
+11	sala.	_	Token	_	_	0	_	_	Offset=622-627
+
+1	Ela	_	Token	_	_	0	_	_	Offset=628-631
+2	deveria	_	Token	_	_	0	_	_	Offset=632-639
+3	estar	_	Token	_	_	0	_	_	Offset=640-645
+4	a	_	Token	_	_	0	_	_	Offset=646-647
+5	arranjar	_	Token	_	_	0	_	_	Offset=648-656
+6	o	_	Token	_	_	0	_	_	Offset=657-658
+7	cabelo	_	Token	_	_	0	_	_	Offset=659-665
+8	mas	_	Token	_	_	0	_	_	Offset=666-669
+9	por	_	Token	_	_	0	_	_	Offset=670-673
+10	qualquer	_	Token	_	_	0	_	_	Offset=674-682
+11	motivo	_	Token	_	_	0	_	_	Offset=683-689
+12	naquele	_	Token	_	_	0	_	_	Offset=690-697
+13	dia	_	Token	_	_	0	_	_	Offset=698-701
+14	não	_	Token	_	_	0	_	_	Offset=702-705
+15	o	_	Token	_	_	0	_	_	Offset=706-707
+16	arranjaria.	_	Token	_	_	0	_	_	Offset=708-719
+
+1	Eu	_	Token	_	_	0	_	_	Offset=720-722
+2	não	_	Token	_	_	0	_	_	Offset=723-726
+3	fui	_	Token	_	_	0	_	_	Offset=727-730
+4	capaz	_	Token	_	_	0	_	_	Offset=731-736
+5	de	_	Token	_	_	0	_	_	Offset=737-739
+6	acompanhar,	_	Token	_	_	0	_	_	Offset=740-751
+7	porque	_	Token	_	_	0	_	_	Offset=752-758
+8	ele	_	Token	_	_	0	_	_	Offset=759-762
+9	correu	_	Token	_	_	0	_	_	Offset=763-769
+10	demasiado	_	Token	_	_	0	_	_	Offset=770-779
+11	depressa.	_	Token	_	_	0	_	_	Offset=780-789
+
+1	Esta	_	Token	_	_	0	_	_	Offset=790-794
+2	carta	_	Token	_	_	0	_	_	Offset=795-800
+3	é	_	Token	_	_	0	_	_	Offset=801-802
+4	do	_	Token	_	_	0	_	_	Offset=803-805
+5	Peter	_	Token	_	_	0	_	_	Offset=806-811
+6	e	_	Token	_	_	0	_	_	Offset=812-813
+7	foi	_	Token	_	_	0	_	_	Offset=814-817
+8	entregue	_	Token	_	_	0	_	_	Offset=818-826
+9	ontem.	_	Token	_	_	0	_	_	Offset=827-833
+
+1	Ela	_	Token	_	_	0	_	_	Offset=834-837
+2	cresceu	_	Token	_	_	0	_	_	Offset=838-845
+3	em	_	Token	_	_	0	_	_	Offset=846-848
+4	Paris,	_	Token	_	_	0	_	_	Offset=849-855
+5	a	_	Token	_	_	0	_	_	Offset=856-857
+6	capital	_	Token	_	_	0	_	_	Offset=858-865
+7	de	_	Token	_	_	0	_	_	Offset=866-868
+8	França.	_	Token	_	_	0	_	_	Offset=869-876
 

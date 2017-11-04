@@ -1,1 +1,202 @@
+1	Jenten	_	Token	_	_	0	_	_	Offset=0-6
+2	skrev	_	Token	_	_	0	_	_	Offset=7-12
+3	et	_	Token	_	_	0	_	_	Offset=13-15
+4	brev	_	Token	_	_	0	_	_	Offset=16-20
+5	til	_	Token	_	_	0	_	_	Offset=21-24
+6	vennen	_	Token	_	_	0	_	_	Offset=25-31
+7	sin	_	Token	_	_	0	_	_	Offset=32-35
+8	.	_	Token	_	_	0	_	_	Offset=36-37
+
+1	Jeg	_	PRON	_	_	2	nsubj	_	Offset=38-41
+2	tror	_	VERB	_	_	0	_	_	Offset=42-46
+3	det	_	Token	_	_	0	_	_	Offset=47-50
+4	regner	_	Token	_	_	0	_	_	Offset=51-57
+5	.	_	Token	_	_	0	_	_	Offset=58-59
+
+1	Han	_	Token	_	_	0	_	_	Offset=60-63
+2	prøvde	_	Token	_	_	0	_	_	Offset=64-70
+3	å	_	Token	_	_	0	_	_	Offset=71-72
+4	slutte	_	Token	_	_	0	_	_	Offset=73-79
+5	med	_	Token	_	_	0	_	_	Offset=80-83
+6	røyking	_	Token	_	_	0	_	_	Offset=84-91
+7	og	_	Token	_	_	0	_	_	Offset=92-94
+8	drikking	_	Token	_	_	0	_	_	Offset=95-103
+9	.	_	Token	_	_	0	_	_	Offset=104-105
+
+1	Vil	_	Token	_	_	0	_	_	Offset=106-109
+2	du	_	Token	_	_	0	_	_	Offset=110-112
+3	dra	_	Token	_	_	0	_	_	Offset=113-116
+4	?	_	Token	_	_	0	_	_	Offset=117-118
+
+1	Sam	_	Token	_	_	0	_	_	Offset=119-122
+2	,	_	Token	_	_	0	_	_	Offset=123-124
+3	lukk	_	Token	_	_	0	_	_	Offset=125-129
+4	opp	_	Token	_	_	0	_	_	Offset=130-133
+5	vinduet	_	Token	_	_	0	_	_	Offset=134-141
+6	!	_	Token	_	_	0	_	_	Offset=142-143
+
+1	Hun	_	Token	_	_	0	_	_	Offset=144-147
+2	fikk	_	Token	_	_	0	_	_	Offset=148-152
+3	mannen	_	Token	_	_	0	_	_	Offset=153-159
+4	sin	_	Token	_	_	0	_	_	Offset=160-163
+5	til	_	Token	_	_	0	_	_	Offset=164-167
+6	å	_	Token	_	_	0	_	_	Offset=168-169
+7	vaske	_	Token	_	_	0	_	_	Offset=170-175
+8	bilen	_	Token	_	_	0	_	_	Offset=176-181
+9	.	_	Token	_	_	0	_	_	Offset=182-183
+
+1	Naboen	_	Token	_	_	0	_	_	Offset=184-190
+2	til	_	Token	_	_	0	_	_	Offset=191-194
+3	Peter	_	Token	_	_	0	_	_	Offset=195-200
+4	malte	_	Token	_	_	0	_	_	Offset=201-206
+5	gjerdet	_	Token	_	_	0	_	_	Offset=207-214
+6	rødt	_	Token	_	_	0	_	_	Offset=215-219
+7	.	_	Token	_	_	0	_	_	Offset=220-221
+
+1	Pappaen	_	Token	_	_	0	_	_	Offset=222-229
+2	min	_	Token	_	_	0	_	_	Offset=230-233
+3	er	_	Token	_	_	0	_	_	Offset=234-236
+4	kulere	_	Token	_	_	0	_	_	Offset=237-243
+5	enn	_	Token	_	_	0	_	_	Offset=244-247
+6	din	_	Token	_	_	0	_	_	Offset=248-251
+7	.	_	Token	_	_	0	_	_	Offset=252-253
+
+1	Mary	_	PRON	_	_	0	_	_	Offset=254-258
+2	vant	_	Token	_	_	0	_	_	Offset=259-263
+3	bronse	_	Token	_	_	0	_	_	Offset=264-270
+4	,	_	Token	_	_	0	_	_	Offset=271-272
+5	Peter	_	Token	_	_	0	_	_	Offset=273-278
+6	sølv	_	Token	_	_	0	_	_	Offset=279-283
+7	,	_	Token	_	_	0	_	_	Offset=284-285
+8	og	_	Token	_	_	0	_	_	Offset=286-288
+9	Jane	_	Token	_	_	0	_	_	Offset=289-293
+10	gull	_	Token	_	_	0	_	_	Offset=294-298
+11	.	_	Token	_	_	0	_	_	Offset=299-300
+
+1	Er	_	Token	_	_	0	_	_	Offset=301-303
+2	Iguazu	_	Token	_	_	0	_	_	Offset=304-310
+3	et	_	Token	_	_	0	_	_	Offset=311-313
+4	stort	_	Token	_	_	0	_	_	Offset=314-319
+5	eller	_	Token	_	_	0	_	_	Offset=320-325
+6	lite	_	Token	_	_	0	_	_	Offset=326-330
+7	land	_	Token	_	_	0	_	_	Offset=331-335
+8	?	_	Token	_	_	0	_	_	Offset=336-337
+
+1	Hverken	_	Token	_	_	0	_	_	Offset=338-345
+2	Peter	_	Token	_	_	0	_	_	Offset=346-351
+3	Smith	_	Token	_	_	0	_	_	Offset=352-357
+4	eller	_	Token	_	_	0	_	_	Offset=358-363
+5	Mary	_	Token	_	_	0	_	_	Offset=364-368
+6	Brown	_	Token	_	_	0	_	_	Offset=369-374
+7	kunne	_	Token	_	_	0	_	_	Offset=375-380
+8	velges	_	Token	_	_	0	_	_	Offset=381-387
+9	.	_	Token	_	_	0	_	_	Offset=388-389
+
+1	De	_	Token	_	_	0	_	_	Offset=390-392
+2	aner	_	Token	_	_	0	_	_	Offset=393-397
+3	ikke	_	Token	_	_	0	_	_	Offset=398-402
+4	hvem	_	Token	_	_	0	_	_	Offset=403-407
+5	som	_	Token	_	_	0	_	_	Offset=408-411
+6	skrev	_	Token	_	_	0	_	_	Offset=412-417
+7	det	_	Token	_	_	0	_	_	Offset=418-421
+8	.	_	Token	_	_	0	_	_	Offset=422-423
+
+1	Hva	_	Token	_	_	0	_	_	Offset=424-427
+2	ser	_	Token	_	_	0	_	_	Offset=428-431
+3	du	_	Token	_	_	0	_	_	Offset=432-434
+4	på	_	Token	_	_	0	_	_	Offset=435-437
+5	?	_	Token	_	_	0	_	_	Offset=438-439
+
+1	Når	_	Token	_	_	0	_	_	Offset=440-443
+2	tror	_	Token	_	_	0	_	_	Offset=444-448
+3	du	_	Token	_	_	0	_	_	Offset=449-451
+4	at	_	Token	_	_	0	_	_	Offset=452-454
+5	du	_	Token	_	_	0	_	_	Offset=455-457
+6	kan	_	Token	_	_	0	_	_	Offset=458-461
+7	komme	_	Token	_	_	0	_	_	Offset=462-467
+8	?	_	Token	_	_	0	_	_	Offset=468-469
+
+1	Han	_	Token	_	_	0	_	_	Offset=470-473
+2	kjøpte	_	Token	_	_	0	_	_	Offset=474-480
+3	en	_	Token	_	_	0	_	_	Offset=481-483
+4	bil	_	Token	_	_	0	_	_	Offset=484-487
+5	,	_	Token	_	_	0	_	_	Offset=488-489
+6	men	_	Token	_	_	0	_	_	Offset=490-493
+7	broren	_	Token	_	_	0	_	_	Offset=494-500
+8	hans	_	Token	_	_	0	_	_	Offset=501-505
+9	bare	_	Token	_	_	0	_	_	Offset=506-510
+10	en	_	Token	_	_	0	_	_	Offset=511-513
+11	sykkel	_	Token	_	_	0	_	_	Offset=514-520
+12	.	_	Token	_	_	0	_	_	Offset=521-522
+
+1	Peter	_	Token	_	_	0	_	_	Offset=523-528
+2	og	_	Token	_	_	0	_	_	Offset=529-531
+3	Mary	_	Token	_	_	0	_	_	Offset=532-536
+4	klemte	_	Token	_	_	0	_	_	Offset=537-543
+5	hverandre	_	Token	_	_	0	_	_	Offset=544-553
+6	og	_	Token	_	_	0	_	_	Offset=554-556
+7	forlot	_	Token	_	_	0	_	_	Offset=557-563
+8	så	_	Token	_	_	0	_	_	Offset=564-566
+9	rommet	_	Token	_	_	0	_	_	Offset=567-573
+10	.	_	Token	_	_	0	_	_	Offset=574-575
+
+1	Hun	_	Token	_	_	0	_	_	Offset=576-579
+2	skulle	_	Token	_	_	0	_	_	Offset=580-586
+3	ha	_	Token	_	_	0	_	_	Offset=587-589
+4	holdt	_	Token	_	_	0	_	_	Offset=590-595
+5	på	_	Token	_	_	0	_	_	Offset=596-598
+6	å	_	Token	_	_	0	_	_	Offset=599-600
+7	sette	_	Token	_	_	0	_	_	Offset=601-606
+8	opp	_	Token	_	_	0	_	_	Offset=607-610
+9	håret	_	Token	_	_	0	_	_	Offset=611-616
+10	,	_	Token	_	_	0	_	_	Offset=617-618
+11	men	_	Token	_	_	0	_	_	Offset=619-622
+12	av	_	Token	_	_	0	_	_	Offset=623-625
+13	en	_	Token	_	_	0	_	_	Offset=626-628
+14	eller	_	Token	_	_	0	_	_	Offset=629-634
+15	annen	_	Token	_	_	0	_	_	Offset=635-640
+16	grunn	_	Token	_	_	0	_	_	Offset=641-646
+17	ville	_	Token	_	_	0	_	_	Offset=647-652
+18	hun	_	Token	_	_	0	_	_	Offset=653-656
+19	ikke	_	Token	_	_	0	_	_	Offset=657-661
+20	den	_	Token	_	_	0	_	_	Offset=662-665
+21	dagen	_	Token	_	_	0	_	_	Offset=666-671
+22	.	_	Token	_	_	0	_	_	Offset=672-673
+
+1	Jeg	_	Token	_	_	0	_	_	Offset=674-677
+2	klarte	_	Token	_	_	0	_	_	Offset=678-684
+3	ikke	_	Token	_	_	0	_	_	Offset=685-689
+4	å	_	Token	_	_	0	_	_	Offset=690-691
+5	holde	_	Token	_	_	0	_	_	Offset=692-697
+6	følge	_	Token	_	_	0	_	_	Offset=698-703
+7	fordi	_	Token	_	_	0	_	_	Offset=704-709
+8	han	_	Token	_	_	0	_	_	Offset=710-713
+9	sprang	_	Token	_	_	0	_	_	Offset=714-720
+10	for	_	Token	_	_	0	_	_	Offset=721-724
+11	fort	_	Token	_	_	0	_	_	Offset=725-729
+12	.	_	Token	_	_	0	_	_	Offset=730-731
+
+1	Dette	_	Token	_	_	0	_	_	Offset=732-737
+2	brevet	_	Token	_	_	0	_	_	Offset=738-744
+3	er	_	Token	_	_	0	_	_	Offset=745-747
+4	fra	_	Token	_	_	0	_	_	Offset=748-751
+5	Peter	_	Token	_	_	0	_	_	Offset=752-757
+6	,	_	Token	_	_	0	_	_	Offset=758-759
+7	og	_	Token	_	_	0	_	_	Offset=760-762
+8	det	_	Token	_	_	0	_	_	Offset=763-766
+9	ble	_	Token	_	_	0	_	_	Offset=767-770
+10	levert	_	Token	_	_	0	_	_	Offset=771-777
+11	i	_	Token	_	_	0	_	_	Offset=778-779
+12	går	_	Token	_	_	0	_	_	Offset=780-783
+13	.	_	Token	_	_	0	_	_	Offset=784-785
+
+1	Hun	_	Token	_	_	0	_	_	Offset=786-789
+2	vokste	_	Token	_	_	0	_	_	Offset=790-796
+3	opp	_	Token	_	_	0	_	_	Offset=797-800
+4	i	_	Token	_	_	0	_	_	Offset=801-802
+5	Paris	_	Token	_	_	0	_	_	Offset=803-808
+6	,	_	Token	_	_	0	_	_	Offset=809-810
+7	Frankrikes	_	Token	_	_	0	_	_	Offset=811-821
+8	hovedstad	_	Token	_	_	0	_	_	Offset=822-831
+9	.	_	Token	_	_	0	_	_	Offset=832-833
 

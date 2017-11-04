@@ -1,1 +1,169 @@
+1	ˑ.ˑ	_	PUNCT	_	_	6	punct	_	Offset=0-3
+2	ˑصديقهاˑ	_	NOUN	_	_	6	iobj	_	Offset=4-12
+3	ˑإلىˑ	_	ADP	_	_	2	case	_	Offset=13-18
+4	ˑرسالةˑ	_	NOUN	_	_	6	dobj	_	Offset=19-26
+5	ˑالفتاةˑ	_	NOUN	_	_	6	nsubj	_	Offset=27-35
+6	ˑكتبتˑ	_	VERB	_	_	0	_	_	Offset=36-42
+
+1	ˑ.ˑ	_	PUNCT	_	_	4	punct	_	Offset=43-46
+2	ˑتمطرˑ	_	VERB	_	_	4	dobj	_	Offset=47-53
+3	ˑأنهاˑ	_	SCONJ	_	_	2	expl	_	Offset=54-60
+4	ˑأعتقدˑ	_	VERB	_	Animacy=Anim|Gender=Neut|Negative=Pos|Number=Sing|Person=1|Tense=Pres	0	_	_	Offset=61-68
+
+1	ˑ.ˑ	_	PUNCT	_	_	7	punct	_	Offset=69-72
+2	ˑوالشربˑ	_	NOUN	_	_	3	conj	_	Offset=73-81
+3	ˑالتدخينˑ	_	NOUN	_	_	4	cc	_	Offset=82-91
+4	ˑعنˑ	_	ADP	_	_	5	xcomp	_	Offset=92-96
+5	ˑيتوقّفˑ	_	VERB	_	_	6	ccomp	_	Offset=97-105
+6	ˑأنˑ	_	PART	_	_	0	_	_	Offset=106-110
+7	ˑحاولˑ	_	VERB	_	_	0	_	_	Offset=111-117
+
+1	ˑ؟ˑ	_	PUNCT	_	_	0	_	_	Offset=118-121
+2	ˑالذهابˑ	_	NOUN	_	_	0	_	_	Offset=122-130
+3	ˑتريدˑ	_	VERB	_	_	0	_	_	Offset=131-137
+4	ˑهلˑ	_	PART	_	_	0	_	_	Offset=138-142
+
+1	ˑ!ˑ	_	PUNCT	_	_	0	_	_	Offset=143-146
+2	ˑالنافذةˑ	_	NOUN	_	_	0	_	_	Offset=147-156
+3	ˑافتحˑ	_	VERB	_	_	5	xcomp	_	Offset=157-163
+4	ˑ,ˑ	_	PUNCT	_	_	0	_	_	Offset=164-167
+5	ˑسامˑ	_	NOUN	_	_	0	_	_	Offset=168-173
+
+1	ˑ.ˑ	_	PUNCT	_	_	0	_	_	Offset=174-177
+2	ˑالسيّارةˑ	_	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	0	_	_	Offset=178-188
+3	ˑيغسلˑ	_	VERB	_	Aspect=Prog|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	_	_	Offset=189-195
+4	ˑزوجهاˑ	_	VERB	_	_	0	_	_	Offset=196-203
+5	ˑجعلتˑ	_	VERB	_	_	2	advcl	_	Offset=204-210
+
+1	ˑ.ˑ	_	PUNCT	_	_	0	_	_	Offset=211-214
+2	ˑبالأحمرˑ	_	NOUN	_	Case=Abl|Definite=Def|Gender=Masc|Number=Sing	0	_	_	Offset=215-224
+3	ˑالحائطˑ	_	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	_	_	Offset=225-233
+4	ˑدهنˑ	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Voice=Act	0	_	_	Offset=234-239
+5	ˑبيترˑ	_	NOUN	_	Animacy=Anim|Case=Add|Definite=Def|Gender=Masc|Number=Sing	0	_	_	Offset=240-246
+6	ˑجارˑ	_	NOUN	_	Animacy=Anim|Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	Offset=247-252
+
+1	ˑ.ˑ	_	PUNCT	_	_	0	_	_	Offset=253-256
+2	ˑوالدكˑ	_	NOUN	_	_	0	_	_	Offset=257-264
+3	ˑمنˑ	_	ADP	_	_	0	_	_	Offset=265-269
+4	ˑأظرفˑ	_	ADJ	_	_	0	_	_	Offset=270-276
+5	ˑوالديˑ	_	NOUN	_	Animacy=Anim|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	_	_	Offset=277-284
+
+1	ˑ.ˑ	_	Token	_	_	0	_	_	Offset=285-288
+2	ˑبالذهبيةˑ	_	Token	_	_	0	_	_	Offset=289-299
+3	ˑوجينˑ	_	Token	_	_	0	_	_	Offset=300-306
+4	ˑ,ˑ	_	Token	_	_	0	_	_	Offset=307-310
+5	ˑبالفضيةˑ	_	Token	_	_	0	_	_	Offset=311-320
+6	ˑبيترˑ	_	Token	_	_	0	_	_	Offset=321-327
+7	ˑ,ˑ	_	Token	_	_	0	_	_	Offset=328-331
+8	ˑبالبرونزيةˑ	_	Token	_	_	0	_	_	Offset=332-344
+9	ˑفازتˑ	_	Token	_	_	0	_	_	Offset=345-351
+10	ˑماريˑ	_	Token	_	_	0	_	_	Offset=352-358
+
+1	ˑ؟ˑ	_	Token	_	_	0	_	_	Offset=359-362
+2	ˑصغيرˑ	_	Token	_	_	0	_	_	Offset=363-369
+3	ˑأمˑ	_	Token	_	_	0	_	_	Offset=370-374
+4	ˑكبيرˑ	_	Token	_	_	0	_	_	Offset=375-381
+5	ˑبلدˑ	_	Token	_	_	0	_	_	Offset=382-387
+6	ˑهيˑ	_	Token	_	_	0	_	_	Offset=388-392
+7	ˑإجوازوˑ	_	Token	_	_	0	_	_	Offset=393-401
+8	ˑهلˑ	_	Token	_	_	0	_	_	Offset=402-406
+
+1	ˑ.ˑ	_	Token	_	_	0	_	_	Offset=407-410
+2	ˑاختيارهماˑ	_	Token	_	_	0	_	_	Offset=411-422
+3	ˑيمكنˑ	_	Token	_	_	0	_	_	Offset=423-429
+4	ˑبراونˑ	_	Token	_	_	0	_	_	Offset=430-437
+5	ˑماريˑ	_	Token	_	_	0	_	_	Offset=438-444
+6	ˑلاˑ	_	Token	_	_	0	_	_	Offset=445-449
+7	ˑوˑ	_	Token	_	_	0	_	_	Offset=450-453
+8	ˑسميثˑ	_	Token	_	_	0	_	_	Offset=454-460
+9	ˑبيترˑ	_	Token	_	_	0	_	_	Offset=461-467
+10	ˑلاˑ	_	Token	_	_	0	_	_	Offset=468-472
+
+1	ˑ.ˑ	_	Token	_	_	0	_	_	Offset=473-476
+2	ˑذلكˑ	_	Token	_	_	0	_	_	Offset=477-482
+3	ˑكتبˑ	_	Token	_	_	0	_	_	Offset=483-488
+4	ˑمنˑ	_	Token	_	_	0	_	_	Offset=489-493
+5	ˑفكرةˑ	_	Token	_	_	0	_	_	Offset=494-500
+6	ˑلديهمˑ	_	Token	_	_	0	_	_	Offset=501-508
+7	ˑليسˑ	_	Token	_	_	0	_	_	Offset=509-514
+
+1	ˑ؟ˑ	_	Token	_	_	0	_	_	Offset=515-518
+2	ˑتنظرˑ	_	Token	_	_	0	_	_	Offset=519-525
+3	ˑماذاˑ	_	Token	_	_	0	_	_	Offset=526-532
+4	ˑإلاˑ	_	Token	_	_	0	_	_	Offset=533-538
+
+1	ˑ؟ˑ	_	Token	_	_	0	_	_	Offset=539-542
+2	ˑالقدومˑ	_	Token	_	_	0	_	_	Offset=543-551
+3	ˑتستطيعˑ	_	Token	_	_	0	_	_	Offset=552-560
+4	ˑتعتقدˑ	_	Token	_	_	0	_	_	Offset=561-568
+5	ˑمتىˑ	_	Token	_	_	0	_	_	Offset=569-574
+
+1	ˑ.ˑ	_	Token	_	_	0	_	_	Offset=575-578
+2	ˑدراجةˑ	_	Token	_	_	0	_	_	Offset=579-586
+3	ˑفقطˑ	_	Token	_	_	0	_	_	Offset=587-592
+4	ˑأخاهˑ	_	Token	_	_	0	_	_	Offset=593-599
+5	ˑلكنˑ	_	Token	_	_	0	_	_	Offset=600-605
+6	ˑسيارةˑ	_	Token	_	_	0	_	_	Offset=606-613
+7	ˑاشترىˑ	_	VERB	_	_	0	_	_	Offset=614-621
+8	ˑهوˑ	_	Token	_	_	0	_	_	Offset=622-626
+
+1	ˑ.ˑ	_	Token	_	_	0	_	_	Offset=627-630
+2	ˑالغرفةˑ	_	Token	_	_	0	_	_	Offset=631-639
+3	ˑمنˑ	_	Token	_	_	0	_	_	Offset=640-644
+4	ˑخرجاˑ	_	Token	_	_	0	_	_	Offset=645-651
+5	ˑثمˑ	_	Token	_	_	0	_	_	Offset=652-656
+6	ˑبعضهماˑ	_	Token	_	_	0	_	_	Offset=657-665
+7	ˑحضناˑ	_	Token	_	_	0	_	_	Offset=666-672
+8	ˑوماريˑ	_	Token	_	_	0	_	_	Offset=673-680
+9	ˑبيترˑ	_	Token	_	_	0	_	_	Offset=681-687
+
+1	ˑ.ˑ	_	Token	_	_	0	_	_	Offset=688-691
+2	ˑاليومˑ	_	Token	_	_	0	_	_	Offset=692-699
+3	ˑذلكˑ	_	Token	_	_	0	_	_	Offset=700-705
+4	ˑتفعلˑ	_	Token	_	_	0	_	_	Offset=706-712
+5	ˑلمˑ	_	Token	_	_	0	_	_	Offset=713-717
+6	ˑماˑ	_	Token	_	_	0	_	_	Offset=718-722
+7	ˑلسببˑ	_	Token	_	_	0	_	_	Offset=723-729
+8	ˑلكنˑ	_	Token	_	_	0	_	_	Offset=730-735
+9	ˑوˑ	_	Token	_	_	0	_	_	Offset=736-739
+10	ˑشعرهاˑ	_	Token	_	_	0	_	_	Offset=740-747
+11	ˑتصففˑ	_	Token	_	_	0	_	_	Offset=748-754
+12	ˑانˑ	_	Token	_	_	0	_	_	Offset=755-759
+13	ˑعليهاˑ	_	Token	_	_	0	_	_	Offset=760-767
+14	ˑالمفترضˑ	_	Token	_	_	0	_	_	Offset=768-777
+15	ˑمنˑ	_	Token	_	_	0	_	_	Offset=778-782
+16	ˑكانˑ	_	Token	_	_	0	_	_	Offset=783-788
+
+1	ˑ.ˑ	_	Token	_	_	0	_	_	Offset=789-792
+2	ˑكبيرةˑ	_	Token	_	_	0	_	_	Offset=793-800
+3	ˑبسرعةˑ	_	Token	_	_	0	_	_	Offset=801-808
+4	ˑيركضˑ	_	Token	_	_	0	_	_	Offset=809-815
+5	ˑكانˑ	_	Token	_	_	0	_	_	Offset=816-821
+6	ˑلأنهˑ	_	Token	_	_	0	_	_	Offset=822-828
+7	ˑ,ˑ	_	Token	_	_	0	_	_	Offset=829-832
+8	ˑأواصلˑ	_	Token	_	_	0	_	_	Offset=833-840
+9	ˑأنˑ	_	Token	_	_	0	_	_	Offset=841-845
+10	ˑعلىˑ	_	Token	_	_	0	_	_	Offset=846-851
+11	ˑقادرˑ	_	Token	_	_	0	_	_	Offset=852-858
+12	ˑأكنˑ	_	Token	_	_	0	_	_	Offset=859-864
+13	ˑلمˑ	_	Token	_	_	0	_	_	Offset=865-869
+
+1	ˑ.ˑ	_	Token	_	_	0	_	_	Offset=870-873
+2	ˑالبارحةˑ	_	Token	_	_	0	_	_	Offset=874-883
+3	ˑوصلتˑ	_	Token	_	_	0	_	_	Offset=884-890
+4	ˑقدˑ	_	Token	_	_	0	_	_	Offset=891-895
+5	ˑوˑ	_	Token	_	_	0	_	_	Offset=896-899
+6	ˑبيترˑ	_	Token	_	_	0	_	_	Offset=900-906
+7	ˑمنˑ	_	Token	_	_	0	_	_	Offset=907-911
+8	ˑالرسالةˑ	_	Token	_	_	0	_	_	Offset=912-921
+9	ˑهذهˑ	_	Token	_	_	0	_	_	Offset=922-927
+
+1	ˑ.ˑ	_	Token	_	_	0	_	_	Offset=928-931
+2	ˑفرنساˑ	_	Token	_	_	0	_	_	Offset=932-939
+3	ˑعاصمةˑ	_	Token	_	_	0	_	_	Offset=940-947
+4	ˑ,ˑ	_	Token	_	_	0	_	_	Offset=948-951
+5	ˑباريسˑ	_	Token	_	_	0	_	_	Offset=952-959
+6	ˑفيˑ	_	Token	_	_	0	_	_	Offset=960-964
+7	ˑترعرعتˑ	_	VERB	_	_	0	_	_	Offset=965-973
+8	ˑهيˑ	_	Token	_	_	0	_	_	Offset=974-978
 

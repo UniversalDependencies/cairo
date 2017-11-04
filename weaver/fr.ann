@@ -1,0 +1,246 @@
+T1	Token 680 681	.
+T2	Token 682 686	Elle
+T3	Token 671 673	la
+T4	Token 674 679	salle
+T5	Token 697 699	se
+T6	Token 700 707	coiffer
+T7	Token 687 693	aurait
+T8	Token 694 696	dû
+T9	Token 227 234	clôture
+T10	Token 708 709	,
+T11	Token 710 714	mais
+T12	Token 235 237	en
+T13	Token 306 307	,
+T14	Token 308 313	Peter
+T15	Token 296 298	le
+T16	Token 299 305	bronze
+T17	Token 324 326	et
+T18	Token 327 331	Jane
+T19	Token 314 316	l'
+T20	Token 317 323	argent
+T21	Token 332 334	l'
+T22	Token 335 337	or
+T23	Token 190 194	mari
+T24	Token 238 243	rouge
+T25	Token 250 254	papa
+T26	Token 664 670	quitté
+T27	Token 660 663	ont
+T28	Token 642 651	embrassés
+T29	Token 637 641	sont
+T30	Token 655 659	puis
+T31	Token 652 654	et
+T32	Token 626 628	et
+T33	Token 620 625	Peter
+T34	Token 634 636	se
+T35	Token 629 633	Mary
+T36	Token 182 185	par
+T37	Token 377 382	petit
+T38	Token 374 376	un
+T39	Token 371 373	ou
+T40	Token 365 370	grand
+T41	Token 362 364	un
+T42	Token 358 361	est
+T43	Token 351 357	Iguazu
+T44	Token 347 350	que
+T45	Token 340 346	Est-ce
+T46	Token 338 339	.
+T47	Token 607 617	bicyclette
+T48	Token 618 619	.
+T49	Token 165 170	laver
+T50	Token 750 752	l'
+T51	Token 560 566	acheté
+T52	Token 567 569	un
+T53	Token 570 577	voiture
+T54	Token 578 582	mais
+T55	Token 583 586	son
+T56	Token 587 592	frère
+T57	Token 593 602	seulement
+T58	Token 603 606	une
+T59	Token 54 56	il
+T60	Token 57 62	pleut
+T61	Token 63 64	.
+T62	Token 65 67	Il
+T63	PUNCT 39 40	.
+T64	Token 41 43	Je
+T65	Token 44 49	crois
+T66	Token 50 53	qu'
+T67	Token 186 189	son
+T68	Token 68 69	a
+T69	Token 70 76	essayé
+T70	DET 30 33	son
+T71	NOUN 34 38	amie
+T72	DET 0 2	La
+T73	Token 419 421	n'
+T74	Token 422 425	ont
+T75	Token 399 404	Smith
+T76	Token 405 407	ni
+T77	Token 408 412	Mary
+T78	Token 413 418	Brown
+T79	Token 383 387	pays
+T80	Token 388 389	?
+T81	Token 390 392	Ni
+T82	Token 393 398	Peter
+T83	Token 558 559	a
+T84	Token 555 557	Il
+T85	Token 523 528	Quand
+T86	Token 521 522	?
+T87	Token 512 520	regardes
+T88	Token 509 511	tu
+T89	Token 553 554	?
+T90	Token 547 552	venir
+T91	Token 539 546	pouvoir
+T92	Token 529 538	penses-tu
+T93	Token 119 125	partir
+T94	Token 111 118	Veux-tu
+T95	Token 80 87	arrêter
+T96	Token 77 79	d'
+T97	Token 91 96	fumer
+T98	Token 88 90	de
+T99	Token 100 102	de
+T100	Token 97 99	et
+T101	Token 109 110	.
+T102	Token 103 108	boire
+T103	Token 224 226	la
+T104	Token 158 159	a
+T105	Token 160 164	fait
+T106	Token 151 152	!
+T107	Token 153 157	Elle
+T108	Token 140 142	la
+T109	Token 143 150	fenêtre
+T110	Token 132 133	,
+T111	VERB 134 139	ouvre
+T112	Token 126 127	?
+T113	Token 128 131	Sam
+T114	Token 933 935	la
+T115	Token 936 942	France
+T116	Token 908 909	à
+T117	Token 910 915	Paris
+T118	Token 899 900	a
+T119	Token 901 907	grandi
+T120	Token 921 929	capitale
+T121	Token 930 932	de
+T122	Token 916 917	,
+T123	Token 918 920	la
+T124	Token 288 289	a
+T125	Token 207 209	de
+T126	Token 200 206	voisin
+T127	Token 943 944	.
+T128	Token 892 893	.
+T129	Token 894 898	Elle
+T130	Token 876 886	distribuée
+T131	Token 887 891	hier
+T132	Token 870 871	a
+T133	Token 872 875	été
+T134	Token 862 864	et
+T135	Token 865 869	elle
+T136	Token 853 855	de
+T137	Token 856 861	Peter
+T138	Token 496 499	est
+T139	Token 500 501	-
+T140	Token 490 491	.
+T141	Token 492 495	Qu'
+T142	Token 482 483	a
+T143	Token 484 489	écrit
+T144	Token 475 478	qui
+T145	Token 479 481	l'
+T146	Token 502 504	ce
+T147	Token 505 508	que
+T148	Token 780 782	n'
+T149	Token 783 785	ai
+T150	Token 786 789	pas
+T151	Token 790 792	pu
+T152	Token 764 766	ce
+T153	Token 767 774	jour-là
+T154	Token 775 776	.
+T155	Token 777 779	Je
+T156	Token 793 795	le
+T157	Token 796 802	suivre
+T158	Token 174 181	voiture
+T159	Token 849 852	est
+T160	Token 842 848	lettre
+T161	Token 210 215	Peter
+T162	Token 216 217	a
+T163	Token 218 223	peint
+T164	Token 813 815	il
+T165	Token 829 833	vite
+T166	Token 824 828	trop
+T167	Token 836 841	Cette
+T168	Token 834 835	.
+T169	Token 429 433	être
+T170	Token 426 428	pu
+T171	Token 447 448	.
+T172	Token 434 446	sélectionnés
+T173	Token 453 455	n'
+T174	Token 449 452	Ils
+T175	Token 460 466	aucune
+T176	Token 456 459	ont
+T177	Token 472 474	de
+T178	Token 467 471	idée
+T179	Token 171 173	la
+T180	Token 753 754	a
+T181	Token 246 249	Mon
+T182	Token 747 749	ne
+T183	Token 742 746	elle
+T184	Token 731 741	quelconque
+T185	Token 724 730	raison
+T186	Token 720 723	une
+T187	Token 715 719	pour
+T188	NOUN 21 27	lettre
+T189	ADP 28 29	à
+T190	VERB 11 16	écrit
+T191	DET 17 20	une
+T192	NOUN 3 8	fille
+T193	AUX 9 10	a
+T194	Token 759 763	fait
+T195	Token 755 758	pas
+T196	Token 290 295	gagné
+T197	Token 244 245	.
+T198	Token 276 280	tien
+T199	Token 273 275	le
+T200	Token 283 287	Mary
+T201	Token 281 282	.
+T202	Token 259 263	plus
+T203	Token 255 258	est
+T204	Token 269 272	que
+T205	Token 264 268	cool
+T206	Token 809 812	qu'
+T207	Token 803 808	parce
+T208	Token 197 199	Le
+T209	Token 816 823	courait
+T210	Token 195 196	.
+A1	PronType T72 Art
+A2	Gender T72 Fem
+A3	Definite T72 Def
+A4	Number T72 Sing
+A5	Gender T192 Fem
+A6	Number T192 Sing
+R1	det Arg1:T192 Arg2:T72	
+A7	Gender T188 Fem
+A8	Number T188 Sing
+A9	PronType T191 Art
+A10	Gender T191 Fem
+A11	Definite T191 Ind
+A12	Number T191 Sing
+R2	det Arg1:T188 Arg2:T191	
+A13	Gender T71 Fem
+A14	Number T71 Sing
+A15	Person T70 3
+A16	PronType T70 Prs
+A17	Number T70 Sing
+A18	Poss T70
+R3	det Arg1:T71 Arg2:T70	
+R4	case Arg1:T71 Arg2:T189	
+A19	Tense T190 Past
+A20	VerbForm T190 Part
+A21	Mood T193 Ind
+A22	Number T193 Sing
+A23	Person T193 3
+A24	Tense T193 Pres
+A25	Voice T193 Act
+A26	VerbForm T193 Fin
+R5	aux Arg1:T190 Arg2:T193	
+R6	nsubj Arg1:T190 Arg2:T192	
+R7	dobj Arg1:T190 Arg2:T188	
+R8	iobj Arg1:T190 Arg2:T71	
+R9	punct Arg1:T190 Arg2:T63	
+R10	dobj Arg1:T111 Arg2:T109	

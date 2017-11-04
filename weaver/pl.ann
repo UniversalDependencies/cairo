@@ -1,0 +1,333 @@
+T1	Token 768 769	.
+T2	Token 770 779	Dorastała
+T3	Token 750 759	przyszedł
+T4	Token 760 767	wczoraj
+T5	Token 789 790	,
+T6	Token 791 798	stolicy
+T7	Token 780 781	w
+T8	Token 782 788	Paryżu
+T9	Token 799 806	Francji
+T10	Token 807 808	.
+T11	Token 370 373	ani
+T12	Token 374 378	Mary
+T13	Token 358 363	Peter
+T14	Token 364 369	Smith
+T15	Token 389 394	mogli
+T16	Token 395 398	być
+T17	Token 379 384	Brown
+T18	Token 385 388	nie
+T19	Token 399 406	wybrani
+T20	Token 407 408	.
+T21	Token 748 749	i
+T22	Token 741 747	Petera
+T23	Token 728 732	list
+T24	Token 724 727	Ten
+T25	Token 738 740	od
+T26	Token 733 737	jest
+T27	Token 709 715	szybko
+T28	Token 706 708	za
+T29	Token 722 723	.
+T30	Token 716 721	biegł
+T31	Token 449 452	się
+T32	Token 446 448	co
+T33	Token 443 445	Na
+T34	Token 441 442	.
+T35	Token 433 440	napisał
+T36	Token 430 432	to
+T37	Token 426 429	kto
+T38	Token 418 425	pojęcia
+T39	Token 413 417	mają
+T40	Token 409 412	Nie
+T41	Token 701 702	,
+T42	Token 703 705	bo
+T43	Token 658 662	dnia
+T44	Token 663 667	tego
+T45	Token 668 671	nie
+T46	Token 672 679	zrobiła
+T47	Token 680 681	.
+T48	Token 682 685	Nie
+T49	Token 686 692	mogłam
+T50	Token 693 700	nadążyć
+T51	VERB 77 83	rzucić
+T52	NOUN 84 91	palenie
+T53	CONJ 92 93	i
+T54	NOUN 94 99	picie
+T55	SCONJ 58 60	że
+T56	VERB 61 65	pada
+T57	PUNCT 66 67	.
+T58	VERB 68 76	Próbował
+T59	PUNCT 100 101	.
+T60	VERB 102 108	Chcesz
+T61	Token 498 505	przyjść
+T62	Token 506 507	?
+T63	Token 476 477	,
+T64	Token 478 483	kiedy
+T65	Token 484 492	będziesz
+T66	Token 493 497	mógł
+T67	Token 453 461	patrzysz
+T68	Token 462 463	?
+T69	Token 464 467	Jak
+T70	Token 468 475	myślisz
+T71	Token 653 657	tego
+T72	Token 646 652	powodu
+T73	Token 621 628	fryzurę
+T74	Token 615 620	swoją
+T75	Token 609 614	robić
+T76	Token 603 608	Miała
+T77	Token 637 645	jakiegoś
+T78	Token 635 636	z
+T79	Token 631 634	ale
+T80	Token 629 630	,
+T81	NOUN 153 157	męża
+T82	DET 145 152	swojego
+T83	PUNCT 113 114	?
+T84	VERB 109 112	iść
+T85	PUNCT 121 122	,
+T86	PROPN 115 120	Samie
+T87	NOUN 130 134	okno
+T88	VERB 123 129	otwórz
+T89	VERB 137 144	Zmusiła
+T90	PUNCT 135 136	!
+T91	PROPN 196 202	Petera
+T92	VERB 203 212	pomalował
+T93	PUNCT 187 188	.
+T94	NOUN 189 195	Sąsiad
+T95	VERB 173 177	umył
+T96	NOUN 178 186	samochód
+T97	PUNCT 166 167	,
+T98	SCONJ 168 172	żeby
+T99	ADP 158 160	do
+T100	PRON 161 165	tego
+T101	Token 261 265	twój
+T102	Token 257 260	niż
+T103	PUNCT 230 231	.
+T104	NOUN 221 229	czerwono
+T105	ADP 218 220	na
+T106	NOUN 213 217	płot
+T107	Token 246 256	fajniejszy
+T108	Token 241 245	jest
+T109	Token 236 240	tata
+T110	Token 232 235	Mój
+T111	Token 585 591	wyszli
+T112	Token 592 593	z
+T113	Token 579 582	się
+T114	Token 583 584	i
+T115	Token 564 568	Mary
+T116	Token 569 578	uściskali
+T117	Token 556 561	Peter
+T118	Token 562 563	i
+T119	Token 594 600	pokoju
+T120	Token 601 602	.
+T121	Token 303 307	Jane
+T122	Token 308 313	złoto
+T123	Token 266 267	.
+T124	Token 268 272	Mary
+T125	Token 273 280	zdobyła
+T126	Token 281 285	brąz
+T127	Token 286 287	,
+T128	Token 288 293	Peter
+T129	Token 294 300	srebro
+T130	Token 301 302	a
+T131	Token 511 516	kupił
+T132	Token 508 510	On
+T133	Token 526 527	,
+T134	Token 517 525	samochód
+T135	Token 532 536	jego
+T136	Token 528 531	ale
+T137	Token 542 547	tylko
+T138	Token 537 541	brat
+T139	Token 554 555	.
+T140	Token 548 553	rower
+T141	VERB 50 55	Myślę
+T142	PUNCT 56 57	,
+T143	NOUN 35 47	przyjaciółki
+T144	PUNCT 48 49	.
+T145	ADP 25 27	do
+T146	DET 28 34	swojej
+T147	VERB 11 19	napisała
+T148	NOUN 20 24	list
+T149	NOUN 0 10	Dziewczyna
+T150	Token 354 357	Ani
+T151	Token 352 353	?
+T152	Token 335 338	czy
+T153	Token 330 334	duże
+T154	Token 344 351	państwo
+T155	Token 339 343	małe
+T156	Token 316 319	Czy
+T157	Token 314 315	.
+T158	Token 327 329	to
+T159	Token 320 326	Iguazu
+A1	Case T149 Nom
+A2	Gender T149 Fem
+A3	Number T149 Sing
+A4	Mood T147 Ind
+A5	Gender T147 Fem
+A6	Number T147 Sing
+A7	Tense T147 Past
+A8	Aspect T147 Perf
+A9	Voice T147 Act
+A10	VerbForm T147 Part
+R1	nsubj Arg1:T147 Arg2:T149	
+A11	Case T148 Acc
+A12	Animacy T148 Inan
+A13	Gender T148 Masc
+A14	Number T148 Sing
+R2	dobj Arg1:T147 Arg2:T148	
+A15	Case T145 Gen
+A16	Case T146 Gen
+A17	PronType T146 Prs
+A18	Gender T146 Fem
+A19	Number T146 Sing
+A20	Reflex T146
+A21	Poss T146
+A22	Case T143 Gen
+A23	Gender T143 Fem
+A24	Number T143 Sing
+R3	det Arg1:T143 Arg2:T146	
+R4	case Arg1:T143 Arg2:T145	
+R5	iobj Arg1:T147 Arg2:T143	
+R6	punct Arg1:T147 Arg2:T144	
+A25	Mood T141 Ind
+A26	Number T141 Sing
+A27	Person T141 1
+A28	Tense T141 Pres
+A29	Aspect T141 Imp
+A30	Voice T141 Act
+A31	VerbForm T141 Fin
+A32	Mood T56 Ind
+A33	Number T56 Sing
+A34	Person T56 3
+A35	Tense T56 Pres
+A36	Aspect T56 Imp
+A37	Voice T56 Act
+A38	VerbForm T56 Fin
+R7	ccomp Arg1:T141 Arg2:T56	
+R8	punct Arg1:T56 Arg2:T142	
+R9	mark Arg1:T56 Arg2:T55	
+R10	punct Arg1:T141 Arg2:T57	
+A39	Mood T58 Ind
+A40	Gender T58 Masc
+A41	Number T58 Sing
+A42	Tense T58 Past
+A43	Aspect T58 Imp
+A44	Voice T58 Act
+A45	VerbForm T58 Part
+A46	Voice T51 Act
+A47	Aspect T51 Perf
+A48	VerbForm T51 Inf
+R11	xcomp Arg1:T58 Arg2:T51	
+A49	Case T52 Acc
+A50	VerbForm T52 Ger
+A51	Gender T52 Neut
+A52	Number T52 Sing
+R12	dobj Arg1:T51 Arg2:T52	
+R13	cc Arg1:T52 Arg2:T53	
+A53	Case T54 Acc
+A54	VerbForm T54 Ger
+A55	Gender T54 Neut
+A56	Number T54 Sing
+R14	conj Arg1:T52 Arg2:T54	
+R15	punct Arg1:T58 Arg2:T59	
+A57	Mood T60 Ind
+A58	Number T60 Sing
+A59	Person T60 2
+A60	Tense T60 Pres
+A61	Aspect T60 Imp
+A62	Voice T60 Act
+A63	VerbForm T60 Fin
+A64	Voice T84 Act
+A65	Aspect T84 Imp
+A66	VerbForm T84 Inf
+R16	xcomp Arg1:T60 Arg2:T84	
+R17	punct Arg1:T60 Arg2:T83	
+A67	Case T86 Voc
+A68	Animacy T86 Anim
+A69	Gender T86 Masc
+A70	Number T86 Sing
+R18	punct Arg1:T86 Arg2:T85	
+A71	Mood T88 Imp
+A72	Number T88 Sing
+A73	Person T88 2
+A74	Aspect T88 Perf
+A75	Voice T88 Act
+A76	VerbForm T88 Fin
+R19	vocative Arg1:T88 Arg2:T86	
+A77	Case T87 Acc
+A78	Gender T87 Neut
+A79	Number T87 Sing
+R20	dobj Arg1:T88 Arg2:T87	
+R21	punct Arg1:T88 Arg2:T90	
+A80	Mood T89 Ind
+A81	Gender T89 Fem
+A82	Number T89 Sing
+A83	Tense T89 Past
+A84	Aspect T89 Perf
+A85	Voice T89 Act
+A86	VerbForm T89 Part
+A87	Case T82 Acc
+A88	Animacy T82 Anim
+A89	PronType T82 Prs
+A90	Gender T82 Masc
+A91	Number T82 Sing
+A92	Person T82 3
+A93	Reflex T82
+A94	Poss T82
+A95	Case T81 Acc
+A96	Animacy T81 Anim
+A97	Gender T81 Masc
+A98	Number T81 Sing
+R22	det Arg1:T81 Arg2:T82	
+R23	dobj Arg1:T89 Arg2:T81	
+A99	Case T99 Gen
+A100	Case T100 Gen
+A101	PronType T100 Dem
+A102	Gender T100 Neut
+A103	Number T100 Sing
+R24	case Arg1:T100 Arg2:T99	
+R25	iobj Arg1:T89 Arg2:T100	
+A104	Animacy T95 Anim
+A105	Mood T95 Cnd
+A106	Gender T95 Masc
+A107	Number T95 Sing
+A108	Aspect T95 Perf
+A109	Voice T95 Act
+A110	VerbForm T95 Fin
+R26	punct Arg1:T95 Arg2:T97	
+R27	mark Arg1:T95 Arg2:T98	
+A111	Case T96 Acc
+A112	Animacy T96 Inan
+A113	Gender T96 Masc
+A114	Number T96 Sing
+R28	dobj Arg1:T95 Arg2:T96	
+R29	acl Arg1:T100 Arg2:T95	
+R30	punct Arg1:T89 Arg2:T93	
+A115	Case T94 Nom
+A116	Animacy T94 Anim
+A117	Gender T94 Masc
+A118	Number T94 Sing
+A119	Case T91 Gen
+A120	Animacy T91 Anim
+A121	Gender T91 Masc
+A122	Number T91 Sing
+R31	nmod Arg1:T94 Arg2:T91	
+A123	Animacy T92 Anim
+A124	Mood T92 Ind
+A125	Gender T92 Masc
+A126	Number T92 Sing
+A127	Tense T92 Past
+A128	Aspect T92 Perf
+A129	Voice T92 Act
+A130	VerbForm T92 Part
+R32	nsubj Arg1:T92 Arg2:T94	
+A131	Case T106 Acc
+A132	Animacy T106 Inan
+A133	Gender T106 Masc
+A134	Number T106 Sing
+R33	dobj Arg1:T92 Arg2:T106	
+A135	Case T105 Acc
+A136	Case T104 Acc
+A137	Gender T104 Neut
+A138	Number T104 Sing
+R34	case Arg1:T104 Arg2:T105	
+R35	nmod Arg1:T92 Arg2:T104	
+R36	punct Arg1:T92 Arg2:T103	

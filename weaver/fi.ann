@@ -1,0 +1,183 @@
+T1	Token 870 877	Ranskan
+T2	Token 878 892	pääkaupungissa
+T3	Token 857 867	Pariisissa
+T4	Token 868 869	,
+T5	Token 893 894	.
+T6	PUNCT 411 412	.
+T7	Token 413 419	Heillä
+T8	AUX 398 403	voitu
+T9	VERB 404 410	valita
+T10	Token 427 441	aavistustakaan
+T11	Token 442 443	,
+T12	Token 420 422	ei
+T13	Token 423 426	ole
+T14	Token 444 448	kuka
+T15	Token 449 458	kirjoitti
+T16	Token 850 856	kasvoi
+T17	Token 846 849	Hän
+T18	Token 825 837	toimitettiin
+T19	Token 822 824	se
+T20	Token 844 845	.
+T21	Token 838 843	eilen
+T22	Token 805 807	on
+T23	Token 799 804	kirje
+T24	Token 819 821	ja
+T25	Token 808 818	Petteriltä
+T26	Token 504 508	voit
+T27	Token 499 503	että
+T28	Token 492 498	luulet
+T29	Token 484 491	Milloin
+T30	Token 482 483	?
+T31	Token 475 481	katsot
+T32	Token 470 474	sinä
+T33	Token 465 469	Mitä
+T34	Token 463 464	.
+T35	Token 459 462	sen
+T36	Token 792 793	.
+T37	Token 794 798	Tämä
+T38	Token 742 749	pysynyt
+T39	Token 750 757	perässä
+T40	Token 758 759	,
+T41	Token 760 765	koska
+T42	Token 766 769	hän
+T43	Token 770 776	juoksi
+T44	Token 777 782	liian
+T45	Token 783 791	nopeasti
+T46	NOUN 80 91	tupakoinnin
+T47	CONJ 92 94	ja
+T48	NOUN 95 103	juomisen
+T49	PUNCT 104 105	.
+T50	PUNCT 58 59	.
+T51	PRON 60 63	Hän
+T52	VERB 64 70	yritti
+T53	VERB 71 79	lopettaa
+T54	VERB 106 114	Haluatko
+T55	VERB 115 120	mennä
+T56	Token 546 554	veljensä
+T57	Token 555 559	vain
+T58	Token 526 531	auton
+T59	Token 532 533	,
+T60	Token 534 539	mutta
+T61	Token 540 545	hänen
+T62	Token 509 514	tulla
+T63	Token 515 516	?
+T64	Token 517 520	Hän
+T65	Token 521 525	osti
+T66	Token 739 741	En
+T67	Token 737 738	.
+T68	Token 709 711	ei
+T69	Token 705 708	hän
+T70	Token 698 704	syystä
+T71	Token 690 697	jostain
+T72	Token 729 736	päivänä
+T73	Token 724 728	sinä
+T74	Token 719 723	sitä
+T75	Token 712 718	tehnyt
+T76	Token 170 178	pesemään
+T77	Token 157 169	aviomiehensä
+T78	PROPN 123 128	Sampo
+T79	PUNCT 121 122	?
+T80	VERB 131 135	avaa
+T81	PUNCT 129 130	,
+T82	PUNCT 143 144	!
+T83	NOUN 136 142	ikkuna
+T84	Token 149 156	laittoi
+T85	Token 145 148	Hän
+T86	Token 231 234	Mun
+T87	Token 235 238	isä
+T88	Token 218 228	punaiseksi
+T89	Token 229 230	.
+T90	Token 204 211	maalasi
+T91	Token 212 217	aidan
+T92	Token 187 195	Petterin
+T93	Token 196 203	naapuri
+T94	Token 179 184	auton
+T95	Token 185 186	.
+T96	Token 285 292	Petteri
+T97	Token 283 284	,
+T98	Token 256 259	sun
+T99	Token 252 255	kun
+T100	Token 242 251	siistimpi
+T101	Token 239 241	on
+T102	Token 274 282	pronssia
+T103	Token 267 273	voitti
+T104	Token 262 266	Mari
+T105	Token 260 261	.
+T106	Token 660 671	laittamassa
+T107	Token 672 681	tukkaansa
+T108	Token 647 654	pitänyt
+T109	Token 655 659	olla
+T110	Token 635 640	Hänen
+T111	Token 641 646	olisi
+T112	Token 623 632	huoneesta
+T113	Token 633 634	.
+T114	Token 682 683	,
+T115	Token 684 689	mutta
+T116	Token 332 337	suuri
+T117	Token 338 341	vai
+T118	Token 293 299	hopeaa
+T119	Token 300 301	,
+T120	Token 302 304	ja
+T121	Token 305 310	Hanne
+T122	Token 311 317	kultaa
+T123	Token 318 319	.
+T124	Token 320 324	Onko
+T125	Token 325 331	Iguazu
+T126	Token 567 568	.
+T127	Token 560 566	pyörän
+T128	Token 577 579	ja
+T129	Token 569 576	Petteri
+T130	Token 585 594	halasivat
+T131	Token 580 584	Mari
+T132	Token 604 606	ja
+T133	Token 595 603	toisiaan
+T134	Token 616 622	sitten
+T135	Token 607 615	lähtivät
+T136	SCONJ 47 51	että
+T137	VERB 52 57	sataa
+T138	VERB 38 44	Luulen
+T139	PUNCT 45 46	,
+T140	NOUN 24 35	ystävälleen
+T141	PUNCT 36 37	.
+T142	VERB 6 15	kirjoitti
+T143	NOUN 16 23	kirjeen
+T144	NOUN 0 5	Tyttö
+T145	PRON 387 397	kumpaakaan
+T146	AUX 384 386	ei
+T147	CONJ 369 372	tai
+T148	PROPN 362 368	Seppää
+T149	PROPN 378 383	Puuta
+T150	PROPN 373 377	Mari
+T151	Token 348 351	maa
+T152	Token 342 347	pieni
+T153	PROPN 354 361	Petteri
+T154	Token 352 353	?
+R1	nsubj Arg1:T142 Arg2:T144	
+R2	dobj Arg1:T142 Arg2:T143	
+R3	nmod Arg1:T142 Arg2:T140	
+R4	punct Arg1:T142 Arg2:T141	
+R5	punct Arg1:T138 Arg2:T139	
+R6	ccomp Arg1:T138 Arg2:T137	
+R7	conj Arg1:T137 Arg2:T136	
+R8	punct Arg1:T138 Arg2:T50	
+R9	nsubj Arg1:T52 Arg2:T51	
+R10	xcomp Arg1:T52 Arg2:T53	
+R11	dobj Arg1:T53 Arg2:T46	
+R12	cc Arg1:T46 Arg2:T47	
+R13	conj Arg1:T46 Arg2:T48	
+R14	punct Arg1:T52 Arg2:T49	
+R15	xcomp Arg1:T54 Arg2:T55	
+R16	punct Arg1:T54 Arg2:T79	
+R17	vocative Arg1:T80 Arg2:T78	
+R18	punct Arg1:T80 Arg2:T81	
+R19	dobj Arg1:T80 Arg2:T83	
+R20	punct Arg1:T80 Arg2:T82	
+R21	dobj Arg1:T9 Arg2:T145	
+R22	auxpass Arg1:T9 Arg2:T8	
+R23	aux Arg1:T9 Arg2:T146	
+R24	punct Arg1:T9 Arg2:T6	
+R25	dobj Arg1:T9 Arg2:T148	
+R26	cc Arg1:T148 Arg2:T147	
+R27	name Arg1:T148 Arg2:T153	
+R28	conj Arg1:T148 Arg2:T149	
+R29	name Arg1:T149 Arg2:T150	
