@@ -4344,3 +4344,82 @@
 7	patthar	patthar	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Gloss=rock
 8	maaraa	maarnaa	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	Gloss=threw
 
+# sent_id = 2.98a/lez
+# text = i güzel cükwer
+# gloss = this beautiful flower-PL
+# text_en = these beautiful flowers
+1	i	_	DET	_	PronType=Dem	3	det	_	Gloss=this
+2	güzel	_	ADJ	_	_	3	amod	_	Gloss=beautiful
+3	cükwer	_	NOUN	_	Number=Plur	0	root	_	Gloss=flowers|MSeg=cükw-er|MGloss=flower-PL
+
+# sent_id = 2.98b/xsl
+# Slave (Athabaskan, Canada)
+# text = tlį nechá
+# gloss = dog big
+# text_en = big dog
+1	tlį	_	NOUN	_	_	0	root	_	Gloss=dog
+2	nechá	_	ADJ	_	_	1	amod	_	Gloss=big
+
+# sent_id = 2.99a/fj
+# Fijian (Austronesian)
+# text = a 'olii loa
+# gloss = ART dog black
+# text_en = black dog
+1	a	_	DET	_	PronType=Art	2	det	_	Gloss=ART
+2	'olii	_	NOUN	_	_	0	root	_	Gloss=dog
+3	loa	_	ADJ	_	_	2	amod	_	Gloss=black
+
+# sent_id = 2.99b/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# text = mïVHkuï:M tia:M
+# gloss = CLSFR-corn white
+# text_en = white corn
+1	mïVHkuï:M	_	NOUN	_	_	0	root	_	Gloss=corn|MSeg=mïVH-kuï:M|MGloss=CLSFR-corn
+2	tia:M	_	ADJ	_	_	1	amod	_	Gloss=white
+
+# sent_id = 2.100a/dru
+# Rukai (Austronesian, Formosan, Taiwan)
+# source = Paul Jen-kuei Li, 1973
+# text = wauŋul sa acilay kay maruḍaŋ
+# gloss = drank INDEF.ACC water this.NOM old.man
+# text_en = this old man drank water
+1	wauŋul	_	VERB	_	_	0	root	_	Gloss=drank
+2	sa	_	DET	_	Case=Acc|PronType=Ind	3	det	_	Gloss=some|MGloss=INDEF.ACC
+3	acilay	_	NOUN	_	_	1	obj	_	Gloss=water
+4	kay	_	DET	_	Case=Nom|PronType=Dem	5	det	_	Gloss=this|MGloss=this.NOM
+5	maruḍaŋ	_	NOUN	_	_	1	nsubj	_	Gloss=old-man|MGloss=old.man
+
+# sent_id = 2.100b/dru
+# Rukai (Austronesian, Formosan, Taiwan)
+# source = Paul Jen-kuei Li, 1973
+# text = kayvay maḍaw daan
+# gloss = this big house
+# text_en = this big house
+1	kayvay	_	DET	_	PronType=Dem	3	det	_	Gloss=this
+2	maḍaw	_	ADJ	_	_	3	amod	_	Gloss=big
+3	daan	_	NOUN	_	_	0	root	_	Gloss=house
+
+# sent_id = 2.101a/ote
+# Mezquital Otomi (Oto-Manguean, Hidalgo, Mexico)
+# source = Hess, 1968
+# text = pěʔca ʔna ra ngǔ núʔą ra rǐko
+# gloss = has one ART house that ART rich.man
+# text_en = that rich man has a house
+1	pěʔca	_	VERB	_	_	0	root	_	Gloss=has
+2	ʔna	_	NUM	_	NumType=Card	4	nummod	_	Gloss=one
+3	ra	_	DET	_	PronType=Art	4	det	_	Gloss=ART
+4	ngǔ	_	NOUN	_	_	1	obj	_	Gloss=house
+5	núʔą	_	DET	_	PronType=Dem	7	det	_	Gloss=that
+6	ra	_	DET	_	PronType=Art	7	det	_	Gloss=ART
+7	rǐko	_	NOUN	_	_	1	nsubj	_	Gloss=rich-man|MGloss=rich.man
+
+# sent_id = 2.101b/ote
+# Mezquital Otomi (Oto-Manguean, Hidalgo, Mexico)
+# source = Hess, 1968
+# text = ra zí zųwę́
+# gloss = ART little animal
+# text_en = the little animal
+1	ra	_	DET	_	PronType=Art	3	det	_	Gloss=ART
+2	zí	_	ADJ	_	_	3	amod	_	Gloss=little
+3	zųwę́	_	NOUN	_	_	0	root	_	Gloss=animal
+
