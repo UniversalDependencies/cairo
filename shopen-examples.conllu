@@ -2818,6 +2818,7 @@
 # chapter_author = Dryer, Matthew S.
 # chapter_title = Word order
 # sent_id = 2.1/lez
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = Alfijadi maq̃ala kx̂ena
 # gloss = Alfija-ERG article write-AORIST
 # text_en = Alfija wrote an article
@@ -2826,6 +2827,7 @@
 3	kx̂ena	kx̂e	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=wrote|MSeg=kx̂e-na|MGloss=write-AORIST
 
 # sent_id = 2.2/lez
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = Mirzebega k'ewiz harajna: ‘…’
 # gloss = Mirzebeg-ERG strong-ADV shout-AORIST
 # text_en Mirzebeg shouted loudly: “…”
@@ -2838,6 +2840,7 @@
 7	’	’	PUNCT	_	_	6	punct	_	Gloss=’
 
 # sent_id = 2.3/lez
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = duxturrin patariw
 # gloss = doctor-GEN.PL to
 # text_en = to doctors
@@ -2845,6 +2848,7 @@
 2	patariw	patariw	ADP	_	_	1	case	_	Gloss=to
 
 # sent_id = 2.4/lez
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = Faridan wax
 # gloss = Farid-GEN sister
 # text_en = Farid's sister
@@ -2852,6 +2856,7 @@
 2	wax	wax	NOUN	_	Case=Abs|Number=Sing	0	root	_	Gloss=sister
 
 # sent_id = 2.5/lez
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = sad müküdalaj žizwi ask'anzawa
 # gloss = one other-SUPEREL a.little low-IMPERF
 # text_en = one is a little shorter than the other one
@@ -2861,6 +2866,7 @@
 4	ask'anzawa	ask'an	ADJ	_	Aspect=Imp	0	root	_	Gloss=low|MSeg=ask'an-zawa|MGloss=low-IMPERF
 
 # sent_id = 2.6/lez
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = rušaz reǧü x̂ana k'an tuširwiläj
 # gloss = girl-DAT ashamed be want be.NEG-PTCPL-because
 # text_en = because he did not want the girl to be embarrassed
@@ -2871,6 +2877,7 @@
 5	tuširwiläj	tuš	VERB	_	Mood=Sub|Polarity=Neg|VerbForm=Part	0	root	_	Gloss=because-not-was|MSeg=tuš-ir-wiläj|MGloss=be.NEG-PTCPL-because
 
 # sent_id = 2.7/xsl
+# Slave (Athabaskan, Canada)
 # text = t'eere lį ráreyįht'u
 # gloss = girl dog 3.hit
 # text_en = the girl hit the dog
@@ -2880,6 +2887,7 @@
 3	ráreyįht'u	_	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=hit
 
 # sent_id = 2.8a/xsl
+# Slave (Athabaskan, Canada)
 # text = dzá dahehłe
 # gloss = bad 1.dance
 # text_en = I dance badly
@@ -2888,6 +2896,7 @@
 2	dahehłe	_	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=dance
 
 # sent_id = 2.8b/xsl
+# Slave (Athabaskan, Canada)
 # text = dene hé
 # gloss = man with
 # text_en = with the man
@@ -2896,6 +2905,7 @@
 2	hé	_	ADP	_	_	1	case	_	Gloss=with
 
 # sent_id = 2.8c/xsl
+# Slave (Athabaskan, Canada)
 # text = ʔabá gok'eríʔeé
 # gloss = father jacket
 # text_en = father's jacket
@@ -2904,6 +2914,7 @@
 2	gok'eríʔeé	_	NOUN	_	_	0	root	_	Gloss=jacket
 
 # sent_id = 2.8d/xsl
+# Slave (Athabaskan, Canada)
 # text = sǫdee nǫdee ts'ęʔóné hįshá
 # gloss = 1SG:older.brother 2SG:older.brother than 3.big
 # text_en = my brother is bigger than your brother
@@ -2914,6 +2925,7 @@
 4	hįshá	_	ADJ	_	Person=3	0	root	_	Gloss=is-big
 
 # sent_id = 2.8e/xsl
+# Slave (Athabaskan, Canada)
 # text = kǫ́ seghǫ húle t'áh
 # gloss = match 1SG.for 3:be.none because
 # text_en = because I had no matches
@@ -3044,6 +3056,7 @@
 5	va'alevu	_	ADV	_	_	4	advmod	_	Gloss=very|MSeg=va'a-levu|MGloss=ADV-great
 
 # sent_id = 2.17/tuv
+# Turkana (Eastern Sudanic, Kenya)
 # text = ɛ̀sàkɪ̀ apà akɪ̀muj
 # gloss = 3-want-ASP father.NOM food
 # text_en = father wants food
@@ -3053,6 +3066,7 @@
 3	akɪ̀muj	_	NOUN	_	_	1	obj	_	Gloss=food
 
 # sent_id = 2.18a/tuv
+# Turkana (Eastern Sudanic, Kenya)
 # text = ɛ̀àgùmɪ̀ nilèmu̥
 # gloss = 3-PAST-fire-ASP blindly
 # text_en = he fired blindly
@@ -3061,6 +3075,7 @@
 2	nilèmu̥	_	ADV	_	_	1	advmod	_	Gloss=blindly
 
 # sent_id = 2.18b/tuv
+# Turkana (Eastern Sudanic, Kenya)
 # text = ɛ̀àgùmɪ̀ à atɔmɛ̥̀
 # gloss = 3-PAST-fire-ASP PREP gun
 # text_en = he fired with a gun
@@ -3070,6 +3085,7 @@
 3	atɔmɛ̥̀	_	NOUN	_	_	1	obl	_	Gloss=gun
 
 # sent_id = 2.18c/tuv
+# Turkana (Eastern Sudanic, Kenya)
 # text = itòò keŋ̀ à èdyà lò
 # gloss = mother his of boy this
 # text_en = the mother of this boy
@@ -3081,6 +3097,7 @@
 5	lò	_	DET	_	_	4	det	_	Gloss=this
 
 # sent_id = 2.18d/tuv
+# Turkana (Eastern Sudanic, Kenya)
 # text = lògerì̥ loeputukìo erot̀
 # gloss = because REL-3-muddy-ASP-VERB road.NOM
 # text_en = because the road is muddy
@@ -3090,6 +3107,7 @@
 3	erot̀	_	NOUN	_	_	2	nsubj	_	Gloss=road|MGloss=road.NOM
 
 # sent_id = 2.19/tuv
+# Turkana (Eastern Sudanic, Kenya)
 # text = ɛ̀jɔk̀ erot̀ lò akìdwaŋ ŋol̀
 # gloss = 3-good road.NOM this INFIN-supersede that
 # text_en = this road is better than that one
@@ -3101,6 +3119,7 @@
 5	ŋol̀	_	PRON	_	PronType=Dem	4	obj	_	Gloss=that
 
 # sent_id = 2.20/tuv
+# Turkana (Eastern Sudanic, Kenya)
 # text = awòs ayɔ̀ŋ à nikonì̥
 # gloss = 1SG-clever 1SG.NOM PREP LOC-your
 # text_en = I am as clever as you
@@ -3111,6 +3130,7 @@
 4	nikonì̥	_	PRON	_	Case=Loc|Number=Sing|Person=2	1	obl	_	Gloss=you|MSeg=ni-konì̥|MGloss=LOC-your
 
 # sent_id = 2.21/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
 # text = kaLkiúʔM miVHziïLi zaM nïM
 # gloss = PAST-strike.COMPL.3 CLSFR-head-1SG person that
 # text_en = that person struck my head
@@ -3122,6 +3142,7 @@
 4	nïM	_	DET	_	PronType=Dem	3	det	_	Gloss=that
 
 # sent_id = 2.22a/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
 # text = ʔiHų:LHi ziúL
 # gloss = INTENTIVE-wash-1SG well
 # text_en = I will wash it well
@@ -3130,6 +3151,7 @@
 2	ziúL	_	ADV	_	_	1	advmod	_	Gloss=well
 
 # sent_id = 2.22b/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
 # text = he:LH nu:M
 # gloss = among weeds
 # text_en = among the weeds
@@ -3138,6 +3160,7 @@
 2	nu:M	_	NOUN	_	_	0	root	_	Gloss=weeds
 
 # sent_id = 2.22c/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
 # text = siá:VH diáʔL siïMių:Mi
 # gloss = mother.3 PL baby
 # text_en = the mother of the babies
@@ -3147,6 +3170,7 @@
 3	siïMių:Mi	_	NOUN	_	_	1	nmod	_	Gloss=baby
 
 # sent_id = 2.22d/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
 # text = gá:Mi giʔVH tïVHi niuM liaʔM siïM kéL hniáM
 # gloss = big.3 more foot.2SG 2SG like as of.1SG 1SG
 # text_en = your foot is bigger than mine
@@ -3161,6 +3185,7 @@
 8	hniáM	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	obl	_	Gloss=me|MGloss=1SG
 
 # sent_id = 2.22e/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
 # text = kia:ʔVH ʔaLʔeM naMfáʔLi hɬi:LHaL
 # gloss = because not significant pay-1SG
 # text_en = because my wages aren't sufficient
@@ -3836,7 +3861,7 @@
 2	rooriy	_	NOUN	_	_	0	root	_	Gloss=house
 
 # sent_id = 2.67a/lez
-# Lezgian (Caucasus)
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = duxturrin patariw fena
 # gloss = doctor-PL-GEN to go-AORIST
 # text_en = she went to doctors
@@ -3866,7 +3891,7 @@
 7	knife	_	NOUN	_	Number=Sing	2	obl	_	_
 
 # sent_id = 2.68b/fj
-# Fijian (Austronesian)
+# Fijian (Austronesian, Fiji)
 # text = au na talai Elia i 'Orovou
 # gloss = 1SG FUT send Elia to 'Orovou
 # text_en = I'll send Elia to 'Orovou
@@ -3920,7 +3945,7 @@
 2	atɔmatà	_	VERB	_	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	Gloss=we-drink|MSeg=atɔ-mat-à|MGloss=1PL-drink-PL
 
 # sent_id = 2.72/lez
-# Lezgian (Caucasus)
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = zaway a bejaburčiwal exiz žezwačir
 # gloss = 1SG-ADESS that shame bear-INFIN can-IMPERF-NEG-PAST
 # text_en = I could not bear that shame
@@ -4187,6 +4212,7 @@
 4	komwikak	_	VERB	_	Aspect=Perf|Mood=Ind|Person=3|VerbForm=Fin	2	acl:relcl	_	Gloss=brought-it|MSeg=k-omwika-k|MGloss=it-bring-PERF
 
 # sent_id = 2.88a/lez
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = gada k'waliz raq̃uraj ruš
 # gloss = boy house-DAT send-PTCPL girl
 # text_en = the girl who sent the boy home
@@ -4345,6 +4371,7 @@
 8	maaraa	maarnaa	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	Gloss=threw
 
 # sent_id = 2.98a/lez
+# Lezgian (Northeast Caucasian, Dagestan)
 # text = i güzel cükwer
 # gloss = this beautiful flower-PL
 # text_en = these beautiful flowers
@@ -4361,7 +4388,7 @@
 2	nechá	_	ADJ	_	_	1	amod	_	Gloss=big
 
 # sent_id = 2.99a/fj
-# Fijian (Austronesian)
+# Fijian (Austronesian, Fiji)
 # text = a 'olii loa
 # gloss = ART dog black
 # text_en = black dog
@@ -4422,4 +4449,148 @@
 1	ra	_	DET	_	PronType=Art	3	det	_	Gloss=ART
 2	zí	_	ADJ	_	_	3	amod	_	Gloss=little
 3	zųwę́	_	NOUN	_	_	0	root	_	Gloss=animal
+
+# sent_id = 2.102/fj
+# Fijian (Austronesian, Fiji)
+# text = e loa.loa a 'olii yai
+# gloss = 3SG big ART dog this
+# text_en = this dog is big
+1	e	_	AUX	_	Number=Sing|Person=3	2	aux	_	Gloss=3SG
+2	loa.loa	_	ADJ	_	_	0	root	_	Gloss=big
+3	a	_	DET	_	PronType=Art	4	det	_	Gloss=ART
+4	'olii	_	NOUN	_	_	2	nsubj:cop	_	Gloss=dog
+5	yai	_	DET	_	PronType=Dem	4	det	_	Gloss=this
+
+# sent_id = 2.103a/csz
+# Hanis Coos (Coosan, Oregon)
+# text = tsä´yuxu tcîcī´mîł
+# gloss = small spruce.tree
+# text_en = a small spruce tree
+1	tsä´yuxu	VERB	_	_	2	acl	_	Gloss=small
+2	tcîcī´mîł	NOUN	_	_	0	root	_	Gloss=spruce|MGloss=spruce.tree
+
+# sent_id = 2.103b/csz
+# Hanis Coos (Coosan, Oregon)
+# text = tE to´qmas kǃa´wat
+# gloss = the woodpecker peck
+# text_en = the woodpecker who was pecking at it
+1	tE	_	DET	_	_	2	det	_	Gloss=the
+2	to´qmas	_	NOUN	_	_	0	root	_	Gloss=woodpecker
+3	kǃa´wat	_	VERB	_	_	2	acl	_	Gloss=peck
+
+# sent_id = 2.104a/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = kwiłqa t'awu
+# gloss = SUBORD-big gun
+# text_en = the big gun
+1	kwiłqa	_	VERB	_	Mood=Sub|VerbForm=Fin	0	root	_	Gloss=be-big|MSeg=k-wiłqa|MGloss=SUBORD-big
+2	t'awu	_	NOUN	_	_	1	nsubj	_	Gloss=gun
+
+# sent_id = 2.104b/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = qa·naxi skinkuȼ
+# gloss = go-INDIC coyote
+# text_en = Coyote went along
+1	qa·naxi	_	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=go|MSeg=qa·nax-i|MGloss=go-INDIC
+2	skinkuȼ	_	NOUN	_	_	1	nsubj	_	Gloss=coyote
+
+# sent_id = 2.105/lez
+# Lezgian (Northeast Caucasian, Dagestan)
+# text = a insanar
+# gloss = that human-PL
+# text_en = those people
+1	a	_	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	insanar	_	NOUN	_	Number=Plur	0	root	_	Gloss=people|MSeg=insan-ar|MGloss=human-PL
+
+# sent_id = 2.106a/ram
+# Canela Krahô (Je, Brazil)
+# text = wa ha pĩxô jũhkà
+# gloss = 1SG FUT fruit buy
+# text_en = I will buy fruit
+1	wa	_	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=1SG
+2	ha	_	AUX	_	Tense=Fut	4	aux	_	Gloss=FUT
+3	pĩxô	_	NOUN	_	_	4	obj	_	Gloss=fruit
+4	jũhkà	_	VERB	_	_	0	root	_	Gloss=buy
+
+# sent_id = 2.106a/ram
+# Canela Krahô (Je, Brazil)
+# text = rop ita
+# gloss = dog this
+# text_en = this dog
+1	rop	_	NOUN	_	_	0	root	_	Gloss=dog
+2	ita	_	DET	_	PronType=Dem	1	det	_	Gloss=this
+
+# sent_id = 2.107a/ty
+# Tahitian (Austronesian, Tahiti)
+# text = 'Ua ti'i 'outou 'i tēra tiare.
+# gloss = COMP pick 2PL PREP that flower
+# text_en = you (pl.) picked that flower
+1	'Ua	_	SCONJ	_	_	2	mark	_	Gloss=COMP
+2	ti'i	_	VERB	_	_	0	root	_	Gloss=pick
+3	'outou	_	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|MGloss=2PL
+4	'i	_	ADP	_	_	6	case	_	Gloss=PREP
+5	tēra	_	DET	_	PronType=Dem	6	det	_	Gloss=that
+6	tiare	_	NOUN	_	_	2	obj	_	Gloss=flower|SpaceAfter=No
+7	.	_	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = 2.107b/fj
+# Fijian (Austronesian, Fiji)
+# text = a gone yai
+# gloss = ART child this
+# text_en = this child
+1	a	_	DET	_	PronType=Art	2	det	_	Gloss=ART
+2	gone	_	NOUN	_	_	0	root	_	Gloss=child
+3	yai	_	DET	_	PronType=Dem	2	det	_	Gloss=this
+
+# sent_id = 2.108a/lez
+# Lezgian (Northeast Caucasian, Dagestan)
+# text = i wad cük
+# gloss = this five flower
+# text_en = these five flowers
+1	i	_	DET	_	PronType=Dem	3	det	_	Gloss=this
+2	wad	_	NUM	_	NumType=Card	3	nummod	_	Gloss=five
+3	cük	_	NOUN	_	_	0	root	_	Gloss=flower
+
+# sent_id = 2.108b/xsl
+# Slave (Athabaskan, Canada)
+# text = dene nákee
+# gloss = person two
+# text_en = two people
+1	dene	_	NOUN	_	_	0	root	_	Gloss=person
+2	nákee	_	NUM	_	NumType=Card	1	nummod	_	Gloss=two
+
+# sent_id = 2.109a/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# text = tų:L ʔíVH
+# gloss = two place
+# text_en = two places
+1	tų:L	_	NUM	_	NumType=Card	2	nummod	_	Gloss=two
+2	ʔíVH	_	NOUN	_	_	0	root	_	Gloss=place
+
+# sent_id = 2.109b/tuv
+# Turkana (Eastern Sudanic, Kenya)
+# text = ŋakineì ŋaareỳ
+# gloss = PL-goat-PL PL-two
+# text_en = two goats
+1	ŋakineì	_	NOUN	_	Number=Plur	0	root	_	Gloss=goats|MSeg=ŋa-kine-ì|MGloss=PL-goat-PL
+2	ŋaareỳ	_	NUM	_	Number=Plur|NumType=Card	1	nummod	_	Gloss=two|MSeg=ŋa-areỳ|MGloss=PL-two
+
+# sent_id = 2.110a/gde
+# Gude (Afro-Asiatic, Chadic, Nigeria)
+# source = Hoskison, 1983
+# text = mbusə pu'
+# gloss = pumpkin ten
+# text_en = ten pumpkins
+1	mbusə	_	NOUN	_	_	0	root	_	Gloss=pumpkin
+2	pu'	_	NUM	_	NumType=Card	1	nummod	_	Gloss=ten
+
+# sent_id = 2.110b/gde
+# Gude (Afro-Asiatic, Chadic, Nigeria)
+# source = Hoskison, 1983
+# text = tufənə nga tihinə
+# gloss = five-ORD of horse
+# text_en = fifth horse
+1	tufənə	_	ADJ	_	NumType=Ord	3	amod	_	Gloss=fifth|MSeg=tufə-nə|MGloss=five-ORD
+2	nga	_	ADP	_	_	3	case	_	Gloss=of
+3	tihinə	_	NOUN	_	_	0	root	_	Gloss=horse
 
