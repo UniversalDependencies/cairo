@@ -4594,3 +4594,34 @@
 2	nga	_	ADP	_	_	3	case	_	Gloss=of
 3	tihinə	_	NOUN	_	_	0	root	_	Gloss=horse
 
+# sent_id = 2.111a/xsl
+# Slave (Athabaskan, Canada)
+# text = dene gháyeyídá yíle
+# gloss = person 1PL.see not
+# text_en = we didn't see anyone
+1	dene	_	NOUN	_	_	2	obj	_	Gloss=person
+2	gháyeyídá	_	VERB	_	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	Gloss=we-see|MGloss=1PL.see
+3	yíle	_	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+
+# sent_id = 2.111b/wsk
+# Waskia (Trans-New Guinea)
+# source = Ross and Paol, 1978
+# text = ane yu me nala bagesam
+# gloss = 1SG water not drink stay-PRES.1SG
+# text_en = I never drink water
+1	ane	_	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=1SG
+2	yu	_	NOUN	_	_	4	obj	_	Gloss=water
+3	me	_	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
+4	nala	_	VERB	_	_	0	root	_	Gloss=drink
+5	bagesam	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=stay|MSeg=bage-sam|MGloss=stay-PRES.1SG
+
+# sent_id = 2.112a/bmi
+# Bagirmi (Central Sudanic, Chad)
+# text = debge tol tobio li
+# gloss = person-PL kill lion not
+# text_en = the people did not kill the lion
+1	debge	_	NOUN	_	Number=Plur	2	nsubj	_	Gloss=people|MSeg=deb-ge|MGloss=person-PL
+2	tol	_	VERB	_	_	0	root	_	Gloss=kill
+3	tobio	_	NOUN	_	_	2	obj	_	Gloss=lion
+4	li	_	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+
