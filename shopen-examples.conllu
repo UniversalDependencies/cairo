@@ -4466,8 +4466,8 @@
 # text = tsä´yuxu tcîcī´mîł
 # gloss = small spruce.tree
 # text_en = a small spruce tree
-1	tsä´yuxu	VERB	_	_	2	acl	_	Gloss=small
-2	tcîcī´mîł	NOUN	_	_	0	root	_	Gloss=spruce|MGloss=spruce.tree
+1	tsä´yuxu	_	VERB	_	_	2	acl	_	Gloss=small
+2	tcîcī´mîł	_	NOUN	_	_	0	root	_	Gloss=spruce|MGloss=spruce.tree
 
 # sent_id = 2.103b/csz
 # Hanis Coos (Coosan, Oregon)
