@@ -3310,6 +3310,7 @@
 4	sau	_	NOUN	_	_	3	compound	_	Gloss=cover
 
 # sent_id = 2.32/nhg
+# Tetelcingo Nahuatl (Uto-Aztecan, Morelos, Mexico)
 # text = sente tlɔkatl kɪpɪyaya sente puro
 # gloss = one-NUM man he-it-have-IMPERF one-NUM burro
 # text_en = a man had a donkey
@@ -3321,6 +3322,7 @@
 5	puro	_	NOUN	_	Gender=Neut|Number=Sing	3	obj	_	Gloss=donkey
 
 # sent_id = 2.33a/nhg
+# Tetelcingo Nahuatl (Uto-Aztecan, Morelos, Mexico)
 # text = ipa ičɔ
 # gloss = 3SG-at his-home
 # text_en = at his house
@@ -3329,6 +3331,7 @@
 2	ičɔ	_	NOUN	_	Number[psor]=Sing|Person[psor]=3	0	root	_	Gloss=his-house|MSeg=i-čɔ|MGloss=his-home
 
 # sent_id = 2.33b/nhg
+# Tetelcingo Nahuatl (Uto-Aztecan, Morelos, Mexico)
 # text = ičɔ mali
 # gloss = 3SG-home Mary
 # Mary's home
@@ -3337,6 +3340,7 @@
 2	mali	_	PROPN	_	Gender=Fem	1	nmod	_	Gloss=Mary
 
 # sent_id = 2.33c/nhg
+# Tetelcingo Nahuatl (Uto-Aztecan, Morelos, Mexico)
 # text = yaha kačɪ wieyɪ ke taha
 # gloss = he more big than you
 # text_en = he is bigger than you
@@ -3348,6 +3352,7 @@
 5	taha	_	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obl	_	Gloss=you
 
 # sent_id = 2.33d/nhg
+# Tetelcingo Nahuatl (Uto-Aztecan, Morelos, Mexico)
 # text = kwɔk walɔs nɪtlacɪlinis
 # gloss = when come-FUT 1SG-UNSPEC.OBJ-clang-FUT
 # text_en = when he comes, I will ring the bells
@@ -3653,6 +3658,7 @@
 8	poassta	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw|MSeg=po-ass-ta|MGloss=see-PAST-DECL
 
 # sent_id = 2.55/mam
+# Mam (Mayan, Guatemala, Mexico)
 # text = ma b'aj taq'na7n Cheep tjaq' kjo7n tuuk' Xwaan te xjaal
 # mtext = ma b'aj t-aq'na-7n Cheep t-jaq' kjo7n t-uuk' Xwaan t-e xjaal
 # gloss = REC.PAST DIR 3SG.ERG-work-DIR José 3SG-in cornfield 3SG-with Juan 3SG-for person
@@ -3672,6 +3678,7 @@
 10	xjaal	_	NOUN	_	_	3	obl	_	Gloss=person
 
 # sent_id = 2.56/mam
+# Mam (Mayan, Guatemala, Mexico)
 # text = tkamb' meeb'a
 # mtext = t-kamb' meeb'a
 # gloss = 3SG-prize orphan
@@ -3841,7 +3848,7 @@
 2	géer	_	NOUN	_	_	1	nmod	_	Gloss=old-man
 
 # sent_id = 2.66a/yad
-# Yagua (Amazon)
+# Yagua (Peba-Yaguan, Amazonia, Peru)
 # text = siimyiy Alchíconíí quiivą
 # gloss = 3SG-eat Alchíco-DEF.OBJ fish
 # text_en = Alchico is eating the fish
@@ -3852,7 +3859,7 @@
 3	quiivą	_	NOUN	_	_	1	obj	_	Gloss=fish
 
 # sent_id = 2.66b/yad
-# Yagua (Amazon)
+# Yagua (Peba-Yaguan, Amazonia, Peru)
 # text = Tomáása rooriy
 # gloss = Tom house
 # text_en = Tom's house
@@ -4624,4 +4631,67 @@
 2	tol	_	VERB	_	_	0	root	_	Gloss=kill
 3	tobio	_	NOUN	_	_	2	obj	_	Gloss=lion
 4	li	_	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+
+# sent_id = 2.112b/nhg
+# Tetelcingo Nahuatl (Uto-Aztecan, Morelos, Mexico)
+# text = amo nɪkmatɪ koš ok ompaka...
+# gloss = not I-it-know whether still MED-at-be...
+# text_en = I don't know if he's still there...
+1	amo	_	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+2	nɪkmatɪ	_	VERB	_	Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3	0	root	_	Gloss=I-it-know|MSeg=nɪ-k-matɪ|MGloss=I-it-know
+3	koš	_	SCONJ	_	_	5	mark	_	Gloss=whether
+4	ok	_	ADV	_	_	5	advmod	_	Gloss=still
+5	ompaka	_	VERB	_	Distance=Med	2	ccomp	_	Gloss=be-there|MSeg=om-pa-ka|MGloss=MED-at-be|SpaceAfter=No
+6	...	_	PUNCT	_	_	2	punct	_	Gloss=...
+
+# sent_id = 2.113a/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# text = ʔaLʔeM maʔLlíʔLi
+# gloss = not ASP-remember.1SG
+# text_en = I no longer remember
+1	ʔaLʔeM	_	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+2	maʔLlíʔLi	_	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Gloss=I-remember|MSeg=maʔL-líʔLi|MGloss=ASP-remember.1SG
+
+# sent_id = 2.113b/yad
+# Yagua (Peba-Yaguan, Amazonia, Peru)
+# source = D. L. Payne, 1990
+# text = néé ravyąąta buyąą
+# gloss = not 1SG-want manioc.beer
+# text_en = I don't want manioc beer
+1	néé	_	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+2	ravyąąta	_	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Gloss=I-want|MSeg=ra-vyąąta|MGloss=1SG-want
+3	buyąą	_	NOUN	_	_	2	obj	_	Gloss=manioc-beer|MGloss=manioc.beer
+
+# sent_id = 2.114a/urb
+# Urubu-Kaapor (Tupi-Guarani, Brazil)
+# source = Kakumasu, 1986
+# text = kase a'u ta
+# gloss = coffee 1SG-drink FUT
+# text_en = I will drink coffee
+1	kase	_	NOUN	_	_	2	obj	_	Gloss=coffee
+2	a'u	_	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Gloss=I-drink|MSeg=a-'u|MGloss=1SG-drink
+3	ta	_	AUX	_	Tense=Fut	2	aux	_	Gloss=FUT
+
+# sent_id = 2.115a/mam
+# Mam (Mayan, Guatemala, Mexico)
+# text = ma kub' kytzyu7n xiinaq cheej
+# gloss = REC.PAST DIR 3PL.ERG-grab man horse
+# text_en = the men grabbed the horse
+###!!! REC.PAST = recent past. UD does not have a feature for this. Should we create Tense=Recent?
+###!!! What to do with directionals / directional particles / markers ("DIR")? An article describes them as grammaticalized motion verbs, and the constructions with them as asymmetric serial verb constructions.
+1	ma	_	AUX	_	Tense=Past	3	aux	_	Gloss=REC.PAST
+2	kub'	_	AUX	_	_	3	aux	_	Gloss=DIR
+3	kytzyu7n	_	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	Gloss=grab|MSeg=ky-tzyu7n|MGloss=3PL.ERG-grab
+4	xiinaq	_	NOUN	_	_	3	nsubj	_	Gloss=man
+5	cheej	_	NOUN	_	_	3	obj	_	Gloss=horse
+
+# sent_id = 2.115b/bmi
+# Bagirmi (Central Sudanic, Chad)
+# text = bɨs sa ja ga
+# gloss = dog eat meat COMPLETIVE
+# text_en = the dog has eaten the meat
+1	bɨs	_	NOUN	_	Number=Sing	2	nsubj	_	Gloss=dog
+2	sa	_	VERB	_	_	0	root	_	Gloss=eat
+3	ja	_	NOUN	_	_	2	obj	_	Gloss=meat
+4	ga	_	AUX	_	Aspect=Perf	2	aux	_	Gloss=COMPLETIVE
 
