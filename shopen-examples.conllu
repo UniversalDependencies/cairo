@@ -4695,3 +4695,102 @@
 3	ja	_	NOUN	_	_	2	obj	_	Gloss=meat
 4	ga	_	AUX	_	Aspect=Perf	2	aux	_	Gloss=COMPLETIVE
 
+# sent_id = 2.116a/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# text = dïʔVH li:ʔH
+# gloss = very pretty
+# text_en = very pretty
+1	dïʔVH	_	ADV	_	_	2	advmod	_	Gloss=very
+2	li:ʔH	_	ADJ	_	_	0	root	_	Gloss=pretty
+
+# sent_id = 2.116b/mie
+# Ocotepec Mixtec (Oto-Manguean, Oaxaca, Mexico)
+# text = káhnú ndāsi
+# gloss = big very
+# text_en = very big
+1	káhnú	_	ADJ	_	_	0	root	_	Gloss=big
+2	ndāsi	_	ADV	_	_	1	advmod	_	Gloss=very
+
+# sent_id = 2.117a/crw
+# Chrau (Austroasiatic, Mon-Khmer, Vietnam)
+# source = Thomas, 1971
+# text = mo'yǎh maq
+# gloss = very big
+# text_en = very big
+1	mo'yǎh	_	ADV	_	_	2	advmod	_	Gloss=very
+2	maq	_	ADJ	_	_	0	root	_	Gloss=big
+
+# sent_id = 2.117b/crw
+# Chrau (Austroasiatic, Mon-Khmer, Vietnam)
+# source = Thomas, 1971
+# text = maq trôq
+# gloss = big extremely
+# text_en = extremely big
+1	maq	_	ADJ	_	_	0	root	_	Gloss=big
+2	trôq	_	ADV	_	_	1	advmod	_	Gloss=extremely
+
+# sent_id = 2.118a/ote
+# Mezquital Otomi (Oto-Manguean, Hidalgo, Mexico)
+# source = Hess, 1968
+# text = ha mǎ gixə̌ nú ra boxą́
+# gloss = Q going.to you.will.take.it that the money
+# text_en = Are you going to take the money?
+1	ha	_	PART	_	PartType=Int	3	advmod	_	Gloss=whether|MGloss=Q
+2	mǎ	_	AUX	_	Tense=Fut	3	aux	_	Gloss=going-to|MGloss=going.to
+3	gixə̌	_	VERB	_	Mood=Ind|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3|VerbForm=Fin	0	root	_	Gloss=you-will-take-it|MGloss=you.will.take.it
+4	nú	_	DET	_	PronType=Dem	6	det	_	Gloss=that
+5	ra	_	DET	_	PronType=Art	6	det	_	Gloss=the
+6	boxą́	_	NOUN	_	_	3	obj	_	Gloss=money
+
+# sent_id = 2.118b/ote
+# Mezquital Otomi (Oto-Manguean, Hidalgo, Mexico)
+# source = Hess, 1968
+# text = té gíhoní wa
+# gloss = what you.seek.it here
+# text_en = What are you looking for here?
+1	té	_	PRON	_	PronType=Int	2	obj	_	Gloss=what
+2	gíhoní	_	VERB	_	Mood=Ind|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3|VerbForm=Fin	0	root	_	Gloss=you-seek-it|MGloss=you.seek.it
+3	wa	_	ADV	_	PronType=Dem	2	advmod	_	Gloss=here
+
+# sent_id = 2.119/xsl
+# Slave (Athabaskan, Canada)
+# text = David ʔayíi ehtsi
+# gloss = David what 3.make
+# text_en = what did David make?
+1	David	_	PROPN	_	_	3	nsubj	_	Gloss=David
+2	ʔayíi	_	PRON	_	PronType=Int	3	obj	_	Gloss=what
+3	ehtsi	_	VERB	_	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	Gloss=made|MGloss=3.make
+
+# sent_id = 2.120/fj
+# Fijian (Austronesian, Fiji)
+# text = e sabici i'o o cei
+# gloss = 3SG hit 2SG.OBJ ART who
+# text_en = who hit you?
+1	e	_	AUX	_	Number=Sing|Person=3	2	aux	_	Gloss=he|MGloss=3SG
+2	sabici	_	VERB	_	_	0	root	_	Gloss=hit
+3	i'o	_	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	2	obj	_	Gloss=you|MGloss=2SG.OBJ
+4	o	_	DET	_	PronType=Art	5	det	_	Gloss=ART
+5	cei	_	PRON	_	PronType=Int	2	nsubj	_	Gloss=who
+
+# sent_id = 2.121/hnj
+# Hmong Njua (Hmong-Mien, Laos)
+# text = nwg moog ghovtwg
+# gloss = 3SG go where
+# text_en = where is he going to?
+1	nwg	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG
+2	moog	_	VERB	_	_	0	root	_	Gloss=go
+3	ghovtwg	_	ADV	_	PronType=Int	2	advmod	_	Gloss=where
+
+# sent_id = 2.122/dje
+# Songhai Zarma (Nilo-Saharan, Niger)
+# source = Prost, 1956
+# text = koyra foyan ga n ga bisa
+# gloss = village which-PL in 2SG INCOMP pass
+# text_en = by which villages did you pass?
+1	koyra	_	NOUN	_	_	6	obl	_	Gloss=village
+2	foyan	_	DET	_	Number=Plur|PronType=Int	1	det	_	Gloss=which|MSeg=fo-yan|MGloss=which-PL
+3	ga	_	ADP	_	_	1	case	_	Gloss=in
+4	n	_	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Gloss=you|MGloss=2SG
+5	ga	_	AUX	_	Aspect=Imp	6	aux	_	Gloss=INCOMP
+6	bisa	_	VERB	_	_	0	root	_	Gloss=pass
+
