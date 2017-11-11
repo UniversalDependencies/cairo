@@ -4794,3 +4794,34 @@
 5	ga	_	AUX	_	Aspect=Imp	6	aux	_	Gloss=INCOMP
 6	bisa	_	VERB	_	_	0	root	_	Gloss=pass
 
+# sent_id = 2.123a/tig
+# Tigre (Afro-Asiatic, Semitic, Eritrea)
+# source = Raz, 1983
+# text = ... ḥatte ʔəssit walat-ʔəsrael ḥəṣān waldat
+# gloss = ... one woman Israelite boy begot
+# text_en = ... an Israelite woman begot a boy
+1	...	_	PUNCT	_	_	6	punct	_	Gloss=...
+2	ḥatte	_	NUM	_	NumType=Card	3	nummod	_	Gloss=one
+3	ʔəssit	_	NOUN	_	_	6	nsubj	_	Gloss=woman
+4	walat-ʔəsrael	_	ADJ	_	_	3	amod	_	Gloss=Israelite
+5	ḥəṣān	_	NOUN	_	_	6	obj	_	Gloss=boy
+6	waldat	_	VERB	_	_	0	root	_	Gloss=begot
+
+# sent_id = 2.123b/tig
+# Tigre (Afro-Asiatic, Semitic, Eritrea)
+# source = Raz, 1983
+# text = walat farʕon
+# gloss = daughter Pharaoh
+# text_en = the daughter of the Pharaoh
+1	walat	_	NOUN	_	_	0	root	_	Gloss=daughter
+2	farʕon	_	NOUN	_	_	1	nmod	_	Gloss=Pharaoh
+
+# sent_id = 2.123c/tig
+# Tigre (Afro-Asiatic, Semitic, Eritrea)
+# source = Raz, 1983
+# text = la-gəndāb ʔənās
+# gloss = the-old man
+# text_en = the old man
+1	la-gəndāb	_	ADJ	_	Definite=Def	2	amod	_	Gloss=the-old|MSeg=la-gəndāb|MGloss=the-old
+2	ʔənās	_	NOUN	_	_	0	root	_	Gloss=man
+
