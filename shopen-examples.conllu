@@ -4893,3 +4893,51 @@
 4	Nuummi	Nuuk	PROPN	_	Case=Loc	5	obl	_	Gloss=in-Nuuk|MSeg=Nuum-mi|MGloss=Nuuk-LOC
 5	takuara	_	VERB	_	Mood=Ind|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|VerbForm=Fin	0	root	_	Gloss=I-saw|MSeg=taku-ara|MGloss=see-1SG.3SG.INDIC
 
+# sent_id = 2.128a/mie
+# Ocotepec Mixtec (Oto-Manguean, Oaxaca, Mexico)
+# text = ñūu lūlí ñúkwán
+# gloss = town little this
+# text_en = this little town
+1	ñūu	_	NOUN	_	_	0	root	_	Gloss=town
+2	lūlí	_	ADJ	_	_	1	amod	_	Gloss=little
+3	ñúkwán	_	DET	_	PronType=Dem	1	det	_	Gloss=this
+
+# sent_id = 2.128b/mie
+# Ocotepec Mixtec (Oto-Manguean, Oaxaca, Mexico)
+# text = na teē
+# gloss = what man
+# text_en = what man?
+1	na	_	DET	_	PronType=Int	2	det	_	Gloss=what
+2	teē	_	NOUN	_	_	0	root	_	Gloss=man
+
+# sent_id = 2.129/mam
+# Mam (Mayan, Guatemala, Mexico)
+# text = ma jaw b'iit'j
+# gloss = REC.PAST up explode
+# text_en = it exploded
+###!!! REC.PAST = recent past. UD does not have a feature for this.
+###!!! The word "jaw" is described in Shopen as "directional particle", different from "adverb". But it is glossed "up", while in other Mam examples, the gloss is just "DIR".
+1	ma	_	AUX	_	Tense=Past	3	aux	_	Gloss=REC.PAST
+2	jaw	_	PART	_	_	3	compound:dir	_	Gloss=up
+3	b'iit'j	_	VERB	_	_	0	root	_	Gloss=explode
+
+# sent_id = 2.130/nig
+# Ngalakan (Gunwinyguan, northern Australia)
+# source = Merlan, 1983
+# text = ŋiñganammup ŋara
+# gloss = 2SG-deaf perhaps
+# text_en = perhaps you are deaf
+1	ŋiñganammup	_	ADJ	_	Number=Sing|Person=2	0	root	_	Gloss=deaf|MSeg=ŋiñ-ganammup|MGloss=2SG-deaf
+2	ŋara	_	ADV	_	_	1	advmod	_	Gloss=perhaps
+
+# sent_id = 2.131/lez
+# Lezgian (Northeast Caucasian, Dagestan)
+# text = či Qabustanbadikaj sewerizni kwaz kič'eda
+# gloss = 1PL.GEN Qabustanba-CASE bear-PL-DAT-also even afraid-FUT
+# text_en = even bears are afraid of our Qabustan-ba!
+1	či	_	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	Gloss=our|MGloss=1PL.GEN
+2	Qabustanbadikaj	Qabustanba	PROPN	_	_	5	obl:arg	_	Gloss=of-Qabustanba|MSeg=Qabustanba-dikaj|MGloss=Qabustanba-CASE
+3	sewerizni	sew	NOUN	_	Case=Dat|Number=Plur	5	obj	_	Gloss=bears|MSeg=sew-er-iz-ni|MGloss=bear-PL-DAT-also
+4	kwaz	kwaz	ADV	_	_	3	advmod:emph	_	Gloss=even
+5	kič'eda	_	VERB	_	Tense=Fut	0	root	_	Gloss=will-be-afraid|MSeg=kič'e-da|MGloss=afraid-FUT
+
