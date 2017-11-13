@@ -4825,3 +4825,71 @@
 1	la-gəndāb	_	ADJ	_	Definite=Def	2	amod	_	Gloss=the-old|MSeg=la-gəndāb|MGloss=the-old
 2	ʔənās	_	NOUN	_	_	0	root	_	Gloss=man
 
+# sent_id = 2.124a/en
+# text = these three brown books
+1	these	this	DET	_	Number=Plur|PronType=Dem	4	det	_	_
+2	three	three	NUM	_	NumType=Card	4	nummod	_	_
+3	brown	brown	ADJ	_	_	4	amod	_	_
+4	books	book	NOUN	_	Number=Plur	0	root	_	_
+
+# sent_id = 2.124b/amk
+# Ambai (Austronesian, Irian Jaya, Indonesia)
+# source = Silzer, 1983
+# text = dian katui siri nani
+# gloss = fish small one that
+# text_en = that one small fish
+1	dian	_	NOUN	_	_	0	root	_	Gloss=fish
+2	katui	_	ADJ	_	_	1	amod	_	Gloss=small
+3	siri	_	NUM	_	NumType=Card	1	nummod	_	Gloss=one
+4	nani	_	DET	_	PronType=Dem	1	det	_	Gloss=that
+
+# sent_id = 2.125/mor
+# Moro (Niger-Congo, Nuba Hills, Sudan)
+# source = Greenberg, 1963
+# text = majanda ildi ir̨əjin lamənu lor̨ra
+# gloss = man-PL this:NC10.PL three:NC10.PL NC10.PL-black NC10.PL-big
+# text_en = these three big black men
+1	majanda	_	NOUN	_	Number=Plur	0	root	_	Gloss=men|MSeg=maj-anda|MGloss=man-PL
+2	ildi	_	DET	_	NounClass=10|Number=Plur|PronType=Dem	1	det	_	Gloss=this|MGloss=this:NC10.PL
+3	ir̨əjin	_	NUM	_	NounClass=10|Number=Plur|NumType=Card	1	nummod	_	Gloss=three|MGloss=three:NC10.PL
+4	lamənu	_	ADJ	_	NounClass=10|Number=Plur	1	amod	_	Gloss=black|MSeg=l-amənu|MGloss=NC.PL-black
+5	lor̨ra	_	ADJ	_	NounClass=10|Number=Plur	1	amod	_	Gloss=big|MSeg=l-or̨ra|MGloss=NC.PL-big
+
+# sent_id = 2.126/nyn
+# Nkore-Kiga (Niger-Congo, Bantu, Uganda)
+# source = Taylor, 1985
+# text = ekitabo kyawe ekyo ekihango ekimwe
+# gloss = book your that large one
+# text_en = that one large book of yours
+1	ekitabo	_	NOUN	_	_	0	root	_	Gloss=book
+2	kyawe	_	DET	_	Person=2|Poss=Yes|PronType=Prs	1	det	_	Gloss=your
+3	ekyo	_	DET	_	PronType=Dem	1	det	_	Gloss=that
+4	ekihango	_	ADJ	_	_	1	amod	_	Gloss=large
+5	ekimwe	_	NUM	_	NumType=Card	1	nummod	_	Gloss=one
+
+# sent_id = 2.127/xsu
+# Sanuma (Yanomaman, Venezuela, Brazil)
+# source = Borgman, 1990
+# text = pata töpöno sokopi anö wale kökö sepalöma
+# gloss = old 3PL-ERG lance 3SG-INSTR peccary 3DU killed
+# text_en = the old people killed the peccary with lances
+1	pata	_	ADJ	_	_	7	nsubj	_	Gloss=old
+2	töpöno	_	PRON	_	Case=Erg|Number=Plur|Person=3|PronType=Prs	1	det	_	Gloss=they|MSeg=töpö-no|MGloss=3PL-ERG
+3	sokopi	_	NOUN	_	_	7	obl	_	Gloss=lance
+4	anö	_	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	3	det	_	Gloss=with-them|MSeg=a-nö|MGloss=3SG-INSTR
+5	wale	_	NOUN	_	_	7	obj	_	Gloss=peccary
+6	kökö	_	PRON	_	Case=Abs|Number=Dual|Person=3|PronType=Prs	5	det	_	Gloss=them|MGloss=3DU
+7	sepalöma	_	VERB	_	_	0	root	_	Gloss=killed
+
+# sent_id = 2.127b/kl
+# West Greenlandic (Eskimo-Aleut, Greenland)
+# source = Fortescue, 1984
+# text = imaallaat filmi taanna Nuummi takuara
+# gloss = luckily film that Nuuk-LOC see-1SG.3SG.INDIC
+# text_en = luckily, I saw that film in Nuuk
+1	imaallaat	_	ADV	_	_	5	advmod	_	Gloss=luckily
+2	filmi	_	NOUN	_	_	5	obj	_	Gloss=film
+3	taanna	_	DET	_	PronType=Dem	2	det	_	Gloss=that
+4	Nuummi	Nuuk	PROPN	_	Case=Loc	5	obl	_	Gloss=in-Nuuk|MSeg=Nuum-mi|MGloss=Nuuk-LOC
+5	takuara	_	VERB	_	Mood=Ind|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|VerbForm=Fin	0	root	_	Gloss=I-saw|MSeg=taku-ara|MGloss=see-1SG.3SG.INDIC
+
