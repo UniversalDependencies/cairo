@@ -5033,3 +5033,241 @@
 5	mū	_	VERB	_	_	0	root	_	Gloss=see
 6	hī	_	AUX	_	Mood=Ind	5	aux	_	Gloss=INDIC
 
+# sent_id = 2.139/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = hīashīa in sāng hīshīa a līen zaw hī
+# gloss = that house than this 3 large more INDIC
+# text_en = this [house] is larger than that house
+1	hīashīa	_	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	in	_	NOUN	_	_	6	obl	_	Gloss=house
+3	sāng	_	SCONJ	_	_	2	case	_	Gloss=than
+4	hīshīa	_	DET	_	PronType=Dem	6	nsubj	_	Gloss=this
+5	a	_	PRON	_	Person=3|PronType=Prs	6	expl	_	Gloss=it|MGloss=3
+6	līen	_	ADJ	_	_	0	root	_	Gloss=large
+7	zaw	_	ADV	_	Degree=Cmp	6	advmod	_	Gloss=more
+8	hī	_	AUX	_	Mood=Ind	6	aux	_	Gloss=INDIC
+
+# sent_id = 2.140/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = ama amunlangina hong pai bale
+# gloss = 3SG quickly to.here go if.not
+# text_en = if he does not come quickly, ...
+1	ama	_	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|MGloss=3SG
+2	amunlangina	_	ADV	_	_	4	advmod	_	Gloss=quickly
+3	hong	_	ADV	_	_	4	advmod	_	Gloss=to-here|Mgloss=to.here
+4	pai	_	VERB	_	_	0	root	_	Gloss=go
+5	bale	_	SCONJ	_	Polarity=Neg	4	mark	_	Gloss=if-not|MGloss=if.not
+
+# sent_id = 2.141/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = ka anasep ke man hāngina, ke kīkom hī
+# gloss = 1SG work 1 finish because 1 free INDIC
+# text_en = because I have finished my work, I am free
+1	ka	_	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=1SG
+2	anasep	_	NOUN	_	_	4	obj	_	Gloss=work
+3	ke	_	PRON	_	Person=1|PronType=Prs	4	expl	_	Gloss=I|MGloss=1
+4	man	_	VERB	_	_	8	advcl	_	Gloss=finish
+5	hāngina	_	SCONJ	_	_	4	mark	_	Gloss=because|SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	Gloss=,
+7	ke	_	PRON	_	Person=1|PronType=Prs	8	nsubj	_	Gloss=I|MGloss=1
+8	kīkom	_	ADJ	_	_	0	root	_	Gloss=free
+9	hī	_	AUX	_	Mood=Ind	8	aux	_	Gloss=INDIC
+
+# sent_id = 2.142a/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = ama hkuābuīte a hī hī
+# gloss = 3SG villager 3 be INDIC
+# text_en = he is a villager
+1	ama	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj:cop	_	Gloss=he|MGloss=3SG
+2	hkuābuīte	_	NOUN	_	_	0	root	_	Gloss=villager
+3	a	_	PRON	_	Person=3|PronType=Prs	2	expl	_	Gloss=it|MGloss=3
+4	hī	_	AUX	_	_	2	cop	_	Gloss=be
+5	hī	_	AUX	_	Mood=Ind	2	aux	_	Gloss=INDIC
+
+# sent_id = 2.142b/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = amā in sunga a om hī
+# gloss = 3SG house in 3 be INDIC
+# text_en = he is in the house
+1	amā	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj:cop	_	Gloss=he|MGloss=3SG
+2	in	_	NOUN	_	_	0	root	_	Gloss=house
+3	sunga	_	ADP	_	_	2	case	_	Gloss=in
+4	a	_	PRON	_	Person=3|PronType=Prs	2	expl	_	Gloss=it|MGloss=3
+5	om	_	AUX	_	_	2	cop	_	Gloss=be
+6	hī	_	AUX	_	Mood=Ind	2	aux	_	Gloss=INDIC
+
+# sent_id = 2.143/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = sai na kāp yō zīam?
+# gloss = elephant 2 shoot PAST Q
+# text_en = did you shoot an elephant?
+1	sai	_	NOUN	_	_	3	obj	_	Gloss=elephant
+2	na	_	PRON	_	Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MGloss=2
+3	kāp	_	VERB	_	_	0	root	_	Gloss=shoot
+4	yō	_	AUX	_	Tense=Past	3	aux	_	Gloss=PAST
+5	zīam	_	PART	_	PartType=Int	3	advmod	_	Gloss=Q|SpaceAfter=No
+6	?	_	PUNCT	_	_	3	punct	_	Gloss=?
+
+# sent_id = 2.144/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = kōma ke vawt yō hī
+# gloss = 1PL 1 work PAST INDIC
+# text_en = we worked
+1	kōma	_	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=we|MGloss=1PL
+2	ke	_	PRON	_	Person=1|PronType=Prs	3	expl	_	Gloss=we|MGloss=1
+3	vawt	_	VERB	_	_	0	root	_	Gloss=work
+4	yō	_	AUX	_	Tense=Past	3	aux	_	Gloss=PAST
+5	hī	_	AUX	_	Mood=Ind	3	aux	_	Gloss=INDIC
+
+# sent_id = 2.145/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = kema ke ngak ngawl tu hī
+# gloss = 1SG 1 wait not FUT INDIC
+# text_en = I will not wait
+1	kema	_	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=1SG
+2	ke	_	PRON	_	Person=1|PronType=Prs	3	expl	_	Gloss=I|MGloss=1
+3	ngak	_	VERB	_	_	0	root	_	Gloss=wait
+4	ngawl	_	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+5	tu	_	AUX	_	Tense=Fut	3	aux	_	Gloss=FUT
+6	hī	_	AUX	_	Mood=Ind	3	aux	_	Gloss=INDIC
+
+# sent_id = 2.146/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = ama koi lai a teang zīam
+# gloss = 3SG where where 3 live Q
+# text_en = where does he live?
+1	ama	_	PRON	_	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he|MGloss=3SG
+2	koi	_	ADV	_	PronType=Int	5	advmod	_	Gloss=where
+3	lai	_	ADV	_	PronType=Int	2	fixed	_	Gloss=where
+4	a	_	PRON	_	Person=3|PronType=Prs	5	expl	_	Gloss=he|MGloss=3
+5	teang	_	VERB	_	_	0	root	_	Gloss=live
+6	zīam	_	PART	_	PartType=Int	5	advmod	_	Gloss=Q
+
+# sent_id = 2.147/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = mīhing hpā
+# gloss = man good
+# text_en = a good man
+1	mīhing	_	NOUN	_	_	0	root	_	Gloss=man
+2	hpā	_	ADJ	_	_	1	amod	_	Gloss=good
+
+# sent_id = 2.148/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = a hpā mīhing
+# gloss = 3 good man
+# text_en = a good man; a man who is good
+1	a	_	PRON	_	Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3
+2	hpā	_	ADJ	_	_	3	acl:relcl	_	Gloss=good
+3	mīhing	_	NOUN	_	_	0	root	_	Gloss=man
+
+# sent_id = 2.149/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = mīhing htum
+# gloss = man three
+# text_en = three men
+1	mīhing	_	NOUN	_	_	0	root	_	Gloss=man
+2	htum	_	NUM	_	NumType=Card	1	nummod	_	Gloss=three
+
+# sent_id = 2.150/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = hīshīa ching
+# gloss = this tree
+# text_en = this tree
+1	hīshīa	_	DET	_	PronType=Dem	2	det	_	Gloss=this
+2	ching	_	NOUN	_	_	0	root	_	Gloss=tree
+
+# sent_id = 2.151/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = dū mamā
+# gloss = thirsty very
+# text_en = very thirsty
+1	dū	_	ADJ	_	_	0	root	_	Gloss=thirsty
+2	mamā	_	ADV	_	_	1	advmod	_	Gloss=very
+
+# sent_id = 2.152/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = mīhing teampō
+# gloss = man all
+# text_en = all the men
+1	mīhing	_	NOUN	_	_	0	root	_	Gloss=man
+2	teampō	_	DET	_	PronType=Tot	1	det	_	Gloss=all
+
+# sent_id = 2.153/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = bangbang nasep na vawt zīam
+# gloss = what.kind.of work 2 do Q
+# text_en = what kind of work are you doing?
+1	bangbang	_	DET	_	PronType=Int	2	det	_	Gloss=what-kind-of|MGloss=what.kind.of
+2	nasep	_	NOUN	_	_	4	obj	_	Gloss=work
+3	na	_	PRON	_	Person=2|PronType=Prs	4	nsubj	_	Gloss=you|MGloss=2
+4	vawt	_	VERB	_	_	0	root	_	Gloss=do
+5	zīam	_	PART	_	PartType=Int	4	advmod	_	Gloss=Q
+
+# sent_id = 2.154a/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = ama vawt htē hī
+# gloss = 3SG do can INDIC
+# text_en = he can do it
+1	ama	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG
+2	vawt	_	VERB	_	_	0	root	_	Gloss=do
+3	htē	_	AUX	_	_	2	aux	_	Gloss=can
+4	hī	_	AUX	_	Mood=Ind	2	aux	_	Gloss=INDIC
+
+# sent_id = 2.154b/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = ama vawt tunī hī
+# gloss = 3SG do must INDIC
+# text_en = he must do it
+1	ama	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG
+2	vawt	_	VERB	_	_	0	root	_	Gloss=do
+3	tunī	_	AUX	_	_	2	aux	_	Gloss=must
+4	hī	_	AUX	_	Mood=Ind	2	aux	_	Gloss=INDIC
+
+# sent_id = 2.155/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = a naupā a pai nuap hāngina, ...
+# gloss = 3 younger.brother 3 go want because ...
+# text_en = because his younger brother wanted to go, ...
+1	a	_	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	Gloss=his|MGloss=3
+2	naupā	_	NOUN	_	_	4	nsubj	_	Gloss=younger-brother|MGloss=younger.brother
+3	a	_	PRON	_	Person=3|PronType=Prs	4	expl	_	Gloss=he|MGloss=3
+4	pai	_	VERB	_	_	0	root	_	Gloss=go
+5	nuap	_	AUX	_	_	4	aux	_	Gloss=want
+6	hāngina	_	SCONJ	_	_	4	mark	_	Gloss=because|SpaceAfter=No
+7	,	_	PUNCT	_	_	4	punct	_	Gloss=,
+8	...	_	PUNCT	_	_	4	punct	_	Gloss=...
+
+# sent_id = 2.156/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = ngasā shia natu yingtung-tunga ke pai nuam hī
+# gloss = fish fish PURP early.in.morning 1 go want INDIC
+# text_en = I want to go out early in the morning to fish
+1	ngasā	_	NOUN	_	_	2	obj	_	Gloss=fish
+2	shia	_	VERB	_	_	6	advcl	_	Gloss=fish
+3	natu	_	SCONJ	_	_	2	mark	_	Gloss=in-order-to|MGloss=PURP
+4	yingtung-tunga	_	ADV	_	_	6	advcl	_	Gloss=early|MGloss=early.in.morning
+5	ke	_	PRON	_	Person=1|PronType=Prs	6	nsubj	_	Gloss=I|MGloss=1
+6	pai	_	VERB	_	_	0	root	_	Gloss=go
+7	nuam	_	AUX	_	_	6	aux	_	Gloss=want
+8	hī	_	AUX	_	Mood=Ind	6	aux	_	Gloss=INDIC
+
