@@ -4996,3 +4996,40 @@
 5	tu	_	AUX	_	Tense=Fut	4	aux	_	Gloss=FUT
 6	hī	_	AUX	_	Mood=Ind	4	aux	_	Gloss=INDIC
 
+# sent_id = 2.136/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = hīshīa ching haw a vum hī
+# gloss = this tree bark 3 black INDIC
+# text_en = the bark of this tree is black
+1	hīshīa	_	DET	_	PronType=Dem	2	det	_	Gloss=this
+2	ching	_	NOUN	_	_	3	nmod	_	Gloss=tree
+3	haw	_	NOUN	_	_	5	nsubj	_	Gloss=bark
+4	a	_	PRON	_	Person=3|PronType=Prs	5	expl	_	Gloss=it|MGloss=3
+5	vum	_	ADJ	_	_	0	root	_	Gloss=black
+6	hī	_	AUX	_	Mood=Ind	5	aux	_	Gloss=INDIC
+
+# sent_id = 2.137/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = kēma laikūng tūng in
+# gloss = 1SG pencil pick.up IMPER
+# text_en = pick up my pencil
+1	kēma	_	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	Gloss=my|MGloss=1SG
+2	laikūng	_	NOUN	_	_	3	obj	_	Gloss=pencil
+3	tūng	_	VERB	_	_	0	root	_	Gloss=pick-up|MGloss=pick.up
+4	in	_	AUX	_	Mood=Imp	3	aux	_	Gloss=IMPER
+
+# sent_id = 2.138/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = zām ngā pā ke mū hī
+# gloss = gong steal man 1 see INDIC
+# text_en = I saw the man who stole the gong
+1	zām	_	NOUN	_	_	2	obj	_	Gloss=gong
+2	ngā	_	VERB	_	_	3	acl:relcl	_	Gloss=steal
+3	pā	_	NOUN	_	_	5	obj	_	Gloss=man
+4	ke	_	PRON	_	Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=1
+5	mū	_	VERB	_	_	0	root	_	Gloss=see
+6	hī	_	AUX	_	Mood=Ind	5	aux	_	Gloss=INDIC
+
