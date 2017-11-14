@@ -4941,3 +4941,58 @@
 4	kwaz	kwaz	ADV	_	_	3	advmod:emph	_	Gloss=even
 5	kič'eda	_	VERB	_	Tense=Fut	0	root	_	Gloss=will-be-afraid|MSeg=kič'e-da|MGloss=afraid-FUT
 
+# sent_id = 2.132/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = tuazawkchīangina Mētē mīhingte Kawlpī hkuā a shim kik hī
+# gloss = after.that Manipuri person-PL Kawlpi village 3 attack attack INDIC
+# text_en = after that, the Manipuri people attacked Kawlpi village
+1	tuazawkchīangina	_	ADV	_	PronType=Dem	7	advmod	_	Gloss=after-that|MGloss=after.that
+2	Mētē	_	PROPN	_	_	3	nmod	_	Gloss=Manipuri
+3	mīhingte	_	NOUN	_	Number=Plur	7	nsubj	_	Gloss=people|MSeg=mīhing-te|MGloss=person-PL
+4	Kawlpī	_	PROPN	_	_	5	nmod	_	Gloss=Kawlpi
+5	hkuā	_	NOUN	_	_	7	obj	_	Gloss=village
+6	a	_	PRON	_	Person=3|PronType=Prs	7	expl	_	Gloss=they|MGloss=3
+7	shim	_	VERB	_	_	0	root	_	Gloss=attack
+8	kik	_	VERB	_	_	7	compound	_	Gloss=attack
+9	hī	_	AUX	_	Mood=Ind	7	aux	_	Gloss=INDIC
+
+# sent_id = 2.133/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = suang atam ke dē hī
+# gloss = stone many 1 want INDIC
+# text_en = I want many stones
+1	suang	_	NOUN	_	_	4	obj	_	Gloss=stone
+2	atam	_	DET	_	NumType=Card|PronType=Ind	1	det	_	Gloss=many
+3	ke	_	PRON	_	Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=1
+4	dē	_	VERB	_	_	0	root	_	Gloss=want
+5	hī	_	AUX	_	Mood=Ind	4	aux	_	Gloss=INDIC
+
+# sent_id = 2.134/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = amā ching hkat a hpūk yō hī
+# gloss = 3SG tree one 3 fell PAST INDIC
+# text_en = he felled a tree
+1	amā	_	PRON	_	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he|MGloss=3SG
+2	ching	_	NOUN	_	_	5	obj	_	Gloss=tree
+3	hkat	_	NUM	_	NumType=Card	2	nummod	_	Gloss=one
+4	a	_	PRON	_	Person=3|PronType=Prs	5	expl	_	Gloss=he|MGloss=3
+5	hpūk	_	VERB	_	_	0	root	_	Gloss=fell
+6	yō	_	AUX	_	Tense=Past	5	aux	_	Gloss=PAST
+7	hī	_	AUX	_	Mood=Ind	5	aux	_	Gloss=INDIC
+
+# sent_id = 2.135/csy
+# Siyin Chin (Sino-Tibetan, Myanmar)
+# source = Naylor, 1925
+# text = dimlō a ke tām tu hī
+# gloss = Dimlo LOC 1 halt FUT INDIC
+# text_en = I shall halt at Dimlo
+1	dimlō	_	PROPN	_	_	4	obl	_	Gloss=Dimlo
+2	a	_	ADP	_	_	1	case	_	Gloss=at|MGloss=LOC
+3	ke	_	PRON	_	Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=1
+4	tām	_	VERB	_	_	0	root	_	Gloss=halt
+5	tu	_	AUX	_	Tense=Fut	4	aux	_	Gloss=FUT
+6	hī	_	AUX	_	Mood=Ind	4	aux	_	Gloss=INDIC
+
