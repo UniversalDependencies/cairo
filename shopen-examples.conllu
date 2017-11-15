@@ -5271,3 +5271,14 @@
 7	nuam	_	AUX	_	_	6	aux	_	Gloss=want
 8	hī	_	AUX	_	Mood=Ind	6	aux	_	Gloss=INDIC
 
+# sent_id = 2.157a/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = ginumhob hi Manābung hi āyiw
+# gloss = PAST.burn DET Manabung DET wood
+# text_en = Manabung burned some wood
+1	ginumhob	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=burned|MGloss=PAST.burn
+2	hi	_	DET	_	_	3	det	_	Gloss=DET
+3	Manābung	_	PROPN	_	_	1	nsubj	_	Gloss=Manabung
+4	hi	_	DET	_	_	5	det	_	Gloss=DET
+5	āyiw	_	NOUN	_	_	1	obj	_	Gloss=wood
+
