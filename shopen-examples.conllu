@@ -5276,9 +5276,42 @@
 # text = ginumhob hi Manābung hi āyiw
 # gloss = PAST.burn DET Manabung DET wood
 # text_en = Manabung burned some wood
+###!!! It is not clear what should be the subject in Philippinese languages (topic-focus plays a role).
+###!!! But the agent always immediately follows the predicate in Batad Ifugao, and if we are OK with saying that the agent is the subject, it becomes easy.
 1	ginumhob	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=burned|MGloss=PAST.burn
-2	hi	_	DET	_	_	3	det	_	Gloss=DET
+2	hi	_	DET	_	PronType=Art	3	det	_	Gloss=DET
 3	Manābung	_	PROPN	_	_	1	nsubj	_	Gloss=Manabung
-4	hi	_	DET	_	_	5	det	_	Gloss=DET
+4	hi	_	DET	_	PronType=Art	5	det	_	Gloss=DET
 5	āyiw	_	NOUN	_	_	1	obj	_	Gloss=wood
+
+# sent_id = 2.157b/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = indat Aligūyun nan dotag ay agīna
+# gloss = PAST-give Aligūyun DET meat DET brother-3SG.POSS
+# text_en = Aligūyun gave the meat to his brother
+1	indat	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave|MSeg=in-dat|MGloss=PAST-give
+2	Aligūyun	_	PROPN	_	_	1	nsubj	_	Gloss=Aligūyun
+3	nan	_	DET	_	PronType=Art	4	det	_	Gloss=DET
+4	dotag	_	NOUN	_	_	1	obj	_	Gloss=meat
+5	ay	_	DET	_	PronType=Art	6	det	_	Gloss=DET
+6	agīna	_	NOUN	_	Number[psor]=Sing|Person[psor]=3	1	iobj	_	Gloss=his-brother|MSeg=agī-na|MGloss=brother-3SG.POSS
+
+# sent_id = 2.158a/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = binabāi nin di denngolmu
+# gloss = woman.PL perhaps DET hear-2SG
+# text_en = perhaps those whom you heard were women
+1	binabāi	_	NOUN	_	Number=Plur	0	root	_	Gloss=women|MGloss=woman.PL
+2	nin	_	ADV	_	_	1	advmod	_	Gloss=perhaps
+3	di	_	DET	_	PronType=Art	4	det	_	Gloss=DET
+4	denngolmu	_	NOUN	_	VerbForm=Vnoun	1	nsubj	_	Gloss=those-whom-you-heard|MSeg=denngol-mu|MGloss=hear-2SG
+
+# sent_id = 2.158b/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = adangyan hi Habbēleng
+# gloss = rich DET Habbēleng
+# text_en = Habbēleng is rich
+1	adangyan	_	ADJ	_	_	0	root	_	Gloss=rich
+2	hi	_	DET	_	PronType=Art	3	det	_	Gloss=DET
+3	Habbēleng	_	PROPN	_	_	1	nsubj:cop	_	Gloss=Habbēleng
 
