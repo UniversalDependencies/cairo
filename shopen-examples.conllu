@@ -5315,3 +5315,56 @@
 2	hi	_	DET	_	PronType=Art	3	det	_	Gloss=DET
 3	Habbēleng	_	PROPN	_	_	1	nsubj:cop	_	Gloss=Habbēleng
 
+# sent_id = 2.159/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = di payaw Wīgan
+# gloss = DET pond.field Wigan
+# text_en = Wigan's pond field
+1	di	_	DET	_	PronType=Art	2	det	_	Gloss=DET
+2	payaw	_	NOUN	_	_	0	root	_	Gloss=pond-field|MGloss=pond.field
+3	Wīgan	_	PROPN	_	_	2	nmod	_	Gloss=Wigan
+
+# sent_id = 2.160/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = ulun nan ūlog
+# gloss = head-LINK DET snake
+# text_en = the head of the snake
+1	ulun	ulu	NOUN	_	_	0	root	_	Gloss=head|MSeg=ulu-n|MGloss=head-LINK
+2	nan	_	DET	_	PronType=Art	3	det	_	Gloss=DET
+3	ūlog	_	NOUN	_	_	1	nmod	_	Gloss=snake
+
+# sent_id = 2.161/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = han imbaluy'u
+# gloss = DET child=1SG.POSS
+# text_en = my child
+1	han	_	DET	_	PronType=Art	2	det	_	Gloss=DET
+2	imbaluy'u	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	0	root	_	Gloss=my-child|MSeg=imbaluy='u|MGloss=child=1SG.POSS
+
+# sent_id = 2.162/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = nan baluy an inyammāna
+# gloss = DET house LINK PAST-make-3SG
+# text_en = the house that he made
+1	nan	_	DET	_	PronType=Art	2	det	_	Gloss=DET
+2	baluy	_	NOUN	_	_	0	root	_	Gloss=house
+3	an	_	SCONJ	_	_	4	mark	_	Gloss=that|MGloss=LINK
+4	inyammāna	_	VERB	_	_	2	acl:relcl	_	Gloss=he-made|MSeg=iny-ammā-na|MGloss=PAST-make-3SG
+
+# sent_id = 2.163/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = adukkoy han āyiw an lengngoh Gumman ya un nan lengngoh Lahhin
+# gloss = long DET tree LINK cut.down Gumman than than DET cut.down Lahhin
+# text_en = the tree that Gumman cut down is longer than the one that Lahhin cut down
+1	adukkoy	_	ADJ	_	_	0	root	_	Gloss=long
+2	han	_	DET	_	PronType=Art	3	det	_	Gloss=DET
+3	āyiw	_	NOUN	_	_	1	nsubj	_	Gloss=tree
+4	an	_	SCONJ	_	_	5	mark	_	Gloss=that|MGloss=LINK
+5	lengngoh	_	VERB	_	_	3	acl:relcl	_	Gloss=cut-down|MGloss=cut.down
+6	Gumman	_	PROPN	_	_	5	nsubj	_	Gloss=Gumman
+7	ya	_	SCONJ	_	_	10	mark	_	Gloss=than
+8	un	_	SCONJ	_	_	7	fixed	_	Gloss=than
+9	nan	_	DET	_	PronType=Art	10	det	_	Gloss=DET
+10	lengngoh	_	VERB	_	_	1	advcl	_	Gloss=cut-down|MGloss=cut.down
+11	Lahhin	_	PROPN	_	_	10	nsubj	_	Gloss=Lahhin
+
