@@ -10,16 +10,16 @@ T9	NOUN 234 237	dad
 T10	Token 702 704	up
 T11	Token 705 706	,
 T12	AUX 238 240	is
-T13	Token 313 319	Iguazu
-T14	Token 320 321	a
+T13	PROPN 313 319	Iguazu
+T14	DET 320 321	a
 T15	PUNCT 308 309	.
-T16	Token 310 312	Is
-T17	Token 329 330	a
-T18	Token 331 336	small
-T19	Token 322 325	big
-T20	Token 326 328	or
-T21	Token 337 344	country
-T22	Token 345 346	?
+T16	AUX 310 312	Is
+T17	DET 329 330	a
+T18	ADJ 331 336	small
+T19	ADJ 322 325	big
+T20	CONJ 326 328	or
+T21	NOUN 337 344	country
+T22	PUNCT 345 346	?
 T23	NOUN 241 247	cooler
 T24	Token 668 672	that
 T25	Token 664 667	n't
@@ -51,14 +51,14 @@ T50	Token 596 597	.
 T51	Token 598 601	She
 T52	Token 602 608	should
 T53	Token 609 613	have
-T54	Token 56 58	is
-T55	Token 59 66	raining
-T56	Token 67 68	.
+T54	AUX 56 58	is
+T55	VERB 59 66	raining
+T56	PUNCT 67 68	.
 T57	DET 69 71	He
 T58	PROPN 40 41	I
 T59	VERB 42 47	think
-T60	Token 48 52	that
-T61	Token 53 55	it
+T60	SCONJ 48 52	that
+T61	PRON 53 55	it
 T62	VERB 72 77	tried
 T63	ADP 78 80	to
 T64	NOUN 31 37	friend
@@ -94,7 +94,7 @@ T95	VERB 116 120	want
 T96	PRON 112 115	you
 T97	PRON 231 233	My
 T98	VERB 157 161	made
-T99	AUX 162 165	her
+T99	DET 162 165	her
 T100	PUNCT 151 152	!
 T101	AUX 153 156	She
 T102	DET 140 143	the
@@ -111,7 +111,7 @@ T112	DET 179 182	the
 T113	VERB 174 178	wash
 T114	NOUN 166 173	husband
 T115	NOUN 198 206	neighbor
-T116	SCONJ 195 197	’s
+T116	PART 195 197	’s
 T117	NOUN 189 194	Peter
 T118	PUNCT 187 188	.
 T119	Token 510 513	but
@@ -133,14 +133,14 @@ T134	Token 759 762	and
 T135	Token 763 765	it
 T136	Token 766 769	was
 T137	VERB 796 800	grew
-T138	PART 801 803	up
+T138	ADV 801 803	up
 T139	PRON 253 258	yours
 T140	PUNCT 259 260	.
 T141	NOUN 219 224	fence
 T142	NOUN 225 228	red
 T143	PUNCT 229 230	.
 T144	PUNCT 813 814	,
-T145	PART 827 829	of
+T145	ADP 827 829	of
 T146	NOUN 819 826	capital
 T147	PUNCT 837 838	.
 T148	NOUN 830 836	France
@@ -166,7 +166,7 @@ T167	ADP 24 26	to
 T168	DET 27 30	her
 T169	DET 15 16	a
 T170	NOUN 17 23	letter
-T171	NOUN 140 148;4 8	the wind girl
+T171	NOUN 4 8	girl
 T172	VERB 9 14	wrote
 T173	Token 748 752	from
 T174	Token 745 747	is
@@ -181,7 +181,7 @@ T182	PROPN 261 265	Mary
 T183	PUNCT 277 278	,
 T184	PROPN 270 276	bronze
 T185	NOUN 807 812	Paris
-T186	PART 804 806	in
+T186	ADP 804 806	in
 T187	DET 815 818	the
 T188	DET 0 3	The
 R2	nsubj Arg1:T172 Arg2:T171	
@@ -262,30 +262,104 @@ A47	Gender T101 Fem
 A48	Number T101 Sing
 A49	Person T101 3
 A50	Animacy T141 Inan
-R28	punct Arg1:T105 Arg2:T100	
 R29	punct Arg1:T105 Arg2:T104	
-R30	punct Arg1:T105 Arg2:T100	
 R31	punct Arg1:T95 Arg2:T106	
 R33	det Arg1:T87 Arg2:T88	
-R34	case Arg1:T97 Arg2:T9	
 R35	det Arg1:T111 Arg2:T112	
 R32	xcomp Arg1:T95 Arg2:T87	
 R36	nsubj Arg1:T95 Arg2:T96	
-R37	dobj Arg1:T113 Arg2:T118	
-R38	dobj Arg1:T23 Arg2:T139	
+R38	nmod Arg1:T23 Arg2:T139	
 R39	aux Arg1:T95 Arg2:T93	
 R40	det Arg1:T139 Arg2:T176	
-R41	dobj Arg1:T98 Arg2:T118	
 A51	Animacy T132 Anim
 A52	Gender T132 Fem
 A53	Number T132 Sing
 A54	Person T132 3
 A55	Tense T137 Past
 R43	punct Arg1:T23 Arg2:T140	
-R42	nsubj Arg1:T113 Arg2:T114	
-R44	punct Arg1:T181 Arg2:T183	
-R45	punct Arg1:T74 Arg2:T75	
-R46	punct Arg1:T181 Arg2:T180	
 R47	punct Arg1:T181 Arg2:T15	
 R48	det Arg1:T146 Arg2:T187	
-R49	xcomp Arg1:T23 Arg2:T9	
+A56	Case T61 Nom
+A57	PronType T61 Prs
+A58	Gender T61 Neut
+A59	Number T61 Sing
+A60	Person T61 3
+A61	Mood T54 Ind
+A62	Number T54 Sing
+A63	Person T54 3
+A64	Tense T54 Pres
+A65	VerbForm T54 Fin
+A66	Tense T55 Pres
+A67	VerbForm T55 Part
+R50	aux Arg1:T55 Arg2:T54	
+R51	nsubj Arg1:T55 Arg2:T61	
+R52	mark Arg1:T55 Arg2:T60	
+R53	ccomp Arg1:T59 Arg2:T55	
+R54	punct Arg1:T59 Arg2:T56	
+R28	det Arg1:T103 Arg2:T102	
+R30	dobj Arg1:T105 Arg2:T103	
+R55	punct Arg1:T105 Arg2:T100	
+R56	vocative Arg1:T105 Arg2:T107	
+R37	nsubj Arg1:T98 Arg2:T101	
+A68	PronType T99 Prs
+A69	Gender T99 Fem
+A70	Number T99 Sing
+A71	Person T99 3
+A72	Poss T99
+R41	det Arg1:T114 Arg2:T99	
+R42	dobj Arg1:T98 Arg2:T114	
+R57	xcomp Arg1:T98 Arg2:T113	
+R58	dobj Arg1:T113 Arg2:T111	
+R59	punct Arg1:T98 Arg2:T118	
+R60	nsubj Arg1:T110 Arg2:T115	
+R61	dobj Arg1:T110 Arg2:T141	
+R62	det Arg1:T141 Arg2:T109	
+R63	nmod Arg1:T115 Arg2:T117	
+R64	case Arg1:T117 Arg2:T116	
+R65	xcomp Arg1:T110 Arg2:T142	
+R66	punct Arg1:T110 Arg2:T143	
+R34	cop Arg1:T23 Arg2:T12	
+R49	det Arg1:T9 Arg2:T97	
+R67	nsubj Arg1:T23 Arg2:T9	
+R68	nsubj Arg1:T181 Arg2:T182	
+R69	dobj Arg1:T181 Arg2:T184	
+R44	conj Arg1:T181 Arg2:T178	
+R70	punct Arg1:T178 Arg2:T183	
+R71	remnant Arg1:T178 Arg2:T177	
+R46	conj Arg1:T181 Arg2:T108	
+R72	punct Arg1:T108 Arg2:T180	
+R73	cc Arg1:T108 Arg2:T179	
+R74	remnant Arg1:T108 Arg2:T175	
+A73	Mood T16 Ind
+A74	Number T16 Sing
+A75	Person T16 3
+A76	Tense T16 Pres
+A77	VerbForm T16 Fin
+A78	Number T13 Sing
+A79	Definite T14 Ind
+A80	Degree T19 Pos
+A81	Definite T17 Ind
+A82	Degree T18 Pos
+A83	Number T21 Sing
+R75	det Arg1:T19 Arg2:T14	
+R76	det Arg1:T21 Arg2:T17	
+R77	amod Arg1:T21 Arg2:T18	
+R78	cc Arg1:T21 Arg2:T20	
+R79	conj Arg1:T19 Arg2:T21	
+R80	nsubj Arg1:T19 Arg2:T13	
+R81	cop Arg1:T19 Arg2:T16	
+R82	punct Arg1:T21 Arg2:T22	
+R83	compound Arg1:T137 Arg2:T138	
+R84	nsubj Arg1:T137 Arg2:T132	
+R85	case Arg1:T185 Arg2:T186	
+R86	nmod Arg1:T137 Arg2:T185	
+R87	case Arg1:T148 Arg2:T145	
+R88	nmod Arg1:T146 Arg2:T148	
+R89	punct Arg1:T146 Arg2:T144	
+R90	appos Arg1:T185 Arg2:T146	
+R91	punct Arg1:T137 Arg2:T147	
+R45	det Arg1:T76 Arg2:T75	
+R92	nsubj Arg1:T70 Arg2:T69	
+R93	dobj Arg1:T70 Arg2:T71	
+R94	acl Arg1:T76 Arg2:T70	
+R95	punct Arg1:T74 Arg2:T72	
