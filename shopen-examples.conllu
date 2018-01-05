@@ -5398,3 +5398,55 @@
 9	di	_	DET	_	_	10	det	_	Gloss=DET
 10	hu'īna	_	NOUN	_	Number[psor]=Sing|Person[psor]=3	7	obj	_	Gloss=his-foot|MSeg=hu'ī-na|MGloss=foot-3SG.POSS
 
+# sent_id = 2.166/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = undan lumagalāga hi Bukkāhan hi ulbung
+# gloss = Q weave.HABIT DET Bukkāhan DET rice.basket
+# text_en = does Bukkahan always weave rice baskets?
+1	undan	_	PART	_	PartType=Int	2	advmod	_	Gloss=whether|MGloss=Q
+2	lumagalāga	_	VERB	_	Aspect=Hab	0	root	_	Gloss=weave|MGloss=weave.HABIT
+3	hi	_	DET	_	_	4	det	_	Gloss=DET
+4	Bukkāhan	_	PROPN	_	_	2	nsubj	_	Gloss=Bukkāhan
+5	hi	_	DET	_	_	6	det	_	Gloss=DET
+6	ulbung	_	NOUN	_	_	2	obj	_	Gloss=rice-basket|MGloss=rice.basket
+
+# sent_id = 2.167/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = angnganggoh di pohdom hi onom
+# gloss = what DET want-2SG DET eat-2SG
+# text_en = what do you want to eat?
+# lit. what is that which you want to eat?
+1	angnganggoh	_	PRON	_	PronType=Int	0	root	_	Gloss=what
+2	di	_	DET	_	_	3	det	_	Gloss=DET
+3	pohdom	_	VERB	_	Number[psor]=Sing|Person[psor]=2	1	csubj	_	Gloss=your-wanted-thing|MSeg=pohdo-m|MGloss=want-2SG
+4	hi	_	DET	_	_	5	det	_	Gloss=DET
+5	onom	_	VERB	_	Number[psor]=Sing|Person[psor]=2	3	compound:svc	_	Gloss=your-to-be-eaten-thing|MSeg=ono-m|MGloss=eat-2SG
+
+# sent_id = 2.168a/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = mahhūna' an umuy ya un he''a
+# gloss = be.first LINK go before 2SG
+# text_en = I will go before you
+1	mahhūna'	_	VERB	_	_	0	root	_	Gloss=be-first|MGloss=be.first
+2	an	_	PART	_	_	3	cc	_	Gloss=LINK
+3	umuy	_	VERB	_	_	1	compound:svc	_	Gloss=go|MSeg=um-uy|MGloss=go
+4	ya	_	ADP	_	_	6	case	_	Gloss=before
+5	un	_	ADP	_	_	4	fixed	_	Gloss=before
+6	he''a	_	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obl	_	Gloss=you
+
+# sent_id = 2.168b/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = ay ugālin di i-Batad di aton nan iy-Umbūlu
+# gloss = like custom-LINK DET from-Batad DET do DET from-Cambulo
+# text_en = what the people of Cambulo do is like the custom of the people of Batad
+1	ay	_	ADP	_	_	2	case	_	Gloss=like
+2	ugālin	ugāli	NOUN	_	Link=Yes	0	root	_	Gloss=custom|MSeg=ugāli-n|MGloss=custom-LINK
+3	di	_	DET	_	Number=Plur	5	det	_	Gloss=the|MGloss=DET
+4	i-	i	ADP	_	_	5	case	_	Gloss=from|SpaceAfter=No
+5	Batad	Batad	PROPN	_	_	2	nmod	_	Gloss=Batad
+6	di	_	DET	_	Number=Plur	7	det	_	Gloss=the|MGloss=DET
+7	aton	_	VERB	_	_	2	csubj	_	Gloss=do
+8	nan	_	DET	_	_	10	det	_	Gloss=the|MGloss=DET
+9	iy-	i	ADP	_	_	10	case	_	Gloss=from|SpaceAfter=No
+10	Umbūlu	Umbūlu	PROPN	_	_	7	nsubj	_	Gloss=Cambulo
+
