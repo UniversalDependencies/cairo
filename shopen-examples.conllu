@@ -5462,3 +5462,36 @@
 5	adagwin	adagwi	ADJ	_	Link=Yes	3	advmod	_	Gloss=far|MSeg=adagwi-n|MGloss=far-LINK
 6	kulha	kulha	NOUN	_	_	5	obl	_	Gloss=road
 
+# sent_id = 2.170a/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = di mamhod an manāyaw
+# gloss = DET want LINK dance
+# text_en = the ones who want to dance
+1	di	di	DET	_	PronType=Art	2	det	_	Gloss=the-ones-who|MGloss=DET
+2	mamhod	_	VERB	_	_	0	root	_	Gloss=want
+3	an	an	PART	_	Link=Yes	4	mark	_	Gloss=to|MGloss=LINK
+4	manāyaw	_	VERB	_	_	2	xcomp	_	Gloss=dance
+
+# sent_id = 2.170b/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = ente''an da Umāngob an mumbā'i
+# gloss = begin PL  Umāngob LINK recite.ritual.prayer
+# text_en = Umāngob and others began reciting ritual prayers
+1	ente''an	_	VERB	_	_	0	root	_	Gloss=begin
+2	da	da	DET	_	Number=Plur|PronType=Art	3	det	_	Gloss=others-and|MGloss=PL
+3	Umāngob	Umāngob	PROPN	_	_	1	nsubj	_	Gloss=Umāngob
+4	an	an	PART	_	Link=Yes	5	mark	_	Gloss=to|MGloss=LINK
+5	mumbā'i	_	VERB	_	_	1	xcomp	_	Gloss=recite-ritual-prayer|MGloss=recite.ritual.prayer
+
+# sent_id = 2.170c/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = iny-ahdom Tumāpang an iyanāmut din lāman
+# gloss = delay.until.night Tumāpang LINK bring.home that wild.pig
+# text_en = Tumāpang delayed until night bringing home that wild pig
+1	iny-ahdom	_	VERB	_	_	0	root	_	Gloss=delay-until-night|MGloss=delay.until.night
+2	Tumāpang	Tumāpang	PROPN	_	_	1	nsubj	_	Gloss=Tumāpang
+3	an	an	PART	_	Link=Yes	4	mark	_	Gloss=to|MGloss=LINK
+4	iyanāmut	_	VERB	_	_	1	xcomp	_	Gloss=bring-home|MGloss=bring.home
+5	din	din	DET	_	PronType=Dem	6	det	_	Gloss=that
+6	lāman	lāman	NOUN	_	_	4	obj	_	Gloss=wild-pig|MGloss=wild.pig
+
