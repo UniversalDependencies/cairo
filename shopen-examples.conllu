@@ -5278,7 +5278,7 @@
 # text_en = Manabung burned some wood
 ###!!! It is not clear what should be the subject in Philippinese languages (topic-focus plays a role).
 ###!!! But the agent always immediately follows the predicate in Batad Ifugao, and if we are OK with saying that the agent is the subject, it becomes easy.
-1	ginumhob	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=burned|MGloss=PAST.burn
+1	ginumhob	gumhob	VERB	_	Mood=Ind|RefRole=Pat|Tense=Past|VerbForm=Fin	0	root	_	Gloss=burned|MGloss=PAST.burn
 2	hi	hi	DET	_	PronType=Art	3	det	_	Gloss=DET
 3	Manābung	Manābung	PROPN	_	_	1	nsubj	_	Gloss=Manabung
 4	hi	hi	DET	_	PronType=Art	5	det	_	Gloss=DET
@@ -5289,7 +5289,7 @@
 # text = indat Aligūyun nan dotag ay agīna
 # gloss = PAST-give Aligūyun DET meat DET brother-3SG.POSS
 # text_en = Aligūyun gave the meat to his brother
-1	indat	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave|MSeg=in-dat|MGloss=PAST-give
+1	indat	dat	VERB	_	Mood=Ind|RefRole=The|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave|MSeg=in-dat|MGloss=PAST-give
 2	Aligūyun	Aligūyun	PROPN	_	_	1	nsubj	_	Gloss=Aligūyun
 3	nan	nan	DET	_	PronType=Art	4	det	_	Gloss=DET
 4	dotag	dotag	NOUN	_	_	1	obj	_	Gloss=meat
@@ -5301,10 +5301,10 @@
 # text = binabāi nin di denngolmu
 # gloss = woman.PL perhaps DET hear-2SG
 # text_en = perhaps those whom you heard were women
-1	binabāi	_	NOUN	_	Number=Plur	0	root	_	Gloss=women|MGloss=woman.PL
+1	binabāi	binabāi	NOUN	_	Number=Plur	0	root	_	Gloss=women|MGloss=woman.PL
 2	nin	nin	ADV	_	_	1	advmod	_	Gloss=perhaps
 3	di	di	DET	_	PronType=Art	4	det	_	Gloss=DET
-4	denngolmu	_	NOUN	_	VerbForm=Vnoun	1	nsubj	_	Gloss=those-whom-you-heard|MSeg=denngol-mu|MGloss=hear-2SG
+4	denngolmu	dengol	NOUN	_	Number=Sing|Person=2|Tense=Past|VerbForm=Vnoun	1	nsubj	_	Gloss=those-whom-you-heard|MSeg=denngol-mu|MGloss=hear-2SG
 
 # sent_id = 2.158b/ifb
 # Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
@@ -5349,7 +5349,7 @@
 1	nan	nan	DET	_	PronType=Art	2	det	_	Gloss=DET
 2	baluy	baluy	NOUN	_	_	0	root	_	Gloss=house
 3	an	an	PART	_	Link=Yes	4	mark	_	Gloss=that|MGloss=LINK
-4	inyammāna	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	Gloss=he-made|MSeg=iny-ammā-na|MGloss=PAST-make-3SG
+4	inyammāna	ammā	VERB	_	Mood=Ind|Number=Sing|Person=3|RefRole=The|Tense=Past|VerbForm=Fin	2	acl:relcl	_	Gloss=he-made|MSeg=iny-ammā-na|MGloss=PAST-make-3SG
 
 # sent_id = 2.163/ifb
 # Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
@@ -5360,12 +5360,12 @@
 2	han	han	DET	_	PronType=Art	3	det	_	Gloss=DET
 3	āyiw	āyiw	NOUN	_	_	1	nsubj	_	Gloss=tree
 4	an	an	PART	_	Link=Yes	5	mark	_	Gloss=that|MGloss=LINK
-5	lengngoh	_	VERB	_	_	3	acl:relcl	_	Gloss=cut-down|MGloss=cut.down
+5	lengngoh	lengngoh	VERB	_	_	3	acl:relcl	_	Gloss=cut-down|MGloss=cut.down
 6	Gumman	Gumman	PROPN	_	_	5	nsubj	_	Gloss=Gumman
 7	ya	ya	SCONJ	_	_	10	mark	_	Gloss=than
 8	un	un	SCONJ	_	_	7	fixed	_	Gloss=than
 9	nan	nan	DET	_	PronType=Art	10	det	_	Gloss=DET
-10	lengngoh	_	VERB	_	_	1	advcl	_	Gloss=cut-down|MGloss=cut.down
+10	lengngoh	lengngoh	VERB	_	_	1	advcl	_	Gloss=cut-down|MGloss=cut.down
 11	Lahhin	Lahhin	PROPN	_	_	10	nsubj	_	Gloss=Lahhin
 
 # sent_id = 2.164/ifb
@@ -5376,10 +5376,10 @@
 1	ababāin	ababāin	ADJ	_	_	0	root	_	Gloss=shameful
 2	ahan	ahan	ADV	_	_	1	advmod	_	Gloss=very
 3	din	din	DET	_	PronType=Dem	4	det	_	Gloss=DET
-4	inat	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	1	csubj	_	Gloss=did|MSeg=in-at|MGloss=PAST-do
+4	inat	at	VERB	_	Mood=Ind|RefRole=The|Tense=Past|VerbForm=Fin	1	csubj	_	Gloss=did|MSeg=in-at|MGloss=PAST-do
 5	Immamata''on	Immamata''on	PROPN	_	_	4	nsubj	_	Gloss=Immamata''on
 6	ti	ti	SCONJ	_	_	7	mark	_	Gloss=because
-7	inihdānay	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	Gloss=he-ate|MSeg=in-ihdā-na-y|MGloss=PAST-eat-3SG-DET
+7	inihdānay	ihdā	VERB	_	Mood=Ind|Number=Sing|Person=3|RefRole=The|Tense=Past|VerbForm=Fin	1	advcl	_	Gloss=he-ate|MSeg=in-ihdā-na-y|MGloss=PAST-eat-3SG-DET
 8	imbaluyna	imbaluy	NOUN	_	Number[psor]=Sing|Person[psor]=3	7	obj	_	Gloss=his-child|MSeg=imbaluy-na|MGloss=child-3SG.POSS
 
 # sent_id = 2.165/ifb
@@ -5389,11 +5389,11 @@
 # text_en = when Pilay stood up, Pu'it tramped on his foot
 1	wa	wa	ADV	_	_	3	advmod	_	Gloss=when
 2	an	an	ADV	_	_	1	fixed	_	Gloss=when
-3	tuma'dog	_	VERB	_	_	7	advcl	_	Gloss=stand-up|MGloss=stand.up
+3	tuma'dog	ta'dog	VERB	_	Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	7	advcl	_	Gloss=stand-up|MGloss=stand.up
 4	hi	hi	DET	_	PronType=Art	5	det	_	Gloss=DET
 5	Pīlay	Pīlay	PROPN	_	_	3	nsubj	_	Gloss=Pīlay
 6	ya	ya	ADV	_	_	7	advmod	_	Gloss=then|MGloss=and.then
-7	inlumdit	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=tramped|MSeg=in-lumdit|MGloss=PAST-tramp
+7	inlumdit	lumdit	VERB	_	Mood=Ind|RefRole=The|Tense=Past|VerbForm=Fin	0	root	_	Gloss=tramped|MSeg=in-lumdit|MGloss=PAST-tramp
 8	Pū'it	Pū'it	PROPN	_	_	7	nsubj	_	Gloss=Pū'it
 9	di	di	DET	_	PronType=Art	10	det	_	Gloss=DET
 10	hu'īna	hu'ī	NOUN	_	Number[psor]=Sing|Person[psor]=3	7	obj	_	Gloss=his-foot|MSeg=hu'ī-na|MGloss=foot-3SG.POSS
@@ -5404,7 +5404,7 @@
 # gloss = Q weave.HABIT DET Bukkāhan DET rice.basket
 # text_en = does Bukkahan always weave rice baskets?
 1	undan	undan	PART	_	PartType=Int	2	advmod	_	Gloss=whether|MGloss=Q
-2	lumagalāga	_	VERB	_	Aspect=Hab	0	root	_	Gloss=weave|MGloss=weave.HABIT
+2	lumagalāga	lagalāga	VERB	_	Aspect=Hab|Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=weave|MGloss=weave.HABIT
 3	hi	hi	DET	_	PronType=Art	4	det	_	Gloss=DET
 4	Bukkāhan	Bukkāhan	PROPN	_	_	2	nsubj	_	Gloss=Bukkāhan
 5	hi	hi	DET	_	PronType=Art	6	det	_	Gloss=DET
@@ -5416,20 +5416,20 @@
 # gloss = what DET want-2SG DET eat-2SG
 # text_en = what do you want to eat?
 # lit. what is that which you want to eat?
-1	angnganggoh	_	PRON	_	PronType=Int	0	root	_	Gloss=what
+1	angnganggoh	angnganggoh	PRON	_	PronType=Int	0	root	_	Gloss=what
 2	di	di	DET	_	PronType=Art	3	det	_	Gloss=DET
-3	pohdom	_	VERB	_	Number[psor]=Sing|Person[psor]=2	1	csubj	_	Gloss=your-wanted-thing|MSeg=pohdo-m|MGloss=want-2SG
+3	pohdom	pohdo	VERB	_	Mood=Ind|Number[psor]=Sing|Person[psor]=2|VerbForm=Fin	1	csubj	_	Gloss=your-wanted-thing|MSeg=pohdo-m|MGloss=want-2SG
 4	hi	hi	DET	_	PronType=Art	5	det	_	Gloss=DET
-5	onom	_	VERB	_	Number[psor]=Sing|Person[psor]=2	3	compound:svc	_	Gloss=your-to-be-eaten-thing|MSeg=ono-m|MGloss=eat-2SG
+5	onom	ono	VERB	_	Mood=Ind|Number[psor]=Sing|Person[psor]=2|VerbForm=Fin	3	compound:svc	_	Gloss=your-to-be-eaten-thing|MSeg=ono-m|MGloss=eat-2SG
 
 # sent_id = 2.168a/ifb
 # Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
 # text = mahhūna' an umuy ya un he''a
 # gloss = be.first LINK go before 2SG
 # text_en = I will go before you
-1	mahhūna'	_	VERB	_	_	0	root	_	Gloss=be-first|MGloss=be.first
-2	an	an	PART	_	Link=Yes	3	cc	_	Gloss=LINK
-3	umuy	_	VERB	_	_	1	compound:svc	_	Gloss=go|MSeg=um-uy|MGloss=go
+1	mahhūna'	hūn	VERB	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=be-first|MSeg=mahhūn-a'|MGloss=be.first-1SG
+2	an	an	PART	_	Link=Yes	3	mark	_	Gloss=to|MGloss=LINK
+3	umuy	uy	VERB	_	Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	1	compound:svc	_	Gloss=go|MSeg=um-uy|MGloss=go
 4	ya	ya	ADP	_	_	6	case	_	Gloss=before
 5	un	un	ADP	_	_	4	fixed	_	Gloss=before
 6	he''a	he''a	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obl	_	Gloss=you
@@ -5445,7 +5445,7 @@
 4	i-	i	ADP	_	_	5	case	_	Gloss=from|SpaceAfter=No
 5	Batad	Batad	PROPN	_	_	2	nmod	_	Gloss=Batad
 6	di	di	DET	_	Number=Plur|PronType=Art	7	det	_	Gloss=the|MGloss=DET
-7	aton	_	VERB	_	_	2	csubj	_	Gloss=do
+7	aton	at	VERB	_	Mood=Ind|RefRole=Pat|Tense=Pres|VerbForm=Fin	2	csubj	_	Gloss=do
 8	nan	nan	DET	_	PronType=Art	10	det	_	Gloss=the|MGloss=DET
 9	iy-	i	ADP	_	_	10	case	_	Gloss=from|SpaceAfter=No
 10	Umbūlu	Umbūlu	PROPN	_	_	7	nsubj	_	Gloss=Cambulo
@@ -5455,9 +5455,9 @@
 # text = mabalina' an dalānon nan adagwin kulha
 # gloss = able-1SG LINK walk DET far-LINK road
 # text_en = I am able to walk far on a road
-1	mabalina'	_	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Gloss=I-am-able|MSeg=mabalin-a'|MGloss=able-1SG
+1	mabalina'	balin	VERB	_	Mood=Ind|Number=Sing|Person=1|RefRole=Pat|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=I-am-able|MSeg=mabalin-a'|MGloss=able-1SG
 2	an	an	PART	_	Link=Yes	3	mark	_	Gloss=LINK
-3	dalānon	_	VERB	_	_	1	xcomp	_	Gloss=walk
+3	dalānon	dalān	VERB	_	Mood=Ind|RefRole=Pat|Tense=Pres|VerbForm=Fin	1	xcomp	_	Gloss=walk
 4	nan	nan	DET	_	PronType=Art	5	det	_	Gloss=DET
 5	adagwin	adagwi	ADJ	_	Link=Yes	3	advmod	_	Gloss=far|MSeg=adagwi-n|MGloss=far-LINK
 6	kulha	kulha	NOUN	_	_	5	obl	_	Gloss=road
@@ -5468,30 +5468,218 @@
 # gloss = DET want LINK dance
 # text_en = the ones who want to dance
 1	di	di	DET	_	PronType=Art	2	det	_	Gloss=the-ones-who|MGloss=DET
-2	mamhod	_	VERB	_	_	0	root	_	Gloss=want
+2	mamhod	hod	VERB	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=want
 3	an	an	PART	_	Link=Yes	4	mark	_	Gloss=to|MGloss=LINK
-4	manāyaw	_	VERB	_	_	2	xcomp	_	Gloss=dance
+4	manāyaw	āyaw	VERB	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	2	xcomp	_	Gloss=dance
 
 # sent_id = 2.170b/ifb
 # Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
 # text = ente''an da Umāngob an mumbā'i
 # gloss = begin PL  Umāngob LINK recite.ritual.prayer
 # text_en = Umāngob and others began reciting ritual prayers
-1	ente''an	_	VERB	_	_	0	root	_	Gloss=begin
+1	ente''an	ente''an	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=begin
 2	da	da	DET	_	Number=Plur|PronType=Art	3	det	_	Gloss=others-and|MGloss=PL
 3	Umāngob	Umāngob	PROPN	_	_	1	nsubj	_	Gloss=Umāngob
 4	an	an	PART	_	Link=Yes	5	mark	_	Gloss=to|MGloss=LINK
-5	mumbā'i	_	VERB	_	_	1	xcomp	_	Gloss=recite-ritual-prayer|MGloss=recite.ritual.prayer
+5	mumbā'i	bā'i	VERB	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	1	xcomp	_	Gloss=recite-ritual-prayer|MGloss=recite.ritual.prayer
 
 # sent_id = 2.170c/ifb
 # Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
 # text = iny-ahdom Tumāpang an iyanāmut din lāman
 # gloss = delay.until.night Tumāpang LINK bring.home that wild.pig
 # text_en = Tumāpang delayed until night bringing home that wild pig
-1	iny-ahdom	_	VERB	_	_	0	root	_	Gloss=delay-until-night|MGloss=delay.until.night
+1	iny-ahdom	ahdom	VERB	_	Mood=Ind|RefRole=The|Tense=Past|VerbForm=Fin	0	root	_	Gloss=delay-until-night|MGloss=delay.until.night
 2	Tumāpang	Tumāpang	PROPN	_	_	1	nsubj	_	Gloss=Tumāpang
 3	an	an	PART	_	Link=Yes	4	mark	_	Gloss=to|MGloss=LINK
-4	iyanāmut	_	VERB	_	_	1	xcomp	_	Gloss=bring-home|MGloss=bring.home
+4	iyanāmut	yanāmut	VERB	_	Mood=Ind|RefRole=The|Tense=Pres|VerbForm=Fin	1	xcomp	_	Gloss=bring-home|MGloss=bring.home
 5	din	din	DET	_	PronType=Dem	6	det	_	Gloss=that
 6	lāman	lāman	NOUN	_	_	4	obj	_	Gloss=wild-pig|MGloss=wild.pig
+
+# sent_id = 2.171/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = mahhūna' an umuy ya un he''a
+# gloss = be.first-1SG LINK go before before 2SG
+# text_en = I will go first before you
+1	mahhūna'	hūn	VERB	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=be-first|MSeg=mahhūn-a'|MGloss=be.first-1SG
+2	an	an	PART	_	Link=Yes	3	mark	_	Gloss=to|MGloss=LINK
+3	umuy	uy	VERB	_	Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	1	compound:svc	_	Gloss=go|MSeg=um-uy|MGloss=go
+4	ya	ya	ADP	_	_	6	case	_	Gloss=before
+5	un	un	ADP	_	_	4	fixed	_	Gloss=before
+6	he''a	he''a	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obl	_	Gloss=you
+
+# sent_id = 2.172a/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = umulla'ullay han nundogoh an dumālan
+# gloss = do.slow:HABIT DET be.in.pain LINK walk
+# text_en = the one who is in pain always walks slowly
+1	umulla'ullay	ullay	VERB	_	Aspect=Hab|Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=do-slow|MGloss=do.slow:HABIT
+2	han	han	DET	_	PronType=Dem	3	det	_	Gloss=he-who|MGloss=DET
+3	nundogoh	dogoh	VERB	_	Mood=Ind|RefRole=Age|Tense=Past|VerbForm=Fin	1	csubj	_	Gloss=be-in-pain|MGloss=be.in.pain
+4	an	an	PART	_	Link=Yes	5	mark	_	Gloss=to|MGloss=LINK
+5	dumālan	dālan	VERB	_	Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	1	compound:svc	_	Gloss=walked|MGloss=walk
+
+# sent_id = 2.172b/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = imay'anyun uminum hinan bayah
+# gloss = do.moderately-2PL-LINK drink DET homemade.beer
+# text_en = drink rice beer moderately
+# The sentence is used as an imperative but there is no special morphological form of imperative.
+# Maybe we should not at all use the Mood and VerbForm features with Batad Ifugao verbs.
+1	imay'anyun	may	VERB	_	Link=Yes|Mood=Ind|Number=Plur|Person=2|RefRole=Ben|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=do-moderately-to|MSeg=imay'an-yu-n|MGloss=do.moderately-2PL-LINK
+2	uminum	inum	VERB	_	Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	1	compound:svc	_	Gloss=drink
+3	hinan	hinan	DET	_	PronType=Art	4	det	_	Gloss=the|MGloss=DET
+4	bayah	bayah	NOUN	_	_	2	obj	_	Gloss=beer|MGloss=homemade.beer
+
+# sent_id = 2.173/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = immuy hi Bumallātung hi ad Bannāwol an mungngīnah bābuy
+# gloss = go DET Bumallātung DET DET Bannāwol LINK buy-DET pig
+# text_en = Bumallātung went to Bannāwol to buy a pig
+1	immuy	uy	VERB	_	Mood=Ind|RefRole=Act|Tense=Past|VerbForm=Fin	0	root	_	Gloss=went|MSeg=imm-uy|MGloss=go
+2	hi	hi	DET	_	PronType=Art	3	det	_	Gloss=the|MGloss=DET
+3	Bumallātung	Bumallātung	PROPN	_	_	1	nsubj	_	Gloss=Bumallātung
+4	hi	hi	DET	_	PronType=Art	6	det	_	Gloss=the|MGloss=DET
+5	ad	ad	DET	_	PronType=Art	4	fixed	_	Gloss=the|MGloss=DET
+6	Bannāwol	Bannāwol	PROPN	_	_	1	obj	_	Gloss=Bannāwol
+7	an	an	PART	_	Link=Yes	8	mark	_	Gloss=to|MGloss=LINK
+8-9	mungngīnah	_	_	_	_	_	_	_	MGloss=buy-DET
+8	mungngīna	ngīna	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	1	advcl	_	Gloss=buy
+9	hi	hi	DET	_	PronType=Art	10	det	_	Gloss=the
+10	bābuy	bābuy	NOUN	_	_	8	obj	_	Gloss=pig
+
+# sent_id = 2.174a/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = din apuy
+# gloss = that fire
+# text_en = that fire
+1	din	din	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	apuy	apuy	NOUN	_	_	0	root	_	Gloss=fire
+
+# sent_id = 2.174b/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = nan tulun balāhang
+# gloss = DET three-LINK young.girl
+# text_en = the three young ladies
+1	nan	nan	DET	_	PronType=Art	3	det	_	Gloss=the|MGloss=DET
+2	tulun	tulu	NUM	_	Link=Yes|NumType=Card	3	nummod	_	Gloss=three|MSeg=tulu-n|MGloss=three-LINK
+3	balāhang	balāhang	NOUN	_	_	0	root	_	Gloss=girl|MGloss=young.girl
+
+# sent_id = 2.174c/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = hinan ongol an batu
+# gloss = DET large LINK stone
+# text_en = a large stone
+1	hinan	hinan	DET	_	PronType=Art	4	det	_	Gloss=a|MGloss=DET
+2	ongol	ongol	ADJ	_	_	4	amod	_	Gloss=large
+3	an	an	PART	_	Link=Yes	2	case	_	Gloss=LINK
+4	batu	batu	NOUN	_	_	0	root	_	Gloss=stone
+
+# sent_id = 2.175a/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = nan nappuhin tibung
+# gloss = DET bad-LINK wine.jar
+# text_en = the bad wine jar
+1	nan	nan	DET	_	_	3	det	_	Gloss=the|MGloss=DET
+2	nappuhin	nappuhi	ADJ	_	Link=Yes	3	amod	_	Gloss=bad|MSeg=nappuhi-n|MGloss=bad-LINK
+3	tibung	tibung	NOUN	_	_	0	root	_	Gloss=wine-jar|MGloss=wine.jar
+
+# sent_id = 2.175b/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = nan tibung an nappūhih panniga'
+# gloss = DET wine.jar LINK bad MANNER-see-1SG
+# text_en = the wine jar which is bad with reference to the way I see it
+1	nan	nan	DET	_	_	2	det	_	Gloss=the|MGloss=DET
+2	tibung	tibung	NOUN	_	_	0	root	_	Gloss=wine-jar|MGloss=wine.jar
+3	an	an	PART	_	Link=Yes	2	case	_	Gloss=of|MGloss=LINK
+4	nappūhih	nappuhi	ADJ	_	_	2	amod	_	Gloss=bad
+5	panniga'	nig	_	Mood=Ind|Number=Sing|Person=1|RefRole=Man|Tense=Pres|VerbForm=Fin	4	advcl	_	Gloss=as-I-see-it|MSeg=pan-nig-a'|MGloss=MANNER-see-1SG
+
+# sent_id = 2.176/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = ababāin ahan
+# gloss = shameful very
+# text_en = very shameful
+1	ababāin	ababāin	ADJ	_	_	0	root	_	Gloss=shameful
+2	ahan	ahan	ADV	_	_	1	advmod	_	Gloss=very
+
+# sent_id = 2.177a/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = agguy nolo' han imbaluy'u
+# gloss = NEG.PAST sleep DET child-1SG.POSS
+# text_en = my child didn't sleep
+1	agguy	agguy	AUX	_	Polarity=Neg|Tense=Past	2	aux	_	Gloss=did-not|MGloss=NEG.PAST
+2	nolo'	olo'	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sleep
+3	han	han	DET	_	PronType=Art	4	det	_	Gloss=the|MGloss=DET
+4	imbaluy'u	imbaluy	NOUN	_	Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Gloss=my-child|MSeg=imbaluy-'u|Mgloss=child-1SG.POSS
+
+# sent_id = 2.177b/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = adīda umuy
+# gloss = NEG.NONPAST-3PL go
+# text_en = they will not go
+1	adīda	adi	AUX	_	Number=Plur|Person=3|Polarity=Neg|Tense=Pres	2	aux	_	Gloss=they-will-not|MSeg=adī-da|MGloss=NEG.NONPAST-3PL
+2	umuy	uy	VERB	_	Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=go|MSeg=um-uy|MGloss=go
+
+# sent_id = 2.178/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = gunna inhanglag din gadiw
+# gloss = repeatedly-3SG roast that fish(sp.)
+# text_en = he repeatedly roasted those small river fish
+1	gunna	gun	AUX	_	Aspect=Iter|Number=Sing|Person=3	2	aux	_	Gloss=he-repeatedly|MSeg=gun-na|MGloss=repeatedly-3SG
+2	inhanglag	hanglag	VERB	_	Mood=Ind|RefRole=The|Tense=Past|VerbForm=Fin	0	root	_	Gloss=roasted|MGloss=roast
+3	din	din	DET	_	PronType=Dem	4	det	_	Gloss=that
+4	gadiw	gadiw	NOUN	_	_	2	obj	_	Gloss=fish
+
+# sent_id = 2.179/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = 'ahi gagallaw nan linalā'in mangngal hi dotag
+# gloss = CONCUR CONCUR-crowd DET man.PL-LINK get DET meat
+# text_en = the men all crowd together in getting meat
+1	'ahi	'ahi	AUX	_	Aspect=Prog	2	aux	_	Gloss=concurrently|MGloss=CONCUR
+2	gagallaw	gallaw	VERB	_	Aspect=Prog|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=crowd
+3	nan	nan	DET	_	PronType=Art	4	det	_	Gloss=the|MGloss=DET
+4	linalā'in	linalā'i	NOUN	_	Link=Yes|Number=Plur	2	nsubj	_	Gloss=men|MSeg=linalā'i-n|MGloss=man.PL-LINK
+5	mangngal	ngal	VERB	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	2	conj	_	Gloss=get
+6	hi	hi	DET	_	PronType=Art	7	det	_	Gloss=the|MGloss=DET
+7	dotag	dotag	NOUN	_	_	5	obj	_	Gloss=meat
+
+# sent_id = 2.180a/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = umuy manganup nan linalā'i
+# gloss = go ACT-hunt DET man.PL
+# text_en = the men will go to hunt
+1	umuy	uy	VERB	_	Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=go|MSeg=um-uy|MGloss=go
+2	manganup	anup	VERB	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	1	compound:svc	_	Gloss=hunt|MSeg=mang-anup|MGloss=ACT-hunt
+3	nan	nan	DET	_	PronType=Art	4	det	_	Gloss=the|MGloss=DET
+4	linalā'i	linalā'i	NOUN	_	Number=Plur	2	nsubj	_	Gloss=men|MGloss=man.PL
+
+# sent_id = 2.180b/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = pagūyan nan tatagud Nāyun nan ūmada
+# gloss = plant-LOC DET person.PL Nayon DET upland.field-3PL.POSS
+# text_en = the people of Nayon plant their upland fields with rice
+1	pagūyan	pagūy	VERB	_	Mood=Ind|RefRole=Loc|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=plant|MSeg=pagūy-an|MGloss=plant-LOC
+2	nan	nan	DET	_	PronType=Art	3	det	_	Gloss=the|MGloss=DET
+3	tatagud	tatagud	NOUN	_	Number=Plur	1	nsubj	_	Gloss=people|MGloss=person.PL
+4	Nāyun	Nāyun	PROPN	_	_	3	nmod	_	Gloss=Nayon
+5	nan	nan	DET	_	PronType=Art	6	det	_	Gloss=the|MGloss=DET
+6	ūmada	ūma	NOUN	_	Number[psor]=Plur|Person[psor]=3	1	obj	_	Gloss=their-upland-field|MSeg=ūma-da|MGloss=upland.field-3PL.POSS
+
+# sent_id = 2.180c/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = humagīlip nan batu
+# gloss = spin.horizontally DET stone
+# text_en = the stone will spin horizontally through the air
+1	humagīlip	hagīlip	VERB	_	Mood=Ind|RefRole=Act|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=spin-horizontally|MSeg=h<um>agīlip|MGloss=<ACT>spin.horizontally
+2	nan	nan	DET	_	PronType=Art	3	det	_	Gloss=the|MGloss=DET
+3	batu	batu	NOUN	_	_	1	nsubj	_	Gloss=stone
+
+# sent_id = 2.181/ifb
+# Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
+# text = dinumloh ad a''u
+# gloss = rained-heavily DET.LOC last.night
+# text_en = it rained heavily last night
+1	dinumloh doloh	VERB	_	Mood=Ind|RefRole=Act|Tense=Past|VerbForm=Fin	0	root	_	Gloss=rained-heavily|MSeg=d<in><um>loh|MGloss=<PAST><ACT>rain.heavily
+2	ad	ad	DET	_	PronType=Art	3	det	_	Gloss=the|MGloss=DET.LOC
+3	a''u	a''u	NOUN	_	_	1	obl	_	Gloss=last-night|MGloss=last.night
 
