@@ -5679,7 +5679,7 @@
 # text = dinumloh ad a''u
 # gloss = rained-heavily DET.LOC last.night
 # text_en = it rained heavily last night
-1	dinumloh doloh	VERB	_	Mood=Ind|RefRole=Act|Tense=Past|VerbForm=Fin	0	root	_	Gloss=rained-heavily|MSeg=d<in><um>loh|MGloss=<PAST><ACT>rain.heavily
+1	dinumloh	doloh	VERB	_	Mood=Ind|RefRole=Act|Tense=Past|VerbForm=Fin	0	root	_	Gloss=rained-heavily|MSeg=d<in><um>loh|MGloss=<PAST><ACT>rain.heavily
 2	ad	ad	DET	_	PronType=Art	3	det	_	Gloss=the|MGloss=DET.LOC
 3	a''u	a''u	NOUN	_	_	1	obl	_	Gloss=last-night|MGloss=last.night
 
