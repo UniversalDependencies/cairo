@@ -5543,7 +5543,7 @@
 6	Bannāwol	Bannāwol	PROPN	_	_	1	obj	_	Gloss=Bannāwol
 7	an	an	PART	_	Link=Yes	8	mark	_	Gloss=to|MGloss=LINK
 8-9	mungngīnah	_	_	_	_	_	_	_	MGloss=buy-DET
-8	mungngīna	ngīna	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	1	advcl	_	Gloss=buy
+8	mungngīna	ngīna	VERB	_	Mood=Ind|RefRole=Age|Tense=Pres|VerbForm=Fin	1	advcl	_	Gloss=buy
 9	hi	hi	DET	_	PronType=Art	10	det	_	Gloss=the
 10	bābuy	bābuy	NOUN	_	_	8	obj	_	Gloss=pig
 
