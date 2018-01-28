@@ -5592,7 +5592,7 @@
 2	tibung	tibung	NOUN	_	_	0	root	_	Gloss=wine-jar|MGloss=wine.jar
 3	an	an	PART	_	Link=Yes	2	case	_	Gloss=of|MGloss=LINK
 4	nappūhih	nappuhi	ADJ	_	_	2	amod	_	Gloss=bad
-5	panniga'	nig	_	Mood=Ind|Number=Sing|Person=1|RefRole=Man|Tense=Pres|VerbForm=Fin	4	advcl	_	Gloss=as-I-see-it|MSeg=pan-nig-a'|MGloss=MANNER-see-1SG
+5	panniga'	nig	VERB	_	Mood=Ind|Number=Sing|Person=1|RefRole=Man|Tense=Pres|VerbForm=Fin	4	advcl	_	Gloss=as-I-see-it|MSeg=pan-nig-a'|MGloss=MANNER-see-1SG
 
 # sent_id = 2.176/ifb
 # Batad Ifugao (Austronesian, Malayo-Polynesian, Luzon, Philippines)
