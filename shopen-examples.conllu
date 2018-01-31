@@ -5734,8 +5734,32 @@
 # sent_id = 3.4a/bbb
 # Barai (Trans-New Guinea, Koiarian, Papua New Guinea)
 # source = Foley and Olson, 1985
+# text = Fu fase isema fi isoe
+# gloss = he letter wrongly sat write
+# text_en = He wrongly sat writing a letter
+1	Fu	_	PRON	_	Number=Sing|Person=3	4	nsubj	_	Gloss=he
+2	fase	_	NOUN	_	_	5	obj	_	Gloss=letter
+3	isema	_	ADV	_	_	4	advmod	_	Gloss=wrongly
+4	fi	_	VERB	_	_	0	root	_	Gloss=sat
+5	isoe	_	VERB	_	_	4	compound:svc	_	Gloss=write
 
 # sent_id = 3.4b/ml
 # Malayalam (Dravidian, Southern, India)
 # source = Mohanan, 1982
+# text = Kuṭṭi ammaye salyam ceyṯu
+# gloss = child mother annoyance did
+# text_en = The child annoyed the mother
+1	Kuṭṭi	_	NOUN	_	_	4	nsubj	_	Gloss=child
+2	ammaye	_	NOUN	_	_	4	iobj	_	Gloss=mother
+3	salyam	_	NOUN	_	_	4	obj	_	Gloss=annoyance
+4	ceyṯu	_	VERB	_	_	0	root	_	Gloss=did
+
+# sent_id = 3.4c/en
+# text = The guards beat the prisoners up
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	guards	guard	NOUN	_	Number=Plur	3	nsubj	_	_
+3	beat	beat	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	prisoners	prisoner	NOUN	_	Number=Plur	3	obj	_	_
+6	up	up	ADV	_	_	3	compound:prt	_	_
 
