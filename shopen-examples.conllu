@@ -5763,3 +5763,39 @@
 5	prisoners	prisoner	NOUN	_	Number=Plur	3	obj	_	_
 6	up	up	ADV	_	_	3	compound:prt	_	_
 
+# sent_id = 3.5a/ru
+# text = Kniga na stole
+# gloss = book on table
+# text_en = The book is on the table
+1	Kniga	kniga	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Gloss=book
+2	na	na	ADP	_	_	3	case	_	Gloss=on
+3	stole	stol	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	0	root	_	Gloss=table
+
+# sent_id = 3.5b/ru
+# text = U menja kniga
+# gloss = at me book
+# text_en = I have a book
+1	U	u	ADP	_	_	2	case	_	Gloss=at
+2	menja	ja	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	0	root	_	Gloss=me
+3	kniga	kniga	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Gloss=book
+
+# sent_id = 3.6a/ady
+# Adyghe (Northwest Caucasian, Circassian, Russia)
+# source = Catford, 1976:44
+# text = bojetsım pıjır ıwık'ʀ
+# gloss = warrior-ERG enemy-NOM killed
+# text_en = The warrior killed the enemy
+1	bojetsım	bojetsı	NOUN	_	Case=Erg	3	nsubj	_	Gloss=warrior|MSeg=bojetsı-m|MGloss=warrior-ERG
+2	pıjır	pıjı	NOUN	_	Case=Nom	3	obj	_	Gloss=enemy|MSeg=pıjı-r|MGloss=enemy-NOM
+3	ıwık'ʀ	_	VERB	_	_	0	root	_	Gloss=killed
+
+# sent_id = 3.6b/ady
+# Adyghe (Northwest Caucasian, Circassian, Russia)
+# source = Catford, 1976:44
+# text = bojetsır pıjım jepıdʒʀ
+# gloss = warrior-NOM enemy-ERG stabbed
+# text_en = The warrior killed the enemy
+1	bojetsır	bojetsı	NOUN	_	Case=Nom	3	nsubj	_	Gloss=warrior|MSeg=bojetsı-r|MGloss=warrior-NOM
+2	pıjım	pıjı	NOUN	_	Case=Erg	3	obj	_	Gloss=enemy|MSeg=pıjı-m|MGloss=enemy-ERG
+3	jepıdʒʀ	_	VERB	_	_	0	root	_	Gloss=stabbed
+
