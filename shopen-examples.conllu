@@ -5799,3 +5799,71 @@
 2	pıjım	pıjı	NOUN	_	Case=Erg	3	obj	_	Gloss=enemy|MSeg=pıjı-m|MGloss=enemy-ERG
 3	jepıdʒʀ	_	VERB	_	_	0	root	_	Gloss=stabbed
 
+# sent_id = 3.7a/en
+# text = Tiger snakes inhabit Australia
+1	Tiger	tiger	NOUN	_	Number=Sing	2	nmod	_	_
+2	snakes	snake	NOUN	_	Number=Plur	3	nsubj	_	Role=Theme
+3	inhabit	inhabit	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Australia	Australia	PROPN	_	Number=Sing	3	obj	_	Role=InnerLocative
+
+# sent_id = 3.7ba/en
+# text = George walked from the store
+1	George	George	PROPN	_	Number=Sing	2	nsubj	_	Role=Agent,Theme
+2	walked	walk	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	from	from	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	store	store	NOUN	_	Number=Sing	2	obl	_	Role=Source
+
+# sent_id = 3.7bb/en
+# text = George walked to the store
+1	George	George	PROPN	_	Number=Sing	2	nsubj	_	Role=Agent,Theme
+2	walked	walk	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	store	store	NOUN	_	Number=Sing	2	obl	_	Role=Goal
+
+# sent_id = 3.7c/en
+# text = I love Lucy
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Role=Experiencer
+2	love	love	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Lucy	Lucy	PROPN	_	Number=Sing	2	obj	_	_
+
+# sent_id = 3.7d/en
+# text = Frederika annoys me
+1	Frederika	Frederika	PROPN	_	Number=Sing	2	nsubj	_	Role=Causer
+2	annoys	annoy	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	Role=Experiencer
+
+# sent_id = 3.7e/en
+# text = Darlene handed Bruce a sausage
+1	Darlene	Darlene	PROPN	_	Number=Sing	2	nsubj	_	Role=Agent
+2	handed	hand	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Bruce	Bruce	PROPN	_	Number=Sing	2	iobj	_	Role=Recipient
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	sausage	sausage	NOUN	_	Number=Sing	2	obj	_	Role=Theme
+
+# sent_id = 3.7f/en
+# text = Bill prodded the snake with a stick
+1	Bill	Bill	PROPN	_	Number=Sing	2	nsubj	_	Role=Agent
+2	prodded	prod	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	snake	snake	NOUN	_	Number=Sing	2	obj	_	Role=Patient
+5	with	with	ADP	_	_	7	case	_	_
+6	a	a	DET	_	Definite=Ind|PronType=Art	7	det	_	_
+7	stick	stick	NOUN	_	Number=Sing	2	obl	_	Role=Instrumental
+
+# sent_id = 3.7g/en
+# text = The Earth attracts the moon
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	Earth	Earth	PROPN	_	Number=Sing	3	nsubj	_	Role=Causer
+3	attracts	attract	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	moon	moon	NOUN	_	Number=Sing	3	obj	_	Role=Theme
+
+# sent_id = 3.7h/en
+# text = The car is expensive
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	_	Number=Sing	4	nsubj	_	Role=Theme
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	expensive	expensive	ADJ	_	0	root	_	_
+
