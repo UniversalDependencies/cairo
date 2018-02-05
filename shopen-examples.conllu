@@ -5865,5 +5865,5 @@
 1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	_	Number=Sing	4	nsubj	_	Role=Theme
 3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	expensive	expensive	ADJ	_	0	root	_	_
+4	expensive	expensive	ADJ	_	_	0	root	_	_
 
