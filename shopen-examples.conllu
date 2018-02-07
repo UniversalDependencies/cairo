@@ -5894,7 +5894,7 @@
 4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
 5	sign	sign	NOUN	_	Number=Sing	2	obj	_	_
 6	for	for	ADP	_	_	7	case	_	_
-7	fun	fun	NOUN	_	Number=Sing	_	Role=Reason
+7	fun	fun	NOUN	_	Number=Sing	2	obl	_	Role=Reason
 
 # sent_id = 3.8d/en
 # text = Shirley went diving with a speargun
