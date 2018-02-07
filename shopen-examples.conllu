@@ -5867,3 +5867,51 @@
 3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	expensive	expensive	ADJ	_	_	0	root	_	_
 
+# sent_id = 3.8a/en
+# text = Susan caught a lizard in the garden
+1	Susan	Susan	PROPN	_	Number=Sing	2	nsubj	_	_
+2	caught	catch	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	lizard	lizard	NOUN	_	Number=Sing	2	obj	_	_
+5	in	in	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	garden	garden	NOUN	_	Number=Sing	2	obl	_	Role=OuterLocative
+
+# sent_id = 3.8b/en
+# text = Bruce barbecued a sausage for Darlene
+1	Bruce	Bruce	PROPN	_	Number=Sing	2	nsubj	_	_
+2	barbecued	barbecue	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	sausage	sausage	NOUN	_	Number=Sing	2	obj	_	_
+5	for	for	ADP	_	_	6	case	_	_
+6	Darlene	Darlene	PROPN	_	Number=Sing	2	obl	_	Role=Benefactive
+
+# sent_id = 3.8c/en
+# text = Alvin shot up a sign for fun
+1	Alvin	Alvin	PROPN	_	Number=Sing	2	nsubj	_	_
+2	shot	shoot	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	up	up	ADV	_	_	2	compound:prt	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	sign	sign	NOUN	_	Number=Sing	2	obj	_	_
+6	for	for	ADP	_	_	7	case	_	_
+7	fun	fun	NOUN	_	Number=Sing	_	Role=Reason
+
+# sent_id = 3.8d/en
+# text = Shirley went diving with a speargun
+1	Shirley	Shirley	PROPN	_	Number=Sing	2	nsubj	_	_
+2	went	go	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	diving	dive	VERB	_	Tense=Pres|VerbForm=Part	2	advcl	_	_
+4	with	with	ADP	_	_	6	case	_	_
+5	a	a	DET	_	Definite=Ind|PronType=Art	6	det	_	_
+6	speargun	speargun	NOUN	_	Number=Sing	2	obl	_	Role=CircumstantialComitative
+
+# sent_id = 3.8e/en
+# text = Jack ate a sausage during the race
+1	Jack	Jack	PROPN	_	Number=Sing	2	nsubj	_	_
+2	ate	eat	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	sausage	sausage	NOUN	_	Number=Sing	2	obj	_	_
+5	during	during	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	race	race	NOUN	_	Number=Sing	2	obl	_	Role=Temporal
+
