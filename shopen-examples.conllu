@@ -5915,3 +5915,51 @@
 6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	race	race	NOUN	_	Number=Sing	2	obl	_	Role=Temporal
 
+# sent_id = 3.9a/dak
+# Dakota (Siouan, North Dakota and South Dakota, USA)
+# source = Van Valin, 1985:366-7
+# text = Wičása ki mathó wa̧ ktȩ
+# gloss = man the bear a killed
+# text_en = The man killed a bear
+1	Wičása	_	NOUN	_	_	5	nsubj	_	Gloss=man
+2	ki	_	DET	_	Definite=Def|PronType=Art	1	det	_	Gloss=the
+3	mathó	_	NOUN	_	_	5	obj	_	Gloss=bear
+4	wa̧	_	DET	_	Definite=Ind|PronType=Art	3	det	_	Gloss=a
+5	ktȩ	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=killed
+
+# sent_id = 3.9b/dak
+# Dakota (Siouan, North Dakota and South Dakota, USA)
+# source = Van Valin, 1985:366-7
+# text = Mathó wa̧ wičása ki ktȩ
+# gloss = bear a man the killed
+# text_en = A bear killed the man
+1	Mathó	_	NOUN	_	_	5	nsubj	_	Gloss=bear
+2	wa̧	_	DET	_	Definite=Ind|PronType=Art	1	det	_	Gloss=a
+3	wičása	_	NOUN	_	_	5	obj	_	Gloss=man
+4	ki	_	DET	_	Definite=Def|PronType=Art	3	det	_	Gloss=the
+5	ktȩ	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=killed
+
+# sent_id = 3.10a/dak
+# Dakota (Siouan, North Dakota and South Dakota, USA)
+# source = Van Valin, 1985:366-7
+# text = Wičása ki ix?é wa̧ wa̧yále
+# gloss = man the rock a saw
+# text_en = The man saw a rock
+1	Wičása	_	NOUN	_	_	5	nsubj	_	Gloss=man
+2	ki	_	DET	_	Definite=Def|PronType=Art	1	det	_	Gloss=the
+3	ix?é	_	NOUN	_	_	5	obj	_	Gloss=rock
+4	wa̧	_	DET	_	Definite=Ind|PronType=Art	3	det	_	Gloss=a
+5	wa̧yále	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
+
+# sent_id = 3.10b/dak
+# Dakota (Siouan, North Dakota and South Dakota, USA)
+# source = Van Valin, 1985:366-7
+# text = Ix?é wa̧ wičása ki wa̧yále
+# gloss = rock a man the saw
+# text_en = The man saw a rock
+1	Ix?é	_	NOUN	_	_	5	obj	_	Gloss=rock
+2	wa̧	_	DET	_	Definite=Ind|PronType=Art	1	det	_	Gloss=a
+3	wičása	_	NOUN	_	_	5	nsubj	_	Gloss=man
+4	ki	_	DET	_	Definite=Def|PronType=Art	3	det	_	Gloss=the
+5	wa̧yále	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
+
