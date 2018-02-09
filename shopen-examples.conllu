@@ -1431,6 +1431,7 @@
 4	nkyɛn	_	ADP	_	_	2	case	_	Gloss=beside
 
 # sent_id = 1.104a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
 # text = Ngarrkangku karnta nyangu
 # gloss = man-ERG woman saw
 # text_en = The man saw the woman
@@ -1439,6 +1440,7 @@
 3	nyangu	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
 
 # sent_id = 1.104b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
 # text = Nyangu ngarrkangku karnta
 # gloss = saw man-ERG woman
 # text_en = The man saw the woman
@@ -1447,6 +1449,7 @@
 3	karnta	karnta	NOUN	_	Case=Abs	1	obj	_	Gloss=woman
 
 # sent_id = 1.105a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
 # text = Ngarrka nyangu karntangku
 # gloss = man saw woman-ERG
 # text_en = The woman saw the man
@@ -1455,6 +1458,7 @@
 3	karntangku	karnta	NOUN	_	Case=Erg	2	nsubj	_	Gloss=woman|MSeg=karnta-ngku|MGloss=woman-ERG
 
 # sent_id = 1.105b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
 # text = Ngarrka karntangku nyangu
 # gloss = man woman-ERG saw
 # text_en = The woman saw the man
@@ -5984,4 +5988,94 @@
 6	to	to	ADP	_	_	8	case	_	_
 7	the	the	DET	_	Definite=Def|PronType=Art	8	det	_	_
 8	meeting	meeting	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.12a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973; Simpson, 1991
+# text = Kurdungku ka maliki witangku wajilipinyi
+# gloss = child-ERG PRES dog(ABS) small-ERG running-attack-NONPAST
+# text_en = The small child is chasing the dog
+1	Kurdungku	kurdu	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=child|MSeg=kurdu-ngku|MGloss=child-ERG
+2	ka	ka	AUX	_	Tense=Pres	5	aux	_	Gloss=PRES
+3	maliki	maliki	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Gloss=dog|MGloss=dog.ABS
+4	witangku	wita	ADJ	_	Case=Erg	1	amod	_	Gloss=small|MSeg=wita-ngku|MGloss=small-ERG
+5	wajilipinyi	wajilipi	VERB	_	Tense=Pres	0	root	_	Gloss=chase|MSeg=wajili-pi-nyi|MGloss=running-attack-NONPAST
+
+# sent_id = 3.12b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973; Simpson, 1991
+# text = Wajilipinyi ka witangku maliki kurdungku
+# gloss = running-attack-NONPAST PRES small-ERG dog(ABS) child-ERG
+# text_en = The small child is chasing the dog
+1	Wajilipinyi	wajilipi	VERB	_	Tense=Pres	0	root	_	Gloss=chase|MSeg=wajili-pi-nyi|MGloss=running-attack-NONPAST
+2	ka	ka	AUX	_	Tense=Pres	1	aux	_	Gloss=PRES
+3	witangku	wita	ADJ	_	Case=Erg	4	amod	_	Gloss=small|MSeg=wita-ngku|MGloss=small-ERG
+4	maliki	maliki	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Gloss=dog|MGloss=dog.ABS
+5	kurdungku	kurdu	NOUN	_	Case=Erg|Number=Sing	1	nsubj	_	Gloss=child|MSeg=kurdu-ngku|MGloss=child-ERG
+
+# sent_id = 3.12c/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973; Simpson, 1991
+# text = Maliki ka kurdungku wajilipinyi witangku
+# gloss = dog(ABS) PRES child-ERG running-attack-NONPAST small-ERG
+1	Maliki	maliki	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Gloss=dog|MGloss=dog.ABS
+2	ka	ka	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES
+3	kurdungku	kurdu	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Gloss=child|MSeg=kurdu-ngku|MGloss=child-ERG
+4	wajilipinyi	wajilipi	VERB	_	Tense=Pres	0	root	_	Gloss=chase|MSeg=wajili-pi-nyi|MGloss=running-attack-NONPAST
+5	witangku	wita	ADJ	_	Case=Erg	3	amod	_	Gloss=small|MSeg=wita-ngku|MGloss=small-ERG
+
+# sent_id = 3.13/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973; Simpson, 1991
+# text = Ngarrka ka purlami
+# gloss = man(ABS) PRES shout-NONPAST
+# text_en = The man is shouting
+1	Ngarrka	ngarrka	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Gloss=man|MGloss=man.ABS
+2	ka	ka	AUX	_	Tense=Pres	3	aux	_	Gloss=PRES
+3	purlami	purla	VERB	_	Tense=Pres	0	root	_	Gloss=shout|MSeg=purla-mi|MGloss=shout-NONPAST
+
+# sent_id = 3.14a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973; Simpson, 1991
+# text = Wita kurdungku ka maliki wajilipinyi
+# gloss = small child-ERG PRES dog(ABS) running-attack-NONPAST
+# text_en = The small child is chasing the dog
+1	Wita	wita	ADJ	_	Case=Abs	2	amod	_	Gloss=small
+2	kurdungku	kurdu	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=child|MSeg=kurdu-ngku|MGloss=child-ERG
+3	ka	ka	AUX	_	Tense=Pres	5	aux	_	Gloss=PRES
+4	maliki	maliki	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Gloss=dog|MGloss=dog.ABS
+5	wajilipinyi	wajilipi	VERB	_	Tense=Pres	0	root	_	Gloss=chase|MSeg=wajili-pi-nyi|MGloss=running-attack-NONPAST
+
+# sent_id = 3.14b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973; Simpson, 1991
+# text = Wita ka kurdungku maliki wajilipinyi
+# gloss = small(ABS) child-ERG PRES dog(ABS) running-attack-NONPAST
+# text_en = The child is chasing the small dog
+1	Wita	wita	ADJ	_	Case=Abs	4	amod	_	Gloss=small
+2	ka	ka	AUX	_	Tense=Pres	5	aux	_	Gloss=PRES
+3	kurdungku	kurdu	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=child|MSeg=kurdu-ngku|MGloss=child-ERG
+4	maliki	maliki	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Gloss=dog|MGloss=dog.ABS
+5	wajilipinyi	wajilipi	VERB	_	Tense=Pres	0	root	_	Gloss=chase|MSeg=wajili-pi-nyi|MGloss=running-attack-NONPAST
+
+# sent_id = 3.15a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973; Simpson, 1991
+# text = Nyanyi karnapalangu wawirrijarra
+# gloss = see-NONPAST PRES-1SG(SUBJ)-3DU(OBJ) kangaroo-DU(ABS)
+# text_en = I see two kangaroos
+1	Nyanyi	nya	VERB	_	Tense=Pres	0	root	_	Gloss=see|MSeg=nya-nyi|MGloss=see-NONPAST
+2	karnapalangu	ka	AUX	_	Number=Sing|Number[obj]=Dual|Person=1|Person[obj]=3|Tense=Pres	1	aux	_	Gloss=PRES|MSeg=ka-rna-palangu|MGloss=PRES-1SG(SUBJ)-3DU(OBJ)
+3	wawirrijarra	wawirri	NOUN	_	Case=Abs|Number=Dual	1	obj	_	Gloss=two-kangaroos|MSeg=wawirri-jarra|MGloss=kangaroo-DU(ABS)
+
+# sent_id = 3.15b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973; Simpson, 1991
+# text = Nyanyi karnapalangu wawirrijarra ngajulurlu
+# gloss = see-NONPAST PRES-1SG(SUBJ)-3DU(OBJ) kangaroo-DU(ABS) 1SG-ERG
+# text_en = I see two kangaroos
+1	Nyanyi	nya	VERB	_	Tense=Pres	0	root	_	Gloss=see|MSeg=nya-nyi|MGloss=see-NONPAST
+2	karnapalangu	ka	AUX	_	Number=Sing|Number[obj]=Dual|Person=1|Person[obj]=3|Tense=Pres	1	aux	_	Gloss=PRES|MSeg=ka-rna-palangu|MGloss=PRES-1SG(SUBJ)-3DU(OBJ)
+3	wawirrijarra	wawirri	NOUN	_	Case=Abs|Number=Dual	1	obj	_	Gloss=two-kangaroos|MSeg=wawirri-jarra|MGloss=kangaroo-DU(ABS)
+4	ngajulurlu	ngajulu	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I|MSeg=ngajulu-rlu|MGloss=1SG-ERG
 
