@@ -5963,3 +5963,25 @@
 4	ki	_	DET	_	Definite=Def|PronType=Art	3	det	_	Gloss=the
 5	wa̧yále	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
 
+# sent_id = 3.11a/en
+# text = Bobby spoke to the meeting about the proposal
+1	Bobby	Bobby	PROPN	_	Number=Sing	2	nsubj	_	_
+2	spoke	speak	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	meeting	meeting	NOUN	_	Number=Sing	2	obl	_	_
+6	about	about	ADP	_	_	8	case	_	_
+7	the	the	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	proposal	proposal	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.11b/en
+# text = Bobby spoke about the proposal to the meeting
+1	Bobby	Bobby	PROPN	_	Number=Sing	2	nsubj	_	_
+2	spoke	speak	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	about	about	ADP	_	_	5	case	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	proposal	proposal	NOUN	_	Number=Sing	2	obl	_	_
+6	to	to	ADP	_	_	8	case	_	_
+7	the	the	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	meeting	meeting	NOUN	_	Number=Sing	2	obl	_	_
+
