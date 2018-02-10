@@ -6079,3 +6079,65 @@
 3	wawirrijarra	wawirri	NOUN	_	Case=Abs|Number=Dual	1	obj	_	Gloss=two-kangaroos|MSeg=wawirri-jarra|MGloss=kangaroo-DU(ABS)
 4	ngajulurlu	ngajulu	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I|MSeg=ngajulu-rlu|MGloss=1SG-ERG
 
+# sent_id = 3.16/grc
+# Ancient Greek
+# text = Klearchos ape:nte:se Philippo:i apio:n
+# gloss = Klearchus(NOM) met Philip(DAT) leaving(NOM)
+# text_en = Klearchus met Philip while Klearchus was leaving
+1	Klearchos	_	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	Gloss=Klearchus
+2	ape:nte:se	_	VERB	_	_	0	root	_	Gloss=met
+3	Philippo:i	_	PROPN	_	Case=Dat|Number=Sing	2	obj	_	Gloss=Philip
+4	apio:n	_	VERB	_	Case=Nom|VerbForm=Part	1	acl	_	Gloss=leaving
+
+# sent_id = 3.17/grc
+# Ancient Greek
+# text = Klearchos ape:nte:se Philippo:i apionti
+# gloss = Klearchus(NOM) met Philip(DAT) leaving(DAT)
+# text_en = Klearchus met Philip while Philip was leaving
+1	Klearchos	_	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	Gloss=Klearchus
+2	ape:nte:se	_	VERB	_	_	0	root	_	Gloss=met
+3	Philippo:i	_	PROPN	_	Case=Dat|Number=Sing	2	obj	_	Gloss=Philip
+4	apionti	_	VERB	_	Case=Dat|VerbForm=Part	3	acl	_	Gloss=leaving
+
+# sent_id = 3.18a/crk
+# Plains Cree (Algic, Algonquian, Canada)
+# source = Bloomfield, 1934:98; Dahlstrom, 1991:62
+# text = aya·hciyiniwah nisto e·mipaha·t awa na·pe·sis
+# gloss = Blackfoot-OBV three kill-DIRECT this boy
+# text_en = This boy had killed three Blackfoot
+# Focus=Obv|Focus=Prx (obviative vs. proximate), is not exactly Case because it is usually used with 3rd person actants. Unimorph includes features OBV and PRX under Person.
+1	aya·hciyiniwah	_	PROPN	_	Focus=Obv	3	obj	_	Gloss=Blackfoot|MSeg=aya·hciyiniw-ah|MGloss=Blackfoot-OBV
+2	nisto	_	NUM	_	_	1	nummod	_	Gloss=three
+3	e·mipaha·t	_	VERB	_	Voice=Dir	0	root	_	Gloss=kill|MSeg=e·=mipah-a·t|kill-DIRECT
+4	awa	_	DET	_	PronType=Dem	5	det	_	Gloss=this
+5	na·pe·sis	_	NOUN	_	Focus=Prx	3	nsubj	_	Gloss=boy
+
+# sent_id = 3.18b/crk
+# Plains Cree (Algic, Algonquian, Canada)
+# source = Bloomfield, 1934:58; Dahlstrom, 1991:63
+# text = osa·m e·sa·kihikot ohta·wiyah aw o·skini·kiw
+# gloss = too-much love-INV his-father-OBV this young-man
+# text_en = for his father too much cherished this young man
+# Focus=Obv|Focus=Prx (obviative vs. proximate), is not exactly Case because it is usually used with 3rd person actants. Unimorph includes features OBV and PRX under Person.
+1	osa·m	_	ADV	_	_	2	advmod	_	Gloss=too-much
+2	e·sa·kihikot	_	VERB	_	Voice=Inv	0	root	_	Gloss=love|MSeg=e·=sa·kih-ikot|MGloss=love-INV
+3	ohta·wiyah	_	NOUN	_	Focus=Obv	2	nsubj	_	Gloss=his-father|MSeg=ohta·wiy-ah|MGloss=his.father-OBV
+4	aw	_	DET	_	PronType=Dem	5	det	_	Gloss=this
+5	o·skini·kiw	_	NOUN	_	Focus=Prx	2	obj	_	Gloss=young-man
+
+# sent_id = 3.19a/crk
+# Plains Cree (Algic, Algonquian, Canada)
+# source = Dahlstrom, 1991:42
+# text = kiwa·pamin
+# gloss = 2-see-DIRECT(1)-SG
+# text_en = You(sg) see me
+1	kiwa·pamin	_	VERB	_	Number=Sing|Person=1|Person[obj]=2|Voice=Dir	0	root	_	Gloss=you-see-me|MSeg=ki-wa·pam-i-n|MGloss=2-see-DIRECT(1)-SG
+
+# sent_id = 3.19b/crk
+# Plains Cree (Algic, Algonquian, Canada)
+# source = Dahlstrom, 1991:42
+# text = kiwa·pamitin
+# gloss = 2-see-INV(1)-SG
+# text_en = I see you(sg)
+1	kiwa·pamitin	_	VERB	_	Number=Sing|Person=2|Person[obj]=1|Voice=Inv	0	root	_	Gloss=I-see-you|MSeg=ki-wa·pam-iti-n|MGloss=2-see-INV(1)-SG
+
