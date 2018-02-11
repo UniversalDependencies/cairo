@@ -6141,3 +6141,104 @@
 # text_en = I see you(sg)
 1	kiwa·pamitin	_	VERB	_	Number=Sing|Person=2|Person[obj]=1|Voice=Inv	0	root	_	Gloss=I-see-you|MSeg=ki-wa·pam-iti-n|MGloss=2-see-INV(1)-SG
 
+# sent_id = 3.20a/en
+# text = A bear is what the man killed
+1	A	a	DET	_	Definite=Ind|PronType=Art	2	det	_	_
+2	bear	bear	NOUN	_	Number=Sing	3	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	what	what	PRON	_	PronType=Rel	7	obj	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	man	man	NOUN	_	Number=Sing	7	nsubj	_	_
+7	killed	kill	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	xcomp	_	_
+
+# sent_id = 3.20b/en
+# text = The man killed A BEAR
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	man	man	NOUN	_	Number=Sing	3	nsubj	_	_
+3	killed	kill	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	A	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	BEAR	bear	NOUN	_	Number=Sing	3	obj	_	_
+
+# sent_id = 3.21a/en
+# text = my car BROKE DOWN
+1	my	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	car	car	NOUN	_	Number=Sing	3	nsubj	_	_
+3	BROKE	break	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	DOWN	down	ADV	_	_	3	compound:prt	_	_
+
+# sent_id = 3.21b/en
+# text = MY CAR broke down
+1	MY	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	CAR	car	NOUN	_	Number=Sing	3	nsubj	_	_
+3	broke	break	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	down	down	ADV	_	_	3	compound:prt	_	_
+
+# sent_id = 3.22a/fr
+# text = Ma voiture est EN PANNE
+# gloss = My car is in malfunction
+# text_en = My car BROKE DOWN
+1	Ma	mon	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	Gloss=my
+2	voiture	voiture	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Gloss=car
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Gloss=is
+4	EN	en	ADP	_	_	5	case	_	Gloss=in
+5	PANNE	panne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Gloss=malfunction
+
+# sent_id = 3.22b/fr
+# text = J'ai MA VOITURE qui est en panne
+# gloss = I.have my car which is in malfunction
+# text_en = MY CAR broke down
+1	J'	je	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|SpaceAfter=No
+2	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=have
+3	MA	mon	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det:poss	_	Gloss=my
+4	VOITURE	voiture	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	Gloss=car
+5	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	Gloss=which
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Gloss=is
+7	en	en	ADP	_	_	8	case	_	Gloss=in
+8	panne	panne	NOUN	_	Gender=Fem|Number=Sing	4	acl:relcl	_	Gloss=malfunction
+
+# sent_id = 3.23a/en
+# text = There's a snake in the shower
+1	There	there	PRON	_	PronType=Dem	2	expl	_	SpaceAfter=No
+2	's	be	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	snake	snake	NOUN	_	Number=Sing	2	nsubj	_	_
+5	in	in	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	shower	shower	NOUN	_	Number=Sing
+
+# sent_id = 3.23b/en
+# text = Once upon a time there was a king with three children
+1	Once	once	ADV	_	NumType=Mult	6	advmod	_	_
+2	upon	upon	ADP	_	_	4	case	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	time	time	NOUN	_	Number=Sing	6	obl	_	_
+5	there	there	PRON	_	PronType=Dem	6	expl	_	_
+6	was	be	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+7	a	a	DET	_	Definite=Ind|PronType=Art	8	det	_	_
+8	king	king	NOUN	_	Number=Sing	6	nsubj	_	_
+9	with	with	ADP	_	_	11	case	_	_
+10	three	three	NUM	_	_	11	nummod	_	_
+11	children	child	NOUN	_	Number=Plur	8	nmod	_	_
+
+# sent_id = 3.24a/en
+# text = A king with three children lived in a valley
+1	A	a	DET	_	Definite=Ind|PronType=Art	2	det	_	_
+2	king	king	NOUN	_	Number=Sing	6	nsubj	_	_
+3	with	with	ADP	_	_	5	case	_	_
+4	three	three	NUM	_	_	5	nummod	_	_
+5	children	child	NOUN	_	Number=Plur	2	nmod	_	_
+6	lived	live	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+7	in	in	ADP	_	_	9	case	_	_
+8	a	a	DET	_	Definite=Ind|PronType=Art	9	det	_	_
+9	valley	valley	NOUN	_	Number=Sing	6	obl	_	_
+
+# sent_id = 3.24b/en
+# text = A person is standing outside the door
+1	A	a	DET	_	Definite=Ind|PronType=Art	2	det	_	_
+2	person	person	NOUN	_	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	standing	stand	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+5	outside	outside	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	door	door	NOUN	_	Number=Sing	4	obl	_	_
+
