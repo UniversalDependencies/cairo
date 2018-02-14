@@ -6410,3 +6410,31 @@
 4	aanayeyaanə	_	NOUN	_	Case=Acc|Focus=Yes	5	obj	_	Gloss=elephant|MSeg=aanayey-aanə|MGloss=elephant-is
 5	koṭuṯṯatə	_	VERB	_	Focus=Yes	0	root	_	Gloss=gave|MSeg=koṭuṯṯ-atə|MGloss=gave-it
 
+# sent_id = 3.32/en
+# text = The farmer kills the DUCKLING
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	farmer	farmer	NOUN	_	Number=Sing	3	nsubj	_	_
+3	kills	kill	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	DUCKLING	duckling	NOUN	_	Number=Sing	3	obj	_	_
+
+# sent_id = 3.33/en
+# text = Speaking of Mary and Jim, MARY will like this dish, but JIM will hate it
+1	Speaking	speak	VERB	_	VerbForm=Conv	9	advcl	_	_
+2	of	of	ADP	_	_	3	case	_	_
+3	Mary	Mary	PROPN	_	Number=Sing	1	obl	_	_
+4	and	and	CCONJ	_	_	5	cc	_	_
+5	Jim	Jim	PROPN	_	Number=Sing	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	MARY	Mary	PROPN	_	Number=Sing	9	nsubj	_	_
+8	will	will	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	like	like	VERB	_	VerbForm=Inf	0	root	_	_
+10	this	this	DET	_	PronType=Dem	11	det	_	_
+11	dish	dish	NOUN	_	Number=Sing	9	obj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	but	but	CCONJ	_	_	16	cc	_	_
+14	JIM	Jim	PROPN	_	Number=Sing	16	nsubj	_	_
+15	will	will	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	hate	hate	VERB	_	VerbForm=Inf	9	conj	_	_
+17	it	it	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+
