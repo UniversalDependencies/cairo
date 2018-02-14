@@ -6299,3 +6299,41 @@
 11	lately	lately	ADV	_	_	5	advmod	_	SpaceAfter=No
 12	?	?	PUNCT	_	_	5	punct	_	_
 
+# sent_id = 3.28a/zh
+# source = C. N. Li and Thompson, 1976:482
+# text = Neì chang huɔ xìngkui xīaofangduì laí de kuài
+# gloss = that CLSFR fire fortunate fire-brigade come PTCL quick
+# text_en = That fire, fortunately the fire brigade came quickly
+1	Neì	neì	DET	_	PronType=Dem	3	det	_	Gloss=that
+2	chang	chang	NOUN	_	NounType=Clf	1	clf	_	Gloss=CLSFR
+3	huɔ	huɔ	NOUN	_	_	6	parataxis	_	Gloss=fire
+4	xìngkui	xìngkui	ADJ	_	_	6	advmod	_	Gloss=fortunate
+5	xīaofangduì	xīaofangduì	NOUN	_	_	6	nsubj	_	Gloss=fire-brigade
+6	laí	laí	VERB	_	_	0	root	_	Gloss=come
+7	de	de	PART	_	_	6	compound:ext	_	Gloss=PTCL
+8	kuài	kuài	ADJ	_	_	6	xcomp	_	Gloss=quick
+
+# sent_id = 3.28b/lhu
+# Lahu (Sino-Tibetan, Lolo-Burmese, China, Thailand, Laos, Myanmar)
+# source = C. N. Li and Thompson, 1976:482
+# text = Hɔ ɔ̄ na-qɔ́ yï ve yò
+# gloss = elephant TOP nose long PICL DEC
+# text_en = Elephant, noses are long
+1	Hɔ	hɔ	NOUN	_	_	4	parataxis	_	Gloss=elephant
+2	ɔ̄	ɔ̄	PART	_	Topic=Yes	1	mark	_	Gloss=TOP
+3	na-qɔ́	na-qɔ́	NOUN	_	_	4	nsubj:cop	_	Gloss=nose
+4	yï	yï	ADJ	_	_	0	root	_	Gloss=long
+5	ve	ve	PART	_	_	4	compound:ext	_	Gloss=PTCL
+6	yò	yò	PART	_	_	4	advmod	_	Gloss=DECL
+
+# sent_id = 3.28c/ja
+# source = Kuno, 1973:65
+# text = Nihon wa Tokyo ga sumiyoi
+# gloss = Japan TOP Tokyo NOM easy.to.live.in
+# text_en = As for Japan, Tokyo is comfortable to live in
+1	Nihon	Nihon	PROPN	_	_	5	parataxis	_	Gloss=Japan
+2	wa	wa	PART	_	Topic=Yes	1	mark	_	Gloss=TOP
+3	Tokyo	Tokyo	PROPN	_	_	5	nsubj	_	Gloss=Tokyo
+4	ga	ga	ADP	_	Case=Nom	3	case	_	Gloss=NOM
+5	sumiyoi	sumiyoi	ADJ	_	_	0	root	_	Gloss=easy-to-live-in|MGloss=easy.to.live.in
+
