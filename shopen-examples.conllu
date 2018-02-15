@@ -6438,3 +6438,69 @@
 16	hate	hate	VERB	_	VerbForm=Inf	9	conj	_	_
 17	it	it	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
 
+# sent_id = 3.34a/en
+# text = John prodded the snake for fun.
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	prodded	prod	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	snake	snake	NOUN	_	Number=Sing	2	obj	_	_
+5	for	for	ADP	_	_	6	case	_	_
+6	fun	fun	NOUN	_	Number=Sing	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 3.35a/en
+# text = Susan handed Paul the shovel
+1	Susan	Susan	PROPN	_	Number=Sing	2	nsubj	_	_
+2	handed	hand	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Paul	Paul	PROPN	_	Number=Sing	2	iobj	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	shovel	shovel	NOUN	_	Number=Sing	2	obj	_	_
+
+# sent_id = 3.35b/en
+# text = Susan handed the shovel to Paul
+1	Susan	Susan	PROPN	_	Number=Sing	2	nsubj	_	_
+2	handed	hand	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	shovel	shovel	NOUN	_	Number=Sing	2	obj	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Paul	Paul	PROPN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.35c/en
+# text = They supply us with weapons
+1	They	they	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	supply	supply	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	us	we	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	_
+4	with	with	ADP	_	_	5	case	_	_
+5	weapons	weapon	NOUN	_	Number=Plur	2	obl	_	_
+
+# sent_id = 3.35d/en
+# text = Cheech laid a joint on Chong
+1	Cheech	Cheech	PROPN	_	Number=Sing	2	nsubj	_	_
+2	laid	lay	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	joint	joint	NOUN	_	Number=Sing	2	obj	_	_
+5	on	on	ADP	_	_	6	case	_	_
+6	Chong	Chong	PROPN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.35e/en
+# text = Geraldine foisted six kittens off onto Jock
+1	Geraldine	Geraldine	PROPN	_	Number=Sing	2	nsubj	_	_
+2	foisted	foist	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	six	six	NUM	_	NumType=Card	4	nummod	_	_
+4	kittens	kitten	NOUN	_	Number=Sing	2	obj	_	_
+5	off	off	ADP	_	_	2	compound:prt	_	_
+6	onto	onto	ADP	_	_	7	case	_	_
+7	Jock	Jock	PROPN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.35f/en
+# text = J. R. bestowed many favors upon Afton
+1	J	J	PROPN	_	Abbr=Yes	5	nsubj	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	R	R	PROPN	_	Abbr=Yes	1	flat	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	bestowed	bestow	VERB	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	many	many	DET	_	NumType=Card|PronType=Ind	7	det	_	_
+7	favors	favor	NOUN	_	Number=Plur	5	obj	_	_
+8	upon	upon	ADP	_	_	9	case	_	_
+9	Afton	Afton	PROPN	_	Number=Sing	5	obl	_	_
+
