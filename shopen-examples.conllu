@@ -6498,7 +6498,7 @@
 2	.	.	PUNCT	_	_	1	punct	_	_
 3	R	R	PROPN	_	Abbr=Yes	1	flat	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
-5	bestowed	bestow	VERB	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	bestowed	bestow	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 6	many	many	DET	_	NumType=Card|PronType=Ind	7	det	_	_
 7	favors	favor	NOUN	_	Number=Plur	5	obj	_	_
 8	upon	upon	ADP	_	_	9	case	_	_
