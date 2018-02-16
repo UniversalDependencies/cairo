@@ -6504,3 +6504,96 @@
 8	upon	upon	ADP	_	_	9	case	_	_
 9	Afton	Afton	PROPN	_	Number=Sing	5	obl	_	_
 
+# sent_id = 3.36aa/en
+# text = We supply Iran with weapons
+1	We	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	supply	supply	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Iran	Iran	PROPN	_	Number=Sing	2	obj	_	_
+4	with	with	ADP	_	_	5	case	_	_
+5	weapons	weapon	NOUN	_	Number=Plur	2	obl	_	_
+
+# sent_id = 3.36ab/en
+# text = We supply Iran
+1	We	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	supply	supply	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Iran	Iran	PROPN	_	Number=Sing	2	obj	_	_
+
+# sent_id = 3.36b/en
+# text = We provide Iran with weapons
+# The oblique argument "with weapons" cannot be omitted with the verb "provide" (unlike "supply").
+1	We	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	provide	provide	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Iran	Iran	PROPN	_	Number=Sing	2	obj	_	_
+4	with	with	ADP	_	_	5	case	_	_
+5	weapons	weapon	NOUN	_	Number=Plur	2	obl	_	_
+
+# sent_id = 3.37aa/en
+# text = Susan passed the shovel to Paul
+1	Susan	Susan	PROPN	_	Number=Sing	2	nsubj	_	_
+2	passed	pass	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	shovel	shovel	NOUN	_	Number=Sing	2	obj	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Paul	Paul	PROPN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.37ab/en
+# text = Susan passed the shovel
+1	Susan	Susan	PROPN	_	Number=Sing	2	nsubj	_	_
+2	passed	pass	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	shovel	shovel	NOUN	_	Number=Sing	2	obj	_	_
+
+# sent_id = 3.37b/en
+# text = Susan handed the shovel to Paul
+# The oblique argument "to Paul" cannot be omitted with the verb "hand" (unlike "pass").
+1	Susan	Susan	PROPN	_	Number=Sing	2	nsubj	_	_
+2	handed	hand	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	shovel	shovel	NOUN	_	Number=Sing	2	obj	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Paul	Paul	PROPN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.38aa/en
+# Cally put the key on the table
+# The oblique directional argument cannot be omitted but it is not required that the preposition is "on".
+1	Cally	Cally	PROPN	_	Number=Sing	2	nsubj	_	_
+2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	key	key	NOUN	_	Number=Sing	2	obj	_	_
+5	on	on	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	table	table	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.38ab/en
+# Cally put the key onto the table
+# The oblique directional argument cannot be omitted but it is not required that the preposition is "onto".
+1	Cally	Cally	PROPN	_	Number=Sing	2	nsubj	_	_
+2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	key	key	NOUN	_	Number=Sing	2	obj	_	_
+5	onto	onto	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	table	table	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.38ac/en
+# Cally put the key in the box
+# The oblique directional argument cannot be omitted but it is not required that the preposition is "in".
+1	Cally	Cally	PROPN	_	Number=Sing	2	nsubj	_	_
+2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	key	key	NOUN	_	Number=Sing	2	obj	_	_
+5	in	in	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	box	box	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.38ad/en
+# Cally put the key into the box
+# The oblique directional argument cannot be omitted but it is not required that the preposition is "into".
+1	Cally	Cally	PROPN	_	Number=Sing	2	nsubj	_	_
+2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	key	key	NOUN	_	Number=Sing	2	obj	_	_
+5	into	into	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	box	box	NOUN	_	Number=Sing	2	obl	_	_
+
