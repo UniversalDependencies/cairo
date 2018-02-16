@@ -6554,7 +6554,7 @@
 6	Paul	Paul	PROPN	_	Number=Sing	2	obl	_	_
 
 # sent_id = 3.38aa/en
-# Cally put the key on the table
+# text = Cally put the key on the table
 # The oblique directional argument cannot be omitted but it is not required that the preposition is "on".
 1	Cally	Cally	PROPN	_	Number=Sing	2	nsubj	_	_
 2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -6565,7 +6565,7 @@
 7	table	table	NOUN	_	Number=Sing	2	obl	_	_
 
 # sent_id = 3.38ab/en
-# Cally put the key onto the table
+# text = Cally put the key onto the table
 # The oblique directional argument cannot be omitted but it is not required that the preposition is "onto".
 1	Cally	Cally	PROPN	_	Number=Sing	2	nsubj	_	_
 2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -6576,7 +6576,7 @@
 7	table	table	NOUN	_	Number=Sing	2	obl	_	_
 
 # sent_id = 3.38ac/en
-# Cally put the key in the box
+# text = Cally put the key in the box
 # The oblique directional argument cannot be omitted but it is not required that the preposition is "in".
 1	Cally	Cally	PROPN	_	Number=Sing	2	nsubj	_	_
 2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -6587,7 +6587,7 @@
 7	box	box	NOUN	_	Number=Sing	2	obl	_	_
 
 # sent_id = 3.38ad/en
-# Cally put the key into the box
+# text = Cally put the key into the box
 # The oblique directional argument cannot be omitted but it is not required that the preposition is "into".
 1	Cally	Cally	PROPN	_	Number=Sing	2	nsubj	_	_
 2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
