@@ -6597,3 +6597,31 @@
 6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	box	box	NOUN	_	Number=Sing	2	obl	_	_
 
+# sent_id = 3.39a/en
+# text = The old man walks with a stick
+1	The	the	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	old	old	ADJ	_	_	3	amod	_	_
+3	man	man	NOUN	_	Number=Sing	4	nsubj	_	_
+4	walks	walk	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	with	with	ADP	_	_	7	case	_	_
+6	a	a	DET	_	Definite=Ind|PronType=Art	7	det	_	_
+7	stick	stick	NOUN	_	Number=Sing	4	obl	_	_
+
+# sent_id = 3.39b/en
+# text = Marcia watched the koalas with binoculars
+1	Marcia	Marcia	PROPN	_	Number=Sing	2	nsubj	_	_
+2	watched	watch	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	koalas	koala	NOUN	_	Number=Sing	2	obj	_	_
+5	with	with	ADP	_	_	6	case	_	_
+6	binoculars	binocular	NOUN	_	Number=Plur	2	obl	_	_
+
+# sent_id = 3.39c/en
+# text = Jimmy poked Owen with a stick
+1	Jimmy	Jimmy	PROPN	_	Number=Sing	2	nsubj	_	_
+2	poked	poke	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Owen	Owen	PROPN	_	Number=Sing	2	obj	_	_
+4	with	with	ADP	_	_	6	case	_	_
+5	a	a	DET	_	Definite=Ind|PronType=Art	6	det	_	_
+6	stick	stick	NOUN	_	Number=Sing	2	obl	_	_
+
