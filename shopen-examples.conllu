@@ -6625,3 +6625,145 @@
 5	a	a	DET	_	Definite=Ind|PronType=Art	6	det	_	_
 6	stick	stick	NOUN	_	Number=Sing	2	obl	_	_
 
+# sent_id = 3.40a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Lungkarda ka ngulyangka ngunami
+# gloss = bluetongue(ABS) PRES burrow-LOC lie-NONPAST
+# text_en = The bluetongue skink is lying in the burrow
+# Locative adjunct
+1	Lungkarda	lungkarda	NOUN	_	Case=Abs	4	nsubj	_	Gloss=bluetongue-skink|MGloss=bluetongue(ABS)
+2	ka	ka	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES
+3	ngulyangka	ngulya	NOUN	_	Case=Loc	4	obl	_	Gloss=in-burrow|MSeg=ngulya-ngka|MGloss=burrow-LOC
+4	ngunami	nguna	VERB	_	Tense=Pres	0	root	_	Gloss=lie|MSeg=nguna-mi|MGloss=lie-NONPAST
+
+# sent_id = 3.40b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Nantuwu ka karrukurra parnkami
+# gloss = horse(ABS) PRES creek-ALL run-NONPAST
+# text_en = The horse is running to the creek
+# Allative adjunct
+1	Nantuwu	nantuwu	NOUN	_	Case=Abs	4	nsubj	_	Gloss=horse|MGloss=horse(ABS)
+2	ka	ka	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES
+3	karrukurra	karru	NOUN	_	Case=All	4	obl	_	Gloss=to-creek|MSeg=karru-kurra|MGloss=creek-ALL
+4	parnkami	parnka	VERB	_	Tense=Pres	0	root	_	Gloss=run|MSeg=parnka-mi|MGloss=run-NONPAST
+
+# sent_id = 3.40c/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Karli ka pirlingirli wantimi
+# gloss = boomerang(ABS) PRES stone-ELATIVE fall-NONPAST
+# text_en = The boomerang is falling from the stone
+# Elative/ablative adjunct
+1	Karli	karli	NOUN	_	Case=Abs	4	nsubj	_	Gloss=boomerang|MGloss=boomerang(ABS)
+2	ka	ka	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES
+3	pirlingirli	pirli	NOUN	_	Case=Ela	4	obl	_	Gloss=from-stone|MSeg=pirli-ngirli|MGloss=stone-ELATIVE
+4	wantimi	wanti	VERB	_	Tense=Pres	0	root	_	Gloss=fall|MSeg=wanti-mi|MGloss=fall-NONPAST
+
+# sent_id = 3.40d/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Pirli kalujana yurutuwana yirrarni
+# gloss = stone(ABS) PRES-they-them road-PERLATIVE put-NONPAST
+# text_en = They are putting stones along the road
+# Perlative adjunct
+1	Pirli	pirli	NOUN	_	Case=Abs	4	obj	_	Gloss=stone|MGloss=stone(ABS)
+2	kalujana	ka	AUX	_	Number=Plur|Number[obj]=Plur|Person=3|Person[obj]=3|Tense=Pres	1	aux	_	Gloss=PRES|MSeg=ka-lu-jana|MGloss=PRES-they-them
+3	yurutuwana	yurutu	NOUN	_	Case=Per	4	obl	_	Gloss=along-road|MSeg=yurutu-wana|MGloss=road-PERLATIVE
+4	yirrarni	yirra	VERB	_	Tense=Pres	0	root	_	Gloss=put|MSeg=yirra-rni|MGloss=put-NONPAST
+
+# sent_id = 3.40e/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Maliki ka nantuwurlajinta parnkami
+# gloss = dog(ABS) PRES horse-COMITATIVE run-NONPAST
+# text_en = The dog is running along with the horse
+# Comitative adjunct
+1	Maliki	maliki	NOUN	_	Case=Abs	4	nsubj	_	Gloss=dog|MGloss=dog(ABS)
+2	ka	ka	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES
+3	nantuwurlajinta	nantuwu	NOUN	_	Case=Com	4	obl	_	Gloss=with-horse|MSeg=nantuwu-rlajinta|MGloss=horse-COMITATIVE
+4	parnkami	parnka	VERB	_	Tense=Pres	0	root	_	Gloss=run|MSeg=parnka-mi|MGloss=run-NONPAST
+
+# sent_id = 3.41/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Maliki ka ngunami yuwarlijarrarla kulkurrujarra
+# gloss = dog(ABS) PRES lie-NONPAST house-DU-LOC between-DU
+# text_en = The dog is lying between the two houses
+1	Maliki	maliki	NOUN	_	Case=Abs	3	nsubj	_	Gloss=dog|MGloss=dog(ABS)
+2	ka	ka	AUX	_	Tense=Pres	3	aux	_	Gloss=PRES
+3	ngunami	nguna	VERB	_	Tense=Pres	0	root	_	Gloss=lie|MSeg=nguna-mi|MGloss=lie-NONPAST
+4	yuwarlijarrarla	yuwarli	NOUN	_	Case=Loc|Number=Dual	3	obl	_	Gloss=houses|MSeg=yuwarli-jarra-rla|MGloss=house-DU-LOC
+5	kulkurrujarra	kulkurru	ADP	_	Number=Dual	4	case	_	Gloss=between|MSeg=kulkurru-jarra|MGloss=between-DU
+
+# sent_id = 3.42/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngarrkapatu kalu manyukarrimi kardingka karrungka
+# gloss = man-PL(ABS) PRES-they play-stand-NONPAST card-LOC creek-LOC
+# text_en = The men are playing cards in the creek
+1	Ngarrkapatu	ngarrka	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Gloss=men|MSeg=ngarrka-patu|MGloss=man-PL(ABS)
+2	kalu	ka	AUX	_	Number=Plur|Person=3|Tense=Pres	3	aux	_	Gloss=PRES-they|MSeg=ka-lu|MGloss=PRES-they
+3	manyukarrimi	manyukarri	VERB	_	Tense=Pres	0	root	_	Gloss=play|MSeg=manyu-karri-mi|MGloss=play-stend-NONPAST
+4	kardingka	kardi	NOUN	_	Case=Loc	3	obl	_	Gloss=in-cards|MSeg=kardi-ngka|MGloss=card-LOC
+5	karrungka	karru	NOUN	_	Case=Loc	3	obl	_	Gloss=in-creek|MSeg=karru-ngka|MGloss=creek-LOC
+
+# sent_id = 3.43a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Wawirri kapirna kurlartarlu pantirni ngajulurlu
+# gloss = kangaroo(ABS) FUT-1SG spear-INSTR spear-NONPAST 1SG-ERG
+# text_en = I will spear the kangaroo with a spear
+1	Wawirri	wawirri	NOUN	_	Case=Abs	4	obj	_	Gloss=kangaroo|MGloss=kangaroo(ABS)
+2	kapirna	ka	AUX	_	Number=Sing|Person=1|Tense=Fut	4	aux	_	Gloss=I-will|MSeg=kapi-rna|MGloss=FUT-1SG
+3	kurlartarlu	kurlarta	NOUN	_	Case=Ins	4	obl	_	Gloss=with-spear|MSeg=kurlarta-rlu|MGloss=spear-INSTR
+4	pantirni	panti	VERB	_	Tense=Pres	0	root	_	Gloss=spear|MSeg=panti-rni|MGloss=spear-NONPAST
+5	ngajulurlu	ngajulu	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MSeg=ngajulu-rlu|MGloss=1SG-ERG
+
+# sent_id = 3.43c/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngarrkangku ka warlu pakarni warlkurrukurlurlu
+# gloss = man-ERG PRES firewood chop-NONPAST axe-with-ERG
+# text_en = The man is chopping firewood with an axe
+1	Ngarrkangku	ngarrka	NOUN	_	Case=Erg	4	nsubj	_	Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+2	ka	ka	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES
+3	warlu	warlu	NOUN	_	Case=Abs	4	obj	_	Gloss=firewood
+4	pakarni	paka	VERB	_	Tense=Pres	0	root	_	Gloss=chop|MSeg=paka-rni|MGloss=chop-NONPAST
+5	warlkurrukurlurlu	warlkurru	NOUN	_	Case=Erg,Gen	1	nmod:poss	_	Gloss=with-axe|MSeg=warlkurru-kurlu-rlu
+
+# sent_id = 3.43d/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Purlka ka watiyakurlu warruwapami
+# gloss = old-man(ABS) PRES stick-with around-walk-NONPAST
+# text_en = The old man is walking around with a stick
+1	Purlka	purlka	NOUN	_	Case=Abs	4	nsubj	_	Gloss=old-man|MGloss=old-man(ABS)
+2	ka	ka	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES
+3	watiyakurlu	watiya	NOUN	_	Case=Gen	1	nmod:poss	_	Gloss=with-stick|MSeg=watiya-kurlu|MGloss=stick-with
+4	warruwapami	warruwapa	VERB	_	Tense=Pres	0	root	_	Gloss=walk-around|MSeg=warru-wapa-mi|MGloss=around-walk-NONPAST
+
+# sent_id = 3.44/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngarrkapatu kalu warrkijangka mata ngunamilki
+# gloss = man-PL(ABS) PRES-they work-CAUSAL tired lie-NONPAST-now
+# text_en = The men are lying down tired now after work
+1	Ngarrkapatu	ngarrka	NOUN	_	Case=Abs|Number=Plur	5	nsubj	_	Gloss=men|MSeg=ngarrka-patu|MGloss=man-PL(ABS)
+2	kalu	ka	AUX	_	Number=Plur|Person=3|Tense=Pres	5	aux	_	Gloss=PRES-they|MSeg=ka-lu|MGloss=PRES-they
+3	warrkijangka	warrki	NOUN	_	Case=Cau	5	obl	_	Gloss=because-of-work|MSeg=warrki-jangka|MGloss=work-CAUSAL
+4	mata	mata	ADJ	_	_	1	acl	_	Gloss=tired
+5	ngunamilki	nguna	VERB	_	Tense=Pres	0	root	_	Gloss=lie-now|MSeg=nguna-mi-lki|MGloss=lie-NONPAST-now
+
+# sent_id = 3.45/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Japanangkarlu kaju karli yinyi miyiwanawana
+# gloss = Japanangka-ERG PRES-1SG(OBJ) boomerang(ABS) give-NONPAST food-CONS
+# text_en = Japanangka is giving me a boomerang in exchange for food
+# Andrews: The 'considerative' (CONS) is applied to an NP denoting something that is given in exchange for something else.
+1	Japanangkarlu	Japanangka	PROPN	_	Case=Erg	4	nsubj	_	Gloss=Japanangka|MSeg=Japanangka-rlu|MGloss=Japanangka-ERG
+2	kaju	ka	AUX	_	Number[obj]=Sing|Person[obj]=1|Tense=Pres	4	aux	_	Gloss=me|MSeg=ka-ju|MGloss=PRES-1SG(OBJ)
+3	karli	karli	NOUN	_	Case=Abs	4	obj	_	Gloss=boomerang|MGloss=boomerang(ABS)
+4	yinyi	yi	VERB	_	Tense=Pres	0	root	_	Gloss=give|MSeg=yi-nyi|MGloss=give-NONPAST
+5	miyiwanawana	miyi	NOUN	_	Case=Cns	4	obl	_	Gloss=for-food|MSeg=miyi-wanawana|MGloss=food-CONS
+
+# sent_id = 3.46/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngapa ka wantimi wajirrkinyirla
+# gloss = water(ABS) PRES fall-NONPAST greentime-LOC
+# text_en = Rain falls in the “green” season
+1	Ngapa	ngapa	NOUN	_	Case=Abs	3	nsubj	_	Gloss=water|MGloss=water(ABS)
+2	ka	ka	AUX	_	Tense=Pres	3	aux	_	Gloss=PRES
+3	wantimi	wanti	VERB	_	Tense=Pres	0	root	_	Gloss=fall|MSeg=wanti-mi|MGloss=fall-NONPAST
+4	wajirrkinyirla	wajirrkinyi	NOUN	_	Case=Loc	3	obl:tmod	_	Gloss=in-green-season|MSeg=wajirrkinyi-rla|MGloss=greentime-LOC
+
