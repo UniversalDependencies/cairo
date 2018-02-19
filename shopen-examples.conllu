@@ -6767,3 +6767,90 @@
 3	wantimi	wanti	VERB	_	Tense=Pres	0	root	_	Gloss=fall|MSeg=wanti-mi|MGloss=fall-NONPAST
 4	wajirrkinyirla	wajirrkinyi	NOUN	_	Case=Loc	3	obl:tmod	_	Gloss=in-green-season|MSeg=wajirrkinyi-rla|MGloss=greentime-LOC
 
+# sent_id = 3.47a/en
+# text = He praises them
+1	He	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	praises	praise	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	them	they	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+
+# sent_id = 3.47b/en
+# text = He sleeps
+1	He	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	sleeps	sleep	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 3.48/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngaju karnangku nyuntuku wangkami
+# gloss = I(ABS) PRES-1SG(SUBJ)-2SG(OBJ) you-DAT talk-NONPAST
+# text_en = I am talking to you
+1	Ngaju	ngaju	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=I(ABS)
+2	karnangku	ka	AUX	_	Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|Tense=Pres	4	aux	_	Gloss=PRES|MSeg=ka-rna-ngku|MGloss=PRES-1SG(SUBJ)-2SG(OBJ)
+3	nyuntuku	nyuntu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obj	_	Gloss=you|MSeg=nyuntu-ku|MGloss=you-DAT
+4	wangkami	wangka	VERB	_	Tense=Pres	0	root	_	Gloss=talk|MSeg=wangka-mi|MGloss=talk-NONPAST
+
+# sent_id = 3.49/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngaju karna nyuntukurra parnkami
+# gloss = I(ABS) PRES-1SG(SUBJ) you-ALL run-NONPAST
+# text_en = I am running toward you
+1	Ngaju	ngaju	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=I(ABS)
+2	karna	ka	AUX	_	Number=Sing|Person=1|Tense=Pres	4	aux	_	Gloss=PRES|MSeg=ka-rna|MGloss=PRES-1SG(SUBJ)
+3	nyuntukurra	nyuntu	PRON	_	Case=All|Number=Sing|Person=2|PronType=Prs	4	obl	_	Gloss=you|MSeg=nyuntu-kurra|MGloss=you-ALL
+4	parnkami	parnka	VERB	_	Tense=Pres	0	root	_	Gloss=run|MSeg=parnka-mi|MGloss=run-NONPAST
+
+# sent_id = 3.50a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngaju karna purlami
+# gloss = I-ABS PRES-1SG(SUBJ) shout-NONPAST
+# text_en = I am shouting
+1	Ngaju	ngaju	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(ABS)
+2	karna	ka	AUX	_	Number=Sing|Person=1|Tense=Pres	3	aux	_	Gloss=PRES|MSeg=ka-rna|MGloss=PRES-1SG(SUBJ)
+3	purlami	purla	VERB	_	Tense=Pres	0	root	_	Gloss=shout|MSeg=purla-mi|MGloss=shout-NONPAST
+
+# sent_id = 3.50b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Nyuntu kanpa purlami
+# gloss = you(SG.ABS) PRES-2SG(SUBJ) shout-NONPAST
+1	Nyuntu	nyuntu	PRON	_	Case=Abs|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MGloss=you(SG.ABS)
+2	kanpa	ka	AUX	_	Number=Sing|Person=2|Tense=Pres	3	aux	_	Gloss=PRES|MSeg=ka-npa|MGloss=PRES-2SG(SUBJ)
+3	purlami	purla	VERB	_	Tense=Pres	0	root	_	Gloss=shout|MSeg=purla-mi|MGloss=shout-NONPAST
+
+# sent_id = 3.50c/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngajulurlu karna yankirri wajilipinyi
+# gloss = I-ERG PRES-1SG(SUBJ) emu(ABS) chase-NONPAST
+1	Ngajulurlu	ngaju	PRON	_	Case=Erg|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=I|MSeg=ngajulu-rlu|MGloss=I-ERG
+2	karna	ka	AUX	_	Number=Sing|Person=1|Tense=Pres	4	aux	_	Gloss=PRES|MSeg=ka-rna|MGloss=PRES-1SG(SUBJ)
+3	yankirri	yankirri	NOUN	_	Case=Abs	4	obj	_	Gloss=emu|MGloss=emu(ABS)
+4	wajilipinyi	wajilipi	VERB	_	Tense=Pres	0	root	_	Gloss=chase|MSeg=wajilipi-nyi|MGloss=chase-NONPAST
+
+# sent_id = 3.51a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngarrkangku kaju ngaju pantirni
+# gloss = man-ERG PRES-1SG(OBJ) I(ABS) spear-NONPAST
+# text_en = The man is spearing me
+1	Ngarrkangku	ngarrka	NOUN	_	Case=Erg	4	nsubj	_	Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+2	kaju	ka	AUX	_	Number[obj]=Sing|Person[obj]=1|Tense=Pres	4	aux	_	Gloss=PRES|MSeg=ka-ju|MGloss=PRES-1SG(OBJ)
+3	ngaju	ngaju	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	4	obj	_	Gloss=me|MGloss=I(ABS)
+4	pantirni	panti	VERB	_	Tense=Pres	0	root	_	Gloss=spear|MSeg=panti-rni|MGloss=spear-NONPAST
+
+# sent_id = 3.51b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngaju kanpaju nyuntulurlu nyanyi
+# gloss = me(ABS) PRES-2SG(SUBJ)-1SG(OBJ) you-ERG see-NONPAST
+# text_en = You see me
+1	Ngaju	ngaju	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	4	obj	_	Gloss=me|MGloss=I(ABS)
+2	kanpaju	ka	AUX	_	Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=1|Tense=Pres	4	aux	_	Gloss=PRES|MSeg=ka-npa-ju|MGloss=PRES-2SG(SUBJ)-1SG(OBJ)
+3	nyuntulurlu	nyuntu	PRON	_	Case=Erg|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|MSeg=nyuntulu-rlu|MGloss=you-ERG
+4	nyanyi	nya	VERB	_	Tense=Pres	0	root	_	Gloss=see|MSeg=nya-nyi|MGloss=see-NONPAST
+
+# sent_id = 3.51c/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngajulurlu karnangku nyuntu nyanyi
+# gloss = I-ERG PRES-1SG(SUBJ)-2SG(OBJ) you(SG.ABS) see-NONPAST
+# text_en = I see you
+1	Ngajulurlu	ngaju	PRON	_	Case=Erg|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=I|MSeg=ngajulu-rlu|MGloss=I-ERG
+2	karnangku	ka	AUX	_	Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|Tense=Pres	4	aux	_	Gloss=PRES|MSeg=ka-rna-ngku|MGloss=PRES-1SG(SUBJ)-2SG(OBJ)
+3	nyuntu	nyuntu	PRON	_	Case=Abs|Number=Sing|Person=2|PronType=Prs	4	obj	_	Gloss=you|MGloss=you(SG.ABS)
+4	nyanyi	nya	VERB	_	Tense=Pres	0	root	_	Gloss=see|MSeg=nya-nyi|MGloss=see-NONPAST
+
