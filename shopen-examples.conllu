@@ -6854,3 +6854,28 @@
 3	nyuntu	nyuntu	PRON	_	Case=Abs|Number=Sing|Person=2|PronType=Prs	4	obj	_	Gloss=you|MGloss=you(SG.ABS)
 4	nyanyi	nya	VERB	_	Tense=Pres	0	root	_	Gloss=see|MSeg=nya-nyi|MGloss=see-NONPAST
 
+# sent_id = 3.52a/en
+# text = The student watched the guard while he killed the prisoner
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	student	student	NOUN	_	Number=Sing	3	nsubj	_	_
+3	watched	watch	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	guard	guard	NOUN	_	Number=Sing	3	obj	_	_
+6	while	while	SCONJ	_	_	8	mark	_	_
+7	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	killed	kill	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	_
+9	the	the	DET	_	Definite=Def|PronType=Art	10	det	_	_
+10	prisoner	prisoner	NOUN	_	Number=Sing	8	obj	_	_
+
+# sent_id = 3.52b/en
+# text = The student watched the guard while killing the prisoner
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	student	student	NOUN	_	Number=Sing	3	nsubj	_	_
+3	watched	watch	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	guard	guard	NOUN	_	Number=Sing	3	obj	_	_
+6	while	while	SCONJ	_	_	7	mark	_	_
+7	killing	kill	VERB	_	VerbForm=Conv	3	advcl	_	_
+8	the	the	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	prisoner	prisoner	NOUN	_	Number=Sing	7	obj	_	_
+
