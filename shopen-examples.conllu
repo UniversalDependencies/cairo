@@ -6879,3 +6879,47 @@
 8	the	the	DET	_	Definite=Def|PronType=Art	9	det	_	_
 9	prisoner	prisoner	NOUN	_	Number=Sing	7	obj	_	_
 
+# sent_id = 3.54b/en
+# text = The student watched the guard while being killed by the prisoner
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	student	student	NOUN	_	Number=Sing	3	nsubj	_	_
+3	watched	watch	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	guard	guard	NOUN	_	Number=Sing	3	obj	_	_
+6	while	while	SCONJ	_	_	8	mark	_	_
+7	being	be	AUX	_	VerbForm=Conv	8	aux:pass	_	_
+8	killed	kill	VERB	_	Tense=Past|VerbForm=Part	3	advcl	_	_
+9	by	by	ADP	_	_	11	case	_	_
+10	the	the	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	prisoner	prisoner	NOUN	_	Number=Sing	8	obl:agent	_	_
+
+# sent_id = 3.54c/en
+# text = The student was watched by the guard while killing the prisoner
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	student	student	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	watched	watch	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	by	by	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	guard	guard	NOUN	_	Number=Sing	4	obl:agent	_	_
+8	while	while	SCONJ	_	_	9	mark	_	_
+9	killing	kill	VERB	_	VerbForm=Conv	4	advcl	_	_
+10	the	the	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	prisoner	prisoner	NOUN	_	Number=Sing	9	obj	_	_
+
+# sent_id = 3.54d/en
+# text = The student was watched by the guard while being killed by the prisoner
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	student	student	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	watched	watch	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	by	by	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	guard	guard	NOUN	_	Number=Sing	4	obl:agent	_	_
+8	while	while	SCONJ	_	_	10	mark	_	_
+9	being	be	AUX	_	VerbForm=Conv	10	aux:pass	_	_
+10	killed	kill	VERB	_	Tense=Past|VerbForm=Part	4	advcl	_	_
+11	by	by	ADP	_	_	13	case	_	_
+12	the	the	DET	_	Definite=Def|PronType=Art	13	det	_	_
+13	prisoner	prisoner	NOUN	_	Number=Sing	10	obl:agent	_	_
+
