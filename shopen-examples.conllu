@@ -6923,3 +6923,63 @@
 12	the	the	DET	_	Definite=Def|PronType=Art	13	det	_	_
 13	prisoner	prisoner	NOUN	_	Number=Sing	10	obl:agent	_	_
 
+# sent_id = 3.55a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngajulurlurna yankirri panturnu, ngapa ngarninjakurra
+# gloss = I-ERG-1SG(SUBJ) emu(ABS) spear-PAST water(ABS) drink-INF-while
+# text_en = I speared the emu while it (not I) was drinking water
+1	Ngajulurlurna	ngajulu	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MSeg=ngajulu-rlu-rna|MGloss=I-ERG-1SG(SUBJ)
+2	yankirri	yankirri	NOUN	_	Case=Abs	3	obj	_	Gloss=emu|MGloss=emu(ABS)
+3	panturnu	pantu	VERB	_	Tense=Past	0	root	_	Gloss=speared|MSeg=pantu-rnu|MGloss=spear-PAST|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	ngapa	ngapa	NOUN	_	Case=Abs	6	obj	_	Gloss=water|MGloss=water(ABS)
+6	ngarninjakurra	nga	VERB	_	VerbForm=Inf	3	advcl	_	Gloss=while-drinking|MSeg=nga-rninja-kurra|MGloss=drink-INF-while
+
+# sent_id = 3.55b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngarrkarna nyangu wawirri pantirninjakurra
+# gloss = man(ABS)-1SG(SUBJ) see-PAST kangaroo(ABS) spear-INF-while
+# text_en = I saw a man spear a kangaroo
+1-2	Ngarrkarna	_	_	_	_	_	_	_	_
+1	Ngarrka	ngarrka	NOUN	_	Case=Abs	3	obj	_	Gloss=man|MGloss=man(ABS)
+2	rna	rna	PRON	_	Clitic=Yes|Number=Sing|Person=1	3	nsubj	_	Gloss=I|MGloss=1SG(SUBJ)
+3	nyangu	nya	VERB	_	Tense=Past	0	root	_	Gloss=saw|MSeg=nya-ngu|MGloss=see-PAST
+4	wawirri	wawirri	NOUN	_	Case=Abs	5	obj	_	Gloss=kangaroo|MGloss=kangaroo(ABS)
+5	pantirninjakurra	panti	VERB	_	VerbForm=Inf	3	xcomp	_	Gloss=spearing|MSeg=panti-rninja-kurra|MGloss=spear-INF-while
+
+# sent_id = 3.55ca/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngaju karnangku marrijarrimi nyuntuku murrumurru ngunanjakurra
+# gloss = I(ABS) PRES-1SG(SUBJ)-2SG(OBJ) grief-being-NONPAST you-DAT sick lie-INF-while
+# text_en = I feel sorry for you while you are lying sick
+1	Ngaju	ngaju	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(ABS)
+2	karnangku	ka	AUX	_	Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|Tense=Pres	3	aux	_	Gloss=PRES|MSeg=ka-rna-ngku|MGloss=PRES-1SG(SUBJ)-2SG(OBJ)
+3	marrijarrimi	marrijarri	VERB	_	Tense=Pres	0	root	_	Gloss=feel-sorry|MSeg=marri-jarri-mi|MGloss=grief-being-NONPAST
+4	nyuntuku	nyuntu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	obj	_	Gloss=for-you|MSeg=nyuntu-ku|MGloss=you-DAT
+5	murrumurru	murrumurru	ADJ	_	_	6	advmod	_	Gloss=sick
+6	ngunanjakurra	nguna	VERB	_	VerbForm=Inf	3	advcl	_	Gloss=while-you-are-lying|MSeg=nguna-nja-kurra|MGloss=lie-INF-while
+
+# sent_id = 3.55cb/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngaju karnangku marrijarrimi nyuntuku murrumurru ngunanjakurraku
+# gloss = I(ABS) PRES-1SG(SUBJ)-2SG(OBJ) grief-being-NONPAST you-DAT sick lie-INF-while-DAT
+# text_en = I feel sorry for you while you are lying sick
+1	Ngaju	ngaju	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(ABS)
+2	karnangku	ka	AUX	_	Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|Tense=Pres	3	aux	_	Gloss=PRES|MSeg=ka-rna-ngku|MGloss=PRES-1SG(SUBJ)-2SG(OBJ)
+3	marrijarrimi	marrijarri	VERB	_	Tense=Pres	0	root	_	Gloss=feel-sorry|MSeg=marri-jarri-mi|MGloss=grief-being-NONPAST
+4	nyuntuku	nyuntu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	obj	_	Gloss=for-you|MSeg=nyuntu-ku|MGloss=you-DAT
+5	murrumurru	murrumurru	ADJ	_	_	6	advmod	_	Gloss=sick
+6	ngunanjakurraku	nguna	VERB	_	Case=Dat|VerbForm=Inf	3	advcl	_	Gloss=while-you-are-lying|MSeg=nguna-nja-kurra-ku|MGloss=lie-INF-while-DAT
+
+# sent_id = 3.55d/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Karlirna nyangu pirlingirli wantinjakurra
+# gloss = boomerang(ABS)-1SG(SUBJ) see-PAST stone-ELATIVE fall-INF-while
+# text_en = I saw the boomerang fall from the stone
+1-2	Karlirna	_	_	_	_	_	_	_	_
+1	Karli	karli	NOUN	_	Case=Abs	3	obj	_	Gloss=boomerang|MGloss=boomerang(ABS)
+2	rna	rna	PRON	_	Clitic=Yes|Number=Sing|Person=1	3	nsubj	_	Gloss=I|MGloss=1SG(SUBJ)
+3	nyangu	nya	VERB	_	Tense=Past	0	root	_	Gloss=saw|MSeg=nya-ngu|MGloss=see-PAST
+4	pirlingirli	pirli	NOUN	_	Case=Ela	5	obl	_	Gloss=from-stone|MSeg=pirli-ngirli|MGloss=stone-ELATIVE
+5	wantinjakurra	wanti	VERB	_	VerbForm=Inf	3	advcl	_	Gloss=falling|MSeg=wanti-nja-kurra|MGloss=fall-INF-while
+
