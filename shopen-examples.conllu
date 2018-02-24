@@ -6983,3 +6983,32 @@
 4	pirlingirli	pirli	NOUN	_	Case=Ela	5	obl	_	Gloss=from-stone|MSeg=pirli-ngirli|MGloss=stone-ELATIVE
 5	wantinjakurra	wanti	VERB	_	VerbForm=Inf	3	advcl	_	Gloss=falling|MSeg=wanti-nja-kurra|MGloss=fall-INF-while
 
+# sent_id = 3.56a/en
+# text = People reporting their neighbours to the authorities will be rewarded.
+1	People	people	NOUN	_	Number=Plur	10	nsubj:pass	_	_
+2	reporting	report	VERB	_	Tense=Pres|VerbForm=Part	1	acl	_	_
+3	their	their	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	neighbours	neighbour	NOUN	_	Number=Plur	2	obj	_	_
+5	to	to	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	authorities	authority	NOUN	_	Number=Plur	2	obl	_	_
+8	will	will	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	10	aux	_	_
+9	be	be	AUX	_	VerbForm=Inf	10	aux:pass	_	_
+10	rewarded	reward	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 3.56b/en
+# text = People reported by their neighbours to the authorities will be investigated.
+1	People	people	NOUN	_	Number=Plur	11	nsubj:pass	_	_
+2	reported	report	VERB	_	Tense=Past|VerbForm=Part	1	acl	_	_
+3	by	by	ADP	_	_	5	case	_	_
+4	their	their	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	neighbours	neighbour	NOUN	_	Number=Plur	2	obl:agent	_	_
+6	to	to	ADP	_	_	8	case	_	_
+7	the	the	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	authorities	authority	NOUN	_	Number=Plur	2	obl	_	_
+9	will	will	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	11	aux	_	_
+10	be	be	AUX	_	VerbForm=Inf	11	aux:pass	_	_
+11	investigated	investigate	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
