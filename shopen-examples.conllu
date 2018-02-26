@@ -7012,3 +7012,42 @@
 11	investigated	investigate	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
+# sent_id = 3.58a/is
+# text = Við dönsuðum
+# gloss = we(NOM.1PL) danced-1PL
+# text_en = We danced
+1	Við	við	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Gloss=we|MGloss=we(NOM.1PL)
+2	dönsuðum	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=danced|MSeg=dönsuð-um|MGloss=danced-1PL
+
+# sent_id = 3.58b/is
+# text = Ðeir dóu
+# gloss = they(NOM.PL) died-3PL
+# text_en = They died
+1	Ðeir	ðeir	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they|MGloss=they(NOM.PL)
+2	dóu	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=died|MSeg=dó-u|MGloss=died-3PL
+
+# sent_id = 3.58c/is
+# text = Ðeir drápu hundana
+# gloss = they(NOM.PL) killed-3PL dogs-the(ACC)
+# text_en = They killed the dogs
+1	Ðeir	ðeir	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they|MGloss=they(NOM.PL)
+2	drápu	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=killed|MSeg=dráp-u|MGloss=killed-3PL
+3	hundana	_	NOUN	_	Case=Acc|Definite=Def|Number=Plur	2	obj	_	Gloss=the-dogs|MSeg=hunda-na|MGloss=dogs-the(ACC)
+
+# sent_id = 3.59a/is
+# text = Ðá vantar peninga
+# gloss = them(ACC.PL) lacks(3SG) money(ACC)
+# text_en = They lack money
+1	Ðá	ðeir	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=them|MGloss=them(ACC.PL)
+2	vantar	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=lacks|MGloss=lacks(3SG)
+3	peninga	_	NOUN	_	Case=Acc|Definite=Ind|Number=Plur	2	obj	_	Gloss=money|MGloss=money(ACC)
+
+# sent_id = 3.59b/is
+# text = Mér líkar vel við henni
+# text_en = me(DAT) likes(3SG) well with her(DAT)
+1	Mér	ég	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=me|MGloss=me(DAT)
+2	líkar	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=likes|MGloss=likes(3SG)
+3	vel	vel	ADV	_	_	2	advmod	_	Gloss=well
+4	við	við	ADP	_	_	5	case	_	Gloss=with
+5	henni	hún	PRON	_	Case=Dat|Gender=Fem|Number=Sing	2	obj	_	Gloss=her|MGloss=her(DAT)
+
