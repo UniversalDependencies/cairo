@@ -7039,7 +7039,7 @@
 # gloss = them(ACC.PL) lacks(3SG) money(ACC)
 # text_en = They lack money
 1	Ðá	ðeir	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=them|MGloss=them(ACC.PL)
-2	vantar	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=lacks|MGloss=lacks(3SG)
+2	vantar	vanta	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=lacks|MGloss=lacks(3SG)
 3	peninga	_	NOUN	_	Case=Acc|Definite=Ind|Number=Plur	2	obj	_	Gloss=money|MGloss=money(ACC)
 
 # sent_id = 3.59b/is
@@ -7049,5 +7049,43 @@
 2	líkar	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=likes|MGloss=likes(3SG)
 3	vel	vel	ADV	_	_	2	advmod	_	Gloss=well
 4	við	við	ADP	_	_	5	case	_	Gloss=with
-5	henni	hún	PRON	_	Case=Dat|Gender=Fem|Number=Sing	2	obj	_	Gloss=her|MGloss=her(DAT)
+5	henni	hún	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=her|MGloss=her(DAT)
+
+# sent_id = 3.60a/is
+# text = Ég vonast til að sjá hana
+# gloss = I(NOM) hope toward to see her(ACC)
+# text_en = I hope to see her
+1	Ég	ég	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	vonast	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=hope
+3	til	til	ADP	_	_	5	mark	_	Gloss=toward
+4	að	að	PART	_	PartType=Inf	5	mark	_	Gloss=to
+5	sjá	sjá	VERB	_	VerbForm=Inf	2	ccomp	_	Gloss=see
+6	hana	hún	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=her|MGloss=her(ACC)
+
+# sent_id = 3.61/is
+# source = Thráinsson, 1979:301-4,469; Andrews, 1990
+# text = Ég vonast til að vanta ekki peninga
+# gloss = I(NOM) hope towards to lack not money
+# text_en = I hope not to lack money
+1	Ég	ég	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	vonast	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=hope
+3	til	til	ADP	_	_	5	mark	_	Gloss=toward
+4	að	að	PART	_	PartType=Inf	5	mark	_	Gloss=to
+5	vanta	vanta	VERB	_	VerbForm=Inf	2	ccomp	_	Gloss=lack
+6	ekki	ekki	PART	_	Polarity=Neg	5	advmod	_	Gloss=not
+7	peninga	_	NOUN	_	Case=Acc|Definite=Ind|Number=Plur	5	obj	_	Gloss=money
+
+# sent_id = 3.62a/is
+# source = Rögnvaldsson, 1982
+# text = Ég sá stúlkuna og líkaði vel við henni
+# gloss = I(NOM) saw the-girl(ACC) and liked well with her(DAT)
+# text_en = I saw the girl and liked her
+1	Ég	ég	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	sá	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
+3	stúlkuna	_	NOUN	_	Case=Acc|Definite=Def|Number=Sing	2	obj	_	Gloss=the-girl|MGloss=the-girl(ACC)
+4	og	og	CCONJ	_	_	5	cc	_	Gloss=and
+5	líkaði	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=liked
+6	vel	vel	ADV	_	_	5	advmod	_	Gloss=well
+7	við	við	ADP	_	_	8	case	_	Gloss=with
+8	henni	hún	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	Gloss=her|MGloss=her(DAT)
 
