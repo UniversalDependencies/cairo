@@ -7089,3 +7089,26 @@
 7	við	við	ADP	_	_	8	case	_	Gloss=with
 8	henni	hún	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	Gloss=her|MGloss=her(DAT)
 
+# sent_id = 3.63a/is
+# text = Ðeim líkar maturinn og borða mikið
+# gloss = them(DAT) likes the-food(NOM) and eat a.lot
+# text_en = They like the food and eat a lot
+# Andrews: "Only a subject, including oblique subjects, may control the ellipsis of the subject of a coordinate clause."
+1	Ðeim	ðeir	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=them|MGloss=them(DAT)
+2	líkar	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=likes
+3	maturinn	_	NOUN	_	Case=Nom|Definite=Def|Number=Sing	2	obj	_	Gloss=the-food|MGloss=the-food(NOM)
+4	og	og	CCONJ	_	_	5	cc	_	Gloss=and
+5	borða	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	Gloss=eat
+6	mikið	mikið	ADV	_	_	5	advmod	_	Gloss=a-lot|MGloss=a.lot
+
+# sent_id = 3.64a/en
+# text = Him running Ewing Oil is difficult to imagine
+1	Him	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	running	run	VERB	_	VerbForm=Ger	6	csubj	_	_
+3	Ewing	Ewing	PROPN	_	Number=Sing	2	obj	_	_
+4	Oil	Oil	NOUN	_	Number=Coll	3	flat	_	_
+5	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	difficult	difficult	ADJ	_	_	0	root	_	_
+7	to	to	PART	_	PartType=Inf	8	mark	_	_
+8	imagine	imagine	VERB	_	VerbForm=Inf	6	ccomp	_	_
+
