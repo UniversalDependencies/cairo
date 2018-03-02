@@ -7218,3 +7218,125 @@
 7	miyi	miyi	NOUN	_	Case=Abs	8	obj	_	Gloss=food|MGloss=food(ABS)
 8	yinyjarlarni	yi	VERB	_	VerbForm=Inf	4	advcl	_	Gloss=while-giving|MSeg=yi-nyja-rlarni|MGloss=give-INF-while
 
+# sent_id = 3.67aa/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = ṉawu ṭikaṇa ṉawu yaṯaḻ ŋanayi yiŋaŋu
+# gloss = he(ABS) return-REL(SS) he(ABS) speak-FUT AUX-PRES you(SG.LOC)
+# text_en = If he comes back he'll talk to you
+1	ṉawu	_	PRON	_	Case=Abs|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=he(ABS)
+2	ṭikaṇa	_	VERB	_	Mood=Sub|VerbForm=Fin	4	advcl	_	Gloss=if-he-returns|MSeg=ṭika-ṇa|MGloss=return-REL(SS)
+3	ṉawu	_	PRON	_	Case=Abs|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|MGloss=he(ABS)
+4	yaṯaḻ	_	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-speak|MSeg=yaṯa-ḻ|MGloss=speak-FUT
+5	ŋanayi	_	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES|MSeg=ŋana-yi|MGloss=AUX-PRES
+6	yiŋaŋu	_	PRON	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	4	obl	_	Gloss=to-you|MGloss=you(SG.LOC)
+
+# sent_id = 3.67ab/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = ṉawu ṭikaṇa yaṯaḻ ŋanayi yiŋaŋu
+# gloss = he(ABS) return-REL(SS) speak-FUT AUX-PRES you(SG.LOC)
+# text_en = If he comes back he'll talk to you
+1	ṉawu	_	PRON	_	Case=Abs|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=he(ABS)
+2	ṭikaṇa	_	VERB	_	Mood=Sub|VerbForm=Fin	3	advcl	_	Gloss=if-he-returns|MSeg=ṭika-ṇa|MGloss=return-REL(SS)
+3	yaṯaḻ	_	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will-speak|MSeg=yaṯa-ḻ|MGloss=speak-FUT
+4	ŋanayi	_	AUX	_	Tense=Pres	3	aux	_	Gloss=PRES|MSeg=ŋana-yi|MGloss=AUX-PRES
+5	yiŋaŋu	_	PRON	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	3	obl	_	Gloss=to-you|MGloss=you(SG.LOC)
+
+# sent_id = 3.67ba/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = ŋaṯu kaṉṯa kulʸakulʸa ṯayiṇa ŋaṉi piṯiyi
+# gloss = I(ERG) grass(ABS) green(ABS) eat-REL(SS) I(ABS) fart-PRES
+# text_en = When I eat green grass, I fart
+1	ŋaṯu	ŋaṉi	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=I(ERG)
+2	kaṉṯa	_	NOUN	_	Case=Abs	4	obj	_	Gloss=grass|MGloss=grass(ABS)
+3	kulʸakulʸa	_	ADJ	_	Case=Abs	2	amod	_	Gloss=green|MGloss=green(ABS)
+4	ṯayiṇa	_	VERB	_	Mood=Sub|VerbForm=Fin	6	advcl	_	Gloss=when-eat|MSeg=ṯayi-ṇa|MGloss=eat-REL(SS)
+5	ŋaṉi	ŋaṉi	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=I|MGloss=I(ABS)
+6	piṯiyi	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=fart|MSeg=piṯi-yi|MGloss=fart-PRES
+
+# sent_id = 3.67bb/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = ŋaṯu kaṉṯa kulʸakulʸa ṯayiṇa piṯiyi
+# gloss = I(ERG) grass(ABS) green(ABS) eat-REL(SS) I(ABS) fart-PRES
+# text_en = When I eat green grass, I fart
+1	ŋaṯu	ŋaṉi	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=I(ERG)
+2	kaṉṯa	_	NOUN	_	Case=Abs	4	obj	_	Gloss=grass|MGloss=grass(ABS)
+3	kulʸakulʸa	_	ADJ	_	Case=Abs	2	amod	_	Gloss=green|MGloss=green(ABS)
+4	ṯayiṇa	_	VERB	_	Mood=Sub|VerbForm=Fin	5	advcl	_	Gloss=when-eat|MSeg=ṯayi-ṇa|MGloss=eat-REL(SS)
+5	piṯiyi	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=fart|MSeg=piṯi-yi|MGloss=fart-PRES
+
+# sent_id = 3.67ca/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = wiṉṯa ŋaṉi paliṇa ŋaṯu kaṇa ŋakaṉi ŋamalkayi ṇaka
+# gloss = when I(ABS) die-REL(SS) I(ERG) person me(DAT) sit-TR-PRES there(LOC)
+# text_en = When I die, I will have my people there
+# (ŋakaṉi is here functioning as a possessive modifier of kaṇa 'person')
+1	wiṉṯa	_	ADV	_	_	3	advmod	_	Glass=when
+2	ŋaṉi	ŋaṉi	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(ABS)
+3	paliṇa	_	VERB	_	Mood=Sub|VerbForm=Fin	7	advcl	_	Gloss=when-die|MSeg=pali-ṇa|MGloss=die-REL(SS)
+4	ŋaṯu	ŋaṉi	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Gloss=I|MGloss=I(ERG)
+5	kaṇa	_	NOUN	_	Case=Abs	7	obj	_	Gloss=person
+6	ŋakaṉi	ŋaṉi	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	nmod:poss	_	Gloss=me|MGloss=me(DAT)
+7	ŋamalkayi	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=will-sit|MSeg=ŋama-lka-yi|MGloss=sit-TR-PRES
+8	ṇaka	_	ADV	_	Case=Loc|PronType=Dem	7	advmod	_	Gloss=there|MGloss=there(LOC)
+
+# sent_id = 3.67cb/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = wiṉṯa ŋaṉi paliṇa kaṇa ŋakaṉi ŋamalkayi ṇaka
+# gloss = when I(ABS) die-REL(SS) person me(DAT) sit-TR-PRES there(LOC)
+# text_en = When I die, I will have my people there
+# (ŋakaṉi is here functioning as a possessive modifier of kaṇa 'person')
+1	wiṉṯa	_	ADV	_	_	3	advmod	_	Gloss=when
+2	ŋaṉi	ŋaṉi	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(ABS)
+3	paliṇa	_	VERB	_	Mood=Sub|VerbForm=Fin	6	advcl	_	Gloss=when-die|MSeg=pali-ṇa|MGloss=die-REL(SS)
+4	kaṇa	_	NOUN	_	Case=Abs	6	obj	_	Gloss=person
+5	ŋakaṉi	ŋaṉi	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Gloss=me|MGloss=me(DAT)
+6	ŋamalkayi	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=will-sit|MSeg=ŋama-lka-yi|MGloss=sit-TR-PRES
+7	ṇaka	_	ADV	_	Case=Loc|PronType=Dem	6	advmod	_	Gloss=there|MGloss=there(LOC)
+
+# sent_id = 3.68a/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = kanʸtʸi mindiya ṉani ṉakalda ṉawu wakaṛaṇaṉi
+# gloss = can run-PAST she(ABS) there-LOC he(ABS) come-REL(DS)
+# text_en = She could have run (the distance) if he had come back again
+1	kanʸtʸi	_	AUX	_	Mood=Pot	2	aux	_	Gloss=can
+2	mindiya	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=ran|MSeg=mindi-ya|MGloss=run-PAST
+3	ṉani	ṉani	PRON	_	Case=Abs|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=she|MGloss=she(ABS)
+4	ṉakalda	_	ADV	_	Case=Loc|PronType=Dem	6	advmod	_	Gloss=there|MSeg=ṉaka-lda|MGloss=there-LOC
+5	ṉawu	ṉawu	PRON	_	Case=Abs|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=he|MGloss=he(ABS)
+6	wakaṛaṇaṉi	_	VERB	_	Mood=Sub|VerbForm=Fin	2	advcl	_	Gloss=if-come|MSeg=wakaṛa-ṇaṉi|MGloss=come-REL(DS)
+
+# sent_id = 3.68b/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = ṯanali ṉiṉa ṉayiyi ṉiṉa waraṛaṇa wantiṇaṉi
+# gloss = they(PL.ERG) he(ACC) see-PRES he(ACC) leave-PART AUX-REL(DS)
+# text_en = They see him after he had been left (for a long time)
+1	ṯanali	_	PRON	_	Case=Erg|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=they|MGloss=they(PL.ERG)
+2	ṉiṉa	ṉawu	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=him|MGloss=he(ACC)
+3	ṉayiyi	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see|MSeg=ṉayi-yi|MGloss=see-PRES
+4	ṉiṉa	ṉawu	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=him|MGloss=he(ACC)
+5	waraṛaṇa	_	VERB	_	VerbForm=Part	3	advcl	_	Gloss=left|MSeg=waraṛa-ṇa|MGloss=leave-PART
+6	wantiṇaṉi	_	AUX	_	Mood=Sub|VerbForm=Fin	5	aux	_	Gloss=after-is|MSeg=wanti-ṇaṉi|MGloss=AUX-REL(DS)
+
+# sent_id = 3.68c/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = ŋaṉi ṉiŋkiya wakaṛaṇa ŋaṭu ṉaṉa wiḻa ṉayiyi yindaṇaṉi
+# gloss = I(ABS) here(LOC) come-REL(SS) I(ERG) she(ACC) woman(ABS) see-PRES cry-REL(DS)
+# text_en = When I come here I see that woman [who is] crying
+1	ŋaṉi	ŋaṉi	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(ABS)
+2	ṉiŋkiya	_	ADV	_	Case=Loc|PronType=Dem	3	advmod	_	Gloss=here|MGloss=here(LOC)
+3	wakaṛaṇa	_	VERB	_	Mood=Sub|VerbForm=Fin	7	advcl	_	Gloss=when-come|MSeg=wakaṛa-ṇa|MGloss=come-REL(SS)
+4	ŋaṭu	ŋaṉi	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Gloss=I|MGloss=I(ERG)
+5	ṉaṉa	ṉani	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	expl	_	Gloss=her|MGloss=she(ACC)
+6	wiḻa	wiḻa	NOUN	_	Case=Abs	7	obj	_	Gloss=woman|MGloss=woman(ABS)
+7	ṉayiyi	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see|MSeg=ṉayi-yi|MGloss=see-PRES
+8	yindaṇaṉi	_	VERB	_	Mood=Sub|VerbForm=Fin	7	advcl	_	Gloss=when-cries|MSeg=yinda-ṇaṉi|MGloss=cry-REL(DS)
+
