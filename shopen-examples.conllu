@@ -7406,3 +7406,26 @@
 3	bhaaryaye	_	NOUN	_	Case=Acc	4	obj	_	Gloss=wife|MGloss=wife(ACC)
 4	ṣṭamaanә	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=likes|MSeg=ṣṭam-aanә|MGloss=liking-is
 
+# sent_id = 3.74a/en
+# text = John talked about himself
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	talked	talk	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	about	about	ADP	_	_	4	case	_	_
+4	himself	himself	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	_
+
+# sent_id = 3.74b/en
+# text = John told Mary about himself
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	told	tell	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Mary	Mary	PROPN	_	Number=Sing	2	iobj	_	_
+4	about	about	ADP	_	_	5	case	_	_
+5	himself	himself	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	_
+
+# sent_id = 3.75/en
+# text = John told Mary about herself
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	told	tell	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Mary	Mary	PROPN	_	Number=Sing	2	iobj	_	_
+4	about	about	ADP	_	_	5	case	_	_
+5	herself	herself	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	_
+
