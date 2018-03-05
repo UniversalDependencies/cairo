@@ -7340,3 +7340,69 @@
 7	ṉayiyi	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see|MSeg=ṉayi-yi|MGloss=see-PRES
 8	yindaṇaṉi	_	VERB	_	Mood=Sub|VerbForm=Fin	7	advcl	_	Gloss=when-cries|MSeg=yinda-ṇaṉi|MGloss=cry-REL(DS)
 
+# sent_id = 3.69a/ml
+# Malayalam (Dravidian, Southern, India)
+# source = Mohanan, 1982
+# text = Raajaawә swaṇṭam bhaaryaye ṉulli
+# gloss = king(NOM) self's wife(ACC) pinched
+# text_en = The king pinched his own wife
+1	Raajaawә	_	NOUN	_	Case=Nom	4	nsubj	_	Gloss=king|MGloss=king(NOM)
+2	swaṇṭam	_	DET	_	Poss=Yes|PronType=Prs|Reflex=Yes	3	det:poss	_	Gloss=his-own|MGloss=self's
+3	bhaaryaye	_	NOUN	_	Case=Acc	4	obj	_	Gloss=wife|MGloss=wife(ACC)
+4	ṉulli	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=pinched
+
+# sent_id = 3.69b/ml
+# Malayalam (Dravidian, Southern, India)
+# source = Mohanan, 1982
+# text = Swaṇṭam bhaaryaye raajaawә ṉulli
+# gloss = self's wife(ACC) king(NOM) pinched
+# text_en = The king pinched his own wife
+1	Swaṇṭam	_	DET	_	Poss=Yes|PronType=Prs|Reflex=Yes	2	det:poss	_	Gloss=his-own|MGloss=self's
+2	bhaaryaye	_	NOUN	_	Case=Acc	4	obj	_	Gloss=wife|MGloss=wife(ACC)
+3	raajaawә	_	NOUN	_	Case=Nom	4	nsubj	_	Gloss=king|MGloss=king(NOM)
+4	ṉulli	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=pinched
+
+# sent_id = 3.71a/ml
+# Malayalam (Dravidian, Southern, India)
+# source = Mohanan, 1982
+# text = Raajaawә swaṇṭam bhaaryaal ṉullappeṯṯu
+# gloss = king(NOM) self's wife(INSTR) pinch(PAST.PASS)
+# text_en = The king was pinched by his own wife
+1	Raajaawә	_	NOUN	_	Case=Nom	4	nsubj:pass	_	Gloss=king|MGloss=king(NOM)
+2	swaṇṭam	_	DET	_	Poss=Yes|PronType=Prs|Reflex=Yes	3	det:poss	_	Gloss=his-own|MGloss=self's
+3	bhaaryaal	_	NOUN	_	Case=Ins	4	obl:agent	_	Gloss=by-wife|MGloss=wife(INSTR)
+4	ṉullappeṯṯu	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=was-pinched|MGloss=pinch(PAST.PASS)
+
+# sent_id = 3.71b/ml
+# Malayalam (Dravidian, Southern, India)
+# source = Mohanan, 1982
+# text = Swaṇṭam bhaaryaal raajaawә ṉullappeṯṯu
+# gloss = self's wife(INSTR) king(NOM) pinch(PAST.PASS)
+# text_en = The king was pinched by his own wife
+1	Swaṇṭam	_	DET	_	Poss=Yes|PronType=Prs|Reflex=Yes	2	det:poss	_	Gloss=his-own|MGloss=self's
+2	bhaaryaal	_	NOUN	_	Case=Ins	4	obl:agent	_	Gloss=by-wife|MGloss=wife(INSTR)
+3	raajaawә	_	NOUN	_	Case=Nom	4	nsubj:pass	_	Gloss=king|MGloss=king(NOM)
+4	ṉullappeṯṯu	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=was-pinched|MGloss=pinch(PAST.PASS)
+
+# sent_id = 3.73a/ml
+# Malayalam (Dravidian, Southern, India)
+# source = Mohanan, 1982
+# text = Raajaawinә swaṇṭam bhaaryaye ṉullaṇam
+# gloss = king(DAT) self's wife(DAT) pinch-DESIDERATIVE
+# text_en = The king wants to pinch his wife
+1	Raajaawinә	_	NOUN	_	Case=Dat	4	nsubj	_	Gloss=king|MGloss=king(DAT)
+2	swaṇṭam	_	DET	_	Poss=Yes|PronType=Prs|Reflex=Yes	3	det:poss	_	Gloss=his-own|MGloss=self's
+3	bhaaryaye	_	NOUN	_	Case=Dat	4	obj	_	Gloss=wife|MGloss=wife(DAT)
+4	ṉullaṇam	_	VERB	_	Mood=Des|VerbForm=Fin	0	root	_	Gloss=wants-to-pinch|MSeg=ṉull-aṇam|MGloss=pinch-DESIDERATIVE
+
+# sent_id = 3.73b/ml
+# Malayalam (Dravidian, Southern, India)
+# source = Mohanan, 1982
+# text = Raajaawinә swaṇṭam bhaaryaye ṣṭamaanә
+# gloss = king(DAT) self's wife(ACC) liking-is
+# text_en = The king likes his wife
+1	Raajaawinә	_	NOUN	_	Case=Dat	4	nsubj	_	Gloss=king|MGloss=king(DAT)
+2	swaṇṭam	_	DET	_	Poss=Yes|PronType=Prs|Reflex=Yes	3	det:poss	_	Gloss=his-own|MGloss=self's
+3	bhaaryaye	_	NOUN	_	Case=Acc	4	obj	_	Gloss=wife|MGloss=wife(ACC)
+4	ṣṭamaanә	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=likes|MSeg=ṣṭam-aanә|MGloss=liking-is
+
