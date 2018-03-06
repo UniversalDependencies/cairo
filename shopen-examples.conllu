@@ -7491,3 +7491,47 @@
 3	a	a	ADP	_	_	4	case	_	Gloss=OBJ|MGloss=OM
 4	él	él	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=him
 
+# sent_id = 3.79a/de
+# text = Sie sah ihn
+# gloss = she(NOM) saw him(ACC)
+# text_en = She saw him
+1	Sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=she|MGloss=she(NOM)
+2	sah	sehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw
+3	ihn	er	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=him|MGloss=him(ACC)
+
+# sent_id = 3.79b/de
+# text = Sie half ihm
+# gloss = she(NOM) helped him(DAT)
+# text_en = She helped him
+1	Sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=she|MGloss=she(NOM)
+2	half	helfen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=helped
+3	ihm	er	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=him|MGloss=him(DAT)
+
+# sent_id = 3.80a/de
+# text = Er wurde gesehen
+# gloss = he(NOM) became seen
+# text_en = He was seen
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	Gloss=he|MGloss=he(NOM)
+2	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	Gloss=became
+3	gesehen	sehen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Gloss=seen
+
+# sent_id = 3.80d/de
+# text = Es wurde ihm geholfen
+# gloss = it(NOM) became him(DAT) helped
+# text_en = He was helped
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	Gloss=it|MGloss=it(NOM)
+2	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	Gloss=became
+3	ihm	er	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=him|MGloss=him(DAT)
+4	geholfen	helfen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Gloss=helped
+
+# sent_id = 3.81a/de
+# text = Uns wurde von der Polizei geholfen
+# gloss = we(DAT) became by the police helped
+# text_en = We were helped by the police
+1	Uns	wir	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obj	_	Gloss=us|MGloss=we(DAT)
+2	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	Gloss=became
+3	von	von	ADP	_	_	5	case	_	Gloss=by
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Gloss=the
+5	Polizei	Polizei	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	obl:agent	_	Gloss=police
+6	geholfen	helfen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Gloss=helped
+
