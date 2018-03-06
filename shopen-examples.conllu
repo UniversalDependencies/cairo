@@ -7429,3 +7429,65 @@
 4	about	about	ADP	_	_	5	case	_	_
 5	herself	herself	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	_
 
+# sent_id = 3.76a/hi
+# source = T. Mohanan, 1994:79-80
+# text = Ilaa ne bacce ko uṭaayaa
+# gloss = Ilaa ERG child ACC lift(PERF)
+# text_en = Ilaa lifted the/a child
+1	Ilaa	Ilaa	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	Gloss=Ilaa
+2	ne	ne	ADP	_	Case=Erg	1	case	_	Gloss=ERG
+3	bacce	baccaa	NOUN	_	Case=Acc|Number=Sing	5	obj	_	Gloss=child
+4	ko	ko	ADP	_	Case=Acc	3	case	_	Gloss=ACC
+5	uṭaayaa	_	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=lifted|MGloss=lift(PERF)
+
+# sent_id = 3.76b/hi
+# source = T. Mohanan, 1994:79-80
+# text = Ilaa ne haar uṭaayaa
+# gloss = Ilaa ERG necklace(NOM) lift(PERF)
+# text_en = Ilaa lifted the/a necklace
+1	Ilaa	Ilaa	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	Gloss=Ilaa
+2	ne	ne	ADP	_	Case=Erg	1	case	_	Gloss=ERG
+3	haar	haar	NOUN	_	Case=Nom|Number=Sing	4	obj	_	Gloss=necklace|MGloss=necklace(NOM)
+4	uṭaayaa	_	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=lifted|MGloss=lift(PERF)
+
+# sent_id = 3.76c/hi
+# source = T. Mohanan, 1994:79-80
+# text = Ilaa ne haar ko uṭaayaa
+# gloss = Ilaa ERG necklace ACC lift(PERF)
+# text_en = Ilaa lifted the necklace
+1	Ilaa	Ilaa	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	Gloss=Ilaa
+2	ne	ne	ADP	_	Case=Erg	1	case	_	Gloss=ERG
+3	haar	haar	NOUN	_	Case=Acc|Number=Sing	5	obj	_	Gloss=necklace
+4	ko	ko	ADP	_	Case=Acc	3	case	_	Gloss=ACC
+5	uṭaayaa	_	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=lifted|MGloss=lift(PERF)
+
+# sent_id = 3.77a/es
+# text = Vimos a alguien
+# gloss = we.saw OM somebody
+# text_en = We saw somebody
+1	Vimos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Gloss=we-saw|MGloss=we.saw
+2	a	a	ADP	_	_	3	case	_	Gloss=OBJ|MGloss=OM
+3	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	1	obj	_	Gloss=somebody
+
+# sent_id = 3.77b/es
+# text = Vimos el interruptor
+# gloss = we.saw the switch
+# text_en = We saw the switch
+1	Vimos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Gloss=we-saw|MGloss=we.saw
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing	3	det	_	Gloss=the
+3	interruptor	interruptor	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Gloss=switch
+
+# sent_id = 3.77c/es
+# text = Lo vimos
+# gloss = it(ACC) we.saw
+1	Lo	lo	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=it|MGloss=it(ACC)
+2	vimos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Gloss=we-saw|MGloss=we.saw
+
+# sent_id = 3.78/es
+# text = Lo vimos a él
+# gloss = him(ACC) we.saw OM him
+1	Lo	lo	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	Gloss=him|MGloss=him(ACC)
+2	vimos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Gloss=we-saw|MGloss=we.saw
+3	a	a	ADP	_	_	4	case	_	Gloss=OBJ|MGloss=OM
+4	él	él	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=him
+
