@@ -7535,3 +7535,30 @@
 5	Polizei	Polizei	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	obl:agent	_	Gloss=police
 6	geholfen	helfen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Gloss=helped
 
+# sent_id = 3.82a/is
+# text = Ðeir hálpuðu honum
+# gloss = they helped him(DAT)
+# text_en = They helped him
+1	Ðeir	ðeir	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=they|MGloss=they(NOM.PL)
+2	hálpuðu	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=helped
+3	honum	hann	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=him|MGloss=him(DAT)
+
+# sent_id = 3.82b/is
+# text = Honum var hjálpað
+# gloss = him(DAT) was helped
+# text_en = He was helped
+1	Honum	hann	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj:pass	_	Gloss=him|MGloss=him(DAT)
+2	var	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	Gloss=was
+3	hjálpað	_	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Gloss=helped
+
+# sent_id = 3.82c/is
+# text = Hann vonast til að verða hjálpað
+# gloss = he hopes toward to be helped
+# text_en = He hopes to be helped
+1	Hann	hann	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	vonast	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=hopes
+3	til	til	ADP	_	_	5	mark	_	Gloss=toward
+4	að	að	PART	_	_	5	mark	_	Gloss=to
+5	verða	verða	AUX	_	VerbForm=Fin	6	aux:pass	_	Gloss=be
+6	hjálpað	_	VERB	_	Tense=Past|VerbForm=Part	2	xcomp	_	Gloss=helped
+
