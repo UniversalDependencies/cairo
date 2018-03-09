@@ -7607,3 +7607,68 @@
 4	na	na	ADP	_	_	5	case	_	Gloss=by
 5	Nu:ru	_	PROPN	_	_	2	obl:agent	_	Gloss=Nuru
 
+# sent_id = 3.86aa/en
+# text = Paul was handed the shovel by Susan
+1	Paul	Paul	PROPN	_	Number=Sing	3	nsubj:pass	_	_
+2	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	handed	hand	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	shovel	shovel	NOUN	_	Number=Sing	3	obj	_	_
+6	by	by	ADP	_	_	7	case	_	_
+7	Susan	Susan	PROPN	_	Number=Sing	3	obl:agent	_	_
+
+# sent_id = 3.86ab/en
+# text = Paul was handed the shovel
+1	Paul	Paul	PROPN	_	Number=Sing	3	nsubj:pass	_	_
+2	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	handed	hand	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	shovel	shovel	NOUN	_	Number=Sing	3	obj	_	_
+
+# sent_id = 3.86ba/en
+# text = The shovel was handed to Paul by Susan
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	shovel	shovel	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	handed	hand	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Paul	Paul	PROPN	_	Number=Sing	4	obl	_	_
+7	by	by	ADP	_	_	8	case	_	_
+8	Susan	Susan	PROPN	_	Number=Sing	4	obl:agent	_	_
+
+# sent_id = 3.86bb/en
+# text = The shovel was handed to Paul
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	shovel	shovel	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	handed	hand	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Paul	Paul	PROPN	_	Number=Sing	4	obl	_	_
+
+# sent_id = 3.87a/en
+# source = Oehrle, 1976:177
+# text = No explanation was given them
+1	No	no	DET	_	PronType=Neg	2	det	_	_
+2	explanation	explanation	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	given	give	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	them	they	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+
+# sent_id = 3.87b/en
+# source = Oehrle, 1976:177
+# text = The job was offered him
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	job	job	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	offered	offer	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	him	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+
+# sent_id = 3.87c/en
+# source = Oehrle, 1976:177
+# text = Fake documents were given him
+1	Fake	fake	ADJ	_	_	2	amod	_	_
+2	documents	document	NOUN	_	Number=Plur	4	nsubj:pass	_	_
+3	were	be	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	given	give	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	him	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+
