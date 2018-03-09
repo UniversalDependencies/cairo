@@ -7562,3 +7562,48 @@
 5	verða	verða	AUX	_	VerbForm=Fin	6	aux:pass	_	Gloss=be
 6	hjálpað	_	VERB	_	Tense=Past|VerbForm=Part	2	xcomp	_	Gloss=helped
 
+# sent_id = 3.83a/sw
+# Chi Mwi:ni (Bravanese), a dialect of Swahili, Bantu, Niger-Congo, Somalia
+# source = Kisseberth and Abasheikh, 1977
+# text = Nu:ru chiłesełe chibu:ku
+# gloss = Nuru he(SUBJ)-PAST-it(OBJ)-bring-ASP book
+# text_en = Nuru brought the book
+1	Nu:ru	_	PROPN	_	_	2	nsubj	_	Gloss=Nuru
+2	chiłesełe	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=brought|MSeg=0-0-chi-łes-ełe|MGloss=he(SUBJ)-PAST-it(OBJ)-bring-ASP
+3	chibu:ku	_	NOUN	_	_	2	obj	_	Gloss=book
+
+# sent_id = 3.83b/sw
+# Chi Mwi:ni (Bravanese), a dialect of Swahili, Bantu, Niger-Congo, Somalia
+# source = Kisseberth and Abasheikh, 1977
+# text = Chibu:ku chiłesela na Nu:ru
+# gloss = book it(SUBJ)-PAST-bring-ASP-PASS by Nuru
+# text_en = The book was brought by Nuru
+1	Chibu:ku	_	NOUN	_	_	2	nsubj:pass	_	Gloss=book
+2	chiłesela	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=was-brought|MSeg=chi-0-łes-el-a|MGloss=it(SUBJ)-PAST-bring-ASP-PASS
+3	na	na	ADP	_	_	4	case	_	Gloss=by
+4	Nu:ru	_	PROPN	_	_	2	obl:agent	_	Gloss=Nuru
+
+# sent_id = 3.84a/sw
+# Chi Mwi:ni (Bravanese), a dialect of Swahili, Bantu, Niger-Congo, Somalia
+# source = Kisseberth and Abasheikh, 1977:192-3
+# text = Nu:ru młetelele mwa:limu chibu:ku
+# gloss = Nuru he(SUBJ)-him(OBJ)-bring-DAT-ASP teacher book
+# text_en = Nuru brought the book to the teacher
+# The presence of a recipient object is signalled by the affix el glossed DAT (it is generally called the ‘applied’ affix in Bantu linguistics).
+1	Nu:ru	_	PROPN	_	_	2	nsubj	_	Gloss=Nuru
+2	młetelele	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=brought|MSeg=0-m-łet-el-ele|MGloss=he(SUBJ)-him(OBJ)-bring-DAT-ASP
+3	mwa:limu	_	NOUN	_	_	2	obj	_	Gloss=teacher
+4	chibu:ku	_	NOUN	_	_	2	iobj	_	Gloss=book
+
+# sent_id = 3.84b/sw
+# Chi Mwi:ni (Bravanese), a dialect of Swahili, Bantu, Niger-Congo, Somalia
+# source = Kisseberth and Abasheikh, 1977:192-3
+# text = Mwa:limu łetelela chibu:ku na Nu:ru
+# gloss = teacher he(SUBJ)-bring-DAT-ASP-PASS book by Nuru
+# text_en = The teacher was brought the book by Nuru
+1	Mwa:limu	_	NOUN	_	_	2	nsubj:pass	_	Gloss=teacher
+2	łetelela	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=was-brought|MSeg=0-łet-el-el-a|MGloss=he(SUBJ)-bring-DAT-ASP-PASS
+3	chibu:ku	_	NOUN	_	_	2	iobj	_	Gloss=book
+4	na	na	ADP	_	_	5	case	_	Gloss=by
+5	Nu:ru	_	PROPN	_	_	2	obl:agent	_	Gloss=Nuru
+
