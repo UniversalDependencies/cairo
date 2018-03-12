@@ -7672,3 +7672,92 @@
 4	given	give	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
 5	him	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 
+# sent_id = 3.88a/rw
+# Kinyarwanda (Niger-Congo, Bantu, Rwanda)
+# source = Gary and Keenan, 1977; Kimenyi, 1980
+# text = Umugóre aráhéera umugabo ímbwa ibíryo
+# gloss = woman she-PRES-give-APPLIC-ASP man dog food
+# text_en = The woman is giving food to the dog for the man
+1	Umugóre	_	NOUN	_	_	2	nsubj	_	Gloss=woman
+2	aráhéera	_	VERB	_	Aspect=Prog|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=gives|MSeg=a-rá-hé-er-a|MGloss=she-PRES-give-APPLIC-ASP
+3	umugabo	_	NOUN	_	_	2	obj	_	Gloss=man
+4	ímbwa	_	NOUN	_	_	2	obj	_	Gloss=dog
+5	ibíryo	_	NOUN	_	_	2	obj	_	Gloss=food
+
+# sent_id = 3.88b/rw
+# Kinyarwanda (Niger-Congo, Bantu, Rwanda)
+# source = Gary and Keenan, 1977; Kimenyi, 1980
+# text = Umugóre arábiyímuhéera
+# gloss = woman she-PRES-it-it-him-give-APPLIC-ASP
+# text_en = The woman is giving it to it for him
+1	Umugóre	_	NOUN	_	_	2	nsubj	_	Gloss=woman
+2	arábiyímuhéera	_	VERB	_	Aspect=Prog|Gender=Fem|Gender[acc]=Neut|Gender[ben]=Masc|Gender[dat]=Neut|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=gives-it-to-it-for-him|MSeg=a-rá-bi-yí-mu-hé-er-a|MGloss=she-PRES-it-it-him-give-APPLIC-ASP
+
+# sent_id = 3.89a/rw
+# Kinyarwanda (Niger-Congo, Bantu, Rwanda)
+# source = Gary and Keenan, 1977; Kimenyi, 1980
+# text = Ibíryo biráhéerwa umugabo ímbwa n'ûumgóre
+# gloss = food it-PRES-give-APPLIC-PASS-ASP man dog by.woman
+# text_en = The food is given to the dog for the man by the woman
+1	Ibíryo	_	NOUN	_	_	2	nsubj:pass	_	Gloss=food
+2	biráhéerwa	_	VERB	_	Aspect=Prog|Gender=Neut|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=is-given|MSeg=bi-rá-hé-er-w-a|MGloss=it-PRES-give-APPLIC-PASS-ASP
+3	umugabo	_	NOUN	_	_	2	obj	_	Gloss=man
+4	ímbwa	_	NOUN	_	_	2	obj	_	Gloss=dog
+5	n'ûumgóre	umugóre	NOUN	_	Case=Ins	2	obl:agent	_	Gloss=by-woman|MGloss=by.woman
+
+# sent_id = 3.89b/rw
+# Kinyarwanda (Niger-Congo, Bantu, Rwanda)
+# source = Gary and Keenan, 1977; Kimenyi, 1980
+# text = Ímbwa iráhéerwa umugabo ibíryo n'ûumgóre
+# gloss = dog it-PRES-give-APPLIC-PASS-ASP man food by.woman
+# text_en = The dog is given the food for the man by the woman
+1	Ímbwa	_	NOUN	_	_	2	nsubj:pass	_	Gloss=dog
+2	iráhéerwa	_	VERB	_	Aspect=Prog|Gender=Neut|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=is-given|MSeg=i-rá-hé-er-w-a|MGloss=it-PRES-give-APPLIC-PASS-ASP
+3	umugabo	_	NOUN	_	_	2	obj	_	Gloss=man
+4	ibíryo	_	NOUN	_	_	2	obj	_	Gloss=food
+5	n'ûumgóre	umugóre	NOUN	_	Case=Ins	2	obl:agent	_	Gloss=by-woman|MGloss=by.woman
+
+# sent_id = 3.89c/rw
+# Kinyarwanda (Niger-Congo, Bantu, Rwanda)
+# source = Gary and Keenan, 1977; Kimenyi, 1980
+# text = Umugabo aráhéerwa ímbwa ibíryo n'ûumgóre
+# gloss = man he-PRES-give-APPLIC-PASS-ASP dog food by.woman
+# text_en = The man is given food for the dog by the woman
+1	Umugabo	_	NOUN	_	_	2	nsubj:pass	_	Gloss=man
+2	aráhéerwa	_	VERB	_	Aspect=Prog|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=is-given|MSeg=a-rá-hé-er-w-a|MGloss=he-PRES-give-APPLIC-PASS-ASP
+3	ímbwa	_	NOUN	_	_	2	obj	_	Gloss=dog
+4	ibíryo	_	NOUN	_	_	2	obj	_	Gloss=food
+5	n'ûumgóre	umugóre	NOUN	_	Case=Ins	2	obl:agent	_	Gloss=by-woman|MGloss=by.woman
+
+# sent_id = 3.90a/rw
+# Kinyarwanda (Niger-Congo, Bantu, Rwanda)
+# source = Kimenyi, 1980:94-5
+# text = Úmwáalimu yooherejého iishuûri igitabo
+# gloss = teacher he-send-ASP-to school book
+# text_en = The teacher sent the book to the school
+1	Úmwáalimu	_	NOUN	_	_	2	nsubj	_	Gloss=teacher
+2	yooherejého	_	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=sent|MSeg=y-oohere-jé-ho|MGloss=he-send-ASP-to
+3	iishuûri	_	NOUN	_	_	2	obj	_	Gloss=school
+4	igitabo	_	NOUN	_	_	2	obj	_	Gloss=book
+
+# sent_id = 3.90b/rw
+# Kinyarwanda (Niger-Congo, Bantu, Rwanda)
+# source = Kimenyi, 1980:94-5
+# text = Úmwáalimu yaryooherejého igitabo
+# gloss = teacher he-PAST-it-send-ASP-to book
+# text_en = The teacher sent the book to it
+1	Úmwáalimu	_	NOUN	_	_	2	nsubj	_	Gloss=teacher
+2	yaryooherejého	_	VERB	_	Aspect=Perf|Gender=Masc|Gender[obj]=Neut|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sent|MSeg=y-oohere-jé-ho|MGloss=he-send-ASP-to
+3	igitabo	_	NOUN	_	_	2	obj	_	Gloss=book
+
+# sent_id = 3.90c/rw
+# Kinyarwanda (Niger-Congo, Bantu, Rwanda)
+# source = Kimenyi, 1980:94-5
+# text = Iishuûri ryooherejwého igitabo n'úúmwáalímu
+# gloss = school it-send-ASP-PASS-ASP-to book by.teacher
+# text_en = The school was sent the book by the teacher
+1	Iishuûri	_	NOUN	_	_	2	nsubj:pass	_	Gloss=school
+2	ryooherejwého	_	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=was-sent|MSeg=ry-oohere-j-w-é-ho|MGloss=it-send-ASP-PASS-ASP-to
+3	igitabo	_	NOUN	_	_	2	obj	_	Gloss=book
+4	n'úúmwáalímu	úmwáalimu	NOUN	_	_	2	obl:agent	_	Gloss=by-teacher|MGloss=by.teacher
+
