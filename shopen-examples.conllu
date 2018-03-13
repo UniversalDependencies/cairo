@@ -7761,3 +7761,44 @@
 3	igitabo	_	NOUN	_	_	2	obj	_	Gloss=book
 4	n'úúmwáalímu	úmwáalimu	NOUN	_	_	2	obl:agent	_	Gloss=by-teacher|MGloss=by.teacher
 
+# sent_id = 3.91a/en
+# text = Mary presented a watch to Tom
+1	Mary	Mary	PROPN	_	Number=Sing	2	nsubj	_	_
+2	presented	present	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	watch	watch	NOUN	_	Number=Sing	2	obj	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Tom	Tom	PROPN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.91b/en
+# text = Mary presented Tom with a gold watch
+1	Mary	Mary	PROPN	_	Number=Sing	2	nsubj	_	_
+2	presented	present	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Tom	Tom	PROPN	_	Number=Sing	2	obj	_	_
+4	with	with	ADP	_	_	7	case	_	_
+5	a	a	DET	_	Definite=Ind|PronType=Art	7	det	_	_
+6	gold	gold	ADJ	_	_	7	amod	_	_
+7	watch	watch	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.92a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Nyuntulurlu ngajuku kanpaju karlipatu yinyi
+# gloss = you-ERG me-DAT PRES-2SG(SUBJ)-1SG(OBJ) boomerang(ABS)-PAUCAL give-NONPAST
+# text_en = You are giving me a few boomerangs
+1	Nyuntulurlu	nyuntu	PRON	_	Case=Erg|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Gloss=you|MSeg=nyuntulu-rlu|MGloss=you-ERG
+2	ngajuku	ngaju	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|MSeg=ngaju-ku|MGloss=me-DAT
+3	kanpaju	ka	AUX	_	Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=1|Tense=Pres	5	aux	_	Gloss=PRES|MSeg=ka-npa-ju|MGloss=PRES-2SG(SUBJ)-1SG(OBJ)
+4	karlipatu	karli	NOUN	_	Case=Abs|Number=Pauc	5	obj	_	Gloss=a-few-boomerangs|MSeg=karli-patu|MGloss=boomerang(ABS)-PAUCAL
+5	yinyi	yi	VERB	_	Tense=Pres	0	root	_	Gloss=give|MSeg=yi-nyi|MGloss=give-NONPAST
+
+# sent_id = 3.92b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Ngajulurlu kapirnarla karlipatu puntami kurduku
+# gloss = I-ERG FUT-1SG(SUBJ)-3(DAT) boomerang(ABS)-PAUCAL take-away-NONPAST child-DAT
+# text_en = I will take the boomerang / the few boomerangs away from the child
+1	Ngajulurlu	ngaju	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MSeg=ngajulu-rlu|MGloss=I-ERG
+2	kapirnarla	ka	AUX	_	Number=Sing|Person=1|Person[dat]=3|Tense=Fut	4	aux	_	Gloss=will|MSeg=kapi-rna-rla|MGloss=FUT-1SG(SUBJ)-3(DAT)
+3	karlipatu	karli	NOUN	_	Case=Abs|Number=Pauc	4	obj	_	Gloss=a-few-boomerangs|MSeg=karli-patu|MGloss=boomerang(ABS)-PAUCAL
+4	puntami	punta	VERB	_	Tense=Pres	0	root	_	Gloss=take-away|MSeg=punta-mi|MGloss=take.away-NONPAST
+5	kurduku	kurdu	NOUN	_	Case=Dat|Number=Sing	4	obj	_	Gloss=child|MSeg=kurdu-ku|MGloss=child-DAT
+
