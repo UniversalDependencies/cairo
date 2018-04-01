@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = A lány írt egy levelet a barátjának .
 1	A	_	DET	_	Definite=Def	2	det	_	Offset=0-1
 2	lány	_	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	Offset=2-6
 3	írt	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	Offset=7-10
@@ -7,12 +9,16 @@
 7	barátjának	_	NOUN	_	Case=Dat	3	iobj	_	Offset=25-35
 8	.	_	PUNCT	_	_	3	punct	_	Offset=36-37
 
+# sent_id = s2
+# text = Azt hiszem , esik .
 1	Azt	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	2	dobj	_	Offset=38-41
 2	hiszem	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	Offset=42-48
 3	,	_	PUNCT	_	_	2	punct	_	Offset=49-50
 4	esik	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	Offset=51-55
 5	.	_	PUNCT	_	_	2	punct	_	Offset=56-57
 
+# sent_id = s3
+# text = Megpróbált leszokni a dohányzásról és az ivásról .
 1	Megpróbált	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	Offset=58-68
 2	leszokni	_	VERB	_	VerbForm=Inf	1	xcomp	_	Offset=69-77
 3	a	_	DET	_	Definite=Def	4	det	_	Offset=78-79
@@ -22,11 +28,15 @@
 7	ivásról	_	NOUN	_	Case=Ela|Number=Sing	4	conj	_	Offset=99-106
 8	.	_	PUNCT	_	_	1	punct	_	Offset=107-108
 
+# sent_id = s4
+# text = El akarsz menni ?
 1	El	_	PART	_	_	3	compound	_	Offset=109-111
 2	akarsz	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	Offset=112-118
 3	menni	_	VERB	_	VerbForm=Inf	2	xcomp	_	Offset=119-124
 4	?	_	PUNCT	_	_	2	punct	_	Offset=125-126
 
+# sent_id = s5
+# text = Samu , nyisd ki az ablakot !
 1	Samu	_	PROPN	_	Case=Nom|Number=Sing	3	vocative	_	Offset=127-131
 2	,	_	PUNCT	_	_	3	punct	_	Offset=132-133
 3	nyisd	_	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	_	_	Offset=134-139
@@ -35,6 +45,8 @@
 6	ablakot	_	NOUN	_	Case=Acc|Number=Sing	3	dobj	_	Offset=146-153
 7	!	_	PUNCT	_	_	3	punct	_	Offset=154-155
 
+# sent_id = s6
+# text = Lemosatta a férjével a kocsit .
 1	Lemosatta	_	Token	_	_	0	_	_	Offset=156-165
 2	a	_	Token	_	_	0	_	_	Offset=166-167
 3	férjével	_	Token	_	_	0	_	_	Offset=168-176
@@ -42,6 +54,8 @@
 5	kocsit	_	Token	_	_	0	_	_	Offset=179-185
 6	.	_	Token	_	_	0	_	_	Offset=186-187
 
+# sent_id = s7
+# text = Péter szomszédja pirosra festette a kerítést .
 1	Péter	_	Token	_	_	0	_	_	Offset=188-193
 2	szomszédja	_	Token	_	_	0	_	_	Offset=194-204
 3	pirosra	_	Token	_	_	0	_	_	Offset=205-212
@@ -50,6 +64,8 @@
 6	kerítést	_	Token	_	_	0	_	_	Offset=224-232
 7	.	_	Token	_	_	0	_	_	Offset=233-234
 
+# sent_id = s8
+# text = Az én apukám jobb fej , mint a tiéd .
 1	Az	_	Token	_	_	0	_	_	Offset=235-237
 2	én	_	Token	_	_	0	_	_	Offset=238-240
 3	apukám	_	Token	_	_	0	_	_	Offset=241-247
@@ -61,6 +77,8 @@
 9	tiéd	_	Token	_	_	0	_	_	Offset=266-270
 10	.	_	Token	_	_	0	_	_	Offset=271-272
 
+# sent_id = s9
+# text = Mária bronzérmet nyert , Péter ezüstöt , és Jane aranyat .
 1	Mária	_	PROPN	_	_	3	nsubj	_	Offset=273-278
 2	bronzérmet	_	NOUN	_	Case=Acc|Number=Sing	3	dobj	_	Offset=279-289
 3	nyert	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	Offset=290-295
@@ -73,6 +91,8 @@
 10	aranyat	_	NOUN	_	Case=Acc|Number=Sing	2	remnant	_	Offset=322-329
 11	.	_	PUNCT	_	_	0	_	_	Offset=330-331
 
+# sent_id = s10
+# text = Iguazu nagy vagy kis ország ?
 1	Iguazu	_	Token	_	_	0	_	_	Offset=332-338
 2	nagy	_	Token	_	_	0	_	_	Offset=339-343
 3	vagy	_	Token	_	_	0	_	_	Offset=344-348
@@ -80,6 +100,8 @@
 5	ország	_	Token	_	_	0	_	_	Offset=353-359
 6	?	_	Token	_	_	0	_	_	Offset=360-361
 
+# sent_id = s11
+# text = Sem Kovács Pétert , sem Barna Máriát nem választhatták ki .
 1	Sem	_	Token	_	_	0	_	_	Offset=362-365
 2	Kovács	_	Token	_	_	0	_	_	Offset=366-372
 3	Pétert	_	Token	_	_	0	_	_	Offset=373-379
@@ -92,6 +114,8 @@
 10	ki	_	Token	_	_	0	_	_	Offset=417-419
 11	.	_	Token	_	_	0	_	_	Offset=420-421
 
+# sent_id = s12
+# text = Ötletük sincs , ki írta .
 1	Ötletük	_	Token	_	_	0	_	_	Offset=422-429
 2	sincs	_	Token	_	_	0	_	_	Offset=430-435
 3	,	_	Token	_	_	0	_	_	Offset=436-437
@@ -99,10 +123,14 @@
 5	írta	_	Token	_	_	0	_	_	Offset=441-445
 6	.	_	Token	_	_	0	_	_	Offset=446-447
 
+# sent_id = s13
+# text = Mit nézel ?
 1	Mit	_	Token	_	_	0	_	_	Offset=448-451
 2	nézel	_	Token	_	_	0	_	_	Offset=452-457
 3	?	_	Token	_	_	0	_	_	Offset=458-459
 
+# sent_id = s14
+# text = Mit gondolsz , mikor tudsz jönni ?
 1	Mit	_	Token	_	_	0	_	_	Offset=460-463
 2	gondolsz	_	Token	_	_	0	_	_	Offset=464-472
 3	,	_	Token	_	_	0	_	_	Offset=473-474
@@ -111,6 +139,8 @@
 6	jönni	_	Token	_	_	0	_	_	Offset=487-492
 7	?	_	Token	_	_	0	_	_	Offset=493-494
 
+# sent_id = s15
+# text = Vett egy kocsit , de a bátyja csak egy biciklit .
 1	Vett	_	Token	_	_	0	_	_	Offset=495-499
 2	egy	_	Token	_	_	0	_	_	Offset=500-503
 3	kocsit	_	Token	_	_	0	_	_	Offset=504-510
@@ -123,6 +153,8 @@
 10	biciklit	_	Token	_	_	0	_	_	Offset=534-542
 11	.	_	Token	_	_	0	_	_	Offset=543-544
 
+# sent_id = s16
+# text = Péter és Mária megölelték egymást , majd kimentek a szobából .
 1	Péter	_	Token	_	_	0	_	_	Offset=545-550
 2	és	_	Token	_	_	0	_	_	Offset=551-553
 3	Mária	_	Token	_	_	0	_	_	Offset=554-559
@@ -135,6 +167,8 @@
 10	szobából	_	Token	_	_	0	_	_	Offset=597-605
 11	.	_	Token	_	_	0	_	_	Offset=606-607
 
+# sent_id = s17
+# text = Meg kellett volna fésülködnie , de aznap valamilyen okból kifolyólag nem tette meg .
 1	Meg	_	Token	_	_	0	_	_	Offset=608-611
 2	kellett	_	Token	_	_	0	_	_	Offset=612-619
 3	volna	_	Token	_	_	0	_	_	Offset=620-625
@@ -150,6 +184,8 @@
 13	meg	_	Token	_	_	0	_	_	Offset=687-690
 14	.	_	Token	_	_	0	_	_	Offset=691-692
 
+# sent_id = s18
+# text = Nem tudtam tartani a tempóját , mert túl gyorsan futott .
 1	Nem	_	Token	_	_	0	_	_	Offset=693-696
 2	tudtam	_	Token	_	_	0	_	_	Offset=697-703
 3	tartani	_	Token	_	_	0	_	_	Offset=704-711
@@ -162,6 +198,8 @@
 10	futott	_	Token	_	_	0	_	_	Offset=742-748
 11	.	_	Token	_	_	0	_	_	Offset=749-750
 
+# sent_id = s19
+# text = Ez a levél Pétertől jött és tegnap kézbesítették .
 1	Ez	_	Token	_	_	0	_	_	Offset=751-753
 2	a	_	Token	_	_	0	_	_	Offset=754-755
 3	levél	_	Token	_	_	0	_	_	Offset=756-761
@@ -172,6 +210,8 @@
 8	kézbesítették	_	Token	_	_	0	_	_	Offset=786-799
 9	.	_	Token	_	_	0	_	_	Offset=800-801
 
+# sent_id = s20
+# text = Párizsban , Franciaország fővárosában nőtt fel .
 1	Párizsban	_	Token	_	_	0	_	_	Offset=802-811
 2	,	_	Token	_	_	0	_	_	Offset=812-813
 3	Franciaország	_	Token	_	_	0	_	_	Offset=814-827

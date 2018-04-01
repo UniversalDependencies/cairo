@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Lo fiy la ékri in lèt (pou) son zami .
 1	Lo	_	Token	_	_	0	_	_	Offset=0-2
 2	fiy	_	Token	_	_	0	_	_	Offset=3-6
 3	la	_	Token	_	_	0	_	_	Offset=7-9
@@ -9,6 +11,8 @@
 9	zami	_	Token	_	_	0	_	_	Offset=32-36
 10	.	_	Token	_	_	0	_	_	Offset=37-38
 
+# sent_id = s2
+# text = Mi krwa la pli i tomb .
 1	Mi	_	Token	_	_	0	_	_	Offset=39-41
 2	krwa	_	Token	_	_	0	_	_	Offset=42-46
 3	la	_	Token	_	_	0	_	_	Offset=47-49
@@ -17,6 +21,8 @@
 6	tomb	_	Token	_	_	0	_	_	Offset=56-60
 7	.	_	Token	_	_	0	_	_	Offset=61-62
 
+# sent_id = s3
+# text = Li la ésèy arèté fimé ek bwar .
 1	Li	_	Token	_	_	0	_	_	Offset=63-65
 2	la	_	Token	_	_	0	_	_	Offset=66-68
 3	ésèy	_	Token	_	_	0	_	_	Offset=69-73
@@ -26,18 +32,24 @@
 7	bwar	_	Token	_	_	0	_	_	Offset=88-92
 8	.	_	Token	_	_	0	_	_	Offset=93-94
 
+# sent_id = s4
+# text = Ou vé alé laba ?
 1	Ou	_	Token	_	_	0	_	_	Offset=95-97
 2	vé	_	Token	_	_	0	_	_	Offset=98-100
 3	alé	_	Token	_	_	0	_	_	Offset=101-104
 4	laba	_	Token	_	_	0	_	_	Offset=105-109
 5	?	_	Token	_	_	0	_	_	Offset=110-111
 
+# sent_id = s5
+# text = Ouv lo fenèt Sam !
 1	Ouv	_	Token	_	_	0	_	_	Offset=112-115
 2	lo	_	Token	_	_	0	_	_	Offset=116-118
 3	fenèt	_	Token	_	_	0	_	_	Offset=119-124
 4	Sam	_	Token	_	_	0	_	_	Offset=125-128
 5	!	_	Token	_	_	0	_	_	Offset=129-130
 
+# sent_id = s6
+# text = Li la fé lav son vwatir par son mari .
 1	Li	_	Token	_	_	0	_	_	Offset=131-133
 2	la	_	Token	_	_	0	_	_	Offset=134-136
 3	fé	_	Token	_	_	0	_	_	Offset=137-139
@@ -49,6 +61,8 @@
 9	mari	_	Token	_	_	0	_	_	Offset=163-167
 10	.	_	Token	_	_	0	_	_	Offset=168-169
 
+# sent_id = s7
+# text = Lo voisin de Pierre la pèn lo klotir en rouz .
 1	Lo	_	Token	_	_	0	_	_	Offset=170-172
 2	voisin	_	Token	_	_	0	_	_	Offset=173-179
 3	de	_	Token	_	_	0	_	_	Offset=180-182
@@ -61,6 +75,8 @@
 10	rouz	_	Token	_	_	0	_	_	Offset=210-214
 11	.	_	Token	_	_	0	_	_	Offset=215-216
 
+# sent_id = s8
+# text = Mon papa lé plis cool ke out papa .
 1	Mon	_	Token	_	_	0	_	_	Offset=217-220
 2	papa	_	Token	_	_	0	_	_	Offset=221-225
 3	lé	_	Token	_	_	0	_	_	Offset=226-228
@@ -71,6 +87,8 @@
 8	papa	_	Token	_	_	0	_	_	Offset=246-250
 9	.	_	Token	_	_	0	_	_	Offset=251-252
 
+# sent_id = s9
+# text = Marie la gaingn lo bronze , Pierre la gaingn l' arzan et Jeanne la gaingn l' or .
 1	Marie	_	Token	_	_	0	_	_	Offset=253-258
 2	la	_	Token	_	_	0	_	_	Offset=259-261
 3	gaingn	_	Token	_	_	0	_	_	Offset=262-268
@@ -90,6 +108,8 @@
 17	or	_	Token	_	_	0	_	_	Offset=330-332
 18	.	_	Token	_	_	0	_	_	Offset=333-334
 
+# sent_id = s10
+# text = Iguazou lé in gran péi ou in pti péi ?
 1	Iguazou	_	Token	_	_	0	_	_	Offset=335-342
 2	lé	_	Token	_	_	0	_	_	Offset=343-345
 3	in	_	Token	_	_	0	_	_	Offset=346-348
@@ -101,6 +121,8 @@
 9	péi	_	Token	_	_	0	_	_	Offset=368-371
 10	?	_	Token	_	_	0	_	_	Offset=372-373
 
+# sent_id = s11
+# text = Ni Pierre Smith ni Marie Brown la pa pi èt séléksioné .
 1	Ni	_	Token	_	_	0	_	_	Offset=374-376
 2	Pierre	_	Token	_	_	0	_	_	Offset=377-383
 3	Smith	_	Token	_	_	0	_	_	Offset=384-389
@@ -114,6 +136,8 @@
 11	séléksioné	_	Token	_	_	0	_	_	Offset=417-427
 12	.	_	Token	_	_	0	_	_	Offset=428-429
 
+# sent_id = s12
+# text = Zot i koné pa ki la ékri sa .
 1	Zot	_	Token	_	_	0	_	_	Offset=430-433
 2	i	_	Token	_	_	0	_	_	Offset=434-435
 3	koné	_	Token	_	_	0	_	_	Offset=436-440
@@ -124,11 +148,15 @@
 8	sa	_	Token	_	_	0	_	_	Offset=455-457
 9	.	_	Token	_	_	0	_	_	Offset=458-459
 
+# sent_id = s13
+# text = Kosa ou gard ?
 1	Kosa	_	Token	_	_	0	_	_	Offset=460-464
 2	ou	_	Token	_	_	0	_	_	Offset=465-467
 3	gard	_	Token	_	_	0	_	_	Offset=468-472
 4	?	_	Token	_	_	0	_	_	Offset=473-474
 
+# sent_id = s14
+# text = Kan ou krwa ou poura vnir ?
 1	Kan	_	Token	_	_	0	_	_	Offset=475-478
 2	ou	_	Token	_	_	0	_	_	Offset=479-481
 3	krwa	_	Token	_	_	0	_	_	Offset=482-486
@@ -137,6 +165,8 @@
 6	vnir	_	Token	_	_	0	_	_	Offset=496-500
 7	?	_	Token	_	_	0	_	_	Offset=501-502
 
+# sent_id = s15
+# text = Li la achèt in loto mé son frèr la achté ryen kin moto .
 1	Li	_	Token	_	_	0	_	_	Offset=503-505
 2	la	_	Token	_	_	0	_	_	Offset=506-508
 3	achèt	_	Token	_	_	0	_	_	Offset=509-514
@@ -152,6 +182,8 @@
 13	moto	_	Token	_	_	0	_	_	Offset=553-557
 14	.	_	Token	_	_	0	_	_	Offset=558-559
 
+# sent_id = s16
+# text = Pierre et Marie la pri azot dans zot bra é apré la kit la chamb .
 1	Pierre	_	Token	_	_	0	_	_	Offset=560-566
 2	et	_	Token	_	_	0	_	_	Offset=567-569
 3	Marie	_	Token	_	_	0	_	_	Offset=570-575
@@ -169,6 +201,8 @@
 15	chamb	_	Token	_	_	0	_	_	Offset=618-623
 16	.	_	Token	_	_	0	_	_	Offset=624-625
 
+# sent_id = s17
+# text = Li noré dü aranj son chévé mé mi koné pa akoz lu la pa voulu fé sa se zour-la .
 1	Li	_	Token	_	_	0	_	_	Offset=626-628
 2	noré	_	Token	_	_	0	_	_	Offset=629-633
 3	dü	_	Token	_	_	0	_	_	Offset=634-636
@@ -190,6 +224,8 @@
 19	zour-la	_	Token	_	_	0	_	_	Offset=696-703
 20	.	_	Token	_	_	0	_	_	Offset=704-705
 
+# sent_id = s18
+# text = Moin la pa gagn suiv ali parské li té kour tro vit .
 1	Moin	_	Token	_	_	0	_	_	Offset=706-710
 2	la	_	Token	_	_	0	_	_	Offset=711-713
 3	pa	_	Token	_	_	0	_	_	Offset=714-716
@@ -204,6 +240,8 @@
 12	vit	_	Token	_	_	0	_	_	Offset=753-756
 13	.	_	Token	_	_	0	_	_	Offset=757-758
 
+# sent_id = s19
+# text = Lèt-la , Pierre la ékri et la ariv ièr .
 1	Lèt-la	_	Token	_	_	0	_	_	Offset=759-765
 2	,	_	Token	_	_	0	_	_	Offset=766-767
 3	Pierre	_	Token	_	_	0	_	_	Offset=768-774
@@ -215,6 +253,8 @@
 9	ièr	_	Token	_	_	0	_	_	Offset=794-797
 10	.	_	Token	_	_	0	_	_	Offset=798-799
 
+# sent_id = s20
+# text = Li la grandi a Paris , kapital la Frans .
 1	Li	_	Token	_	_	0	_	_	Offset=800-802
 2	la	_	Token	_	_	0	_	_	Offset=803-805
 3	grandi	_	Token	_	_	0	_	_	Offset=806-812

@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = लड़की ने अपने दोस्त को  ख़त लिखा |
 1	लड़की	_	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	Offset=0-5
 2	ने	_	ADP	_	Case=Acc	1	case	_	Offset=6-8
 3	अपने	_	DET	_	Gender=Masc|Number=Sing|Poss=|PronType=Prs|Reflex=	4	det	_	Offset=9-13
@@ -7,6 +9,8 @@
 7	लिखा	_	VERB	_	Gender=Com|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=28-32
 8	|	_	PUNCT	_	_	7	punct	_	Offset=33-34
 
+# sent_id = s2
+# text = मुझे लगता है कि बारिश हो रही है |
 1	मुझे	_	PRON	_	Number=Sing|Person=1|Reflex=	2	iobj	_	Offset=35-39
 2	लगता	_	VERB	_	Aspect=Prog|Number=Sing|Person=3|Tense=Pres	0	_	_	Offset=40-44
 3	है	_	AUX	_	Number=Sing|Person=1|Tense=Pres	2	aux	_	Offset=45-47
@@ -17,6 +21,8 @@
 8	है	_	AUX	_	Number=Sing|Person=1|Tense=Pres	6	aux	_	Offset=64-66
 9	|	_	PUNCT	_	_	2	punct	_	Offset=67-68
 
+# sent_id = s3
+# text = उसने सिगरेट और शराब छोड़ने कि कोशिश की ।
 1	उसने	_	PRON	_	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Offset=69-73
 2	सिगरेट	_	NOUN	_	Gender=Masc|Number=Sing	5	dobj	_	Offset=74-80
 3	और	_	CONJ	_	_	2	cc	_	Offset=81-83
@@ -27,18 +33,24 @@
 8	की	_	AUX	_	Person=1|VerbForm=Fin|Voice=Act	7	aux	_	Offset=105-107
 9	।	_	PUNCT	_	_	7	punct	_	Offset=108-109
 
+# sent_id = s4
+# text = क्या तुम्हें जाना है ?
 1	क्या	_	PART	_	_	3	mark	_	Offset=110-114
 2	तुम्हें	_	PRON	_	Number=Sing|Person=2	3	nsubj	_	Offset=115-122
 3	जाना	_	VERB	_	Number=Sing|Person=2|Tense=Fut	0	_	_	Offset=123-127
 4	है	_	AUX	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Offset=128-130
 5	?	_	PUNCT	_	_	3	punct	_	Offset=131-132
 
+# sent_id = s5
+# text = सॅम , खिड़की खोलो !
 1	सॅम	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	4	vocative	_	Offset=133-136
 2	,	_	PUNCT	_	_	4	punct	_	Offset=137-138
 3	खिड़की	_	NOUN	_	Animacy=Inan|Gender=Neut|Number=Sing	4	dobj	_	Offset=139-145
 4	खोलो	_	VERB	_	Aspect=Perf|Case=Abs|Gender=Com|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=146-150
 5	!	_	PUNCT	_	_	4	punct	_	Offset=151-152
 
+# sent_id = s6
+# text = उसने अपने पति से कार धुलवाई ।
 1	उसने	_	PRON	_	Animacy=Anim|Gender=Com|Number=Sing|Person=2	6	csubjpass	_	Offset=153-157
 2	अपने	_	DET	_	Gender=Masc|Number=Sing|Person=1|Poss=|PronType=Rel|Reflex=	1	det	_	Offset=158-162
 3	पति	_	NOUN	_	Animacy=Anim|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	Offset=163-166
@@ -47,6 +59,8 @@
 6	धुलवाई	_	VERB	_	Aspect=Perf|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=174-180
 7	।	_	PUNCT	_	_	6	punct	_	Offset=181-182
 
+# sent_id = s7
+# text = पीटर के पड़ोसी ने बाड़ को लाल रंग लगवाया |
 1	पीटर	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	9	nsubj	_	Offset=183-187
 2	के	_	ADP	_	Case=Acc	1	case	_	Offset=188-190
 3	पड़ोसी	_	NOUN	_	Animacy=Anim|Definite=Ind|Gender=Com|Number=Sing	9	nsubjpass	_	Offset=191-197
@@ -58,6 +72,8 @@
 9	लगवाया	_	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=217-223
 10	|	_	PUNCT	_	_	9	punct	_	Offset=224-225
 
+# sent_id = s8
+# text = मेरा बाप तेरे बाप से शाणा है |
 1	मेरा	_	DET	_	Animacy=Anim|Gender=Masc|Number=Sing|Person=1|Poss=|PronType=Rel|Reflex=	2	det	_	Offset=226-230
 2	बाप	_	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	6	nsubj	_	Offset=231-234
 3	तेरे	_	DET	_	Gender=Masc|Number=Sing|Person=2|Poss=|PronType=Dem	4	det	_	Offset=235-239
@@ -67,6 +83,8 @@
 7	है	_	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Offset=252-254
 8	|	_	PUNCT	_	_	6	punct	_	Offset=255-256
 
+# sent_id = s9
+# text = मेरी को कान्स , पीटर को रजत और जेन को स्वर्ण पदक मिला ।
 1	मेरी	_	PROPN	_	Animacy=Anim|Gender=Fem|Number=Sing	13	nsubj	_	Offset=257-261
 2	को	_	ADP	_	Case=Acc	1	case	_	Offset=262-264
 3	कान्स	_	ADJ	_	Animacy=Inan	12	amod	_	Offset=265-270
@@ -82,6 +100,8 @@
 13	मिला	_	VERB	_	Gender=Com|Number=Coll|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=306-310
 14	।	_	PUNCT	_	_	13	punct	_	Offset=311-312
 
+# sent_id = s10
+# text = इगुआझा बड़ा देश है या छोटा ?
 1	इगुआझा	_	PROPN	_	Animacy=Nhum|Number=Sing	4	nsubj	_	Offset=313-319
 2	बड़ा	_	ADJ	_	Number=Sing	3	amod	_	Offset=320-324
 3	देश	_	NOUN	_	Animacy=Nhum|Gender=Fem|Number=Sing	4	dobj	_	Offset=325-328
@@ -90,6 +110,8 @@
 6	छोटा	_	ADJ	_	Gender=Masc	3	amod	_	Offset=335-339
 7	?	_	PUNCT	_	_	4	punct	_	Offset=340-341
 
+# sent_id = s11
+# text = पीटर स्मिथ नहीं चुना गया और ना ही मैरी ब्राउन ।
 1	पीटर	_	PROPN	_	Animacy=Anim|Gender=Masc	4	dobj	_	Offset=342-346
 2	स्मिथ	_	PROPN	_	Animacy=Anim|Gender=Com	1	name	_	Offset=347-352
 3	नहीं	_	ADV	_	Negative=Neg	4	neg	_	Offset=353-357
@@ -102,6 +124,8 @@
 10	ब्राउन	_	PROPN	_	Animacy=Anim|Gender=Com	9	name	_	Offset=381-387
 11	।	_	PUNCT	_	_	4	punct	_	Offset=388-389
 
+# sent_id = s12
+# text = उन्हें बिलकुल अंदाज़ा नहीं है कि यह किसने लिखा है ।
 1	उन्हें	_	PRON	_	Animacy=Anim|Gender=Com|Number=Plur|Person=3|Poss=|PronType=Tot	9	nsubj	_	Offset=390-396
 2	बिलकुल	_	ADV	_	Degree=Sup|Negative=Neg|PronType=Neg|VerbForm=Fin	3	advmod	_	Offset=397-403
 3	अंदाज़ा	_	VERB	_	Aspect=Perf|Mood=Sub	9	xcomp	_	Offset=404-411
@@ -114,6 +138,8 @@
 10	है	_	AUX	_	Number=Sing	9	aux	_	Offset=437-439
 11	।	_	PUNCT	_	_	9	punct	_	Offset=440-441
 
+# sent_id = s13
+# text = तुम क्या देख रहे हो ?
 1	तुम	_	PRON	_	Animacy=Anim|Gender=Com|Number=Sing|Person=2|PronType=Prs	3	vocative	3:nsubj	Offset=442-445
 2	क्या	_	DET	_	Case=Acc	1	det	_	Offset=446-450
 3	देख	_	VERB	_	VerbForm=Sup|Voice=Act	0	_	_	Offset=451-454
@@ -121,6 +147,8 @@
 5	हो	_	AUX	_	Voice=Act	3	aux	_	Offset=459-461
 6	?	_	PUNCT	_	_	3	punct	_	Offset=462-463
 
+# sent_id = s14
+# text = तुम्हें क्या लगता है , तुम कब आ सकते हो ?
 1	तुम्हें	_	PRON	_	Animacy=Anim|Gender=Com|Number=Sing|Person=2|Reflex=	3	nsubj	_	Offset=464-471
 2	क्या	_	DET	_	_	1	det	_	Offset=472-476
 3	लगता	_	VERB	_	Mood=Sub|Tense=Pres|VerbForm=Part|Voice=Act	8	xcomp	_	Offset=477-481
@@ -133,6 +161,8 @@
 10	हो	_	AUX	_	_	8	aux	_	Offset=501-503
 11	?	_	PUNCT	_	_	3	punct	_	Offset=504-505
 
+# sent_id = s15
+# text = उसने कार खरीदी , पर उसके भाई ने सिर्फ एक बाइक ।
 1	उसने	_	PRON	_	Animacy=Anim|Gender=Com|Number=Sing|Person=3	3	nsubj	_	Offset=506-510
 2	कार	_	NOUN	_	Animacy=Inan|Gender=Neut|Number=Sing	3	dobj	_	Offset=511-514
 3	खरीदी	_	VERB	_	Aspect=Perf|Gender=Com|Mood=Ind|Tense=Past|Voice=Act	0	_	_	Offset=515-520
@@ -146,6 +176,8 @@
 11	बाइक	_	NOUN	_	Animacy=Inan|Gender=Neut|Number=Sing	3	iobj	_	Offset=547-551
 12	।	_	PUNCT	_	_	3	punct	_	Offset=552-553
 
+# sent_id = s16
+# text = पीटर और मेरी एक दूसरे से गले मिले और फ़िर कमरे से बाहर चले गये ।
 1	पीटर	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	14	nsubj	8:nsubj	Offset=554-558
 2	और	_	CONJ	_	_	1	cc	_	Offset=559-561
 3	मेरी	_	PROPN	_	Animacy=Anim|Gender=Fem|Number=Sing	1	conj	_	Offset=562-566
@@ -163,6 +195,8 @@
 15	गये	_	AUX	_	Tense=Past|VerbForm=Fin	8	aux	14:compound	Offset=613-616
 16	।	_	PUNCT	_	_	14	punct	_	Offset=617-618
 
+# sent_id = s17
+# text = उसे अपने बाल बनाने चाहिये थे पर किसी कारण से उस दिन उसने ऐसा नहीं किया ।
 1	उसे	_	PRON	_	Gender=Com|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	Offset=619-622
 2	अपने	_	DET	_	Gender=Com|Person=3|Poss=|PronType=Prs|Reflex=	3	det	_	Offset=623-627
 3	बाल	_	NOUN	_	Animacy=Nhum|Gender=Neut|Number=Coll	0	_	_	Offset=628-631
@@ -181,6 +215,8 @@
 16	किया	_	VERB	_	Gender=Com|Tense=Past	4	xcomp	4:ccomp|15:compound	Offset=685-689
 17	।	_	PUNCT	_	_	4	punct	_	Offset=690-691
 
+# sent_id = s18
+# text = मैं पीछे रह गया क्योंकि वह बहुत तेज़ दौड़ा ।
 1	मैं	_	PRON	_	Animacy=Anim|Gender=Com|Number=Sing|Person=1	4	nsubj	9:nsubj	Offset=692-695
 2	पीछे	_	ADV	_	Negative=Neg|VerbForm=Fin	4	advmod	_	Offset=696-700
 3	रह	_	ADP	_	Case=Add	0	_	_	Offset=701-703
@@ -192,6 +228,8 @@
 9	दौड़ा	_	VERB	_	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Voice=Act	7	mwe	_	Offset=729-734
 10	।	_	PUNCT	_	_	9	punct	_	Offset=735-736
 
+# sent_id = s19
+# text = यह पीटर की चिठ्ठी है और यह कल मिली |
 1	यह	_	DET	_	Number=Sing|PronType=Dem	2	det	_	Offset=737-739
 2	पीटर	_	PROPN	_	Animacy=Anim|Gender=Masc|Number=Sing	9	nsubj	_	Offset=740-744
 3	की	_	DET	_	Poss=	2	det	_	Offset=745-747
@@ -203,6 +241,8 @@
 9	मिली	_	VERB	_	Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|Voice=Act	0	_	_	Offset=767-771
 10	|	_	PUNCT	_	_	9	punct	_	Offset=772-773
 
+# sent_id = s20
+# text = वह पॅरिस में बड़ी हुई , जो कि फ्रान्स की राजधानी है |
 1	वह	_	DET	_	Animacy=Anim|Gender=Com|Number=Sing|PronType=Dem	2	det	5:dobj	Offset=774-776
 2	पॅरिस	_	PROPN	_	Animacy=Nhum|Gender=Neut|Number=Sing	5	nsubj	_	Offset=777-782
 3	में	_	ADP	_	Case=Add	2	case	_	Offset=783-786

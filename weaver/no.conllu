@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Jenten skrev et brev til vennen sin .
 1	Jenten	_	Token	_	_	0	_	_	Offset=0-6
 2	skrev	_	Token	_	_	0	_	_	Offset=7-12
 3	et	_	Token	_	_	0	_	_	Offset=13-15
@@ -7,12 +9,16 @@
 7	sin	_	Token	_	_	0	_	_	Offset=32-35
 8	.	_	Token	_	_	0	_	_	Offset=36-37
 
+# sent_id = s2
+# text = Jeg tror det regner .
 1	Jeg	_	PRON	_	_	2	nsubj	_	Offset=38-41
 2	tror	_	VERB	_	_	0	_	_	Offset=42-46
 3	det	_	Token	_	_	0	_	_	Offset=47-50
 4	regner	_	Token	_	_	0	_	_	Offset=51-57
 5	.	_	Token	_	_	0	_	_	Offset=58-59
 
+# sent_id = s3
+# text = Han prøvde å slutte med røyking og drikking .
 1	Han	_	Token	_	_	0	_	_	Offset=60-63
 2	prøvde	_	Token	_	_	0	_	_	Offset=64-70
 3	å	_	Token	_	_	0	_	_	Offset=71-72
@@ -23,11 +29,15 @@
 8	drikking	_	Token	_	_	0	_	_	Offset=95-103
 9	.	_	Token	_	_	0	_	_	Offset=104-105
 
+# sent_id = s4
+# text = Vil du dra ?
 1	Vil	_	Token	_	_	0	_	_	Offset=106-109
 2	du	_	Token	_	_	0	_	_	Offset=110-112
 3	dra	_	Token	_	_	0	_	_	Offset=113-116
 4	?	_	Token	_	_	0	_	_	Offset=117-118
 
+# sent_id = s5
+# text = Sam , lukk opp vinduet !
 1	Sam	_	Token	_	_	0	_	_	Offset=119-122
 2	,	_	Token	_	_	0	_	_	Offset=123-124
 3	lukk	_	Token	_	_	0	_	_	Offset=125-129
@@ -35,6 +45,8 @@
 5	vinduet	_	Token	_	_	0	_	_	Offset=134-141
 6	!	_	Token	_	_	0	_	_	Offset=142-143
 
+# sent_id = s6
+# text = Hun fikk mannen sin til å vaske bilen .
 1	Hun	_	Token	_	_	0	_	_	Offset=144-147
 2	fikk	_	Token	_	_	0	_	_	Offset=148-152
 3	mannen	_	Token	_	_	0	_	_	Offset=153-159
@@ -45,6 +57,8 @@
 8	bilen	_	Token	_	_	0	_	_	Offset=176-181
 9	.	_	Token	_	_	0	_	_	Offset=182-183
 
+# sent_id = s7
+# text = Naboen til Peter malte gjerdet rødt .
 1	Naboen	_	Token	_	_	0	_	_	Offset=184-190
 2	til	_	Token	_	_	0	_	_	Offset=191-194
 3	Peter	_	Token	_	_	0	_	_	Offset=195-200
@@ -53,6 +67,8 @@
 6	rødt	_	Token	_	_	0	_	_	Offset=215-219
 7	.	_	Token	_	_	0	_	_	Offset=220-221
 
+# sent_id = s8
+# text = Pappaen min er kulere enn din .
 1	Pappaen	_	Token	_	_	0	_	_	Offset=222-229
 2	min	_	Token	_	_	0	_	_	Offset=230-233
 3	er	_	Token	_	_	0	_	_	Offset=234-236
@@ -61,6 +77,8 @@
 6	din	_	Token	_	_	0	_	_	Offset=248-251
 7	.	_	Token	_	_	0	_	_	Offset=252-253
 
+# sent_id = s9
+# text = Mary vant bronse , Peter sølv , og Jane gull .
 1	Mary	_	PRON	_	_	0	_	_	Offset=254-258
 2	vant	_	Token	_	_	0	_	_	Offset=259-263
 3	bronse	_	Token	_	_	0	_	_	Offset=264-270
@@ -73,6 +91,8 @@
 10	gull	_	Token	_	_	0	_	_	Offset=294-298
 11	.	_	Token	_	_	0	_	_	Offset=299-300
 
+# sent_id = s10
+# text = Er Iguazu et stort eller lite land ?
 1	Er	_	Token	_	_	0	_	_	Offset=301-303
 2	Iguazu	_	Token	_	_	0	_	_	Offset=304-310
 3	et	_	Token	_	_	0	_	_	Offset=311-313
@@ -82,6 +102,8 @@
 7	land	_	Token	_	_	0	_	_	Offset=331-335
 8	?	_	Token	_	_	0	_	_	Offset=336-337
 
+# sent_id = s11
+# text = Hverken Peter Smith eller Mary Brown kunne velges .
 1	Hverken	_	Token	_	_	0	_	_	Offset=338-345
 2	Peter	_	Token	_	_	0	_	_	Offset=346-351
 3	Smith	_	Token	_	_	0	_	_	Offset=352-357
@@ -92,6 +114,8 @@
 8	velges	_	Token	_	_	0	_	_	Offset=381-387
 9	.	_	Token	_	_	0	_	_	Offset=388-389
 
+# sent_id = s12
+# text = De aner ikke hvem som skrev det .
 1	De	_	Token	_	_	0	_	_	Offset=390-392
 2	aner	_	Token	_	_	0	_	_	Offset=393-397
 3	ikke	_	Token	_	_	0	_	_	Offset=398-402
@@ -101,12 +125,16 @@
 7	det	_	Token	_	_	0	_	_	Offset=418-421
 8	.	_	Token	_	_	0	_	_	Offset=422-423
 
+# sent_id = s13
+# text = Hva ser du på ?
 1	Hva	_	Token	_	_	0	_	_	Offset=424-427
 2	ser	_	Token	_	_	0	_	_	Offset=428-431
 3	du	_	Token	_	_	0	_	_	Offset=432-434
 4	på	_	Token	_	_	0	_	_	Offset=435-437
 5	?	_	Token	_	_	0	_	_	Offset=438-439
 
+# sent_id = s14
+# text = Når tror du at du kan komme ?
 1	Når	_	Token	_	_	0	_	_	Offset=440-443
 2	tror	_	Token	_	_	0	_	_	Offset=444-448
 3	du	_	Token	_	_	0	_	_	Offset=449-451
@@ -116,6 +144,8 @@
 7	komme	_	Token	_	_	0	_	_	Offset=462-467
 8	?	_	Token	_	_	0	_	_	Offset=468-469
 
+# sent_id = s15
+# text = Han kjøpte en bil , men broren hans bare en sykkel .
 1	Han	_	Token	_	_	0	_	_	Offset=470-473
 2	kjøpte	_	Token	_	_	0	_	_	Offset=474-480
 3	en	_	Token	_	_	0	_	_	Offset=481-483
@@ -129,6 +159,8 @@
 11	sykkel	_	Token	_	_	0	_	_	Offset=514-520
 12	.	_	Token	_	_	0	_	_	Offset=521-522
 
+# sent_id = s16
+# text = Peter og Mary klemte hverandre og forlot så rommet .
 1	Peter	_	Token	_	_	0	_	_	Offset=523-528
 2	og	_	Token	_	_	0	_	_	Offset=529-531
 3	Mary	_	Token	_	_	0	_	_	Offset=532-536
@@ -140,6 +172,8 @@
 9	rommet	_	Token	_	_	0	_	_	Offset=567-573
 10	.	_	Token	_	_	0	_	_	Offset=574-575
 
+# sent_id = s17
+# text = Hun skulle ha holdt på å sette opp håret , men av en eller annen grunn ville hun ikke den dagen .
 1	Hun	_	Token	_	_	0	_	_	Offset=576-579
 2	skulle	_	Token	_	_	0	_	_	Offset=580-586
 3	ha	_	Token	_	_	0	_	_	Offset=587-589
@@ -163,6 +197,8 @@
 21	dagen	_	Token	_	_	0	_	_	Offset=666-671
 22	.	_	Token	_	_	0	_	_	Offset=672-673
 
+# sent_id = s18
+# text = Jeg klarte ikke å holde følge fordi han sprang for fort .
 1	Jeg	_	Token	_	_	0	_	_	Offset=674-677
 2	klarte	_	Token	_	_	0	_	_	Offset=678-684
 3	ikke	_	Token	_	_	0	_	_	Offset=685-689
@@ -176,6 +212,8 @@
 11	fort	_	Token	_	_	0	_	_	Offset=725-729
 12	.	_	Token	_	_	0	_	_	Offset=730-731
 
+# sent_id = s19
+# text = Dette brevet er fra Peter , og det ble levert i går .
 1	Dette	_	Token	_	_	0	_	_	Offset=732-737
 2	brevet	_	Token	_	_	0	_	_	Offset=738-744
 3	er	_	Token	_	_	0	_	_	Offset=745-747
@@ -190,6 +228,8 @@
 12	går	_	Token	_	_	0	_	_	Offset=780-783
 13	.	_	Token	_	_	0	_	_	Offset=784-785
 
+# sent_id = s20
+# text = Hun vokste opp i Paris , Frankrikes hovedstad .
 1	Hun	_	Token	_	_	0	_	_	Offset=786-789
 2	vokste	_	Token	_	_	0	_	_	Offset=790-796
 3	opp	_	Token	_	_	0	_	_	Offset=797-800

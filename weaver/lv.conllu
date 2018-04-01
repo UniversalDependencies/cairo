@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Meitene uzrakstīja vēstuli savai draudzenei .
 1	Meitene	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Offset=0-7
 2	uzrakstīja	_	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=8-18
 3	vēstuli	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	dobj	_	Offset=19-26
@@ -5,6 +7,8 @@
 5	draudzenei	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	Offset=33-43
 6	.	_	PUNCT	_	_	2	punct	_	Offset=44-45
 
+# sent_id = s2
+# text = Man šķiet , ka līst lietus .
 1	Man	_	Token	_	_	0	_	_	Offset=46-49
 2	šķiet	_	Token	_	_	0	_	_	Offset=50-55
 3	,	_	Token	_	_	0	_	_	Offset=56-57
@@ -13,6 +17,8 @@
 6	lietus	_	Token	_	_	0	_	_	Offset=66-72
 7	.	_	Token	_	_	0	_	_	Offset=73-74
 
+# sent_id = s3
+# text = Viņš centās atmest smēķēšanu un dzeršanu .
 1	Viņš	_	Token	_	_	0	_	_	Offset=75-79
 2	centās	_	Token	_	_	0	_	_	Offset=80-86
 3	atmest	_	Token	_	_	0	_	_	Offset=87-93
@@ -21,18 +27,24 @@
 6	dzeršanu	_	Token	_	_	0	_	_	Offset=107-115
 7	.	_	Token	_	_	0	_	_	Offset=116-117
 
+# sent_id = s4
+# text = Vai tu gribi iet ?
 1	Vai	_	Token	_	_	0	_	_	Offset=118-121
 2	tu	_	Token	_	_	0	_	_	Offset=122-124
 3	gribi	_	Token	_	_	0	_	_	Offset=125-130
 4	iet	_	Token	_	_	0	_	_	Offset=131-134
 5	?	_	Token	_	_	0	_	_	Offset=135-136
 
+# sent_id = s5
+# text = Sem , atver logu !
 1	Sem	_	Token	_	_	0	_	_	Offset=137-140
 2	,	_	Token	_	_	0	_	_	Offset=141-142
 3	atver	_	Token	_	_	0	_	_	Offset=143-148
 4	logu	_	Token	_	_	0	_	_	Offset=149-153
 5	!	_	Token	_	_	0	_	_	Offset=154-155
 
+# sent_id = s6
+# text = Viņa lika savam vīram nomazgāt mašīnu .
 1	Viņa	_	Token	_	_	0	_	_	Offset=156-160
 2	lika	_	Token	_	_	0	_	_	Offset=161-165
 3	savam	_	Token	_	_	0	_	_	Offset=166-171
@@ -41,6 +53,8 @@
 6	mašīnu	_	Token	_	_	0	_	_	Offset=187-193
 7	.	_	Token	_	_	0	_	_	Offset=194-195
 
+# sent_id = s7
+# text = Pētera kaimiņi nokrāsoja žogu sarkanā krāsā .
 1	Pētera	_	Token	_	_	0	_	_	Offset=196-202
 2	kaimiņi	_	Token	_	_	0	_	_	Offset=203-210
 3	nokrāsoja	_	Token	_	_	0	_	_	Offset=211-220
@@ -49,6 +63,8 @@
 6	krāsā	_	Token	_	_	0	_	_	Offset=234-239
 7	.	_	Token	_	_	0	_	_	Offset=240-241
 
+# sent_id = s8
+# text = Mans tētis ir foršāks nekā tavs .
 1	Mans	_	Token	_	_	0	_	_	Offset=242-246
 2	tētis	_	Token	_	_	0	_	_	Offset=247-252
 3	ir	_	Token	_	_	0	_	_	Offset=253-255
@@ -57,6 +73,8 @@
 6	tavs	_	Token	_	_	0	_	_	Offset=269-273
 7	.	_	Token	_	_	0	_	_	Offset=274-275
 
+# sent_id = s9
+# text = Marija valkā bronzu , Pēteris sudrabu un Džeina zeltu .
 1	Marija	_	Token	_	_	0	_	_	Offset=276-282
 2	valkā	_	Token	_	_	0	_	_	Offset=283-288
 3	bronzu	_	Token	_	_	0	_	_	Offset=289-295
@@ -68,6 +86,8 @@
 9	zeltu	_	Token	_	_	0	_	_	Offset=324-329
 10	.	_	Token	_	_	0	_	_	Offset=330-331
 
+# sent_id = s10
+# text = Vai Igauza ir liela vai maza valsts ?
 1	Vai	_	Token	_	_	0	_	_	Offset=332-335
 2	Igauza	_	Token	_	_	0	_	_	Offset=336-342
 3	ir	_	Token	_	_	0	_	_	Offset=343-345
@@ -77,6 +97,8 @@
 7	valsts	_	Token	_	_	0	_	_	Offset=361-367
 8	?	_	Token	_	_	0	_	_	Offset=368-369
 
+# sent_id = s11
+# text = Nedz Pēteris Smits , nedz Marija Brauna nevarēja tikt izvēlēti .
 1	Nedz	_	Token	_	_	0	_	_	Offset=370-374
 2	Pēteris	_	Token	_	_	0	_	_	Offset=375-382
 3	Smits	_	Token	_	_	0	_	_	Offset=383-388
@@ -89,6 +111,8 @@
 10	izvēlēti	_	Token	_	_	0	_	_	Offset=424-432
 11	.	_	Token	_	_	0	_	_	Offset=433-434
 
+# sent_id = s12
+# text = Viņiem nav ne jausmas , kas to uzrakstīja .
 1	Viņiem	_	Token	_	_	0	_	_	Offset=435-441
 2	nav	_	Token	_	_	0	_	_	Offset=442-445
 3	ne	_	Token	_	_	0	_	_	Offset=446-448
@@ -99,12 +123,16 @@
 8	uzrakstīja	_	Token	_	_	0	_	_	Offset=466-476
 9	.	_	Token	_	_	0	_	_	Offset=477-478
 
+# sent_id = s13
+# text = Uz ko tu skaties ?
 1	Uz	_	Token	_	_	0	_	_	Offset=479-481
 2	ko	_	Token	_	_	0	_	_	Offset=482-484
 3	tu	_	Token	_	_	0	_	_	Offset=485-487
 4	skaties	_	Token	_	_	0	_	_	Offset=488-495
 5	?	_	Token	_	_	0	_	_	Offset=496-497
 
+# sent_id = s14
+# text = Kā tu domā , kad tu varēsi atnākt ?
 1	Kā	_	Token	_	_	0	_	_	Offset=498-500
 2	tu	_	Token	_	_	0	_	_	Offset=501-503
 3	domā	_	Token	_	_	0	_	_	Offset=504-508
@@ -115,6 +143,8 @@
 8	atnākt	_	Token	_	_	0	_	_	Offset=525-531
 9	?	_	Token	_	_	0	_	_	Offset=532-533
 
+# sent_id = s15
+# text = Viņš nopirka mašīnu , bet viņa brālis tikai velosipēdu .
 1	Viņš	_	Token	_	_	0	_	_	Offset=534-538
 2	nopirka	_	Token	_	_	0	_	_	Offset=539-546
 3	mašīnu	_	Token	_	_	0	_	_	Offset=547-553
@@ -126,6 +156,8 @@
 9	velosipēdu	_	Token	_	_	0	_	_	Offset=578-588
 10	.	_	Token	_	_	0	_	_	Offset=589-590
 
+# sent_id = s16
+# text = Pēteris un Marija apskāva viens otru un tad atstāja istabu .
 1	Pēteris	_	Token	_	_	0	_	_	Offset=591-598
 2	un	_	Token	_	_	0	_	_	Offset=599-601
 3	Marija	_	Token	_	_	0	_	_	Offset=602-608
@@ -138,6 +170,8 @@
 10	istabu	_	Token	_	_	0	_	_	Offset=643-649
 11	.	_	Token	_	_	0	_	_	Offset=650-651
 
+# sent_id = s17
+# text = Viņai vajadzēj apmeklēt frizieri , bet kaut kādu iemeslu dēl viņa todien nevarēja .
 1	Viņai	_	Token	_	_	0	_	_	Offset=652-657
 2	vajadzēj	_	Token	_	_	0	_	_	Offset=658-666
 3	apmeklēt	_	Token	_	_	0	_	_	Offset=667-675
@@ -153,6 +187,8 @@
 13	nevarēja	_	Token	_	_	0	_	_	Offset=725-733
 14	.	_	Token	_	_	0	_	_	Offset=734-735
 
+# sent_id = s18
+# text = Es nevarēju viņam tikt līdzi , jo viņš skrēja pārāk ātri .
 1	Es	_	Token	_	_	0	_	_	Offset=736-738
 2	nevarēju	_	Token	_	_	0	_	_	Offset=739-747
 3	viņam	_	Token	_	_	0	_	_	Offset=748-753
@@ -166,6 +202,8 @@
 11	ātri	_	Token	_	_	0	_	_	Offset=788-792
 12	.	_	Token	_	_	0	_	_	Offset=793-794
 
+# sent_id = s19
+# text = Šī vēstule ir no Pētera un tika piegādāta vakar .
 1	Šī	_	Token	_	_	0	_	_	Offset=795-797
 2	vēstule	_	Token	_	_	0	_	_	Offset=798-805
 3	ir	_	Token	_	_	0	_	_	Offset=806-808
@@ -177,6 +215,8 @@
 9	vakar	_	Token	_	_	0	_	_	Offset=837-842
 10	.	_	Token	_	_	0	_	_	Offset=843-844
 
+# sent_id = s20
+# text = Viņa uzauga Parīzē , Francijas galvaspilsētā .
 1	Viņa	_	Token	_	_	0	_	_	Offset=845-849
 2	uzauga	_	Token	_	_	0	_	_	Offset=850-856
 3	Parīzē	_	Token	_	_	0	_	_	Offset=857-863

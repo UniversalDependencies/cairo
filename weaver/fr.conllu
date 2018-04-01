@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = La fille a écrit une lettre à son amie .
 1	La	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Offset=0-2
 2	fille	_	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	Offset=3-8
 3	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	Offset=9-10
@@ -9,6 +11,8 @@
 9	amie	_	NOUN	_	Gender=Fem|Number=Sing	4	iobj	_	Offset=34-38
 10	.	_	PUNCT	_	_	4	punct	_	Offset=39-40
 
+# sent_id = s2
+# text = Je crois qu' il pleut .
 1	Je	_	Token	_	_	0	_	_	Offset=41-43
 2	crois	_	Token	_	_	0	_	_	Offset=44-49
 3	qu'	_	Token	_	_	0	_	_	Offset=50-53
@@ -16,6 +20,8 @@
 5	pleut	_	Token	_	_	0	_	_	Offset=57-62
 6	.	_	Token	_	_	0	_	_	Offset=63-64
 
+# sent_id = s3
+# text = Il a essayé d' arrêter de fumer et de boire .
 1	Il	_	Token	_	_	0	_	_	Offset=65-67
 2	a	_	Token	_	_	0	_	_	Offset=68-69
 3	essayé	_	Token	_	_	0	_	_	Offset=70-76
@@ -28,10 +34,14 @@
 10	boire	_	Token	_	_	0	_	_	Offset=103-108
 11	.	_	Token	_	_	0	_	_	Offset=109-110
 
+# sent_id = s4
+# text = Veux-tu partir ?
 1	Veux-tu	_	Token	_	_	0	_	_	Offset=111-118
 2	partir	_	Token	_	_	0	_	_	Offset=119-125
 3	?	_	Token	_	_	0	_	_	Offset=126-127
 
+# sent_id = s5
+# text = Sam , ouvre la fenêtre !
 1	Sam	_	Token	_	_	0	_	_	Offset=128-131
 2	,	_	Token	_	_	0	_	_	Offset=132-133
 3	ouvre	_	VERB	_	_	0	_	_	Offset=134-139
@@ -39,6 +49,8 @@
 5	fenêtre	_	Token	_	_	3	dobj	_	Offset=143-150
 6	!	_	Token	_	_	0	_	_	Offset=151-152
 
+# sent_id = s6
+# text = Elle a fait laver la voiture par son mari .
 1	Elle	_	Token	_	_	0	_	_	Offset=153-157
 2	a	_	Token	_	_	0	_	_	Offset=158-159
 3	fait	_	Token	_	_	0	_	_	Offset=160-164
@@ -50,6 +62,8 @@
 9	mari	_	Token	_	_	0	_	_	Offset=190-194
 10	.	_	Token	_	_	0	_	_	Offset=195-196
 
+# sent_id = s7
+# text = Le voisin de Peter a peint la clôture en rouge .
 1	Le	_	Token	_	_	0	_	_	Offset=197-199
 2	voisin	_	Token	_	_	0	_	_	Offset=200-206
 3	de	_	Token	_	_	0	_	_	Offset=207-209
@@ -62,6 +76,8 @@
 10	rouge	_	Token	_	_	0	_	_	Offset=238-243
 11	.	_	Token	_	_	0	_	_	Offset=244-245
 
+# sent_id = s8
+# text = Mon papa est plus cool que le tien .
 1	Mon	_	Token	_	_	0	_	_	Offset=246-249
 2	papa	_	Token	_	_	0	_	_	Offset=250-254
 3	est	_	Token	_	_	0	_	_	Offset=255-258
@@ -72,6 +88,8 @@
 8	tien	_	Token	_	_	0	_	_	Offset=276-280
 9	.	_	Token	_	_	0	_	_	Offset=281-282
 
+# sent_id = s9
+# text = Mary a gagné le bronze , Peter l' argent et Jane l' or .
 1	Mary	_	Token	_	_	0	_	_	Offset=283-287
 2	a	_	Token	_	_	0	_	_	Offset=288-289
 3	gagné	_	Token	_	_	0	_	_	Offset=290-295
@@ -87,6 +105,8 @@
 13	or	_	Token	_	_	0	_	_	Offset=335-337
 14	.	_	Token	_	_	0	_	_	Offset=338-339
 
+# sent_id = s10
+# text = Est-ce que Iguazu est un grand ou un petit pays ?
 1	Est-ce	_	Token	_	_	0	_	_	Offset=340-346
 2	que	_	Token	_	_	0	_	_	Offset=347-350
 3	Iguazu	_	Token	_	_	0	_	_	Offset=351-357
@@ -99,6 +119,8 @@
 10	pays	_	Token	_	_	0	_	_	Offset=383-387
 11	?	_	Token	_	_	0	_	_	Offset=388-389
 
+# sent_id = s11
+# text = Ni Peter Smith ni Mary Brown n' ont pu être sélectionnés .
 1	Ni	_	Token	_	_	0	_	_	Offset=390-392
 2	Peter	_	Token	_	_	0	_	_	Offset=393-398
 3	Smith	_	Token	_	_	0	_	_	Offset=399-404
@@ -112,6 +134,8 @@
 11	sélectionnés	_	Token	_	_	0	_	_	Offset=434-446
 12	.	_	Token	_	_	0	_	_	Offset=447-448
 
+# sent_id = s12
+# text = Ils n' ont aucune idée de qui l' a écrit .
 1	Ils	_	Token	_	_	0	_	_	Offset=449-452
 2	n'	_	Token	_	_	0	_	_	Offset=453-455
 3	ont	_	Token	_	_	0	_	_	Offset=456-459
@@ -124,6 +148,8 @@
 10	écrit	_	Token	_	_	0	_	_	Offset=484-489
 11	.	_	Token	_	_	0	_	_	Offset=490-491
 
+# sent_id = s13
+# text = Qu' est - ce que tu regardes ?
 1	Qu'	_	Token	_	_	0	_	_	Offset=492-495
 2	est	_	Token	_	_	0	_	_	Offset=496-499
 3	-	_	Token	_	_	0	_	_	Offset=500-501
@@ -133,12 +159,16 @@
 7	regardes	_	Token	_	_	0	_	_	Offset=512-520
 8	?	_	Token	_	_	0	_	_	Offset=521-522
 
+# sent_id = s14
+# text = Quand penses-tu pouvoir venir ?
 1	Quand	_	Token	_	_	0	_	_	Offset=523-528
 2	penses-tu	_	Token	_	_	0	_	_	Offset=529-538
 3	pouvoir	_	Token	_	_	0	_	_	Offset=539-546
 4	venir	_	Token	_	_	0	_	_	Offset=547-552
 5	?	_	Token	_	_	0	_	_	Offset=553-554
 
+# sent_id = s15
+# text = Il a acheté un voiture mais son frère seulement une bicyclette .
 1	Il	_	Token	_	_	0	_	_	Offset=555-557
 2	a	_	Token	_	_	0	_	_	Offset=558-559
 3	acheté	_	Token	_	_	0	_	_	Offset=560-566
@@ -152,6 +182,8 @@
 11	bicyclette	_	Token	_	_	0	_	_	Offset=607-617
 12	.	_	Token	_	_	0	_	_	Offset=618-619
 
+# sent_id = s16
+# text = Peter et Mary se sont embrassés et puis ont quitté la salle .
 1	Peter	_	Token	_	_	0	_	_	Offset=620-625
 2	et	_	Token	_	_	0	_	_	Offset=626-628
 3	Mary	_	Token	_	_	0	_	_	Offset=629-633
@@ -166,6 +198,8 @@
 12	salle	_	Token	_	_	0	_	_	Offset=674-679
 13	.	_	Token	_	_	0	_	_	Offset=680-681
 
+# sent_id = s17
+# text = Elle aurait dû se coiffer , mais pour une raison quelconque elle ne l' a pas fait ce jour-là .
 1	Elle	_	Token	_	_	0	_	_	Offset=682-686
 2	aurait	_	Token	_	_	0	_	_	Offset=687-693
 3	dû	_	Token	_	_	0	_	_	Offset=694-696
@@ -187,6 +221,8 @@
 19	jour-là	_	Token	_	_	0	_	_	Offset=767-774
 20	.	_	Token	_	_	0	_	_	Offset=775-776
 
+# sent_id = s18
+# text = Je n' ai pas pu le suivre parce qu' il courait trop vite .
 1	Je	_	Token	_	_	0	_	_	Offset=777-779
 2	n'	_	Token	_	_	0	_	_	Offset=780-782
 3	ai	_	Token	_	_	0	_	_	Offset=783-785
@@ -202,6 +238,8 @@
 13	vite	_	Token	_	_	0	_	_	Offset=829-833
 14	.	_	Token	_	_	0	_	_	Offset=834-835
 
+# sent_id = s19
+# text = Cette lettre est de Peter et elle a été distribuée hier .
 1	Cette	_	Token	_	_	0	_	_	Offset=836-841
 2	lettre	_	Token	_	_	0	_	_	Offset=842-848
 3	est	_	Token	_	_	0	_	_	Offset=849-852
@@ -215,6 +253,8 @@
 11	hier	_	Token	_	_	0	_	_	Offset=887-891
 12	.	_	Token	_	_	0	_	_	Offset=892-893
 
+# sent_id = s20
+# text = Elle a grandi à Paris , la capitale de la France .
 1	Elle	_	Token	_	_	0	_	_	Offset=894-898
 2	a	_	Token	_	_	0	_	_	Offset=899-900
 3	grandi	_	Token	_	_	0	_	_	Offset=901-907

@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Het meisje schreef een brief naar haar vriend .
 1	Het	_	Token	_	_	0	_	_	Offset=0-3
 2	meisje	_	Token	_	_	0	_	_	Offset=4-10
 3	schreef	_	Token	_	_	0	_	_	Offset=11-18
@@ -8,6 +10,8 @@
 8	vriend	_	Token	_	_	0	_	_	Offset=39-45
 9	.	_	Token	_	_	0	_	_	Offset=46-47
 
+# sent_id = s2
+# text = Ik denk dat het regent .
 1	Ik	_	Token	_	_	0	_	_	Offset=48-50
 2	denk	_	Token	_	_	0	_	_	Offset=51-55
 3	dat	_	Token	_	_	0	_	_	Offset=56-59
@@ -15,6 +19,8 @@
 5	regent	_	Token	_	_	0	_	_	Offset=64-70
 6	.	_	Token	_	_	0	_	_	Offset=71-72
 
+# sent_id = s3
+# text = Hij trachtte te stopen met roken en drinken .
 1	Hij	_	Token	_	_	0	_	_	Offset=73-76
 2	trachtte	_	Token	_	_	0	_	_	Offset=77-85
 3	te	_	Token	_	_	0	_	_	Offset=86-88
@@ -25,11 +31,15 @@
 8	drinken	_	Token	_	_	0	_	_	Offset=109-116
 9	.	_	Token	_	_	0	_	_	Offset=117-118
 
+# sent_id = s4
+# text = Wil je gaan ?
 1	Wil	_	Token	_	_	0	_	_	Offset=119-122
 2	je	_	Token	_	_	0	_	_	Offset=123-125
 3	gaan	_	Token	_	_	0	_	_	Offset=126-130
 4	?	_	Token	_	_	0	_	_	Offset=131-132
 
+# sent_id = s5
+# text = Sam , doe het raam open !
 1	Sam	_	Token	_	_	0	_	_	Offset=133-136
 2	,	_	Token	_	_	0	_	_	Offset=137-138
 3	doe	_	Token	_	_	0	_	_	Offset=139-142
@@ -38,6 +48,8 @@
 6	open	_	Token	_	_	0	_	_	Offset=152-156
 7	!	_	Token	_	_	0	_	_	Offset=157-158
 
+# sent_id = s6
+# text = Ze heeft haar man de auto laten wassen .
 1	Ze	_	Token	_	_	0	_	_	Offset=159-161
 2	heeft	_	Token	_	_	0	_	_	Offset=162-167
 3	haar	_	Token	_	_	0	_	_	Offset=168-172
@@ -48,6 +60,8 @@
 8	wassen	_	Token	_	_	0	_	_	Offset=191-197
 9	.	_	Token	_	_	0	_	_	Offset=198-199
 
+# sent_id = s7
+# text = Peter's buurman heeft het hek rood geverfd .
 1	Peter's	_	Token	_	_	0	_	_	Offset=200-207
 2	buurman	_	Token	_	_	0	_	_	Offset=208-215
 3	heeft	_	Token	_	_	0	_	_	Offset=216-221
@@ -57,6 +71,8 @@
 7	geverfd	_	Token	_	_	0	_	_	Offset=235-242
 8	.	_	Token	_	_	0	_	_	Offset=243-244
 
+# sent_id = s8
+# text = Mijn vader is cooler dan de jouwe .
 1	Mijn	_	Token	_	_	0	_	_	Offset=245-249
 2	vader	_	Token	_	_	0	_	_	Offset=250-255
 3	is	_	Token	_	_	0	_	_	Offset=256-258
@@ -66,6 +82,8 @@
 7	jouwe	_	Token	_	_	0	_	_	Offset=273-278
 8	.	_	Token	_	_	0	_	_	Offset=279-280
 
+# sent_id = s9
+# text = Mary pakte brons , Peter zilver , en Jane goude .
 1	Mary	_	Token	_	_	0	_	_	Offset=281-285
 2	pakte	_	Token	_	_	0	_	_	Offset=286-291
 3	brons	_	Token	_	_	0	_	_	Offset=292-297
@@ -78,6 +96,8 @@
 10	goude	_	Token	_	_	0	_	_	Offset=323-328
 11	.	_	Token	_	_	0	_	_	Offset=329-330
 
+# sent_id = s10
+# text = Is Iguazu een groot of een klein land ?
 1	Is	_	Token	_	_	0	_	_	Offset=331-333
 2	Iguazu	_	Token	_	_	0	_	_	Offset=334-340
 3	een	_	Token	_	_	0	_	_	Offset=341-344
@@ -88,6 +108,8 @@
 8	land	_	Token	_	_	0	_	_	Offset=364-368
 9	?	_	Token	_	_	0	_	_	Offset=369-370
 
+# sent_id = s11
+# text = Noch Peter Smith noch Mary Brown konden geselecteerd worden .
 1	Noch	_	Token	_	_	0	_	_	Offset=371-375
 2	Peter	_	Token	_	_	0	_	_	Offset=376-381
 3	Smith	_	Token	_	_	0	_	_	Offset=382-387
@@ -99,6 +121,8 @@
 9	worden	_	Token	_	_	0	_	_	Offset=424-430
 10	.	_	Token	_	_	0	_	_	Offset=431-432
 
+# sent_id = s12
+# text = Ze hebben geen idee wie het geschreven heeft .
 1	Ze	_	Token	_	_	0	_	_	Offset=433-435
 2	hebben	_	Token	_	_	0	_	_	Offset=436-442
 3	geen	_	Token	_	_	0	_	_	Offset=443-447
@@ -109,12 +133,16 @@
 8	heeft	_	Token	_	_	0	_	_	Offset=472-477
 9	.	_	Token	_	_	0	_	_	Offset=478-479
 
+# sent_id = s13
+# text = Waar kijk je naar ?
 1	Waar	_	Token	_	_	0	_	_	Offset=480-484
 2	kijk	_	Token	_	_	0	_	_	Offset=485-489
 3	je	_	Token	_	_	0	_	_	Offset=490-492
 4	naar	_	Token	_	_	0	_	_	Offset=493-497
 5	?	_	Token	_	_	0	_	_	Offset=498-499
 
+# sent_id = s14
+# text = Wanneer denk je dat je kan komen ?
 1	Wanneer	_	Token	_	_	0	_	_	Offset=500-507
 2	denk	_	Token	_	_	0	_	_	Offset=508-512
 3	je	_	Token	_	_	0	_	_	Offset=513-515
@@ -124,6 +152,8 @@
 7	komen	_	Token	_	_	0	_	_	Offset=527-532
 8	?	_	Token	_	_	0	_	_	Offset=533-534
 
+# sent_id = s15
+# text = Hij heeft een auto gekocht maar zijn broer enkel een fiets .
 1	Hij	_	Token	_	_	0	_	_	Offset=535-538
 2	heeft	_	Token	_	_	0	_	_	Offset=539-544
 3	een	_	Token	_	_	0	_	_	Offset=545-548
@@ -137,6 +167,8 @@
 11	fiets	_	Token	_	_	0	_	_	Offset=588-593
 12	.	_	Token	_	_	0	_	_	Offset=594-595
 
+# sent_id = s16
+# text = Peter en Mary omhelsden elkaar en verlieten de kamer .
 1	Peter	_	Token	_	_	0	_	_	Offset=596-601
 2	en	_	Token	_	_	0	_	_	Offset=602-604
 3	Mary	_	Token	_	_	0	_	_	Offset=605-609
@@ -148,6 +180,8 @@
 9	kamer	_	Token	_	_	0	_	_	Offset=643-648
 10	.	_	Token	_	_	0	_	_	Offset=649-650
 
+# sent_id = s17
+# text = Ze had haar haar moeten kamen maar voor één of andere rede deed ze het die dag niet .
 1	Ze	_	Token	_	_	0	_	_	Offset=651-653
 2	had	_	Token	_	_	0	_	_	Offset=654-657
 3	haar	_	Token	_	_	0	_	_	Offset=658-662
@@ -168,6 +202,8 @@
 18	niet	_	Token	_	_	0	_	_	Offset=730-734
 19	.	_	Token	_	_	0	_	_	Offset=735-736
 
+# sent_id = s18
+# text = Ik kon hem niet volgen omdat hij te snel rende .
 1	Ik	_	Token	_	_	0	_	_	Offset=737-739
 2	kon	_	Token	_	_	0	_	_	Offset=740-743
 3	hem	_	Token	_	_	0	_	_	Offset=744-747
@@ -180,6 +216,8 @@
 10	rende	_	Token	_	_	0	_	_	Offset=778-783
 11	.	_	Token	_	_	0	_	_	Offset=784-785
 
+# sent_id = s19
+# text = Deze brief is van Peter en het werd gisteren geleveerd .
 1	Deze	_	Token	_	_	0	_	_	Offset=786-790
 2	brief	_	Token	_	_	0	_	_	Offset=791-796
 3	is	_	Token	_	_	0	_	_	Offset=797-799
@@ -192,6 +230,8 @@
 10	geleveerd	_	Token	_	_	0	_	_	Offset=831-840
 11	.	_	Token	_	_	0	_	_	Offset=841-842
 
+# sent_id = s20
+# text = Ze groeide op in Parijs , de hoofstad van Frankrijk .
 1	Ze	_	Token	_	_	0	_	_	Offset=843-845
 2	groeide	_	Token	_	_	0	_	_	Offset=846-853
 3	op	_	Token	_	_	0	_	_	Offset=854-856

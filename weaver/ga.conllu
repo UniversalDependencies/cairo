@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Scríobh an cailín litir chuig a cara .
 1	Scríobh	_	Token	_	_	0	_	_	Offset=0-7
 2	an	_	Token	_	_	0	_	_	Offset=8-10
 3	cailín	_	Token	_	_	0	_	_	Offset=11-17
@@ -7,6 +9,8 @@
 7	cara	_	Token	_	_	0	_	_	Offset=32-36
 8	.	_	Token	_	_	0	_	_	Offset=37-38
 
+# sent_id = s2
+# text = Sílim go bhfuil sé ag cur fearthainne .
 1	Sílim	_	Token	_	_	0	_	_	Offset=39-44
 2	go	_	Token	_	_	0	_	_	Offset=45-47
 3	bhfuil	_	Token	_	_	0	_	_	Offset=48-54
@@ -16,6 +20,8 @@
 7	fearthainne	_	Token	_	_	0	_	_	Offset=65-76
 8	.	_	Token	_	_	0	_	_	Offset=77-78
 
+# sent_id = s3
+# text = Rinne sé iarracht éirí as an tobaca agus as an ól .
 1	Rinne	_	Token	_	_	0	_	_	Offset=79-84
 2	sé	_	Token	_	_	0	_	_	Offset=85-87
 3	iarracht	_	Token	_	_	0	_	_	Offset=88-96
@@ -29,6 +35,8 @@
 11	ól	_	Token	_	_	0	_	_	Offset=126-128
 12	.	_	Token	_	_	0	_	_	Offset=129-130
 
+# sent_id = s4
+# text = An bhfuil tú ag iarraidh imeacht ?
 1	An	_	Token	_	_	0	_	_	Offset=131-133
 2	bhfuil	_	Token	_	_	0	_	_	Offset=134-140
 3	tú	_	Token	_	_	0	_	_	Offset=141-143
@@ -37,6 +45,8 @@
 6	imeacht	_	Token	_	_	0	_	_	Offset=156-163
 7	?	_	Token	_	_	0	_	_	Offset=164-165
 
+# sent_id = s5
+# text = A Sam , oscail an fhuinneog !
 1	A	_	Token	_	_	0	_	_	Offset=166-167
 2	Sam	_	Token	_	_	0	_	_	Offset=168-171
 3	,	_	Token	_	_	0	_	_	Offset=172-173
@@ -45,6 +55,8 @@
 6	fhuinneog	_	Token	_	_	0	_	_	Offset=184-193
 7	!	_	Token	_	_	0	_	_	Offset=194-195
 
+# sent_id = s6
+# text = Thug sí ar a fear chéile an carr a ní .
 1	Thug	_	Token	_	_	0	_	_	Offset=196-200
 2	sí	_	Token	_	_	0	_	_	Offset=201-203
 3	ar	_	Token	_	_	0	_	_	Offset=204-206
@@ -57,6 +69,8 @@
 10	ní	_	Token	_	_	0	_	_	Offset=231-233
 11	.	_	Token	_	_	0	_	_	Offset=234-235
 
+# sent_id = s7
+# text = Chuir comharsa Pheadair dath dearg ar an chlaí .
 1	Chuir	_	Token	_	_	0	_	_	Offset=236-241
 2	comharsa	_	Token	_	_	0	_	_	Offset=242-250
 3	Pheadair	_	Token	_	_	0	_	_	Offset=251-259
@@ -67,6 +81,8 @@
 8	chlaí	_	Token	_	_	0	_	_	Offset=277-282
 9	.	_	Token	_	_	0	_	_	Offset=283-284
 
+# sent_id = s8
+# text = Tá m' athair níos cúláilte ná d' athairsa .
 1	Tá	_	Token	_	_	0	_	_	Offset=285-287
 2	m'	_	Token	_	_	0	_	_	Offset=288-290
 3	athair	_	Token	_	_	0	_	_	Offset=291-297
@@ -77,6 +93,8 @@
 8	athairsa	_	Token	_	_	0	_	_	Offset=318-326
 9	.	_	Token	_	_	0	_	_	Offset=327-328
 
+# sent_id = s9
+# text = Bhuaigh Máire an bonn cré-umha , Peadar an ceann airgid , agus Sinéad an ceann óir .
 1	Bhuaigh	_	Token	_	_	0	_	_	Offset=329-336
 2	Máire	_	Token	_	_	0	_	_	Offset=337-342
 3	an	_	Token	_	_	0	_	_	Offset=343-345
@@ -95,6 +113,8 @@
 16	óir	_	Token	_	_	0	_	_	Offset=408-411
 17	.	_	Token	_	_	0	_	_	Offset=412-413
 
+# sent_id = s10
+# text = An tír mhór nó tír bheag í Iguazu ?
 1	An	_	Token	_	_	0	_	_	Offset=414-416
 2	tír	_	Token	_	_	0	_	_	Offset=417-420
 3	mhór	_	Token	_	_	0	_	_	Offset=421-425
@@ -105,6 +125,8 @@
 8	Iguazu	_	Token	_	_	0	_	_	Offset=441-447
 9	?	_	Token	_	_	0	_	_	Offset=448-449
 
+# sent_id = s11
+# text = Níor éirigh le Peadar Mac an Ghabhainn ná le Máire de Brún a bheith tofa .
 1	Níor	_	Token	_	_	0	_	_	Offset=450-454
 2	éirigh	_	Token	_	_	0	_	_	Offset=455-461
 3	le	_	Token	_	_	0	_	_	Offset=462-464
@@ -122,6 +144,8 @@
 15	tofa	_	Token	_	_	0	_	_	Offset=518-522
 16	.	_	Token	_	_	0	_	_	Offset=523-524
 
+# sent_id = s12
+# text = Níl leid acu cé a scríobh é .
 1	Níl	_	Token	_	_	0	_	_	Offset=525-528
 2	leid	_	Token	_	_	0	_	_	Offset=529-533
 3	acu	_	Token	_	_	0	_	_	Offset=534-537
@@ -131,6 +155,8 @@
 7	é	_	Token	_	_	0	_	_	Offset=551-552
 8	.	_	Token	_	_	0	_	_	Offset=553-554
 
+# sent_id = s13
+# text = Cad é a bhfuil tú ag amharc air ?
 1	Cad	_	Token	_	_	0	_	_	Offset=555-558
 2	é	_	Token	_	_	0	_	_	Offset=559-560
 3	a	_	Token	_	_	0	_	_	Offset=561-562
@@ -141,6 +167,8 @@
 8	air	_	Token	_	_	0	_	_	Offset=583-586
 9	?	_	Token	_	_	0	_	_	Offset=587-588
 
+# sent_id = s14
+# text = Cén uair a shíleann tú a thig leat a theacht ?
 1	Cén	_	Token	_	_	0	_	_	Offset=589-592
 2	uair	_	Token	_	_	0	_	_	Offset=593-597
 3	a	_	Token	_	_	0	_	_	Offset=598-599
@@ -153,6 +181,8 @@
 10	theacht	_	Token	_	_	0	_	_	Offset=626-633
 11	?	_	Token	_	_	0	_	_	Offset=634-635
 
+# sent_id = s15
+# text = Cheannaigh sé carr ach níor cheannaigh a dheartháir ach rothar .
 1	Cheannaigh	_	Token	_	_	0	_	_	Offset=636-646
 2	sé	_	Token	_	_	0	_	_	Offset=647-649
 3	carr	_	Token	_	_	0	_	_	Offset=650-654
@@ -165,6 +195,8 @@
 10	rothar	_	Token	_	_	0	_	_	Offset=692-698
 11	.	_	Token	_	_	0	_	_	Offset=699-700
 
+# sent_id = s16
+# text = Rinne Peadar agus Máire croí isteach lena chéile agus ansin d' fhág siad an seomra .
 1	Rinne	_	Token	_	_	0	_	_	Offset=701-706
 2	Peadar	_	Token	_	_	0	_	_	Offset=707-713
 3	agus	_	Token	_	_	0	_	_	Offset=714-718
@@ -182,6 +214,8 @@
 15	seomra	_	Token	_	_	0	_	_	Offset=777-783
 16	.	_	Token	_	_	0	_	_	Offset=784-785
 
+# sent_id = s17
+# text = Ba cheart di a cuid gruaige a chóiriú ach ar ábhar éigin níor chóirigh an lá sin .
 1	Ba	_	Token	_	_	0	_	_	Offset=786-788
 2	cheart	_	Token	_	_	0	_	_	Offset=789-795
 3	di	_	Token	_	_	0	_	_	Offset=796-798
@@ -201,6 +235,8 @@
 17	sin	_	Token	_	_	0	_	_	Offset=863-866
 18	.	_	Token	_	_	0	_	_	Offset=867-868
 
+# sent_id = s18
+# text = Ní raibh mé ábalta coinneáil suas , as siocair gur rith sé róghasta .
 1	Ní	_	Token	_	_	0	_	_	Offset=869-871
 2	raibh	_	Token	_	_	0	_	_	Offset=872-877
 3	mé	_	Token	_	_	0	_	_	Offset=878-880
@@ -216,6 +252,8 @@
 13	róghasta	_	Token	_	_	0	_	_	Offset=928-936
 14	.	_	Token	_	_	0	_	_	Offset=937-938
 
+# sent_id = s19
+# text = Is é Peadar a sheol an litir seo agus seachadadh inné í .
 1	Is	_	Token	_	_	0	_	_	Offset=939-941
 2	é	_	Token	_	_	0	_	_	Offset=942-943
 3	Peadar	_	Token	_	_	0	_	_	Offset=944-950
@@ -230,6 +268,8 @@
 12	í	_	Token	_	_	0	_	_	Offset=993-994
 13	.	_	Token	_	_	0	_	_	Offset=995-996
 
+# sent_id = s20
+# text = Tógadh i bPáras , príomhchathair na Fraince , í .
 1	Tógadh	_	Token	_	_	0	_	_	Offset=997-1003
 2	i	_	Token	_	_	0	_	_	Offset=1004-1005
 3	bPáras	_	Token	_	_	0	_	_	Offset=1006-1012

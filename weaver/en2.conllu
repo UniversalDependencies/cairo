@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = The girl wrote a letter to her friend .
 1	The	_	DET	_	Definite=Def|PronType=Art	2	det	_	Offset=0-3
 2	girl	_	NOUN	_	Number=Sing	3	nsubj	_	Offset=4-8
 3	wrote	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	_	_	Offset=9-14
@@ -8,6 +10,8 @@
 8	friend	_	NOUN	_	Number=Sing	3	nmod	_	Offset=31-37
 9	.	_	PUNCT	_	_	3	punct	_	Offset=38-39
 
+# sent_id = s2
+# text = I think that it is raining .
 1	I	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Offset=40-41
 2	think	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	_	_	Offset=42-47
 3	that	_	SCONJ	_	_	6	mark	_	Offset=48-52
@@ -16,6 +20,8 @@
 6	raining	_	VERB	_	VerbForm=Part	2	ccomp	_	Offset=59-66
 7	.	_	PUNCT	_	_	2	punct	_	Offset=67-68
 
+# sent_id = s3
+# text = He tried to stop smoking and drinking .
 1	He	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=69-71
 2	tried	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	_	_	Offset=72-77
 3	to	_	PART	_	_	4	mark	_	Offset=78-80
@@ -25,6 +31,8 @@
 7	drinking	_	VERB	_	VerbForm=Ger	5	conj	_	Offset=98-106
 8	.	_	PUNCT	_	_	2	punct	_	Offset=107-108
 
+# sent_id = s4
+# text = Do you want to go ?
 1	Do	_	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	_	_	Offset=109-111
 2	you	_	PRON	_	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	Offset=112-115
 3	want	_	VERB	_	VerbForm=Inf	0	_	_	Offset=116-120
@@ -32,6 +40,8 @@
 5	go	_	VERB	_	VerbForm=Inf	3	xcomp	_	Offset=124-126
 6	?	_	PUNCT	_	_	3	punct	_	Offset=127-128
 
+# sent_id = s5
+# text = Sam , open the window !
 1	Sam	_	PROPN	_	_	3	vocative	_	Offset=129-132
 2	,	_	PUNCT	_	_	1	punct	_	Offset=133-134
 3	open	_	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin	0	_	_	Offset=135-139
@@ -39,6 +49,8 @@
 5	window	_	NOUN	_	Number=Sing	3	dobj	_	Offset=144-150
 6	!	_	PUNCT	_	_	3	punct	_	Offset=151-152
 
+# sent_id = s6
+# text = She made her husband wash the car .
 1	She	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=153-156
 2	made	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	_	_	Offset=157-161
 3	her	_	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=|PronType=Prs	4	det	_	Offset=162-165
@@ -48,6 +60,8 @@
 7	car	_	NOUN	_	Number=Sing	5	dobj	_	Offset=183-186
 8	.	_	PUNCT	_	_	2	punct	_	Offset=187-188
 
+# sent_id = s7
+# text = Peter ’s neighbor painted the fence red .
 1	Peter	_	PROPN	_	_	3	nmod	_	Offset=189-194
 2	’s	_	PART	_	_	1	case	_	Offset=195-197
 3	neighbor	_	NOUN	_	Number=Sing	4	nsubj	_	Offset=198-206
@@ -57,6 +71,8 @@
 7	red	_	ADJ	_	_	6	amod	6:acl	Offset=225-228
 8	.	_	PUNCT	_	_	4	punct	_	Offset=229-230
 
+# sent_id = s8
+# text = My dad is cooler than yours .
 1	My	_	DET	_	Number=Sing|Person=1|Poss=|PronType=Prs	2	det	_	Offset=231-233
 2	dad	_	NOUN	_	Number=Sing	4	nsubj	_	Offset=234-237
 3	is	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Offset=238-240
@@ -65,6 +81,8 @@
 6	yours	_	PRON	_	Number=Sing|Person=2|Poss=|PronType=Prs	4	nmod	_	Offset=253-258
 7	.	_	PUNCT	_	_	4	punct	_	Offset=259-260
 
+# sent_id = s9
+# text = Mary won bronze , Peter silver , and Jane gold .
 1	Mary	_	PROPN	_	_	2	nsubj	_	Offset=261-265
 2	won	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	_	_	Offset=266-269
 3	bronze	_	NOUN	_	_	2	dobj	_	Offset=270-276
@@ -77,6 +95,8 @@
 10	gold	_	NOUN	_	_	2	dobj	3:remnant	Offset=303-307
 11	.	_	PUNCT	_	_	2	punct	_	Offset=308-309
 
+# sent_id = s10
+# text = Is Iguazu a big or a small country ?
 1	Is	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Offset=310-312
 2	Iguazu	_	PROPN	_	_	8	nsubj	_	Offset=313-319
 3	a	_	DET	_	Definite=Ind|PronType=Art	4	det	_	Offset=320-321
@@ -87,6 +107,8 @@
 8	country	_	NOUN	_	Number=Sing	0	_	_	Offset=337-344
 9	?	_	PUNCT	_	_	8	punct	_	Offset=345-346
 
+# sent_id = s11
+# text = Neither Peter Smith nor Mary Brown could be selected .
 1	Neither	_	CONJ	_	_	2	cc	_	Offset=347-354
 2	Peter	_	PROPN	_	_	3	name	_	Offset=355-360
 3	Smith	_	PROPN	_	_	9	nsubjpass	_	Offset=361-366
@@ -98,6 +120,8 @@
 9	selected	_	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	Offset=391-399
 10	.	_	PUNCT	_	_	9	punct	_	Offset=400-401
 
+# sent_id = s12
+# text = They have no idea who wrote it .
 1	They	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Offset=402-406
 2	have	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	_	_	Offset=407-411
 3	no	_	DET	_	PronType=Neg	4	det	_	Offset=412-414
@@ -107,6 +131,8 @@
 7	it	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	dobj	_	Offset=430-432
 8	.	_	PUNCT	_	_	2	punct	_	Offset=433-434
 
+# sent_id = s13
+# text = What are you looking at ?
 1	What	_	PRON	_	PronType=Int	4	dobj	_	Offset=435-439
 2	are	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	Offset=440-443
 3	you	_	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Offset=444-447
@@ -114,6 +140,8 @@
 5	at	_	ADP	_	_	1	case	_	Offset=456-458
 6	?	_	PUNCT	_	_	4	punct	_	Offset=459-460
 
+# sent_id = s14
+# text = When do you think you can come ?
 1	When	_	ADV	_	_	7	advmod	_	Offset=461-465
 2	do	_	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	Offset=466-468
 3	you	_	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Offset=469-472
@@ -123,6 +151,8 @@
 7	come	_	VERB	_	VerbForm=Inf	4	ccomp	_	Offset=487-491
 8	?	_	PUNCT	_	_	4	punct	_	Offset=492-493
 
+# sent_id = s15
+# text = He bought a car but his brother just a bike .
 1	He	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=494-496
 2	bought	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	_	_	Offset=497-503
 3	a	_	DET	_	Definite=Ind	4	det	_	Offset=504-505
@@ -135,6 +165,8 @@
 10	bike	_	NOUN	_	Number=Sing	4	remnant	_	Offset=533-537
 11	.	_	PUNCT	_	_	2	punct	_	Offset=538-539
 
+# sent_id = s16
+# text = Peter and Mary hugged each other and then left the room .
 1	Peter	_	PROPN	_	_	4	nsubj	_	Offset=540-545
 2	and	_	CONJ	_	_	1	cc	_	Offset=546-549
 3	Mary	_	CONJ	_	_	1	conj	_	Offset=550-554
@@ -148,6 +180,8 @@
 11	room	_	NOUN	_	Number=Sing	9	dobj	_	Offset=591-595
 12	.	_	PUNCT	_	_	4	punct	_	Offset=596-597
 
+# sent_id = s17
+# text = She should have been doing her hair but for some reason she would n't that day .
 1	She	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Offset=598-601
 2	should	_	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	Offset=602-608
 3	have	_	AUX	_	VerbForm=Inf	5	aux	_	Offset=609-613
@@ -166,6 +200,8 @@
 16	day	_	NOUN	_	Number=Sing	13	nmod	_	Offset=673-676
 17	.	_	PUNCT	_	_	5	punct	_	Offset=677-678
 
+# sent_id = s18
+# text = I was n't able to keep up , because he ran too fast .
 1	I	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Offset=679-680
 2	was	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	Offset=681-684
 3	n't	_	PART	_	_	4	neg	_	Offset=685-688
@@ -181,6 +217,8 @@
 13	fast	_	ADV	_	Degree=Pos	11	advmod	_	Offset=726-730
 14	.	_	PUNCT	_	_	4	punct	_	Offset=731-732
 
+# sent_id = s19
+# text = This letter is from Peter and it was delivered yesterday .
 1	This	_	DET	_	PronType=Dem	2	det	_	Offset=733-737
 2	letter	_	NOUN	_	_	5	nsubj	_	Offset=738-744
 3	is	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Offset=745-747
@@ -193,6 +231,8 @@
 10	yesterday	_	ADV	_	_	9	advmod	_	Offset=780-789
 11	.	_	PUNCT	_	_	5	punct	_	Offset=790-791
 
+# sent_id = s20
+# text = She grew up in Paris , the capital of France .
 1	She	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=792-795
 2	grew	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	_	_	Offset=796-800
 3	up	_	ADP	_	_	2	compound	_	Offset=801-803

@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = பெண் அவளுடைய நண்பருக்குக் கடிதம் எழுதினாள் .
 1	பெண்	_	NOUN	_	Gender=Fem	5	nsubj	_	Offset=0-4
 2	அவளுடைய	_	DET	_	_	3	det	_	Offset=5-12
 3	நண்பருக்குக்	_	NOUN	_	Gender=Neut	5	iobj	_	Offset=13-25
@@ -5,12 +7,16 @@
 5	எழுதினாள்	_	VERB	_	Gender=Fem	0	_	_	Offset=33-42
 6	.	_	PUNCT	_	_	5	punct	_	Offset=43-44
 
+# sent_id = s2
+# text = மழை பெய்கிறது என்று நினைக்கிறேன் .
 1	மழை	_	NOUN	_	_	2	nsubj	_	Offset=45-48
 2	பெய்கிறது	_	VERB	_	Tense=Pres	4	ccomp	_	Offset=49-58
 3	என்று	_	SCONJ	_	_	4	mark	_	Offset=59-64
 4	நினைக்கிறேன்	_	VERB	_	Tense=Pres	0	_	_	Offset=65-77
 5	.	_	PUNCT	_	_	4	punct	_	Offset=78-79
 
+# sent_id = s3
+# text = அவர் புகைப்பதையும் குடிப்பதையும் நிறுத்த முயற்சித்தார் .
 1	அவர்	_	PRON	_	_	5	nsubj	_	Offset=80-84
 2	புகைப்பதையும்	_	VERB	_	_	3	conj	_	Offset=85-98
 3	குடிப்பதையும்	_	VERB	_	_	4	xcomp	_	Offset=99-112
@@ -18,17 +24,23 @@
 5	முயற்சித்தார்	_	VERB	_	_	0	_	_	Offset=121-134
 6	.	_	PUNCT	_	_	5	punct	_	Offset=135-136
 
+# sent_id = s4
+# text = உனக்கு போக வேண்டுமா ?
 1	உனக்கு	_	PRON	_	_	2	nsubj	_	Offset=137-143
 2	போக	_	VERB	_	_	0	_	_	Offset=144-147
 3	வேண்டுமா	_	AUX	_	_	2	aux	_	Offset=148-156
 4	?	_	PUNCT	_	_	2	punct	_	Offset=157-158
 
+# sent_id = s5
+# text = சாம் , ஜன்னலைத் திற ! 
 1	சாம்	_	PROPN	_	_	4	vocative	_	Offset=159-163
 2	,	_	PUNCT	_	_	4	punct	_	Offset=164-165
 3	ஜன்னலைத்	_	NOUN	_	_	4	dobj	_	Offset=166-174
 4	திற	_	VERB	_	_	0	_	_	Offset=175-178
 5	!	_	PUNCT	_	_	4	punct	_	Offset=179-180
 
+# sent_id = s6
+# text = அவள் அவளது கணவரால் காரைக் கழுவச் செய்தாள்  .
 1	அவள்	_	PRON	_	_	5	nsubjpass	_	Offset=182-186
 2	அவளது	_	DET	_	_	3	det	_	Offset=187-192
 3	கணவரால்	_	NOUN	_	_	5	iobj	_	Offset=193-200
@@ -37,6 +49,8 @@
 6	செய்தாள்	_	AUX	_	_	5	auxpass	_	Offset=215-223
 7	.	_	PUNCT	_	_	5	punct	_	Offset=225-226
 
+# sent_id = s7
+# text = பீட்டரின் அண்டைவீட்டார் வேலியை சிவப்பில் பூசினார் .
 1	பீட்டரின்	_	PROPN	_	_	2	nmod	_	Offset=227-236
 2	அண்டைவீட்டார்	_	NOUN	_	_	5	nsubj	_	Offset=237-250
 3	வேலியை	_	NOUN	_	_	5	dobj	_	Offset=251-257
@@ -44,6 +58,8 @@
 5	பூசினார்	_	VERB	_	_	0	_	_	Offset=268-276
 6	.	_	PUNCT	_	_	5	punct	_	Offset=277-278
 
+# sent_id = s8
+# text = என் அப்பா உன் அப்பாவைவிட உற்சாகமானவர் .
 1	என்	_	DET	_	_	2	det	_	Offset=279-282
 2	அப்பா	_	NOUN	_	_	5	nsubj	_	Offset=283-288
 3	உன்	_	DET	_	_	4	det	_	Offset=289-292
@@ -51,6 +67,8 @@
 5	உற்சாகமானவர்	_	VERB	_	_	0	_	_	Offset=304-316
 6	.	_	PUNCT	_	_	5	punct	_	Offset=317-318
 
+# sent_id = s9
+# text = மேரி வெண்கலம் , பீட்டர் வெள்ளி மற்றும் ஜேன் தங்கத்தை வென்றனர் .
 1	மேரி	_	PROPN	_	_	9	nsubj	_	Offset=319-323
 2	வெண்கலம்	_	NOUN	_	_	9	dobj	_	Offset=324-332
 3	,	_	PUNCT	_	_	1	punct	_	Offset=333-334
@@ -62,6 +80,8 @@
 9	வென்றனர்	_	VERB	_	_	0	_	_	Offset=372-380
 10	.	_	PUNCT	_	_	9	punct	_	Offset=381-382
 
+# sent_id = s10
+# text = இகுவாசு ஒரு பெரிய நாடா அல்லது ஒரு சிறிய நாடா ?
 1	இகுவாசு	_	PROPN	_	_	4	nsubj	_	Offset=383-390
 2	ஒரு	_	DET	_	_	3	det	_	Offset=391-394
 3	பெரிய	_	ADJ	_	_	4	amod	_	Offset=395-400
@@ -72,6 +92,8 @@
 8	நாடா	_	NOUN	_	_	0	_	_	Offset=423-427
 9	?	_	PUNCT	_	_	4	punct	_	Offset=428-429
 
+# sent_id = s11
+# text = பீட்டர் ஸ்மித்தையோ அல்லது மேரி பிரவுனையோ தேர்ந்தெடுக்க முடியவில்லை .
 1	பீட்டர்	_	PROPN	_	_	0	_	_	Offset=430-437
 2	ஸ்மித்தையோ	_	PROPN	_	_	1	name	_	Offset=438-448
 3	அல்லது	_	CONJ	_	_	1	cc	_	Offset=449-455
@@ -81,6 +103,8 @@
 7	முடியவில்லை	_	AUX	_	_	6	aux	_	Offset=485-496
 8	.	_	PUNCT	_	_	6	punct	_	Offset=497-498
 
+# sent_id = s12
+# text = இதை யார் எழுதியது என்று அவர்களுக்கு விளங்கவில்லை .
 1	இதை	_	PRON	_	_	3	dobj	_	Offset=499-502
 2	யார்	_	PRON	_	_	3	nsubj	_	Offset=503-507
 3	எழுதியது	_	VERB	_	_	6	ccomp	_	Offset=508-516
@@ -89,12 +113,16 @@
 6	விளங்கவில்லை	_	VERB	_	_	0	_	_	Offset=535-547
 7	.	_	PUNCT	_	_	6	punct	_	Offset=548-549
 
+# sent_id = s13
+# text = நீ எதைப் பார்த்துக் கொண்டிருக்கிறாய் ?
 1	நீ	_	PRON	_	_	3	nsubj	_	Offset=550-552
 2	எதைப்	_	PRON	_	_	3	dobj	_	Offset=553-558
 3	பார்த்துக்	_	VERB	_	_	0	_	_	Offset=559-569
 4	கொண்டிருக்கிறாய்	_	AUX	_	_	3	aux	_	Offset=570-586
 5	?	_	PUNCT	_	_	3	punct	_	Offset=587-588
 
+# sent_id = s14
+# text = எப்பொழுது நீங்கள் வர முடியும் என்று நீங்கள் நினக்கிறீர்கள் ?
 1	எப்பொழுது	_	ADV	_	_	3	advmod	_	Offset=589-598
 2	நீங்கள்	_	PRON	_	_	3	nsubj	_	Offset=599-606
 3	வர	_	VERB	_	_	7	ccomp	_	Offset=607-609
@@ -104,6 +132,8 @@
 7	நினக்கிறீர்கள்	_	VERB	_	_	0	_	_	Offset=633-647
 8	?	_	PUNCT	_	_	7	punct	_	Offset=648-649
 
+# sent_id = s15
+# text = அவர் ஒரு கார் வாங்கினார் ஆனால் அவர் சகோதரர் வெறும் பைக் தான் . 
 1	அவர்	_	PRON	_	_	4	nsubj	_	Offset=650-654
 2	ஒரு	_	DET	_	_	0	_	_	Offset=655-658
 3	கார்	_	NOUN	_	_	4	dobj	_	Offset=659-663
@@ -116,6 +146,8 @@
 10	தான்	_	ADP	_	_	9	nmod	_	Offset=706-710
 11	.	_	PUNCT	_	_	4	punct	_	Offset=711-712
 
+# sent_id = s16
+# text = பீட்டரும் மேரியும் ஒருவரையொருவர் தழுவிவிட்டு அறையை விட்டு சென்றனர் .
 1	பீட்டரும்	_	PROPN	_	_	4	nsubj	_	Offset=714-723
 2	மேரியும்	_	PROPN	_	_	1	conj	_	Offset=724-732
 3	ஒருவரையொருவர்	_	NOUN	_	_	4	dobj	_	Offset=733-746
@@ -125,6 +157,8 @@
 7	சென்றனர்	_	VERB	_	_	0	_	_	Offset=772-780
 8	.	_	PUNCT	_	_	6	punct	_	Offset=781-782
 
+# sent_id = s17
+# text = அவள்அவளுடைய கூந்தலை செய்து கொண்டிருக்க வேண்டும் ஆனால் என்ன காரணத்தாலோ அவள் அன்றைக்கு அதைச் செய்யவில்லை .
 1	அவள்அவளுடைய	_	DET	_	_	3	nsubj	_	Offset=783-794
 2	கூந்தலை	_	NOUN	_	_	3	dobj	_	Offset=795-802
 3	செய்து	_	VERB	_	_	0	_	_	Offset=803-809
@@ -139,6 +173,8 @@
 12	செய்யவில்லை	_	VERB	_	_	3	conj	_	Offset=874-885
 13	.	_	PUNCT	_	_	3	punct	_	Offset=886-887
 
+# sent_id = s18
+# text = என்னால் ஈடுகொடுக்க முடியவில்லை ஏனென்றால் அவன் மிகவும் வேகமாக ஓடினான் .
 1	என்னால்	_	PRON	_	_	2	nsubj	_	Offset=888-895
 2	ஈடுகொடுக்க	_	VERB	_	_	0	_	_	Offset=896-906
 3	முடியவில்லை	_	AUX	_	_	2	aux	_	Offset=907-918
@@ -149,6 +185,8 @@
 8	ஓடினான்	_	VERB	_	_	2	advcl	_	Offset=949-956
 9	.	_	PUNCT	_	_	2	punct	_	Offset=957-958
 
+# sent_id = s19
+# text = இந்த கடிதம் பீட்டரிடமிருந்து மற்றும் இது நேற்று கொண்டுசேர்க்கப்பட்டது .
 1	இந்த	_	DET	_	_	2	det	_	Offset=959-963
 2	கடிதம்	_	NOUN	_	_	3	nmod	_	Offset=964-970
 3	பீட்டரிடமிருந்து	_	PROPN	_	_	0	_	_	Offset=971-987
@@ -158,6 +196,8 @@
 7	கொண்டுசேர்க்கப்பட்டது	_	VERB	_	_	3	conj	_	Offset=1007-1028
 8	.	_	PUNCT	_	_	3	punct	_	Offset=1029-1030
 
+# sent_id = s20
+# text = பிரான்சின் தலைநகரான பாரிஸில் அவள் வளர்ந்தாள் .
 1	பிரான்சின்	_	PROPN	_	_	2	nmod	_	Offset=1031-1041
 2	தலைநகரான	_	NOUN	_	_	3	appos	_	Offset=1042-1050
 3	பாரிஸில்	_	PROPN	_	_	5	nmod	_	Offset=1051-1059

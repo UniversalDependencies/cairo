@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Tüdruk kirjutas oma sõbrale kirja .
 1	Tüdruk	_	Token	_	_	0	_	_	Offset=0-6
 2	kirjutas	_	Token	_	_	0	_	_	Offset=7-15
 3	oma	_	Token	_	_	0	_	_	Offset=16-19
@@ -5,6 +7,8 @@
 5	kirja	_	Token	_	_	0	_	_	Offset=28-33
 6	.	_	Token	_	_	0	_	_	Offset=34-35
 
+# sent_id = s2
+# text = Ma arvan , et sajab vihma .
 1	Ma	_	Token	_	_	0	_	_	Offset=36-38
 2	arvan	_	Token	_	_	0	_	_	Offset=39-44
 3	,	_	Token	_	_	0	_	_	Offset=45-46
@@ -13,6 +17,8 @@
 6	vihma	_	Token	_	_	0	_	_	Offset=56-61
 7	.	_	Token	_	_	0	_	_	Offset=62-63
 
+# sent_id = s3
+# text = Ta üritas suitsetamist ja joomist lõpetada .
 1	Ta	_	Token	_	_	0	_	_	Offset=64-66
 2	üritas	_	Token	_	_	0	_	_	Offset=67-73
 3	suitsetamist	_	Token	_	_	0	_	_	Offset=74-86
@@ -21,12 +27,16 @@
 6	lõpetada	_	Token	_	_	0	_	_	Offset=98-106
 7	.	_	Token	_	_	0	_	_	Offset=107-108
 
+# sent_id = s4
+# text = Kas sa tahad minna ?
 1	Kas	_	Token	_	_	0	_	_	Offset=109-112
 2	sa	_	Token	_	_	0	_	_	Offset=113-115
 3	tahad	_	Token	_	_	0	_	_	Offset=116-121
 4	minna	_	Token	_	_	0	_	_	Offset=122-127
 5	?	_	Token	_	_	0	_	_	Offset=128-129
 
+# sent_id = s5
+# text = Sam , tee aken lahti !
 1	Sam	_	Token	_	_	0	_	_	Offset=130-133
 2	,	_	Token	_	_	0	_	_	Offset=134-135
 3	tee	_	Token	_	_	0	_	_	Offset=136-139
@@ -34,6 +44,8 @@
 5	lahti	_	Token	_	_	0	_	_	Offset=145-150
 6	!	_	Token	_	_	0	_	_	Offset=151-152
 
+# sent_id = s6
+# text = Ta pani oma mehe autot pesema .
 1	Ta	_	Token	_	_	0	_	_	Offset=153-155
 2	pani	_	Token	_	_	0	_	_	Offset=156-160
 3	oma	_	Token	_	_	0	_	_	Offset=161-164
@@ -42,6 +54,8 @@
 6	pesema	_	Token	_	_	0	_	_	Offset=176-182
 7	.	_	Token	_	_	0	_	_	Offset=183-184
 
+# sent_id = s7
+# text = Peetri naaber värvis aia punaseks .
 1	Peetri	_	Token	_	_	0	_	_	Offset=185-191
 2	naaber	_	Token	_	_	0	_	_	Offset=192-198
 3	värvis	_	Token	_	_	0	_	_	Offset=199-205
@@ -49,6 +63,8 @@
 5	punaseks	_	Token	_	_	0	_	_	Offset=210-218
 6	.	_	Token	_	_	0	_	_	Offset=219-220
 
+# sent_id = s8
+# text = Minu isa on sinu isast lahedam .
 1	Minu	_	Token	_	_	0	_	_	Offset=221-225
 2	isa	_	Token	_	_	0	_	_	Offset=226-229
 3	on	_	Token	_	_	0	_	_	Offset=230-232
@@ -57,6 +73,8 @@
 6	lahedam	_	Token	_	_	0	_	_	Offset=244-251
 7	.	_	Token	_	_	0	_	_	Offset=252-253
 
+# sent_id = s9
+# text = Mary võitis pronksi , Peter hõbeda ning Jane kulla .
 1	Mary	_	Token	_	_	0	_	_	Offset=254-258
 2	võitis	_	Token	_	_	0	_	_	Offset=259-265
 3	pronksi	_	Token	_	_	0	_	_	Offset=266-273
@@ -68,6 +86,8 @@
 9	kulla	_	Token	_	_	0	_	_	Offset=299-304
 10	.	_	Token	_	_	0	_	_	Offset=305-306
 
+# sent_id = s10
+# text = Kas Iguazu on suur või väike maa ?
 1	Kas	_	Token	_	_	0	_	_	Offset=307-310
 2	Iguazu	_	Token	_	_	0	_	_	Offset=311-317
 3	on	_	Token	_	_	0	_	_	Offset=318-320
@@ -77,6 +97,8 @@
 7	maa	_	Token	_	_	0	_	_	Offset=336-339
 8	?	_	Token	_	_	0	_	_	Offset=340-341
 
+# sent_id = s11
+# text = Kumbagi , nii Peter Smithi ega Mary Browni , ei saadud valida .
 1	Kumbagi	_	Token	_	_	0	_	_	Offset=342-349
 2	,	_	Token	_	_	0	_	_	Offset=350-351
 3	nii	_	Token	_	_	0	_	_	Offset=352-355
@@ -91,6 +113,8 @@
 12	valida	_	Token	_	_	0	_	_	Offset=397-403
 13	.	_	Token	_	_	0	_	_	Offset=404-405
 
+# sent_id = s12
+# text = Neil pole aimugi , kes selle kirjutas .
 1	Neil	_	Token	_	_	0	_	_	Offset=406-410
 2	pole	_	Token	_	_	0	_	_	Offset=411-415
 3	aimugi	_	Token	_	_	0	_	_	Offset=416-422
@@ -100,11 +124,15 @@
 7	kirjutas	_	Token	_	_	0	_	_	Offset=435-443
 8	.	_	Token	_	_	0	_	_	Offset=444-445
 
+# sent_id = s13
+# text = Mida sa vaatad ?
 1	Mida	_	Token	_	_	0	_	_	Offset=446-450
 2	sa	_	Token	_	_	0	_	_	Offset=451-453
 3	vaatad	_	Token	_	_	0	_	_	Offset=454-460
 4	?	_	Token	_	_	0	_	_	Offset=461-462
 
+# sent_id = s14
+# text = Millal sa arvad , et saad tulla ?
 1	Millal	_	Token	_	_	0	_	_	Offset=463-469
 2	sa	_	Token	_	_	0	_	_	Offset=470-472
 3	arvad	_	Token	_	_	0	_	_	Offset=473-478
@@ -114,6 +142,8 @@
 7	tulla	_	Token	_	_	0	_	_	Offset=489-494
 8	?	_	Token	_	_	0	_	_	Offset=495-496
 
+# sent_id = s15
+# text = Ta ostis auto , aga ta vend vaid jalgratta .
 1	Ta	_	Token	_	_	0	_	_	Offset=497-499
 2	ostis	_	Token	_	_	0	_	_	Offset=500-505
 3	auto	_	Token	_	_	0	_	_	Offset=506-510
@@ -125,6 +155,8 @@
 9	jalgratta	_	Token	_	_	0	_	_	Offset=530-539
 10	.	_	Token	_	_	0	_	_	Offset=540-541
 
+# sent_id = s16
+# text = Peter ja Mary kallistasid teineteist ja lahkusid seejärel ruumist .
 1	Peter	_	Token	_	_	0	_	_	Offset=542-547
 2	ja	_	Token	_	_	0	_	_	Offset=548-550
 3	Mary	_	Token	_	_	0	_	_	Offset=551-555
@@ -136,6 +168,8 @@
 9	ruumist	_	Token	_	_	0	_	_	Offset=600-607
 10	.	_	Token	_	_	0	_	_	Offset=608-609
 
+# sent_id = s17
+# text = Ta oleks pidanud oma juukseid sättima , aga mingil põhjusel ta ei teinud seda tol päeval .
 1	Ta	_	Token	_	_	0	_	_	Offset=610-612
 2	oleks	_	Token	_	_	0	_	_	Offset=613-618
 3	pidanud	_	Token	_	_	0	_	_	Offset=619-626
@@ -154,6 +188,8 @@
 16	päeval	_	Token	_	_	0	_	_	Offset=692-698
 17	.	_	Token	_	_	0	_	_	Offset=699-700
 
+# sent_id = s18
+# text = Ma ei suutnud sammu pidada , sest ta jooksis liiga kiiresti .
 1	Ma	_	Token	_	_	0	_	_	Offset=701-703
 2	ei	_	Token	_	_	0	_	_	Offset=704-706
 3	suutnud	_	Token	_	_	0	_	_	Offset=707-714
@@ -167,6 +203,8 @@
 11	kiiresti	_	Token	_	_	0	_	_	Offset=752-760
 12	.	_	Token	_	_	0	_	_	Offset=761-762
 
+# sent_id = s19
+# text = Kiri on Peterilt ja see toodi eile .
 1	Kiri	_	Token	_	_	0	_	_	Offset=763-767
 2	on	_	Token	_	_	0	_	_	Offset=768-770
 3	Peterilt	_	Token	_	_	0	_	_	Offset=771-779
@@ -176,6 +214,8 @@
 7	eile	_	Token	_	_	0	_	_	Offset=793-797
 8	.	_	Token	_	_	0	_	_	Offset=798-799
 
+# sent_id = s20
+# text = Ta kasvas üles Pariisis , Prantsusmaa pealinnas .
 1	Ta	_	Token	_	_	0	_	_	Offset=800-802
 2	kasvas	_	Token	_	_	0	_	_	Offset=803-809
 3	üles	_	Token	_	_	0	_	_	Offset=810-814

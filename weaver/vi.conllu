@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Cố ấy viết một lá thư cho bạn cô ấy .
 1	Cố	_	PRON	_	Case=Nom|Gender=Fem	2	det	3:acl	Offset=0-2
 2	ấy	_	DET	_	Number=Sing	0	_	_	Offset=3-5
 3	viết	_	VERB	_	Tense=Pres|Voice=Act	7	advmod	6:nsubj	Offset=6-10
@@ -10,6 +12,8 @@
 10	ấy	_	DET	_	_	0	_	_	Offset=33-35
 11	.	_	PUNCT	_	_	0	_	_	Offset=36-37
 
+# sent_id = s2
+# text = Tôi nghĩ rằng trời đang mưa .
 1	Tôi	_	PROPN	_	_	0	_	_	Offset=38-41
 2	nghĩ	_	VERB	_	_	1	acl	3:advmod	Offset=42-46
 3	rằng	_	INTJ	_	_	4	nsubj	_	Offset=47-51
@@ -18,6 +22,8 @@
 6	mưa	_	VERB	_	_	5	aux	_	Offset=62-65
 7	.	_	PUNCT	_	_	0	_	_	Offset=66-67
 
+# sent_id = s3
+# text = Anh ấy cố gắng từ bỏ hút thuốc và uống rượu .
 1	Anh	_	PRON	_	Gender=Masc|Number=Sing|Person=3	2	det	_	Offset=68-71
 2	ấy	_	DET	_	Person=3	0	_	_	Offset=72-74
 3	cố	_	VERB	_	Tense=Pres|Voice=Act	4	mwe	1:nsubj|5:xcomp|12:punct	Offset=75-77
@@ -31,6 +37,8 @@
 11	rượu	_	NOUN	_	_	0	_	_	Offset=107-111
 12	.	_	PUNCT	_	_	0	_	_	Offset=112-113
 
+# sent_id = s4
+# text = Bạn có muốn đi bây giờ không ?
 1	Bạn	_	Token	_	_	0	_	_	Offset=114-117
 2	Bạn	_	PRON	_	Number=Sing|Person=2	0	_	_	Offset=114-117
 3	có	_	AUX	_	_	0	_	_	Offset=118-120
@@ -41,6 +49,8 @@
 8	không	_	PART	_	_	0	_	_	Offset=137-142
 9	?	_	PUNCT	_	_	0	_	_	Offset=143-144
 
+# sent_id = s5
+# text = Sam , mở cửa sổ ra !
 1	Sam	_	PROPN	_	Gender=Masc|Number=Sing	0	_	_	Offset=145-148
 2	,	_	PUNCT	_	_	0	_	_	Offset=149-150
 3	mở	_	VERB	_	_	6	aux	1:vocative	Offset=151-153
@@ -49,6 +59,8 @@
 6	ra	_	PART	_	_	0	_	_	Offset=161-163
 7	!	_	PART	_	_	0	_	_	Offset=164-165
 
+# sent_id = s6
+# text = Cô ấy bắt chồng rửa xe ô tô .
 1	Cô	_	PRON	_	_	2	det	_	Offset=166-168
 2	ấy	_	DET	_	_	0	_	_	Offset=169-171
 3	bắt	_	VERB	_	_	1	nsubj	4:dobj|5:xcomp	Offset=172-175
@@ -59,6 +71,8 @@
 8	tô	_	NOUN	_	_	0	_	_	Offset=191-193
 9	.	_	PUNCT	_	_	0	_	_	Offset=194-195
 
+# sent_id = s7
+# text = Hàng xóm của Peter sơn hàng rào màu đỏ .
 1	Hàng	_	NOUN	_	_	0	_	_	Offset=196-200
 2	xóm	_	NOUN	_	_	1	compound	_	Offset=201-204
 3	của	_	DET	_	Poss=	0	_	_	Offset=205-208
@@ -70,6 +84,8 @@
 9	đỏ	_	ADJ	_	_	0	_	_	Offset=232-234
 10	.	_	PUNCT	_	_	0	_	_	Offset=235-236
 
+# sent_id = s8
+# text = Bố tôi thoải mái hơn bố của bạn .
 1	Bố	_	NOUN	_	_	2	case	_	Offset=237-239
 2	tôi	_	PRON	_	Poss=	0	_	_	Offset=240-243
 3	thoải	_	ADJ	_	_	4	mwe	1:xcomp|5:advmod	Offset=244-249
@@ -80,6 +96,8 @@
 8	bạn	_	PRON	_	_	7	case	_	Offset=265-268
 9	.	_	PUNCT	_	_	0	_	_	Offset=269-270
 
+# sent_id = s9
+# text = Mary được giải đồng , Peter bạc và Jane vàng .
 1	Mary	_	PROPN	_	Gender=Fem|Number=Sing	2	nsubj	_	Offset=271-275
 2	được	_	VERB	_	_	0	_	_	Offset=276-280
 3	giải	_	NOUN	_	_	2	iobj	4:amod	Offset=281-285
@@ -92,6 +110,8 @@
 10	vàng	_	NOUN	_	_	0	_	_	Offset=311-315
 11	.	_	PUNCT	_	_	0	_	_	Offset=316-317
 
+# sent_id = s10
+# text = Iguazu là một nước lớn hay nhỏ ?
 1	Iguazu	_	PROPN	_	_	0	_	_	Offset=318-324
 2	là	_	VERB	_	Tense=Pres|Voice=Act	1	nsubj	8:punct	Offset=325-327
 3	một	_	NUM	_	_	0	_	_	Offset=328-331
@@ -101,6 +121,8 @@
 7	nhỏ	_	ADJ	_	_	6	conj	_	Offset=345-348
 8	?	_	PUNCT	_	_	0	_	_	Offset=349-350
 
+# sent_id = s11
+# text = Cả Peter và Mary Brown có thể sẽ không được chọn .
 1	Cả	_	CONJ	_	_	0	_	_	Offset=351-353
 2	Peter	_	PROPN	_	_	3	conj	1:conj	Offset=354-359
 3	và	_	CONJ	_	_	0	_	_	Offset=360-362
@@ -114,6 +136,8 @@
 11	chọn	_	VERB	_	_	0	_	_	Offset=395-399
 12	.	_	PUNCT	_	_	0	_	_	Offset=400-401
 
+# sent_id = s12
+# text = Họ không biết ai viết cái này .
 1	Họ	_	PRON	_	Number=Plur|Person=3	0	_	_	Offset=402-404
 2	không	_	ADV	_	_	0	_	_	Offset=405-410
 3	biết	_	VERB	_	_	1	nsubj	2:neg|4:iobj	Offset=411-415
@@ -123,6 +147,8 @@
 7	này	_	DET	_	_	0	_	_	Offset=428-431
 8	.	_	PUNCT	_	_	0	_	_	Offset=432-433
 
+# sent_id = s13
+# text = Bạn đang nhìn gì thế ?
 1	Bạn	_	Token	_	_	0	_	_	Offset=434-437
 2	đang	_	Token	_	_	0	_	_	Offset=438-442
 3	nhìn	_	Token	_	_	0	_	_	Offset=443-447
@@ -130,6 +156,8 @@
 5	thế	_	Token	_	_	0	_	_	Offset=451-454
 6	?	_	Token	_	_	0	_	_	Offset=455-456
 
+# sent_id = s14
+# text = Bạn nghĩ bạn có thể đến vào lúc nào ?
 1	Bạn	_	Token	_	_	0	_	_	Offset=457-460
 2	nghĩ	_	Token	_	_	0	_	_	Offset=461-465
 3	bạn	_	Token	_	_	0	_	_	Offset=466-469
@@ -141,6 +169,8 @@
 9	nào	_	Token	_	_	0	_	_	Offset=489-492
 10	?	_	Token	_	_	0	_	_	Offset=493-494
 
+# sent_id = s15
+# text = Anh ấy mua một cái ô tô , nhưng chỉ mua cho thằng em cái xe đạp .
 1	Anh	_	Token	_	_	0	_	_	Offset=495-498
 2	ấy	_	Token	_	_	0	_	_	Offset=499-501
 3	mua	_	Token	_	_	0	_	_	Offset=502-505
@@ -160,6 +190,8 @@
 17	đạp	_	Token	_	_	0	_	_	Offset=555-558
 18	.	_	Token	_	_	0	_	_	Offset=559-560
 
+# sent_id = s16
+# text = Peter và Mary ôm nhau và sao đó rời khỏi phòng .
 1	Peter	_	Token	_	_	0	_	_	Offset=561-566
 2	và	_	Token	_	_	0	_	_	Offset=567-569
 3	Mary	_	Token	_	_	0	_	_	Offset=570-574
@@ -173,6 +205,8 @@
 11	phòng	_	Token	_	_	0	_	_	Offset=602-607
 12	.	_	Token	_	_	0	_	_	Offset=608-609
 
+# sent_id = s17
+# text = Cô ấy lẽ ra phải làm tóc nhưng vì một số lý do nào đấy nhưng cô ấy không làm vào ngày hôm đó . 
 1	Cô	_	Token	_	_	0	_	_	Offset=610-612
 2	ấy	_	Token	_	_	0	_	_	Offset=613-615
 3	lẽ	_	Token	_	_	0	_	_	Offset=616-618
@@ -199,6 +233,8 @@
 24	đó	_	Token	_	_	0	_	_	Offset=700-702
 25	.	_	Token	_	_	0	_	_	Offset=703-704
 
+# sent_id = s18
+# text = Tôi không thể theo kịp , bởi vì anh ấy chạy quá nhanh . 
 1	Tôi	_	Token	_	_	0	_	_	Offset=706-709
 2	không	_	Token	_	_	0	_	_	Offset=710-715
 3	thể	_	Token	_	_	0	_	_	Offset=716-719
@@ -214,6 +250,8 @@
 13	nhanh	_	Token	_	_	0	_	_	Offset=754-759
 14	.	_	Token	_	_	0	_	_	Offset=760-761
 
+# sent_id = s19
+# text = Lá thư này từ Peter và nó được chuyển đến ngày hôm qua .
 1	Lá	_	Token	_	_	0	_	_	Offset=763-765
 2	thư	_	Token	_	_	0	_	_	Offset=766-769
 3	này	_	Token	_	_	0	_	_	Offset=770-773
@@ -229,6 +267,8 @@
 13	qua	_	Token	_	_	0	_	_	Offset=814-817
 14	.	_	Token	_	_	0	_	_	Offset=818-819
 
+# sent_id = s20
+# text = Cô ấy lớn lên tại Paris , thủ đô của nước Pháp .
 1	Cô	_	Token	_	_	0	_	_	Offset=820-822
 2	ấy	_	Token	_	_	0	_	_	Offset=823-825
 3	lớn	_	Token	_	_	0	_	_	Offset=826-829

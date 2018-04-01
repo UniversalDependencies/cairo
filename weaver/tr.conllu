@@ -1,14 +1,20 @@
+# sent_id = s1
+# text = Kız arkadaşına mektup yazdı .
 1	Kız	_	NOUN	_	_	0	_	_	Offset=0-3
 2	arkadaşına	_	NOUN	_	_	0	_	_	Offset=4-14
 3	mektup	_	NOUN	_	_	0	_	_	Offset=15-21
 4	yazdı	_	VERB	_	_	0	_	_	Offset=22-27
 5	.	_	PUNCT	_	_	0	_	_	Offset=28-29
 
+# sent_id = s2
+# text = Yağmur yağdığını zannediyorum .
 1	Yağmur	_	Token	_	_	0	_	_	Offset=30-36
 2	yağdığını	_	Token	_	_	0	_	_	Offset=37-46
 3	zannediyorum	_	Token	_	_	0	_	_	Offset=47-59
 4	.	_	Token	_	_	0	_	_	Offset=60-61
 
+# sent_id = s3
+# text = (O) sigara ve alkol içmeyi bırakmayı denedi .
 1	(O)	_	Token	_	_	0	_	_	Offset=62-65
 2	sigara	_	Token	_	_	0	_	_	Offset=66-72
 3	ve	_	Token	_	_	0	_	_	Offset=73-75
@@ -18,24 +24,32 @@
 7	denedi	_	Token	_	_	0	_	_	Offset=99-105
 8	.	_	Token	_	_	0	_	_	Offset=106-107
 
+# sent_id = s4
+# text = (Sen) gitmek istiyor musun ?
 1	(Sen)	_	Token	_	_	0	_	_	Offset=108-113
 2	gitmek	_	Token	_	_	0	_	_	Offset=114-120
 3	istiyor	_	Token	_	_	0	_	_	Offset=121-128
 4	musun	_	Token	_	_	0	_	_	Offset=129-134
 5	?	_	Token	_	_	0	_	_	Offset=135-136
 
+# sent_id = s5
+# text = Sam , pencereyi aç !
 1	Sam	_	Token	_	_	0	_	_	Offset=137-140
 2	,	_	Token	_	_	0	_	_	Offset=141-142
 3	pencereyi	_	Token	_	_	0	_	_	Offset=143-152
 4	aç	_	Token	_	_	0	_	_	Offset=153-155
 5	!	_	Token	_	_	0	_	_	Offset=156-157
 
+# sent_id = s6
+# text = (O) kocasına arabayı yıkattırdı .
 1	(O)	_	Token	_	_	0	_	_	Offset=158-161
 2	kocasına	_	Token	_	_	0	_	_	Offset=162-170
 3	arabayı	_	Token	_	_	0	_	_	Offset=171-178
 4	yıkattırdı	_	Token	_	_	0	_	_	Offset=179-189
 5	.	_	Token	_	_	0	_	_	Offset=190-191
 
+# sent_id = s7
+# text = Peter'in komşusu çiti kırmızı boyadı .
 1	Peter'in	_	Token	_	_	0	_	_	Offset=192-200
 2	komşusu	_	Token	_	_	0	_	_	Offset=201-208
 3	çiti	_	Token	_	_	0	_	_	Offset=209-213
@@ -43,6 +57,8 @@
 5	boyadı	_	Token	_	_	0	_	_	Offset=222-228
 6	.	_	Token	_	_	0	_	_	Offset=229-230
 
+# sent_id = s8
+# text = Benim babam seninkinden daha harika .
 1	Benim	_	Token	_	_	0	_	_	Offset=231-236
 2	babam	_	Token	_	_	0	_	_	Offset=237-242
 3	seninkinden	_	Token	_	_	0	_	_	Offset=243-254
@@ -50,6 +66,8 @@
 5	harika	_	Token	_	_	0	_	_	Offset=260-266
 6	.	_	Token	_	_	0	_	_	Offset=267-268
 
+# sent_id = s9
+# text = Mary bronz kazandı , Peter gümüş , Jane altın .
 1	Mary	_	Token	_	_	0	_	_	Offset=269-273
 2	bronz	_	Token	_	_	0	_	_	Offset=274-279
 3	kazandı	_	Token	_	_	0	_	_	Offset=280-287
@@ -61,6 +79,8 @@
 9	altın	_	Token	_	_	0	_	_	Offset=309-314
 10	.	_	Token	_	_	0	_	_	Offset=315-316
 
+# sent_id = s10
+# text = İguazu büyük bir ülke mi , yoksa küçük mü ?
 1	İguazu	_	Token	_	_	0	_	_	Offset=317-323
 2	büyük	_	Token	_	_	0	_	_	Offset=324-329
 3	bir	_	Token	_	_	0	_	_	Offset=330-333
@@ -72,6 +92,8 @@
 9	mü	_	Token	_	_	0	_	_	Offset=356-358
 10	?	_	Token	_	_	0	_	_	Offset=359-360
 
+# sent_id = s11
+# text = Ne Peter Smith ne de Mary Brown seçilebilir .
 1	Ne	_	Token	_	_	0	_	_	Offset=361-363
 2	Peter	_	Token	_	_	0	_	_	Offset=364-369
 3	Smith	_	Token	_	_	0	_	_	Offset=370-375
@@ -82,6 +104,8 @@
 8	seçilebilir	_	Token	_	_	0	_	_	Offset=393-404
 9	.	_	Token	_	_	0	_	_	Offset=405-406
 
+# sent_id = s12
+# text = (Onlar) kimin yazdığını hiç bilmiyorlar .
 1	(Onlar)	_	Token	_	_	0	_	_	Offset=407-414
 2	kimin	_	Token	_	_	0	_	_	Offset=415-420
 3	yazdığını	_	Token	_	_	0	_	_	Offset=421-430
@@ -89,11 +113,15 @@
 5	bilmiyorlar	_	Token	_	_	0	_	_	Offset=435-446
 6	.	_	Token	_	_	0	_	_	Offset=447-448
 
+# sent_id = s13
+# text = (Sen) neye bakıyorsun ?
 1	(Sen)	_	Token	_	_	0	_	_	Offset=449-454
 2	neye	_	Token	_	_	0	_	_	Offset=455-459
 3	bakıyorsun	_	Token	_	_	0	_	_	Offset=460-470
 4	?	_	Token	_	_	0	_	_	Offset=471-472
 
+# sent_id = s14
+# text = (Sen) ne zaman gelebileceğini zannediyorsun ?
 1	(Sen)	_	Token	_	_	0	_	_	Offset=473-478
 2	ne	_	Token	_	_	0	_	_	Offset=479-481
 3	zaman	_	Token	_	_	0	_	_	Offset=482-487
@@ -101,6 +129,8 @@
 5	zannediyorsun	_	Token	_	_	0	_	_	Offset=503-516
 6	?	_	Token	_	_	0	_	_	Offset=517-518
 
+# sent_id = s15
+# text = (O) araba aldı ama erkek kardeşi sadece bisiklet .
 1	(O)	_	Token	_	_	0	_	_	Offset=519-522
 2	araba	_	Token	_	_	0	_	_	Offset=523-528
 3	aldı	_	Token	_	_	0	_	_	Offset=529-533
@@ -111,6 +141,8 @@
 8	bisiklet	_	Token	_	_	0	_	_	Offset=559-567
 9	.	_	Token	_	_	0	_	_	Offset=568-569
 
+# sent_id = s16
+# text = Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar .
 1	Peter	_	Token	_	_	0	_	_	Offset=570-575
 2	ve	_	Token	_	_	0	_	_	Offset=576-578
 3	Mary	_	Token	_	_	0	_	_	Offset=579-583
@@ -123,6 +155,8 @@
 10	çıktılar	_	Token	_	_	0	_	_	Offset=632-640
 11	.	_	Token	_	_	0	_	_	Offset=641-642
 
+# sent_id = s17
+# text = (O) saçını yapıyor olmalıydı ama nedense o gün yapmadı .
 1	(O)	_	Token	_	_	0	_	_	Offset=643-646
 2	saçını	_	Token	_	_	0	_	_	Offset=647-653
 3	yapıyor	_	Token	_	_	0	_	_	Offset=654-661
@@ -134,6 +168,8 @@
 9	yapmadı	_	Token	_	_	0	_	_	Offset=690-697
 10	.	_	Token	_	_	0	_	_	Offset=698-699
 
+# sent_id = s18
+# text = Ayak uyduramadım çünkü fazla hızlı koştu .
 1	Ayak	_	Token	_	_	0	_	_	Offset=700-704
 2	uyduramadım	_	Token	_	_	0	_	_	Offset=705-716
 3	çünkü	_	Token	_	_	0	_	_	Offset=717-722
@@ -142,6 +178,8 @@
 6	koştu	_	Token	_	_	0	_	_	Offset=735-740
 7	.	_	Token	_	_	0	_	_	Offset=741-742
 
+# sent_id = s19
+# text = Bu mektup Peter'den ve dün iletildi .
 1	Bu	_	Token	_	_	0	_	_	Offset=743-745
 2	mektup	_	Token	_	_	0	_	_	Offset=746-752
 3	Peter'den	_	Token	_	_	0	_	_	Offset=753-762
@@ -150,6 +188,8 @@
 6	iletildi	_	Token	_	_	0	_	_	Offset=770-778
 7	.	_	Token	_	_	0	_	_	Offset=779-780
 
+# sent_id = s20
+# text = (O) Fransanın başkenti Paris'te büyüdü .
 1	(O)	_	Token	_	_	0	_	_	Offset=781-784
 2	Fransanın	_	Token	_	_	0	_	_	Offset=785-794
 3	başkenti	_	Token	_	_	0	_	_	Offset=795-803

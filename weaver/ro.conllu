@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Fata i-a scris o scrisoare prietenei ei .
 1	Fata	_	NOUN	_	_	3	nsubj	_	Offset=0-4
 2	i-a	_	PROPN	_	_	3	iobj	_	Offset=5-8
 3	scris	_	VERB	_	_	0	_	_	Offset=9-14
@@ -7,11 +9,15 @@
 7	ei	_	ADJ	_	Poss=	6	amod	_	Offset=37-39
 8	.	_	PUNCT	_	_	3	punct	_	Offset=40-41
 
+# sent_id = s2
+# text = Cred că plouă .
 1	Cred	_	VERB	_	_	0	_	_	Offset=42-46
 2	că	_	CONJ	_	_	0	_	_	Offset=47-49
 3	plouă	_	VERB	_	_	0	_	_	Offset=50-55
 4	.	_	PUNCT	_	_	0	_	_	Offset=56-57
 
+# sent_id = s3
+# text = A încercat să se oprească din fumat și băut .
 1	A	_	Token	_	_	0	_	_	Offset=58-59
 2	încercat	_	Token	_	_	0	_	_	Offset=60-68
 3	să	_	Token	_	_	0	_	_	Offset=69-71
@@ -23,17 +29,23 @@
 9	băut	_	Token	_	_	0	_	_	Offset=97-101
 10	.	_	Token	_	_	0	_	_	Offset=102-103
 
+# sent_id = s4
+# text = Vrei să mergem ?
 1	Vrei	_	Token	_	_	0	_	_	Offset=104-108
 2	să	_	Token	_	_	0	_	_	Offset=109-111
 3	mergem	_	Token	_	_	0	_	_	Offset=112-118
 4	?	_	Token	_	_	0	_	_	Offset=119-120
 
+# sent_id = s5
+# text = Sam , deschide fereastra !
 1	Sam	_	Token	_	_	0	_	_	Offset=121-124
 2	,	_	Token	_	_	0	_	_	Offset=125-126
 3	deschide	_	Token	_	_	0	_	_	Offset=127-135
 4	fereastra	_	Token	_	_	0	_	_	Offset=136-145
 5	!	_	Token	_	_	0	_	_	Offset=146-147
 
+# sent_id = s6
+# text = Și-a făcut soțul să spele mașina .
 1	Și-a	_	Token	_	_	0	_	_	Offset=148-152
 2	făcut	_	Token	_	_	0	_	_	Offset=153-158
 3	soțul	_	Token	_	_	0	_	_	Offset=159-164
@@ -42,6 +54,8 @@
 6	mașina	_	Token	_	_	0	_	_	Offset=174-180
 7	.	_	Token	_	_	0	_	_	Offset=181-182
 
+# sent_id = s7
+# text = Vecinul lui Peter a vopsit gardul în roșu .
 1	Vecinul	_	Token	_	_	0	_	_	Offset=183-190
 2	lui	_	Token	_	_	0	_	_	Offset=191-194
 3	Peter	_	Token	_	_	0	_	_	Offset=195-200
@@ -52,6 +66,8 @@
 8	roșu	_	Token	_	_	0	_	_	Offset=220-224
 9	.	_	Token	_	_	0	_	_	Offset=225-226
 
+# sent_id = s8
+# text = Tatăl meu este mai grozav decât al tău .
 1	Tatăl	_	Token	_	_	0	_	_	Offset=227-232
 2	meu	_	Token	_	_	0	_	_	Offset=233-236
 3	este	_	Token	_	_	0	_	_	Offset=237-241
@@ -62,6 +78,8 @@
 8	tău	_	Token	_	_	0	_	_	Offset=262-265
 9	.	_	Token	_	_	0	_	_	Offset=266-267
 
+# sent_id = s9
+# text = Mary a câștigat bronz , Peter argint , iar Jane aur .
 1	Mary	_	Token	_	_	0	_	_	Offset=268-272
 2	a	_	Token	_	_	0	_	_	Offset=273-274
 3	câștigat	_	Token	_	_	0	_	_	Offset=275-283
@@ -75,6 +93,8 @@
 11	aur	_	Token	_	_	0	_	_	Offset=316-319
 12	.	_	Token	_	_	0	_	_	Offset=320-321
 
+# sent_id = s10
+# text = Iguazu este o țară mare sau mică ?
 1	Iguazu	_	Token	_	_	0	_	_	Offset=322-328
 2	este	_	Token	_	_	0	_	_	Offset=329-333
 3	o	_	Token	_	_	0	_	_	Offset=334-335
@@ -84,6 +104,8 @@
 7	mică	_	Token	_	_	0	_	_	Offset=350-354
 8	?	_	Token	_	_	0	_	_	Offset=355-356
 
+# sent_id = s11
+# text = Nici Peter Smith , nici Mary Brown nu au putut fi selectați .
 1	Nici	_	Token	_	_	0	_	_	Offset=357-361
 2	Peter	_	Token	_	_	0	_	_	Offset=362-367
 3	Smith	_	Token	_	_	0	_	_	Offset=368-373
@@ -98,6 +120,8 @@
 12	selectați	_	Token	_	_	0	_	_	Offset=407-416
 13	.	_	Token	_	_	0	_	_	Offset=417-418
 
+# sent_id = s12
+# text = Nu au nici o idee despre cine a scris-o .
 1	Nu	_	Token	_	_	0	_	_	Offset=419-421
 2	au	_	Token	_	_	0	_	_	Offset=422-424
 3	nici	_	Token	_	_	0	_	_	Offset=425-429
@@ -109,12 +133,16 @@
 9	scris-o	_	Token	_	_	0	_	_	Offset=451-458
 10	.	_	Token	_	_	0	_	_	Offset=459-460
 
+# sent_id = s13
+# text = La ce te uiți ?
 1	La	_	Token	_	_	0	_	_	Offset=461-463
 2	ce	_	Token	_	_	0	_	_	Offset=464-466
 3	te	_	Token	_	_	0	_	_	Offset=467-469
 4	uiți	_	Token	_	_	0	_	_	Offset=470-474
 5	?	_	Token	_	_	0	_	_	Offset=475-476
 
+# sent_id = s14
+# text = Când crezi că poți veni ?
 1	Când	_	Token	_	_	0	_	_	Offset=477-481
 2	crezi	_	Token	_	_	0	_	_	Offset=482-487
 3	că	_	Token	_	_	0	_	_	Offset=488-490
@@ -122,6 +150,8 @@
 5	veni	_	Token	_	_	0	_	_	Offset=496-500
 6	?	_	Token	_	_	0	_	_	Offset=501-502
 
+# sent_id = s15
+# text = El a cumpărat o mașină , dar fratele lui doar o bicicletă .
 1	El	_	Token	_	_	0	_	_	Offset=503-505
 2	a	_	Token	_	_	0	_	_	Offset=506-507
 3	cumpărat	_	Token	_	_	0	_	_	Offset=508-516
@@ -136,6 +166,8 @@
 12	bicicletă	_	Token	_	_	0	_	_	Offset=551-560
 13	.	_	Token	_	_	0	_	_	Offset=561-562
 
+# sent_id = s16
+# text = Peter și Mary s-au îmbrățișat și apoi au părăsit camera .
 1	Peter	_	Token	_	_	0	_	_	Offset=563-568
 2	și	_	Token	_	_	0	_	_	Offset=569-571
 3	Mary	_	Token	_	_	0	_	_	Offset=572-576
@@ -148,6 +180,8 @@
 10	camera	_	Token	_	_	0	_	_	Offset=612-618
 11	.	_	Token	_	_	0	_	_	Offset=619-620
 
+# sent_id = s17
+# text = Ea ar fi trebuit să-și aranjeze părul , dar din anumite motive nu a făcut-o în acea zi .
 1	Ea	_	Token	_	_	0	_	_	Offset=621-623
 2	ar	_	Token	_	_	0	_	_	Offset=624-626
 3	fi	_	Token	_	_	0	_	_	Offset=627-629
@@ -168,6 +202,8 @@
 18	zi	_	Token	_	_	0	_	_	Offset=705-707
 19	.	_	Token	_	_	0	_	_	Offset=708-709
 
+# sent_id = s18
+# text = Nu am putut să mențin pasul , pentru că el alerga prea repede .
 1	Nu	_	Token	_	_	0	_	_	Offset=710-712
 2	am	_	Token	_	_	0	_	_	Offset=713-715
 3	putut	_	Token	_	_	0	_	_	Offset=716-721
@@ -183,6 +219,8 @@
 13	repede	_	Token	_	_	0	_	_	Offset=765-771
 14	.	_	Token	_	_	0	_	_	Offset=772-773
 
+# sent_id = s19
+# text = Această scrisoare este de la Peter și a fost livrată ieri .
 1	Această	_	Token	_	_	0	_	_	Offset=774-781
 2	scrisoare	_	Token	_	_	0	_	_	Offset=782-791
 3	este	_	Token	_	_	0	_	_	Offset=792-796
@@ -196,6 +234,8 @@
 11	ieri	_	Token	_	_	0	_	_	Offset=827-831
 12	.	_	Token	_	_	0	_	_	Offset=832-833
 
+# sent_id = s20
+# text = Ea a crescut în Paris , capitala Franței .
 1	Ea	_	Token	_	_	0	_	_	Offset=834-836
 2	a	_	Token	_	_	0	_	_	Offset=837-838
 3	crescut	_	Token	_	_	0	_	_	Offset=839-846

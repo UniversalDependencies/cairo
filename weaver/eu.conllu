@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Neskak eskutitz bat idatzi zion bere lagunari .
 1	Neskak	_	Token	_	_	0	_	_	Offset=0-6
 2	eskutitz	_	Token	_	_	0	_	_	Offset=7-15
 3	bat	_	Token	_	_	0	_	_	Offset=16-19
@@ -7,6 +9,8 @@
 7	lagunari	_	Token	_	_	0	_	_	Offset=37-45
 8	.	_	Token	_	_	0	_	_	Offset=46-47
 
+# sent_id = s2
+# text = Uste dut euria ari dela .
 1	Uste	_	Token	_	_	0	_	_	Offset=48-52
 2	dut	_	Token	_	_	0	_	_	Offset=53-56
 3	euria	_	Token	_	_	0	_	_	Offset=57-62
@@ -14,6 +18,8 @@
 5	dela	_	Token	_	_	0	_	_	Offset=67-71
 6	.	_	Token	_	_	0	_	_	Offset=72-73
 
+# sent_id = s3
+# text = Erretzea eta edatea uzten ahalegindu zen.
 1	Erretzea	_	Token	_	_	0	_	_	Offset=74-82
 2	eta	_	Token	_	_	0	_	_	Offset=83-86
 3	edatea	_	Token	_	_	0	_	_	Offset=87-93
@@ -21,18 +27,24 @@
 5	ahalegindu	_	Token	_	_	0	_	_	Offset=100-110
 6	zen.	_	Token	_	_	0	_	_	Offset=111-115
 
+# sent_id = s4
+# text = Joan nahi al duzu ?
 1	Joan	_	Token	_	_	0	_	_	Offset=116-120
 2	nahi	_	Token	_	_	0	_	_	Offset=121-125
 3	al	_	Token	_	_	0	_	_	Offset=126-128
 4	duzu	_	Token	_	_	0	_	_	Offset=129-133
 5	?	_	Token	_	_	0	_	_	Offset=134-135
 
+# sent_id = s5
+# text = Sam , ireki leihoa !
 1	Sam	_	Token	_	_	0	_	_	Offset=136-139
 2	,	_	Token	_	_	0	_	_	Offset=140-141
 3	ireki	_	Token	_	_	0	_	_	Offset=142-147
 4	leihoa	_	Token	_	_	0	_	_	Offset=148-154
 5	!	_	Token	_	_	0	_	_	Offset=155-156
 
+# sent_id = s6
+# text = Bere gizonak kotxea garbitzea eragin zuen .
 1	Bere	_	Token	_	_	0	_	_	Offset=157-161
 2	gizonak	_	Token	_	_	0	_	_	Offset=162-169
 3	kotxea	_	Token	_	_	0	_	_	Offset=170-176
@@ -41,6 +53,8 @@
 6	zuen	_	Token	_	_	0	_	_	Offset=194-198
 7	.	_	Token	_	_	0	_	_	Offset=199-200
 
+# sent_id = s7
+# text = Peterren auzoak hesia gorriz margotu zuen .
 1	Peterren	_	Token	_	_	0	_	_	Offset=201-209
 2	auzoak	_	Token	_	_	0	_	_	Offset=210-216
 3	hesia	_	Token	_	_	0	_	_	Offset=217-222
@@ -49,6 +63,8 @@
 6	zuen	_	Token	_	_	0	_	_	Offset=238-242
 7	.	_	Token	_	_	0	_	_	Offset=243-244
 
+# sent_id = s8
+# text = Nire aita zurea baino atseginagoa da .
 1	Nire	_	Token	_	_	0	_	_	Offset=245-249
 2	aita	_	Token	_	_	0	_	_	Offset=250-254
 3	zurea	_	Token	_	_	0	_	_	Offset=255-260
@@ -57,6 +73,8 @@
 6	da	_	Token	_	_	0	_	_	Offset=279-281
 7	.	_	Token	_	_	0	_	_	Offset=282-283
 
+# sent_id = s9
+# text = Maryk brontzea irabazi zuen , Peterrek zilarra eta Janek urrea .
 1	Maryk	_	Token	_	_	0	_	_	Offset=284-289
 2	brontzea	_	Token	_	_	0	_	_	Offset=290-298
 3	irabazi	_	Token	_	_	0	_	_	Offset=299-306
@@ -69,6 +87,8 @@
 10	urrea	_	Token	_	_	0	_	_	Offset=341-346
 11	.	_	Token	_	_	0	_	_	Offset=347-348
 
+# sent_id = s10
+# text = Iguazu herrialde handia ala txikia da ?
 1	Iguazu	_	Token	_	_	0	_	_	Offset=349-355
 2	herrialde	_	Token	_	_	0	_	_	Offset=356-365
 3	handia	_	Token	_	_	0	_	_	Offset=366-372
@@ -77,6 +97,8 @@
 6	da	_	Token	_	_	0	_	_	Offset=384-386
 7	?	_	Token	_	_	0	_	_	Offset=387-388
 
+# sent_id = s11
+# text = Ez Peter Smith ezta Mary Brown ere ezin ziren aukeratuak izan .
 1	Ez	_	Token	_	_	0	_	_	Offset=389-391
 2	Peter	_	Token	_	_	0	_	_	Offset=392-397
 3	Smith	_	Token	_	_	0	_	_	Offset=398-403
@@ -90,6 +112,8 @@
 11	izan	_	Token	_	_	0	_	_	Offset=446-450
 12	.	_	Token	_	_	0	_	_	Offset=451-452
 
+# sent_id = s12
+# text = Ez dakite nork idatzi zuen .
 1	Ez	_	Token	_	_	0	_	_	Offset=453-455
 2	dakite	_	Token	_	_	0	_	_	Offset=456-462
 3	nork	_	Token	_	_	0	_	_	Offset=463-467
@@ -97,12 +121,16 @@
 5	zuen	_	Token	_	_	0	_	_	Offset=475-479
 6	.	_	Token	_	_	0	_	_	Offset=480-481
 
+# sent_id = s13
+# text = Zeri begiratzen ari zara ?
 1	Zeri	_	Token	_	_	0	_	_	Offset=482-486
 2	begiratzen	_	Token	_	_	0	_	_	Offset=487-497
 3	ari	_	Token	_	_	0	_	_	Offset=498-501
 4	zara	_	Token	_	_	0	_	_	Offset=502-506
 5	?	_	Token	_	_	0	_	_	Offset=507-508
 
+# sent_id = s14
+# text = Noiz uste duzu etor zaitezkeela ?
 1	Noiz	_	Token	_	_	0	_	_	Offset=509-513
 2	uste	_	Token	_	_	0	_	_	Offset=514-518
 3	duzu	_	Token	_	_	0	_	_	Offset=519-523
@@ -110,6 +138,8 @@
 5	zaitezkeela	_	Token	_	_	0	_	_	Offset=529-540
 6	?	_	Token	_	_	0	_	_	Offset=541-542
 
+# sent_id = s15
+# text = Kotxe bat erosi zuen baina bere anaiak bizikleta bat besterik ez .
 1	Kotxe	_	Token	_	_	0	_	_	Offset=543-548
 2	bat	_	Token	_	_	0	_	_	Offset=549-552
 3	erosi	_	Token	_	_	0	_	_	Offset=553-558
@@ -123,6 +153,8 @@
 11	ez	_	Token	_	_	0	_	_	Offset=605-607
 12	.	_	Token	_	_	0	_	_	Offset=608-609
 
+# sent_id = s16
+# text = Peter eta Maryk elkar besarkatu zuten eta gelatik irten ziren .
 1	Peter	_	Token	_	_	0	_	_	Offset=610-615
 2	eta	_	Token	_	_	0	_	_	Offset=616-619
 3	Maryk	_	Token	_	_	0	_	_	Offset=620-625
@@ -135,6 +167,8 @@
 10	ziren	_	Token	_	_	0	_	_	Offset=666-671
 11	.	_	Token	_	_	0	_	_	Offset=672-673
 
+# sent_id = s17
+# text = Bere ilea apaintzen egon beharko lukeen baina ez dakigu zergatik ez zuen egin egun horretan .
 1	Bere	_	Token	_	_	0	_	_	Offset=674-678
 2	ilea	_	Token	_	_	0	_	_	Offset=679-683
 3	apaintzen	_	Token	_	_	0	_	_	Offset=684-693
@@ -152,6 +186,8 @@
 15	horretan	_	Token	_	_	0	_	_	Offset=757-765
 16	.	_	Token	_	_	0	_	_	Offset=766-767
 
+# sent_id = s18
+# text = Ezin nion jarraitu arinegi korrika egin zuelako .
 1	Ezin	_	Token	_	_	0	_	_	Offset=768-772
 2	nion	_	Token	_	_	0	_	_	Offset=773-777
 3	jarraitu	_	Token	_	_	0	_	_	Offset=778-786
@@ -161,6 +197,8 @@
 7	zuelako	_	Token	_	_	0	_	_	Offset=808-815
 8	.	_	Token	_	_	0	_	_	Offset=816-817
 
+# sent_id = s19
+# text = Eskutitz hau Peterrengandik jaso dugu eta atzo bidalia izan zen .
 1	Eskutitz	_	Token	_	_	0	_	_	Offset=818-826
 2	hau	_	Token	_	_	0	_	_	Offset=827-830
 3	Peterrengandik	_	Token	_	_	0	_	_	Offset=831-845
@@ -173,6 +211,8 @@
 10	zen	_	Token	_	_	0	_	_	Offset=878-881
 11	.	_	Token	_	_	0	_	_	Offset=882-883
 
+# sent_id = s20
+# text = Parisen hazi zen , Frantziako hiriburuan .
 1	Parisen	_	Token	_	_	0	_	_	Offset=884-891
 2	hazi	_	Token	_	_	0	_	_	Offset=892-896
 3	zen	_	Token	_	_	0	_	_	Offset=897-900

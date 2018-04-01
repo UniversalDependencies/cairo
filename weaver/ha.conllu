@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Yarinyar ta rubuta watika zuwa ga aboki ta .
 1	Yarinyar	_	Token	_	_	0	_	_	Offset=0-8
 2	ta	_	Token	_	_	0	_	_	Offset=9-11
 3	rubuta	_	Token	_	_	0	_	_	Offset=12-18
@@ -8,6 +10,8 @@
 8	ta	_	Token	_	_	0	_	_	Offset=40-42
 9	.	_	Token	_	_	0	_	_	Offset=43-44
 
+# sent_id = s2
+# text = Na tunane wei a na ruwa .
 1	Na	_	Token	_	_	0	_	_	Offset=45-47
 2	tunane	_	Token	_	_	0	_	_	Offset=48-54
 3	wei	_	Token	_	_	0	_	_	Offset=55-58
@@ -16,6 +20,8 @@
 6	ruwa	_	Token	_	_	0	_	_	Offset=64-68
 7	.	_	Token	_	_	0	_	_	Offset=69-70
 
+# sent_id = s3
+# text = Ya yi kokari ya daina shan taba da giya .
 1	Ya	_	Token	_	_	0	_	_	Offset=71-73
 2	yi	_	Token	_	_	0	_	_	Offset=74-76
 3	kokari	_	Token	_	_	0	_	_	Offset=77-83
@@ -27,6 +33,8 @@
 9	giya	_	Token	_	_	0	_	_	Offset=106-110
 10	.	_	Token	_	_	0	_	_	Offset=111-112
 
+# sent_id = s4
+# text = Ki/ka na son ki/ka tafi ?
 1	Ki/ka	_	Token	_	_	0	_	_	Offset=113-118
 2	na	_	Token	_	_	0	_	_	Offset=119-121
 3	son	_	Token	_	_	0	_	_	Offset=122-125
@@ -34,6 +42,8 @@
 5	tafi	_	Token	_	_	0	_	_	Offset=132-136
 6	?	_	Token	_	_	0	_	_	Offset=137-138
 
+# sent_id = s5
+# text = Sam , bude dan kofar !
 1	Sam	_	Token	_	_	0	_	_	Offset=139-142
 2	,	_	Token	_	_	0	_	_	Offset=143-144
 3	bude	_	Token	_	_	0	_	_	Offset=145-149
@@ -41,6 +51,8 @@
 5	kofar	_	Token	_	_	0	_	_	Offset=154-159
 6	!	_	Token	_	_	0	_	_	Offset=160-161
 
+# sent_id = s6
+# text = Ta sa mijinta ya wanke motan .
 1	Ta	_	Token	_	_	0	_	_	Offset=162-164
 2	sa	_	Token	_	_	0	_	_	Offset=165-167
 3	mijinta	_	Token	_	_	0	_	_	Offset=168-175
@@ -49,6 +61,8 @@
 6	motan	_	Token	_	_	0	_	_	Offset=185-190
 7	.	_	Token	_	_	0	_	_	Offset=191-192
 
+# sent_id = s7
+# text = Makwabcin Peter ya zana darni da jar fenti .
 1	Makwabcin	_	Token	_	_	0	_	_	Offset=193-202
 2	Peter	_	Token	_	_	0	_	_	Offset=203-208
 3	ya	_	Token	_	_	0	_	_	Offset=209-211
@@ -59,6 +73,8 @@
 8	fenti	_	Token	_	_	0	_	_	Offset=230-235
 9	.	_	Token	_	_	0	_	_	Offset=236-237
 
+# sent_id = s8
+# text = Baba na ya na da sanyin hali fiye da naka .
 1	Baba	_	Token	_	_	0	_	_	Offset=238-242
 2	na	_	Token	_	_	0	_	_	Offset=243-245
 3	ya	_	Token	_	_	0	_	_	Offset=246-248
@@ -71,6 +87,8 @@
 10	naka	_	Token	_	_	0	_	_	Offset=275-279
 11	.	_	Token	_	_	0	_	_	Offset=280-281
 
+# sent_id = s9
+# text = Mary ta ciwo tagulla , Peter azirsa , kumma Jane zinari .
 1	Mary	_	Token	_	_	0	_	_	Offset=282-286
 2	ta	_	Token	_	_	0	_	_	Offset=287-289
 3	ciwo	_	Token	_	_	0	_	_	Offset=290-294
@@ -84,6 +102,8 @@
 11	zinari	_	Token	_	_	0	_	_	Offset=331-337
 12	.	_	Token	_	_	0	_	_	Offset=338-339
 
+# sent_id = s10
+# text = Iguaza karami ne ko babban kasa ?
 1	Iguaza	_	Token	_	_	0	_	_	Offset=340-346
 2	karami	_	Token	_	_	0	_	_	Offset=347-353
 3	ne	_	Token	_	_	0	_	_	Offset=354-356
@@ -92,6 +112,8 @@
 6	kasa	_	Token	_	_	0	_	_	Offset=367-371
 7	?	_	Token	_	_	0	_	_	Offset=372-373
 
+# sent_id = s11
+# text = Ba wonde za su dauka ko Peter Smith ko Mary Brown .
 1	Ba	_	Token	_	_	0	_	_	Offset=374-376
 2	wonde	_	Token	_	_	0	_	_	Offset=377-382
 3	za	_	Token	_	_	0	_	_	Offset=383-385
@@ -105,6 +127,8 @@
 11	Brown	_	Token	_	_	0	_	_	Offset=418-423
 12	.	_	Token	_	_	0	_	_	Offset=424-425
 
+# sent_id = s12
+# text = Ba su de masaniya akan wonde ya rubuta shi .
 1	Ba	_	Token	_	_	0	_	_	Offset=426-428
 2	su	_	Token	_	_	0	_	_	Offset=429-431
 3	de	_	Token	_	_	0	_	_	Offset=432-434
@@ -115,12 +139,16 @@
 8	shi	_	Token	_	_	0	_	_	Offset=465-468
 9	.	_	Token	_	_	0	_	_	Offset=469-470
 
+# sent_id = s13
+# text = Menene ki/ka na kalo ?
 1	Menene	_	Token	_	_	0	_	_	Offset=471-477
 2	ki/ka	_	Token	_	_	0	_	_	Offset=478-483
 3	na	_	Token	_	_	0	_	_	Offset=484-486
 4	kalo	_	Token	_	_	0	_	_	Offset=487-491
 5	?	_	Token	_	_	0	_	_	Offset=492-493
 
+# sent_id = s14
+# text = Yaushe ki/ka ke tunane wei ja ki/ka zo ?
 1	Yaushe	_	Token	_	_	0	_	_	Offset=494-500
 2	ki/ka	_	Token	_	_	0	_	_	Offset=501-506
 3	ke	_	Token	_	_	0	_	_	Offset=507-509
@@ -131,6 +159,8 @@
 8	zo	_	Token	_	_	0	_	_	Offset=530-532
 9	?	_	Token	_	_	0	_	_	Offset=533-534
 
+# sent_id = s15
+# text = Ya saya mota amma kanensa babur kowel .
 1	Ya	_	Token	_	_	0	_	_	Offset=535-537
 2	saya	_	Token	_	_	0	_	_	Offset=538-542
 3	mota	_	Token	_	_	0	_	_	Offset=543-547
@@ -140,6 +170,8 @@
 7	kowel	_	Token	_	_	0	_	_	Offset=567-572
 8	.	_	Token	_	_	0	_	_	Offset=573-574
 
+# sent_id = s16
+# text = Peter da Mary sun rugune juna kuma sun bar dakin .
 1	Peter	_	Token	_	_	0	_	_	Offset=575-580
 2	da	_	Token	_	_	0	_	_	Offset=581-583
 3	Mary	_	Token	_	_	0	_	_	Offset=584-588
@@ -152,6 +184,8 @@
 10	dakin	_	Token	_	_	0	_	_	Offset=618-623
 11	.	_	Token	_	_	0	_	_	Offset=624-625
 
+# sent_id = s17
+# text = Ya kamata ta dinga yin kison ta amma sobode wosu dalili ba za ta yi ranan .
 1	Ya	_	Token	_	_	0	_	_	Offset=626-628
 2	kamata	_	Token	_	_	0	_	_	Offset=629-635
 3	ta	_	Token	_	_	0	_	_	Offset=636-638
@@ -170,6 +204,8 @@
 16	ranan	_	Token	_	_	0	_	_	Offset=694-699
 17	.	_	Token	_	_	0	_	_	Offset=700-701
 
+# sent_id = s18
+# text = Na kasa kamo shi soboda ya na da gudu sosai .
 1	Na	_	Token	_	_	0	_	_	Offset=702-704
 2	kasa	_	Token	_	_	0	_	_	Offset=705-709
 3	kamo	_	Token	_	_	0	_	_	Offset=710-714
@@ -182,6 +218,8 @@
 10	sosai	_	Token	_	_	0	_	_	Offset=740-745
 11	.	_	Token	_	_	0	_	_	Offset=746-747
 
+# sent_id = s19
+# text = Wannan watika daga Peter ne kuma ya bada shi jiya .
 1	Wannan	_	Token	_	_	0	_	_	Offset=748-754
 2	watika	_	Token	_	_	0	_	_	Offset=755-761
 3	daga	_	Token	_	_	0	_	_	Offset=762-766
@@ -194,6 +232,8 @@
 10	jiya	_	Token	_	_	0	_	_	Offset=793-797
 11	.	_	Token	_	_	0	_	_	Offset=798-799
 
+# sent_id = s20
+# text = Ta girma a Paris, birni na France .
 1	Ta	_	Token	_	_	0	_	_	Offset=800-802
 2	girma	_	Token	_	_	0	_	_	Offset=803-808
 3	a	_	Token	_	_	0	_	_	Offset=809-810

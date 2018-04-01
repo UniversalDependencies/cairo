@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Sumulat 'yung babae sa kaibigan n'ya .
 1	Sumulat	_	Token	_	_	0	_	_	Offset=0-7
 2	'yung	_	Token	_	_	0	_	_	Offset=8-13
 3	babae	_	Token	_	_	0	_	_	Offset=14-19
@@ -6,6 +8,8 @@
 6	n'ya	_	Token	_	_	0	_	_	Offset=32-36
 7	.	_	Token	_	_	0	_	_	Offset=37-38
 
+# sent_id = s2
+# text = Sa tingin ko , umuulan .
 1	Sa	_	Token	_	_	0	_	_	Offset=39-41
 2	tingin	_	Token	_	_	0	_	_	Offset=42-48
 3	ko	_	Token	_	_	0	_	_	Offset=49-51
@@ -13,6 +17,8 @@
 5	umuulan	_	Token	_	_	0	_	_	Offset=54-61
 6	.	_	Token	_	_	0	_	_	Offset=62-63
 
+# sent_id = s3
+# text = Sinubukan n'yang tumigil sa paninigarilyo at pag-inom .
 1	Sinubukan	_	Token	_	_	0	_	_	Offset=64-73
 2	n'yang	_	Token	_	_	0	_	_	Offset=74-80
 3	tumigil	_	Token	_	_	0	_	_	Offset=81-88
@@ -22,12 +28,16 @@
 7	pag-inom	_	Token	_	_	0	_	_	Offset=109-117
 8	.	_	Token	_	_	0	_	_	Offset=118-119
 
+# sent_id = s4
+# text = Gusto mo bang umalis ?
 1	Gusto	_	Token	_	_	0	_	_	Offset=120-125
 2	mo	_	Token	_	_	0	_	_	Offset=126-128
 3	bang	_	Token	_	_	0	_	_	Offset=129-133
 4	umalis	_	Token	_	_	0	_	_	Offset=134-140
 5	?	_	Token	_	_	0	_	_	Offset=141-142
 
+# sent_id = s5
+# text = Sam , buksan mo ang bintana !
 1	Sam	_	Token	_	_	0	_	_	Offset=143-146
 2	,	_	Token	_	_	0	_	_	Offset=147-148
 3	buksan	_	Token	_	_	0	_	_	Offset=149-155
@@ -36,6 +46,8 @@
 6	bintana	_	Token	_	_	0	_	_	Offset=163-170
 7	!	_	Token	_	_	0	_	_	Offset=171-172
 
+# sent_id = s6
+# text = Pinahugas n'ya ng kotse ang kanyang asawa .
 1	Pinahugas	_	Token	_	_	0	_	_	Offset=173-182
 2	n'ya	_	Token	_	_	0	_	_	Offset=183-187
 3	ng	_	Token	_	_	0	_	_	Offset=188-190
@@ -45,6 +57,8 @@
 7	asawa	_	Token	_	_	0	_	_	Offset=209-214
 8	.	_	Token	_	_	0	_	_	Offset=215-216
 
+# sent_id = s7
+# text = Pininturahan ng pula ng kapitbahay ni Peter ang bakod .
 1	Pininturahan	_	Token	_	_	0	_	_	Offset=217-229
 2	ng	_	Token	_	_	0	_	_	Offset=230-232
 3	pula	_	Token	_	_	0	_	_	Offset=233-237
@@ -56,6 +70,8 @@
 9	bakod	_	Token	_	_	0	_	_	Offset=265-270
 10	.	_	Token	_	_	0	_	_	Offset=271-272
 
+# sent_id = s8
+# text = Mas cool ang tatay ko kaysa sa tatay mo .
 1	Mas	_	Token	_	_	0	_	_	Offset=273-276
 2	cool	_	Token	_	_	0	_	_	Offset=277-281
 3	ang	_	Token	_	_	0	_	_	Offset=282-285
@@ -67,6 +83,8 @@
 9	mo	_	Token	_	_	0	_	_	Offset=310-312
 10	.	_	Token	_	_	0	_	_	Offset=313-314
 
+# sent_id = s9
+# text = Nanalo si Mary ng bronze , si Peter ng silver , at si Jane ng gold .
 1	Nanalo	_	Token	_	_	0	_	_	Offset=315-321
 2	si	_	Token	_	_	0	_	_	Offset=322-324
 3	Mary	_	Token	_	_	0	_	_	Offset=325-329
@@ -85,6 +103,8 @@
 16	gold	_	Token	_	_	0	_	_	Offset=377-381
 17	.	_	Token	_	_	0	_	_	Offset=382-383
 
+# sent_id = s10
+# text = Malaki o maliit na bansa ba ang Iguazu ?
 1	Malaki	_	Token	_	_	0	_	_	Offset=384-390
 2	o	_	Token	_	_	0	_	_	Offset=391-392
 3	maliit	_	Token	_	_	0	_	_	Offset=393-399
@@ -95,6 +115,8 @@
 8	Iguazu	_	Token	_	_	0	_	_	Offset=416-422
 9	?	_	Token	_	_	0	_	_	Offset=423-424
 
+# sent_id = s11
+# text = Hindi pwedeng piliin si Peter Smith ni si Mary Brown .
 1	Hindi	_	Token	_	_	0	_	_	Offset=425-430
 2	pwedeng	_	Token	_	_	0	_	_	Offset=431-438
 3	piliin	_	Token	_	_	0	_	_	Offset=439-445
@@ -107,6 +129,8 @@
 10	Brown	_	Token	_	_	0	_	_	Offset=472-477
 11	.	_	Token	_	_	0	_	_	Offset=478-479
 
+# sent_id = s12
+# text = Wala silang ideya kung sino ang sumulat n'un .
 1	Wala	_	Token	_	_	0	_	_	Offset=480-484
 2	silang	_	Token	_	_	0	_	_	Offset=485-491
 3	ideya	_	Token	_	_	0	_	_	Offset=492-497
@@ -117,11 +141,15 @@
 8	n'un	_	Token	_	_	0	_	_	Offset=520-524
 9	.	_	Token	_	_	0	_	_	Offset=525-526
 
+# sent_id = s13
+# text = Anong tinitingnan mo ?
 1	Anong	_	Token	_	_	0	_	_	Offset=527-532
 2	tinitingnan	_	Token	_	_	0	_	_	Offset=533-544
 3	mo	_	Token	_	_	0	_	_	Offset=545-547
 4	?	_	Token	_	_	0	_	_	Offset=548-549
 
+# sent_id = s14
+# text = Kailan ka makakapunta , sa tingin mo ?
 1	Kailan	_	Token	_	_	0	_	_	Offset=550-556
 2	ka	_	Token	_	_	0	_	_	Offset=557-559
 3	makakapunta	_	Token	_	_	0	_	_	Offset=560-571
@@ -131,6 +159,8 @@
 7	mo	_	Token	_	_	0	_	_	Offset=584-586
 8	?	_	Token	_	_	0	_	_	Offset=587-588
 
+# sent_id = s15
+# text = Bumili s'ya ng kotse pero ang kapatid nya , ng bisikleta lang .
 1	Bumili	_	Token	_	_	0	_	_	Offset=589-595
 2	s'ya	_	Token	_	_	0	_	_	Offset=596-600
 3	ng	_	Token	_	_	0	_	_	Offset=601-603
@@ -145,6 +175,8 @@
 12	lang	_	Token	_	_	0	_	_	Offset=646-650
 13	.	_	Token	_	_	0	_	_	Offset=651-652
 
+# sent_id = s16
+# text = Niyakap nila Peter at Mary ang isa't isa at pagkatapos ay lumabas ng kwarto .
 1	Niyakap	_	Token	_	_	0	_	_	Offset=653-660
 2	nila	_	Token	_	_	0	_	_	Offset=661-665
 3	Peter	_	Token	_	_	0	_	_	Offset=666-671
@@ -161,6 +193,8 @@
 14	kwarto	_	Token	_	_	0	_	_	Offset=722-728
 15	.	_	Token	_	_	0	_	_	Offset=729-730
 
+# sent_id = s17
+# text = Magpapaayos dapat s'ya ng buhok pero sa kung anumang dahilan ay hindi n'ya ginawa n'ung araw na 'yon .
 1	Magpapaayos	_	Token	_	_	0	_	_	Offset=731-742
 2	dapat	_	Token	_	_	0	_	_	Offset=743-748
 3	s'ya	_	Token	_	_	0	_	_	Offset=749-753
@@ -181,6 +215,8 @@
 18	'yon	_	Token	_	_	0	_	_	Offset=827-831
 19	.	_	Token	_	_	0	_	_	Offset=832-833
 
+# sent_id = s18
+# text = Hindi ako makasabay dahil masyado s'yang mabilis tumakbo .
 1	Hindi	_	Token	_	_	0	_	_	Offset=834-839
 2	ako	_	Token	_	_	0	_	_	Offset=840-843
 3	makasabay	_	Token	_	_	0	_	_	Offset=844-853
@@ -191,6 +227,8 @@
 8	tumakbo	_	Token	_	_	0	_	_	Offset=883-890
 9	.	_	Token	_	_	0	_	_	Offset=891-892
 
+# sent_id = s19
+# text = Ang sulat na 'to ay galing kay Peter at kahapon 'to idinilever .
 1	Ang	_	Token	_	_	0	_	_	Offset=893-896
 2	sulat	_	Token	_	_	0	_	_	Offset=897-902
 3	na	_	Token	_	_	0	_	_	Offset=903-905
@@ -205,6 +243,8 @@
 12	idinilever	_	Token	_	_	0	_	_	Offset=945-955
 13	.	_	Token	_	_	0	_	_	Offset=956-957
 
+# sent_id = s20
+# text = Lumaki s'ya sa Paris , ang kabisera ng France .
 1	Lumaki	_	Token	_	_	0	_	_	Offset=958-964
 2	s'ya	_	Token	_	_	0	_	_	Offset=965-969
 3	sa	_	Token	_	_	0	_	_	Offset=970-972

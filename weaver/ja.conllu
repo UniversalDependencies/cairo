@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = 少女 が 友達 に 手紙 を 書いた 。
 1	少女	_	NOUN	_	_	7	nsubj	_	Offset=0-2
 2	が	_	ADP	_	Case=Nom	1	case	_	Offset=3-4
 3	友達	_	NOUN	_	_	7	iobj	_	Offset=5-7
@@ -7,6 +9,8 @@
 7	書いた	_	VERB	_	Tense=Past	0	_	_	Offset=15-18
 8	。	_	PUNCT	_	_	7	punct	_	Offset=19-20
 
+# sent_id = s2
+# text = 雨 が 降っ て いる と 思い ます 。
 1	雨	_	Token	_	_	0	_	_	Offset=21-22
 2	が	_	Token	_	_	0	_	_	Offset=23-24
 3	降っ	_	Token	_	_	0	_	_	Offset=25-27
@@ -17,6 +21,8 @@
 8	ます	_	Token	_	_	0	_	_	Offset=38-40
 9	。	_	Token	_	_	0	_	_	Offset=41-42
 
+# sent_id = s3
+# text = 彼 は タバコ と 酒 を 止めよう と した 。
 1	彼	_	Token	_	_	0	_	_	Offset=43-44
 2	は	_	Token	_	_	0	_	_	Offset=45-46
 3	タバコ	_	Token	_	_	0	_	_	Offset=47-50
@@ -28,10 +34,14 @@
 9	した	_	Token	_	_	0	_	_	Offset=64-66
 10	。	_	Token	_	_	0	_	_	Offset=67-68
 
+# sent_id = s4
+# text = 行き たい ？
 1	行き	_	Token	_	_	0	_	_	Offset=69-71
 2	たい	_	Token	_	_	0	_	_	Offset=72-74
 3	？	_	Token	_	_	0	_	_	Offset=75-76
 
+# sent_id = s5
+# text = サム 、 窓 を 開けて ！
 1	サム	_	Token	_	_	0	_	_	Offset=77-79
 2	、	_	Token	_	_	0	_	_	Offset=80-81
 3	窓	_	Token	_	_	0	_	_	Offset=82-83
@@ -39,6 +49,8 @@
 5	開けて	_	Token	_	_	0	_	_	Offset=86-89
 6	！	_	Token	_	_	0	_	_	Offset=90-91
 
+# sent_id = s6
+# text = 彼女 は 夫 に 車 を 洗わ せた 。
 1	彼女	_	Token	_	_	0	_	_	Offset=92-94
 2	は	_	Token	_	_	0	_	_	Offset=95-96
 3	夫	_	Token	_	_	0	_	_	Offset=97-98
@@ -49,6 +61,8 @@
 8	せた	_	Token	_	_	0	_	_	Offset=108-110
 9	。	_	Token	_	_	0	_	_	Offset=111-112
 
+# sent_id = s7
+# text = ピーター の 隣人 は 塀 を 赤く 塗った 。
 1	ピーター	_	Token	_	_	0	_	_	Offset=113-117
 2	の	_	Token	_	_	0	_	_	Offset=118-119
 3	隣人	_	Token	_	_	0	_	_	Offset=120-122
@@ -59,6 +73,8 @@
 8	塗った	_	Token	_	_	0	_	_	Offset=132-135
 9	。	_	Token	_	_	0	_	_	Offset=136-137
 
+# sent_id = s8
+# text = うち の お父さん は おたく より かっこいい よ 。
 1	うち	_	Token	_	_	0	_	_	Offset=138-140
 2	の	_	Token	_	_	0	_	_	Offset=141-142
 3	お父さん	_	Token	_	_	0	_	_	Offset=143-147
@@ -69,6 +85,8 @@
 8	よ	_	Token	_	_	0	_	_	Offset=163-164
 9	。	_	Token	_	_	0	_	_	Offset=165-166
 
+# sent_id = s9
+# text = メアリー が 銅 、 ピーター が 銀 、 ジェーン が 金 メダル を 獲得 した 。
 1	メアリー	_	Token	_	_	0	_	_	Offset=167-171
 2	が	_	Token	_	_	0	_	_	Offset=172-173
 3	銅	_	Token	_	_	0	_	_	Offset=174-175
@@ -86,6 +104,8 @@
 15	した	_	Token	_	_	0	_	_	Offset=207-209
 16	。	_	Token	_	_	0	_	_	Offset=210-211
 
+# sent_id = s10
+# text = イグアス は 大きな 国 、 それとも 小さ な 国 ？
 1	イグアス	_	Token	_	_	0	_	_	Offset=212-216
 2	は	_	Token	_	_	0	_	_	Offset=217-218
 3	大きな	_	Token	_	_	0	_	_	Offset=219-222
@@ -97,6 +117,8 @@
 9	国	_	Token	_	_	0	_	_	Offset=237-238
 10	？	_	Token	_	_	0	_	_	Offset=239-240
 
+# sent_id = s11
+# text = ピーター ・ スミス も メアリー ・ ブラウン も 選ば れ なかった。
 1	ピーター	_	Token	_	_	0	_	_	Offset=241-245
 2	・	_	Token	_	_	0	_	_	Offset=246-247
 3	スミス	_	Token	_	_	0	_	_	Offset=248-251
@@ -109,6 +131,8 @@
 10	れ	_	Token	_	_	0	_	_	Offset=271-272
 11	なかった。	_	Token	_	_	0	_	_	Offset=273-278
 
+# sent_id = s12
+# text = 誰 が 書いた の か 彼 ら に は 見当 も つか ない 。
 1	誰	_	Token	_	_	0	_	_	Offset=279-280
 2	が	_	Token	_	_	0	_	_	Offset=281-282
 3	書いた	_	Token	_	_	0	_	_	Offset=283-286
@@ -124,6 +148,8 @@
 13	ない	_	Token	_	_	0	_	_	Offset=307-309
 14	。	_	Token	_	_	0	_	_	Offset=310-311
 
+# sent_id = s13
+# text = 何 を 見て いる の ？
 1	何	_	Token	_	_	0	_	_	Offset=312-313
 2	を	_	Token	_	_	0	_	_	Offset=314-315
 3	見て	_	Token	_	_	0	_	_	Offset=316-318
@@ -131,6 +157,8 @@
 5	の	_	Token	_	_	0	_	_	Offset=322-323
 6	？	_	Token	_	_	0	_	_	Offset=324-325
 
+# sent_id = s14
+# text = いつ 来 られ そうです か ？
 1	いつ	_	Token	_	_	0	_	_	Offset=326-328
 2	来	_	Token	_	_	0	_	_	Offset=329-330
 3	られ	_	Token	_	_	0	_	_	Offset=331-333
@@ -138,6 +166,8 @@
 5	か	_	Token	_	_	0	_	_	Offset=339-340
 6	？	_	Token	_	_	0	_	_	Offset=341-342
 
+# sent_id = s15
+# text = 彼 は 車 を 買った けど 、彼 の 弟 は 自転車 だけ だ よ 。
 1	彼	_	Token	_	_	0	_	_	Offset=343-344
 2	は	_	Token	_	_	0	_	_	Offset=345-346
 3	車	_	Token	_	_	0	_	_	Offset=347-348
@@ -154,6 +184,8 @@
 14	よ	_	Token	_	_	0	_	_	Offset=376-377
 15	。	_	Token	_	_	0	_	_	Offset=378-379
 
+# sent_id = s16
+# text = ピーター と メアリー は 抱擁 を 交わし 、 部屋 を 出て いった 。
 1	ピーター	_	Token	_	_	0	_	_	Offset=380-384
 2	と	_	Token	_	_	0	_	_	Offset=385-386
 3	メアリー	_	Token	_	_	0	_	_	Offset=387-391
@@ -168,6 +200,8 @@
 12	いった	_	Token	_	_	0	_	_	Offset=413-416
 13	。	_	Token	_	_	0	_	_	Offset=417-418
 
+# sent_id = s17
+# text = 彼女 は 髪 を 整えて いる はず だった が 、 どういう わけ か その 日 は して い なかった 。
 1	彼女	_	Token	_	_	0	_	_	Offset=419-421
 2	は	_	Token	_	_	0	_	_	Offset=422-423
 3	髪	_	Token	_	_	0	_	_	Offset=424-425
@@ -189,6 +223,8 @@
 19	なかった	_	Token	_	_	0	_	_	Offset=468-472
 20	。	_	Token	_	_	0	_	_	Offset=473-474
 
+# sent_id = s18
+# text = 彼 の 走り が 速 すぎて 、 私 は ついて いけ なかった 。
 1	彼	_	Token	_	_	0	_	_	Offset=475-476
 2	の	_	Token	_	_	0	_	_	Offset=477-478
 3	走り	_	Token	_	_	0	_	_	Offset=479-481
@@ -203,6 +239,8 @@
 12	なかった	_	Token	_	_	0	_	_	Offset=503-507
 13	。	_	Token	_	_	0	_	_	Offset=508-509
 
+# sent_id = s19
+# text = これ が ピーター から の 手紙 で 、 昨日 届き ました 。
 1	これ	_	Token	_	_	0	_	_	Offset=510-512
 2	が	_	Token	_	_	0	_	_	Offset=513-514
 3	ピーター	_	Token	_	_	0	_	_	Offset=515-519
@@ -216,6 +254,8 @@
 11	ました	_	Token	_	_	0	_	_	Offset=538-541
 12	。	_	Token	_	_	0	_	_	Offset=542-543
 
+# sent_id = s20
+# text = 彼女 は フランス の 首都 パリ で 育った 。
 1	彼女	_	Token	_	_	0	_	_	Offset=544-546
 2	は	_	Token	_	_	0	_	_	Offset=547-548
 3	フランス	_	Token	_	_	0	_	_	Offset=549-553

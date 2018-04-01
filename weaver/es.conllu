@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = La chica escribió una carta a su amiga .
 1	La	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Offset=0-2
 2	chica	_	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Offset=3-8
 3	escribió	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=9-17
@@ -8,12 +10,16 @@
 8	amiga	_	NOUN	_	Gender=Fem|Number=Sing	3	iobj	_	Offset=33-38
 9	.	_	PUNCT	_	_	3	punct	_	Offset=39-40
 
+# sent_id = s2
+# text = Creo que está lloviendo .
 1	Creo	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=41-45
 2	que	_	SCONJ	_	_	4	mark	_	Offset=46-49
 3	está	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	Offset=50-54
 4	lloviendo	_	VERB	_	Aspect=Prog|Tense=Pres|VerbForm=Part|Voice=Act	1	ccomp	_	Offset=55-64
 5	.	_	PUNCT	_	_	1	punct	_	Offset=65-66
 
+# sent_id = s3
+# text = (El) intentó parar de fumar y de beber .
 1	(El)	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=67-71
 2	intentó	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=72-79
 3	parar	_	AUX	_	VerbForm=Inf|Voice=Act	2	xcomp	_	Offset=80-85
@@ -24,11 +30,15 @@
 8	beber	_	VERB	_	VerbForm=Inf|Voice=Act	5	remnant	3:xcomp|5:conj	Offset=100-105
 9	.	_	PUNCT	_	_	2	punct	_	Offset=106-107
 
+# sent_id = s4
+# text = ¿ Quieres ir ?
 1	¿	_	PUNCT	_	_	3	punct	_	Offset=108-109
 2	Quieres	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	Offset=110-117
 3	ir	_	VERB	_	VerbForm=Inf|Voice=Act	0	_	_	Offset=118-120
 4	?	_	PUNCT	_	_	3	punct	_	Offset=121-122
 
+# sent_id = s5
+# text = Sam , ¡abre la ventana !
 1	Sam	_	PROPN	_	Number=Sing	4	nsubj	4:vocative	Offset=123-126
 2	,	_	PUNCT	_	_	4	punct	_	Offset=127-128
 3	¡	_	PUNCT	_	_	4	punct	_	Offset=129-130
@@ -37,6 +47,8 @@
 6	ventana	_	NOUN	_	Gender=Fem|Number=Sing	4	dobj	_	Offset=138-145
 7	!	_	PUNCT	_	_	4	punct	_	Offset=146-147
 
+# sent_id = s6
+# text = Ella obligó a su marido a lavar el coche .
 1	Ella	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=148-152
 2	obligó	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=153-159
 3	a	_	ADP	_	_	5	case	_	Offset=160-161
@@ -48,6 +60,8 @@
 9	coche	_	NOUN	_	Gender=Masc|Number=Sing	7	dobj	_	Offset=183-188
 10	.	_	PUNCT	_	_	2	punct	_	Offset=189-190
 
+# sent_id = s7
+# text = El vecino de Peter pintó la valla de rojo .
 1	El	_	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Offset=191-193
 2	vecino	_	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Offset=194-200
 3	de	_	ADP	_	_	4	case	_	Offset=201-203
@@ -59,6 +73,8 @@
 9	rojo	_	NOUN	_	Gender=Masc|Number=Sing	5	xcomp	_	Offset=228-232
 10	.	_	PUNCT	_	_	5	punct	_	Offset=233-234
 
+# sent_id = s8
+# text = Mi papa es más chulo que el tuyo .
 1	Mi	_	PRON	_	Gender=Masc|Number=Sing|Person=1|Poss=|PronType=Prs	2	det	_	Offset=235-237
 2	papa	_	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Offset=238-242
 3	es	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Offset=243-245
@@ -69,6 +85,8 @@
 8	tuyo	_	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=|PronType=Prs	5	advcl	_	Offset=263-267
 9	.	_	PUNCT	_	_	5	punct	_	Offset=268-269
 
+# sent_id = s9
+# text = María ganó el bronce , Peter la plata y Jane el oro .
 1	María	_	PROPN	_	Gender=Fem|Number=Sing	2	nsubj	_	Offset=270-275
 2	ganó	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=276-280
 3	el	_	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Offset=281-283
@@ -83,6 +101,8 @@
 12	oro	_	NOUN	_	Gender=Masc|Number=Sing	8	remnant	4:conj	Offset=318-321
 13	.	_	PUNCT	_	_	2	punct	_	Offset=322-323
 
+# sent_id = s10
+# text = ¿ Iguazú es un país grande o pequeño ?
 1	¿	_	PUNCT	_	_	5	punct	_	Offset=324-325
 2	Iguazú	_	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	Offset=326-332
 3	es	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Offset=333-335
@@ -93,6 +113,8 @@
 8	pequeño	_	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	6	conj	5:amod	Offset=353-360
 9	?	_	PUNCT	_	_	5	punct	_	Offset=361-362
 
+# sent_id = s11
+# text = Ni Peter Smith ni Mary Brown podían ser elegidos .
 1	Ni	_	CONJ	_	_	2	cc	_	Offset=363-365
 2	Peter	_	PROPN	_	Gender=Masc|Number=Sing	7	nsubjpass	_	Offset=366-371
 3	Smith	_	PROPN	_	_	2	name	_	Offset=372-377
@@ -104,6 +126,8 @@
 9	elegidos	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	_	_	Offset=403-411
 10	.	_	PUNCT	_	_	9	punct	_	Offset=412-413
 
+# sent_id = s12
+# text = No tienen ni idea de quién lo escribió .
 1	No	_	ADV	_	Negative=Neg	2	neg	_	Offset=414-416
 2	tienen	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=417-423
 3	ni	_	CONJ	_	_	2	expl	_	Offset=424-426
@@ -114,12 +138,16 @@
 8	escribió	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Offset=444-452
 9	.	_	PUNCT	_	_	2	punct	_	Offset=453-454
 
+# sent_id = s13
+# text = ¿ Qué estás mirando ?
 1	¿	_	PUNCT	_	_	3	punct	_	Offset=455-456
 2	Qué	_	ADV	_	PronType=Int	3	dobj	_	Offset=457-460
 3	estás	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=461-466
 4	mirando	_	VERB	_	Aspect=Pro|VerbForm=Ger|Voice=Act	3	aux	_	Offset=467-474
 5	?	_	PUNCT	_	_	3	punct	_	Offset=475-476
 
+# sent_id = s14
+# text = ¿ Cuándo crees que podrías venir ?
 1	¿	_	PUNCT	_	_	3	punct	_	Offset=477-478
 2	Cuándo	_	PRON	_	PronType=Int	6	advmod	_	Offset=479-485
 3	crees	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=486-491
@@ -128,6 +156,8 @@
 6	venir	_	VERB	_	VerbForm=Inf|Voice=Act	3	xcomp	_	Offset=504-509
 7	?	_	PUNCT	_	_	3	punct	_	Offset=510-511
 
+# sent_id = s15
+# text = Él compró un coche pero su hermano sólo una bicicleta .
 1	Él	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=512-514
 2	compró	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=515-521
 3	un	_	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Offset=522-524
@@ -140,6 +170,8 @@
 10	bicicleta	_	NOUN	_	Gender=Fem|Number=Sing	4	remnant	4:conj	Offset=556-565
 11	.	_	PUNCT	_	_	2	punct	_	Offset=566-567
 
+# sent_id = s16
+# text = Peter y Mary se abrazaron y después salieron de la habitación .
 1	Peter	_	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	Offset=568-573
 2	y	_	CONJ	_	_	1	cc	_	Offset=574-575
 3	Mary	_	PROPN	_	Gender=Fem|Number=Sing	1	conj	5:nsubj	Offset=576-580
@@ -153,6 +185,8 @@
 11	habitación	_	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	Offset=619-629
 12	.	_	PUNCT	_	_	5	punct	_	Offset=630-631
 
+# sent_id = s17
+# text = Ella debería haber estado peinándose pero por alguna razón desconocida ese día no lo hizo .
 1	Ella	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=632-636
 2	debería	_	AUX	_	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	aux	_	Offset=637-644
 3	haber	_	AUX	_	VerbForm=Inf|Voice=Act	4	aux	_	Offset=645-650
@@ -171,6 +205,8 @@
 16	hizo	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Offset=717-721
 17	.	_	PUNCT	_	_	5	punct	_	Offset=722-723
 
+# sent_id = s18
+# text = No pude mantener el ritmo porque corrió demasiado deprisa .
 1	No	_	ADV	_	Negative=Neg	2	neg	_	Offset=724-726
 2	pude	_	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	Offset=727-731
 3	mantener	_	VERB	_	VerbForm=Inf|Voice=Act	0	_	_	Offset=732-740
@@ -182,6 +218,8 @@
 9	deprisa	_	ADV	_	_	7	advmod	_	Offset=774-781
 10	.	_	PUNCT	_	_	3	punct	_	Offset=782-783
 
+# sent_id = s19
+# text = Esta carta es de Peter y llegó ayer .
 1	Esta	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	Offset=784-788
 2	carta	_	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Offset=789-794
 3	es	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=795-797
@@ -192,6 +230,8 @@
 8	ayer	_	ADV	_	_	7	advmod	_	Offset=815-819
 9	.	_	PUNCT	_	_	3	punct	_	Offset=820-821
 
+# sent_id = s20
+# text = Ella creció en París , la capital de Francia .
 1	Ella	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Offset=822-826
 2	creció	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	Offset=827-833
 3	en	_	ADP	_	_	4	case	_	Offset=834-836

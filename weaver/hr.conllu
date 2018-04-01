@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Djevojka je napisala pismo svojoj prijateljici .
 1	Djevojka	_	Token	_	_	0	_	_	Offset=0-8
 2	je	_	Token	_	_	0	_	_	Offset=9-11
 3	napisala	_	Token	_	_	0	_	_	Offset=12-20
@@ -6,11 +8,15 @@
 6	prijateljici	_	Token	_	_	0	_	_	Offset=34-46
 7	.	_	Token	_	_	0	_	_	Offset=47-48
 
+# sent_id = s2
+# text = Mislim da kiši .
 1	Mislim	_	Token	_	_	0	_	_	Offset=49-55
 2	da	_	Token	_	_	0	_	_	Offset=56-58
 3	kiši	_	Token	_	_	0	_	_	Offset=59-63
 4	.	_	Token	_	_	0	_	_	Offset=64-65
 
+# sent_id = s3
+# text = Prestao je pušiti i piti .
 1	Prestao	_	Token	_	_	0	_	_	Offset=66-73
 2	je	_	Token	_	_	0	_	_	Offset=74-76
 3	pušiti	_	Token	_	_	0	_	_	Offset=77-83
@@ -18,17 +24,23 @@
 5	piti	_	Token	_	_	0	_	_	Offset=86-90
 6	.	_	Token	_	_	0	_	_	Offset=91-92
 
+# sent_id = s4
+# text = Želiš li ići ?
 1	Želiš	_	Token	_	_	0	_	_	Offset=93-98
 2	li	_	Token	_	_	0	_	_	Offset=99-101
 3	ići	_	Token	_	_	0	_	_	Offset=102-105
 4	?	_	Token	_	_	0	_	_	Offset=106-107
 
+# sent_id = s5
+# text = Sam , otvori prozor !
 1	Sam	_	Token	_	_	0	_	_	Offset=108-111
 2	,	_	Token	_	_	0	_	_	Offset=112-113
 3	otvori	_	Token	_	_	0	_	_	Offset=114-120
 4	prozor	_	Token	_	_	0	_	_	Offset=121-127
 5	!	_	Token	_	_	0	_	_	Offset=128-129
 
+# sent_id = s6
+# text = Ona je prisilila svojeg muža da opere auto .
 1	Ona	_	Token	_	_	0	_	_	Offset=130-133
 2	je	_	Token	_	_	0	_	_	Offset=134-136
 3	prisilila	_	Token	_	_	0	_	_	Offset=137-146
@@ -39,6 +51,8 @@
 8	auto	_	Token	_	_	0	_	_	Offset=168-172
 9	.	_	Token	_	_	0	_	_	Offset=173-174
 
+# sent_id = s7
+# text = Peterov je susjed obojao ogradu u crveno .
 1	Peterov	_	Token	_	_	0	_	_	Offset=175-182
 2	je	_	Token	_	_	0	_	_	Offset=183-185
 3	susjed	_	Token	_	_	0	_	_	Offset=186-192
@@ -48,6 +62,8 @@
 7	crveno	_	Token	_	_	0	_	_	Offset=209-215
 8	.	_	Token	_	_	0	_	_	Offset=216-217
 
+# sent_id = s8
+# text = Moj je tata bolji od tvojeg .
 1	Moj	_	Token	_	_	0	_	_	Offset=218-221
 2	je	_	Token	_	_	0	_	_	Offset=222-224
 3	tata	_	Token	_	_	0	_	_	Offset=225-229
@@ -56,6 +72,8 @@
 6	tvojeg	_	Token	_	_	0	_	_	Offset=239-245
 7	.	_	Token	_	_	0	_	_	Offset=246-247
 
+# sent_id = s9
+# text = Mary je osvojila broncu , Peter srebro , a Jane zlato .
 1	Mary	_	Token	_	_	0	_	_	Offset=248-252
 2	je	_	Token	_	_	0	_	_	Offset=253-255
 3	osvojila	_	Token	_	_	0	_	_	Offset=256-264
@@ -69,6 +87,8 @@
 11	zlato	_	Token	_	_	0	_	_	Offset=296-301
 12	.	_	Token	_	_	0	_	_	Offset=302-303
 
+# sent_id = s10
+# text = Je li Iguazu velika ili mala zemlja ?
 1	Je	_	Token	_	_	0	_	_	Offset=304-306
 2	li	_	Token	_	_	0	_	_	Offset=307-309
 3	Iguazu	_	Token	_	_	0	_	_	Offset=310-316
@@ -78,6 +98,8 @@
 7	zemlja	_	Token	_	_	0	_	_	Offset=333-339
 8	?	_	Token	_	_	0	_	_	Offset=340-341
 
+# sent_id = s11
+# text = Ni Peter Smith ni Mary Brown nisu mogli biti odabrani .
 1	Ni	_	Token	_	_	0	_	_	Offset=342-344
 2	Peter	_	Token	_	_	0	_	_	Offset=345-350
 3	Smith	_	Token	_	_	0	_	_	Offset=351-356
@@ -90,6 +112,8 @@
 10	odabrani	_	Token	_	_	0	_	_	Offset=387-395
 11	.	_	Token	_	_	0	_	_	Offset=396-397
 
+# sent_id = s12
+# text = Oni nemaju pojma tko je to napisao .
 1	Oni	_	Token	_	_	0	_	_	Offset=398-401
 2	nemaju	_	Token	_	_	0	_	_	Offset=402-408
 3	pojma	_	Token	_	_	0	_	_	Offset=409-414
@@ -99,11 +123,15 @@
 7	napisao	_	Token	_	_	0	_	_	Offset=425-432
 8	.	_	Token	_	_	0	_	_	Offset=433-434
 
+# sent_id = s13
+# text = U što gledaš ?
 1	U	_	Token	_	_	0	_	_	Offset=435-436
 2	što	_	Token	_	_	0	_	_	Offset=437-440
 3	gledaš	_	Token	_	_	0	_	_	Offset=441-447
 4	?	_	Token	_	_	0	_	_	Offset=448-449
 
+# sent_id = s14
+# text = Kada misliš da možeš doći ?
 1	Kada	_	Token	_	_	0	_	_	Offset=450-454
 2	misliš	_	Token	_	_	0	_	_	Offset=455-461
 3	da	_	Token	_	_	0	_	_	Offset=462-464
@@ -111,6 +139,8 @@
 5	doći	_	Token	_	_	0	_	_	Offset=471-475
 6	?	_	Token	_	_	0	_	_	Offset=476-477
 
+# sent_id = s15
+# text = On je kupio auto , no njegov brat samo bicikl .
 1	On	_	Token	_	_	0	_	_	Offset=478-480
 2	je	_	Token	_	_	0	_	_	Offset=481-483
 3	kupio	_	Token	_	_	0	_	_	Offset=484-489
@@ -123,6 +153,8 @@
 10	bicikl	_	Token	_	_	0	_	_	Offset=517-523
 11	.	_	Token	_	_	0	_	_	Offset=524-525
 
+# sent_id = s16
+# text = Peter i Mary su se zagrlili i potom napustili sobu .
 1	Peter	_	Token	_	_	0	_	_	Offset=526-531
 2	i	_	Token	_	_	0	_	_	Offset=532-533
 3	Mary	_	Token	_	_	0	_	_	Offset=534-538
@@ -135,6 +167,8 @@
 10	sobu	_	Token	_	_	0	_	_	Offset=572-576
 11	.	_	Token	_	_	0	_	_	Offset=577-578
 
+# sent_id = s17
+# text = Ona je bila trebala sređivati kosu , no iz nekog razloga tog dana nije htjela .
 1	Ona	_	Token	_	_	0	_	_	Offset=579-582
 2	je	_	Token	_	_	0	_	_	Offset=583-585
 3	bila	_	Token	_	_	0	_	_	Offset=586-590
@@ -152,6 +186,8 @@
 15	htjela	_	Token	_	_	0	_	_	Offset=650-656
 16	.	_	Token	_	_	0	_	_	Offset=657-658
 
+# sent_id = s18
+# text = Nisam mogao pratiti jer je on trčao prebrzo .
 1	Nisam	_	Token	_	_	0	_	_	Offset=659-664
 2	mogao	_	Token	_	_	0	_	_	Offset=665-670
 3	pratiti	_	Token	_	_	0	_	_	Offset=671-678
@@ -162,6 +198,8 @@
 8	prebrzo	_	Token	_	_	0	_	_	Offset=695-702
 9	.	_	Token	_	_	0	_	_	Offset=703-704
 
+# sent_id = s19
+# text = Ovo pismo je od Petera i dostavljeno je jučer .
 1	Ovo	_	Token	_	_	0	_	_	Offset=705-708
 2	pismo	_	Token	_	_	0	_	_	Offset=709-714
 3	je	_	Token	_	_	0	_	_	Offset=715-717
@@ -173,6 +211,8 @@
 9	jučer	_	Token	_	_	0	_	_	Offset=745-750
 10	.	_	Token	_	_	0	_	_	Offset=751-752
 
+# sent_id = s20
+# text = Ona je odrasla u Parizu , glavnom gradu Francuske .
 1	Ona	_	Token	_	_	0	_	_	Offset=753-756
 2	je	_	Token	_	_	0	_	_	Offset=757-759
 3	odrasla	_	Token	_	_	0	_	_	Offset=760-767

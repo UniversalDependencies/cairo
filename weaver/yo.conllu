@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = Ọmọdébìnrin náà kọ lẹ́tà sí ọ̀rẹ́ẹ rẹ̀ .
 1	Ọmọdébìnrin	_	Token	_	_	0	_	_	Offset=0-11
 2	náà	_	Token	_	_	0	_	_	Offset=12-15
 3	kọ	_	Token	_	_	0	_	_	Offset=16-18
@@ -7,6 +9,8 @@
 7	rẹ̀	_	Token	_	_	0	_	_	Offset=35-38
 8	.	_	Token	_	_	0	_	_	Offset=39-40
 
+# sent_id = s2
+# text = Mo rò pé òjò ńrọ̀ .
 1	Mo	_	Token	_	_	0	_	_	Offset=41-43
 2	rò	_	Token	_	_	0	_	_	Offset=44-46
 3	pé	_	Token	_	_	0	_	_	Offset=47-49
@@ -14,6 +18,8 @@
 5	ńrọ̀	_	Token	_	_	0	_	_	Offset=54-58
 6	.	_	Token	_	_	0	_	_	Offset=59-60
 
+# sent_id = s3
+# text = Ó gbìyànjú láti dẹ́kun sìgá àti ọtí mímu .
 1	Ó	_	Token	_	_	0	_	_	Offset=61-62
 2	gbìyànjú	_	Token	_	_	0	_	_	Offset=63-71
 3	láti	_	Token	_	_	0	_	_	Offset=72-76
@@ -24,18 +30,24 @@
 8	mímu	_	Token	_	_	0	_	_	Offset=97-101
 9	.	_	Token	_	_	0	_	_	Offset=102-103
 
+# sent_id = s4
+# text = Ǹjẹ́ o fẹ́ lọ .
 1	Ǹjẹ́	_	Token	_	_	0	_	_	Offset=104-108
 2	o	_	Token	_	_	0	_	_	Offset=109-110
 3	fẹ́	_	Token	_	_	0	_	_	Offset=111-114
 4	lọ	_	Token	_	_	0	_	_	Offset=115-117
 5	.	_	Token	_	_	0	_	_	Offset=118-119
 
+# sent_id = s5
+# text = Sáàmù , sí fèrèsé !
 1	Sáàmù	_	Token	_	_	0	_	_	Offset=120-125
 2	,	_	Token	_	_	0	_	_	Offset=126-127
 3	sí	_	Token	_	_	0	_	_	Offset=128-130
 4	fèrèsé	_	Token	_	_	0	_	_	Offset=131-137
 5	!	_	Token	_	_	0	_	_	Offset=138-139
 
+# sent_id = s6
+# text = Ó jẹ́kí ọkọ rẹ̀ fọ ọkọ̀ ayọ́kélé náà .
 1	Ó	_	Token	_	_	0	_	_	Offset=140-141
 2	jẹ́kí	_	Token	_	_	0	_	_	Offset=142-147
 3	ọkọ	_	Token	_	_	0	_	_	Offset=148-151
@@ -46,6 +58,8 @@
 8	náà	_	Token	_	_	0	_	_	Offset=173-176
 9	.	_	Token	_	_	0	_	_	Offset=177-178
 
+# sent_id = s7
+# text = Amulegbe Pétérù kun odi náà ní pupa .
 1	Amulegbe	_	Token	_	_	0	_	_	Offset=179-187
 2	Pétérù	_	Token	_	_	0	_	_	Offset=188-194
 3	kun	_	Token	_	_	0	_	_	Offset=195-198
@@ -55,6 +69,8 @@
 7	pupa	_	Token	_	_	0	_	_	Offset=210-214
 8	.	_	Token	_	_	0	_	_	Offset=215-216
 
+# sent_id = s8
+# text = Bàbáà mi tutù ju tìrẹ lọ .
 1	Bàbáà	_	Token	_	_	0	_	_	Offset=217-222
 2	mi	_	Token	_	_	0	_	_	Offset=223-225
 3	tutù	_	Token	_	_	0	_	_	Offset=226-230
@@ -63,6 +79,8 @@
 6	lọ	_	Token	_	_	0	_	_	Offset=239-241
 7	.	_	Token	_	_	0	_	_	Offset=242-243
 
+# sent_id = s9
+# text = Màríà gba àmì idẹ , Pétérù àmì fàdákà , àti Jéènì àmì wúrà .
 1	Màríà	_	Token	_	_	0	_	_	Offset=244-249
 2	gba	_	Token	_	_	0	_	_	Offset=250-253
 3	àmì	_	Token	_	_	0	_	_	Offset=254-257
@@ -78,6 +96,8 @@
 13	wúrà	_	Token	_	_	0	_	_	Offset=298-302
 14	.	_	Token	_	_	0	_	_	Offset=303-304
 
+# sent_id = s10
+# text = Ǹjẹ́ orílè èdè ńlá ni Iguasuu tàbí kékeré .
 1	Ǹjẹ́	_	Token	_	_	0	_	_	Offset=305-309
 2	orílè	_	Token	_	_	0	_	_	Offset=310-315
 3	èdè	_	Token	_	_	0	_	_	Offset=316-319
@@ -88,6 +108,8 @@
 8	kékeré	_	Token	_	_	0	_	_	Offset=340-346
 9	.	_	Token	_	_	0	_	_	Offset=347-348
 
+# sent_id = s11
+# text = Kòsí ẹni tí a lè mú nínú Pétérù Símìtì àti Màríà Búrànù .
 1	Kòsí	_	Token	_	_	0	_	_	Offset=349-353
 2	ẹni	_	Token	_	_	0	_	_	Offset=354-357
 3	tí	_	Token	_	_	0	_	_	Offset=358-360
@@ -102,6 +124,8 @@
 12	Búrànù	_	Token	_	_	0	_	_	Offset=398-404
 13	.	_	Token	_	_	0	_	_	Offset=405-406
 
+# sent_id = s12
+# text = Wọn kò ní ìmò nípa ẹni tí ó kọọ́ .
 1	Wọn	_	Token	_	_	0	_	_	Offset=407-410
 2	kò	_	Token	_	_	0	_	_	Offset=411-413
 3	ní	_	Token	_	_	0	_	_	Offset=414-416
@@ -113,12 +137,16 @@
 9	kọọ́	_	Token	_	_	0	_	_	Offset=435-439
 10	.	_	Token	_	_	0	_	_	Offset=440-441
 
+# sent_id = s13
+# text = Kíni ò ń wò ?
 1	Kíni	_	Token	_	_	0	_	_	Offset=442-446
 2	ò	_	Token	_	_	0	_	_	Offset=447-448
 3	ń	_	Token	_	_	0	_	_	Offset=449-450
 4	wò	_	Token	_	_	0	_	_	Offset=451-453
 5	?	_	Token	_	_	0	_	_	Offset=454-455
 
+# sent_id = s14
+# text = Nígbà wo ni o lérò pé o lè wá ?
 1	Nígbà	_	Token	_	_	0	_	_	Offset=456-461
 2	wo	_	Token	_	_	0	_	_	Offset=462-464
 3	ni	_	Token	_	_	0	_	_	Offset=465-467
@@ -130,6 +158,8 @@
 9	wá	_	Token	_	_	0	_	_	Offset=483-485
 10	?	_	Token	_	_	0	_	_	Offset=486-487
 
+# sent_id = s15
+# text = Ó ra ọkọ̀ ayọ́kele sùgbọ́n arákùnrin rẹ̀ ra alùpùpù lásán .
 1	Ó	_	Token	_	_	0	_	_	Offset=488-489
 2	ra	_	Token	_	_	0	_	_	Offset=490-492
 3	ọkọ̀	_	Token	_	_	0	_	_	Offset=493-497
@@ -142,6 +172,8 @@
 10	lásán	_	Token	_	_	0	_	_	Offset=540-545
 11	.	_	Token	_	_	0	_	_	Offset=546-547
 
+# sent_id = s16
+# text = Pétérù àti Màríà dì mọ́ ara won , wọ́n sì jáde kúrò nínúu iyàrá náà .
 1	Pétérù	_	Token	_	_	0	_	_	Offset=548-554
 2	àti	_	Token	_	_	0	_	_	Offset=555-558
 3	Màríà	_	Token	_	_	0	_	_	Offset=559-564
@@ -159,6 +191,8 @@
 15	náà	_	Token	_	_	0	_	_	Offset=612-615
 16	.	_	Token	_	_	0	_	_	Offset=616-617
 
+# sent_id = s17
+# text = Ìbáti má a se irun rẹ̀ ṣùgbọ́n fún àwọn ìdíwọ́ kan , kòle è sé lọ́jọ́ náà .
 1	Ìbáti	_	Token	_	_	0	_	_	Offset=618-623
 2	má	_	Token	_	_	0	_	_	Offset=624-626
 3	a	_	Token	_	_	0	_	_	Offset=627-628
@@ -178,6 +212,8 @@
 17	náà	_	Token	_	_	0	_	_	Offset=688-691
 18	.	_	Token	_	_	0	_	_	Offset=692-693
 
+# sent_id = s18
+# text = Èmi kòleè báa nítorí pé óyára sáré jù mí lọ .
 1	Èmi	_	Token	_	_	0	_	_	Offset=694-697
 2	kòleè	_	Token	_	_	0	_	_	Offset=698-703
 3	báa	_	Token	_	_	0	_	_	Offset=704-707
@@ -190,6 +226,8 @@
 10	lọ	_	Token	_	_	0	_	_	Offset=735-737
 11	.	_	Token	_	_	0	_	_	Offset=738-739
 
+# sent_id = s19
+# text = Lẹ́ta yìí wá láti ọ̀dọ̀ Pétérù , wọ́n sì fi jísẹ́ lánàá .
 1	Lẹ́ta	_	Token	_	_	0	_	_	Offset=740-745
 2	yìí	_	Token	_	_	0	_	_	Offset=746-749
 3	wá	_	Token	_	_	0	_	_	Offset=750-752
@@ -204,6 +242,8 @@
 12	lánàá	_	Token	_	_	0	_	_	Offset=790-795
 13	.	_	Token	_	_	0	_	_	Offset=796-797
 
+# sent_id = s20
+# text = Ódàgbà ní Pàríìsì , olú ìlú Faransé .
 1	Ódàgbà	_	Token	_	_	0	_	_	Offset=798-804
 2	ní	_	Token	_	_	0	_	_	Offset=805-807
 3	Pàríìsì	_	Token	_	_	0	_	_	Offset=808-815

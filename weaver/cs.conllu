@@ -1,15 +1,21 @@
+# sent_id = s1
+# text = Dívka napsala dopis příteli .
 1	Dívka	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Offset=0-5
 2	napsala	_	VERB	_	Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=6-13
 3	dopis	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	dobj	_	Offset=14-19
 4	příteli	_	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Offset=20-27
 5	.	_	PUNCT	_	_	2	punct	_	Offset=28-29
 
+# sent_id = s2
+# text = Myslím , že prší .
 1	Myslím	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=30-36
 2	,	_	PUNCT	_	_	4	punct	_	Offset=37-38
 3	že	_	SCONJ	_	_	4	mark	_	Offset=39-41
 4	prší	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Offset=42-46
 5	.	_	PUNCT	_	_	1	punct	_	Offset=47-48
 
+# sent_id = s3
+# text = Zkusil přestat s kouřením a pitím .
 1	Zkusil	_	VERB	_	Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=49-55
 2	přestat	_	VERB	_	Aspect=Perf|Negative=Pos|VerbForm=Inf	1	xcomp	_	Offset=56-63
 3	s	_	ADP	_	_	4	case	_	Offset=64-65
@@ -18,22 +24,30 @@
 6	pitím	_	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	4	conj	_	Offset=77-82
 7	.	_	PUNCT	_	_	1	punct	_	Offset=83-84
 
+# sent_id = s4
+# text = Chceš jít ?
 1	Chceš	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=85-90
 2	jít	_	VERB	_	Aspect=Imp|VerbForm=Inf	1	xcomp	_	Offset=91-94
 3	?	_	PUNCT	_	_	1	punct	_	Offset=95-96
 
+# sent_id = s5
+# text = Same , otevři okno !
 1	Same	_	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc	3	vocative	_	Offset=97-101
 2	,	_	PUNCT	_	_	1	punct	_	Offset=102-103
 3	otevři	_	VERB	_	Aspect=Imp|Mood=Imp|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=104-110
 4	okno	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	dobj	_	Offset=111-115
 5	!	_	PUNCT	_	_	3	punct	_	Offset=116-117
 
+# sent_id = s6
+# text = Přiměla manžela umýt auto .
 1	Přiměla	_	VERB	_	Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=118-125
 2	manžela	_	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	dobj	_	Offset=126-133
 3	umýt	_	VERB	_	Negative=Pos|VerbForm=Inf	1	xcomp	_	Offset=134-138
 4	auto	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	dobj	_	Offset=139-143
 5	.	_	PUNCT	_	_	1	punct	_	Offset=144-145
 
+# sent_id = s7
+# text = Petrův soused natřel plot na červeno .
 1	Petrův	_	ADJ	_	Case=Nom|Gender=Masc|Poss=	2	amod	_	Offset=146-152
 2	soused	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Offset=153-159
 3	natřel	_	VERB	_	Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=160-166
@@ -42,6 +56,8 @@
 6	červeno	_	ADV	_	_	3	xcomp	_	Offset=175-182
 7	.	_	PUNCT	_	_	3	punct	_	Offset=183-184
 
+# sent_id = s8
+# text = Můj táta je zábavnější než tvůj .
 1	Můj	_	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=	2	det	_	Offset=185-188
 2	táta	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Offset=189-193
 3	je	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Offset=194-196
@@ -50,6 +66,8 @@
 6	tvůj	_	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=	4	nmod	_	Offset=212-216
 7	.	_	PUNCT	_	_	4	punct	_	Offset=217-218
 
+# sent_id = s9
+# text = Marie vyhrála bronz , Petr stříbro a Jana zlato .
 1	Marie	_	PROPN	_	Case=Nom|Gender=Fem	2	nsubj	_	Offset=219-224
 2	vyhrála	_	VERB	_	Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=225-232
 3	bronz	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc	2	dobj	_	Offset=233-238
@@ -61,6 +79,8 @@
 9	zlato	_	NOUN	_	Case=Acc|Gender=Neut	2	dobj	_	Offset=261-266
 10	.	_	PUNCT	_	_	2	punct	_	Offset=267-268
 
+# sent_id = s10
+# text = Je Iguazu velká , nebo malá země ?
 1	Je	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Offset=269-271
 2	Iguazu	_	PROPN	_	Case=Nom	7	nsubj	_	Offset=272-278
 3	velká	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	Offset=279-284
@@ -70,6 +90,8 @@
 7	země	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	Offset=297-301
 8	?	_	PUNCT	_	_	7	punct	_	Offset=302-303
 
+# sent_id = s11
+# text = Nemohl být vybrán ani Peter Smith , ani Mary Brown .
 1	Nemohl	_	VERB	_	Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part	3	aux	_	Offset=304-310
 2	být	_	AUX	_	Aspect=Imp|VerbForm=Inf	3	auxpass	_	Offset=311-314
 3	vybrán	_	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	Offset=315-321
@@ -82,6 +104,8 @@
 10	Brown	_	PROPN	_	Case=Nom	9	name	6:conj	Offset=349-354
 11	.	_	PUNCT	_	_	3	punct	_	Offset=355-356
 
+# sent_id = s12
+# text = Nemají tušení , kdo to napsal .
 1	Nemají	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=357-363
 2	tušení	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dobj	_	Offset=364-370
 3	,	_	PUNCT	_	_	6	punct	_	Offset=371-372
@@ -90,12 +114,16 @@
 6	napsal	_	VERB	_	Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	Offset=380-386
 7	.	_	PUNCT	_	_	1	punct	_	Offset=387-388
 
+# sent_id = s13
+# text = Na co se díváš ?
 1	Na	_	ADP	_	_	2	case	_	Offset=389-391
 2	co	_	PRON	_	Case=Acc|PronType=Int	4	dobj	_	Offset=392-394
 3	se	_	PRON	_	PronType=Prs|Reflex=	4	expl	_	Offset=395-397
 4	díváš	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=398-403
 5	?	_	PUNCT	_	_	4	punct	_	Offset=404-405
 
+# sent_id = s14
+# text = Kdy myslíš , že můžeš přijít ?
 1	Kdy	_	ADV	_	PronType=Int	6	advmod	_	Offset=406-409
 2	myslíš	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=410-416
 3	,	_	PUNCT	_	_	6	punct	_	Offset=417-418
@@ -104,6 +132,8 @@
 6	přijít	_	VERB	_	Aspect=Perf|Negative=Pos|VerbForm=Inf	2	ccomp	_	Offset=428-434
 7	?	_	PUNCT	_	_	2	punct	_	Offset=435-436
 
+# sent_id = s15
+# text = Koupil si auto , ale jeho bratr jen motorku .
 1	Koupil	_	VERB	_	Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=437-443
 2	si	_	PRON	_	Case=Dat|PronType=Prs|Reflex=	1	iobj	_	Offset=444-446
 3	auto	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dobj	_	Offset=447-451
@@ -115,6 +145,8 @@
 9	motorku	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	dobj	3:remnant	Offset=473-480
 10	.	_	PUNCT	_	_	1	punct	_	Offset=481-482
 
+# sent_id = s16
+# text = Petr a Marie se objali a pak odešli z pokoje .
 1	Petr	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc	5	nsubj	_	Offset=483-487
 2	a	_	CONJ	_	_	1	cc	_	Offset=488-489
 3	Marie	_	PROPN	_	Case=Nom|Gender=Fem	1	conj	_	Offset=490-495
@@ -127,6 +159,8 @@
 10	pokoje	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	Offset=521-527
 11	.	_	PUNCT	_	_	5	punct	_	Offset=528-529
 
+# sent_id = s17
+# text = Byla by si měla dělat účes , ale z nějakého důvodu to toho dne nedělala .
 1	Byla	_	AUX	_	Aspect=Imp|Gender=Fem|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part	4	aux	_	Offset=530-534
 2	by	_	AUX	_	Aspect=Imp|Number=Sing|Person=3	4	aux	_	Offset=535-537
 3	si	_	PRON	_	Case=Dat|PronType=Prs|Reflex=	5	iobj	_	Offset=538-540
@@ -144,6 +178,8 @@
 15	nedělala	_	VERB	_	Aspect=Imp|Gender=Fem|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=593-601
 16	.	_	PUNCT	_	_	5	punct	_	Offset=602-603
 
+# sent_id = s18
+# text = Nebyl jsem schopen držet krok , protože běžel příliš rychle .
 1	Nebyl	_	AUX	_	Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	Offset=604-609
 2	jsem	_	AUX	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Tense=Pres|VerbForm=Fin	3	aux	_	Offset=610-614
 3	schopen	_	ADJ	_	Case=Nom|Gender=Masc	0	_	_	Offset=615-622
@@ -156,6 +192,8 @@
 10	rychle	_	ADV	_	Degree=Pos	8	advmod	_	Offset=657-663
 11	.	_	PUNCT	_	_	3	punct	_	Offset=664-665
 
+# sent_id = s19
+# text = Tento dopis je od Petra a byl doručen včera .
 1	Tento	_	DET	_	_	2	det	_	Offset=666-671
 2	dopis	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Offset=672-677
 3	je	_	VERB	_	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Offset=678-680
@@ -167,6 +205,8 @@
 9	včera	_	ADV	_	_	8	nmod	_	Offset=704-709
 10	.	_	PUNCT	_	_	5	punct	_	Offset=710-711
 
+# sent_id = s20
+# text = Vyrostla v Paříži , hlavním městě Francie .
 1	Vyrostla	_	VERB	_	Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=712-720
 2	v	_	ADP	_	_	3	case	_	Offset=721-722
 3	Paříži	_	PROPN	_	Case=Loc|Gender=Fem	1	nmod	_	Offset=723-729

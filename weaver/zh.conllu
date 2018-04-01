@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = 女孩 给 她 的 朋友 写 了 一 封 信 。
 1	女孩	_	NOUN	_	_	2	nsubj	6:nsubj	Offset=0-2
 2	给	_	VERB	_	_	5	case	_	Offset=3-4
 3	她	_	PRON	_	_	5	nmod	_	Offset=5-6
@@ -10,12 +12,16 @@
 10	信	_	NOUN	_	_	6	dobj	_	Offset=20-21
 11	。	_	PUNCT	_	_	6	punct	_	Offset=22-23
 
+# sent_id = s2
+# text = 我 觉得 在 下雨 。
 1	我	_	PRON	_	Person=1	2	nsubj	_	Offset=24-25
 2	觉得	_	VERB	_	_	0	_	_	Offset=26-28
 3	在	_	AUX	_	_	4	aux	_	Offset=29-30
 4	下雨	_	VERB	_	_	2	ccomp	_	Offset=31-33
 5	。	_	PUNCT	_	_	2	punct	_	Offset=34-35
 
+# sent_id = s3
+# text = 他 尝试 过 戒烟 和 戒酒 。
 1	他	_	PROPN	_	_	2	nsubj	_	Offset=36-37
 2	尝试	_	VERB	_	_	0	_	_	Offset=38-40
 3	过	_	AUX	_	Tense=Past	2	aux	_	Offset=41-42
@@ -24,12 +30,16 @@
 6	戒酒	_	NOUN	_	_	4	conj	_	Offset=48-50
 7	。	_	PUNCT	_	_	2	punct	_	Offset=51-52
 
+# sent_id = s4
+# text = 你 想 去 吗 ？
 1	你	_	PRON	_	Person=2	3	csubj	_	Offset=53-54
 2	想	_	VERB	_	_	1	nmod	_	Offset=55-56
 3	去	_	VERB	_	_	0	_	_	Offset=57-58
 4	吗	_	ADV	_	_	3	aux	_	Offset=59-60
 5	？	_	PUNCT	_	_	3	punct	_	Offset=61-62
 
+# sent_id = s5
+# text = 山姆 ， 开 下 窗 ！
 1	山姆	_	NOUN	_	_	3	csubj	_	Offset=63-65
 2	，	_	PUNCT	_	_	1	punct	_	Offset=66-67
 3	开	_	VERB	_	_	0	_	_	Offset=68-69
@@ -37,6 +47,8 @@
 5	窗	_	NOUN	_	_	3	dobj	_	Offset=72-73
 6	！	_	PUNCT	_	_	3	punct	_	Offset=74-75
 
+# sent_id = s6
+# text = 她 让 她 的 丈夫 去 洗 车 。
 1	她	_	PRON	_	Number=Sing|Person=3	0	_	_	Offset=76-77
 2	让	_	Token	_	_	0	_	_	Offset=78-79
 3	她	_	Token	_	_	0	_	_	Offset=80-81
@@ -47,6 +59,8 @@
 8	车	_	Token	_	_	0	_	_	Offset=91-92
 9	。	_	Token	_	_	0	_	_	Offset=93-94
 
+# sent_id = s7
+# text = 皮特 的 邻居 把 篱笆 涂 成 了 红色 。
 1	皮特	_	Token	_	_	0	_	_	Offset=95-97
 2	的	_	Token	_	_	0	_	_	Offset=98-99
 3	邻居	_	Token	_	_	0	_	_	Offset=100-102
@@ -58,6 +72,8 @@
 9	红色	_	Token	_	_	0	_	_	Offset=114-116
 10	。	_	Token	_	_	0	_	_	Offset=117-118
 
+# sent_id = s8
+# text = 我 爸爸 比 你 爸爸 酷 。
 1	我	_	PRON	_	Case=Gen|Person=1	0	_	_	Offset=119-120
 2	爸爸	_	NOUN	_	_	0	_	_	Offset=121-123
 3	比	_	Token	_	_	0	_	_	Offset=124-125
@@ -66,6 +82,8 @@
 6	酷	_	Token	_	_	0	_	_	Offset=131-132
 7	。	_	Token	_	_	0	_	_	Offset=133-134
 
+# sent_id = s9
+# text = 玛丽 赢得 了 铜牌 ， 皮特 银牌 ， 珍 金牌 。
 1	玛丽	_	Token	_	_	0	_	_	Offset=135-137
 2	赢得	_	Token	_	_	0	_	_	Offset=138-140
 3	了	_	Token	_	_	0	_	_	Offset=141-142
@@ -78,6 +96,8 @@
 10	金牌	_	Token	_	_	0	_	_	Offset=158-160
 11	。	_	Token	_	_	0	_	_	Offset=161-162
 
+# sent_id = s10
+# text = 伊瓜苏 是 一 个 大 国 还是 小 国 ？
 1	伊瓜苏	_	Token	_	_	0	_	_	Offset=163-166
 2	是	_	Token	_	_	0	_	_	Offset=167-168
 3	一	_	Token	_	_	0	_	_	Offset=169-170
@@ -89,6 +109,8 @@
 9	国	_	Token	_	_	0	_	_	Offset=182-183
 10	？	_	Token	_	_	0	_	_	Offset=184-185
 
+# sent_id = s11
+# text = 皮特·史密斯 和 玛丽·布朗 都 不 会 被 选 上 。
 1	皮特·史密斯	_	Token	_	_	0	_	_	Offset=186-192
 2	和	_	Token	_	_	0	_	_	Offset=193-194
 3	玛丽·布朗	_	Token	_	_	0	_	_	Offset=195-200
@@ -100,6 +122,8 @@
 9	上	_	Token	_	_	0	_	_	Offset=211-212
 10	。	_	Token	_	_	0	_	_	Offset=213-214
 
+# sent_id = s12
+# text = 他们 不 知道 是 谁 写 的 。
 1	他们	_	Token	_	_	0	_	_	Offset=215-217
 2	不	_	Token	_	_	0	_	_	Offset=218-219
 3	知道	_	Token	_	_	0	_	_	Offset=220-222
@@ -109,12 +133,16 @@
 7	的	_	Token	_	_	0	_	_	Offset=229-230
 8	。	_	Token	_	_	0	_	_	Offset=231-232
 
+# sent_id = s13
+# text = 你 在 看 什么 ？
 1	你	_	Token	_	_	0	_	_	Offset=233-234
 2	在	_	Token	_	_	0	_	_	Offset=235-236
 3	看	_	Token	_	_	0	_	_	Offset=237-238
 4	什么	_	Token	_	_	0	_	_	Offset=239-241
 5	？	_	Token	_	_	0	_	_	Offset=242-243
 
+# sent_id = s14
+# text = 你 觉得 你 什么 时候 能 来 ？
 1	你	_	Token	_	_	0	_	_	Offset=244-245
 2	觉得	_	Token	_	_	0	_	_	Offset=246-248
 3	你	_	Token	_	_	0	_	_	Offset=249-250
@@ -124,6 +152,8 @@
 7	来	_	Token	_	_	0	_	_	Offset=259-260
 8	？	_	Token	_	_	0	_	_	Offset=261-262
 
+# sent_id = s15
+# text = 他 买 了 一 辆 车 ， 但 他 的 兄弟 只 买 了 一 辆 自行车 。
 1	他	_	Token	_	_	0	_	_	Offset=263-264
 2	买	_	Token	_	_	0	_	_	Offset=265-266
 3	了	_	Token	_	_	0	_	_	Offset=267-268
@@ -143,6 +173,8 @@
 17	自行车	_	Token	_	_	0	_	_	Offset=296-299
 18	。	_	Token	_	_	0	_	_	Offset=300-301
 
+# sent_id = s16
+# text = 皮特 和 玛丽 互相 拥抱 后 离开 了 房间 。
 1	皮特	_	NOUN	_	_	0	_	_	Offset=302-304
 2	和	_	Token	_	_	0	_	_	Offset=305-306
 3	玛丽	_	NOUN	_	_	0	_	_	Offset=307-309
@@ -154,6 +186,8 @@
 9	房间	_	Token	_	_	0	_	_	Offset=323-325
 10	。	_	Token	_	_	0	_	_	Offset=326-327
 
+# sent_id = s17
+# text = 那天 她 本 应该 在 做 头发 ， 却 因故 没有 去 。
 1	那天	_	Token	_	_	0	_	_	Offset=328-330
 2	她	_	Token	_	_	0	_	_	Offset=331-332
 3	本	_	Token	_	_	0	_	_	Offset=333-334
@@ -168,6 +202,8 @@
 12	去	_	Token	_	_	0	_	_	Offset=355-356
 13	。	_	Token	_	_	0	_	_	Offset=357-358
 
+# sent_id = s18
+# text = 我 没 办法 跟 上 ， 因为 他 跑 得 太 快 了 。
 1	我	_	Token	_	_	0	_	_	Offset=359-360
 2	没	_	Token	_	_	0	_	_	Offset=361-362
 3	办法	_	Token	_	_	0	_	_	Offset=363-365
@@ -183,6 +219,8 @@
 13	了	_	Token	_	_	0	_	_	Offset=385-386
 14	。	_	Token	_	_	0	_	_	Offset=387-388
 
+# sent_id = s19
+# text = 这 封 信 来自 皮特 ， 它 是 昨天 寄 到 的 。
 1	这	_	Token	_	_	0	_	_	Offset=389-390
 2	封	_	Token	_	_	0	_	_	Offset=391-392
 3	信	_	Token	_	_	0	_	_	Offset=393-394
@@ -197,6 +235,8 @@
 12	的	_	Token	_	_	0	_	_	Offset=414-415
 13	。	_	Token	_	_	0	_	_	Offset=416-417
 
+# sent_id = s20
+# text = 她 在 巴黎 —— 法国 的 首都 长大 。
 1	她	_	Token	_	_	0	_	_	Offset=418-419
 2	在	_	Token	_	_	0	_	_	Offset=420-421
 3	巴黎	_	Token	_	_	0	_	_	Offset=422-424

@@ -1,3 +1,5 @@
+# sent_id = s1
+# text = La noia va escriure una carta a la seva amiga .
 1	La	_	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Offset=0-2
 2	noia	_	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	Offset=3-7
 3	va	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Offset=8-10
@@ -10,12 +12,16 @@
 10	amiga	_	NOUN	_	Gender=Fem|Number=Sing	4	iobj	_	Offset=40-45
 11	.	_	PUNCT	_	_	4	punct	_	Offset=46-47
 
+# sent_id = s2
+# text = Crec que està plovent .
 1	Crec	_	Token	_	_	0	_	_	Offset=48-52
 2	que	_	Token	_	_	0	_	_	Offset=53-56
 3	està	_	Token	_	_	0	_	_	Offset=57-61
 4	plovent	_	Token	_	_	0	_	_	Offset=62-69
 5	.	_	Token	_	_	0	_	_	Offset=70-71
 
+# sent_id = s3
+# text = Ell va intentar deixar de fumar i beure .
 1	Ell	_	Token	_	_	0	_	_	Offset=72-75
 2	va	_	Token	_	_	0	_	_	Offset=76-78
 3	intentar	_	Token	_	_	0	_	_	Offset=79-87
@@ -26,10 +32,14 @@
 8	beure	_	Token	_	_	0	_	_	Offset=106-111
 9	.	_	Token	_	_	0	_	_	Offset=112-113
 
+# sent_id = s4
+# text = Vols anar-hi ?
 1	Vols	_	Token	_	_	0	_	_	Offset=114-118
 2	anar-hi	_	Token	_	_	0	_	_	Offset=119-126
 3	?	_	Token	_	_	0	_	_	Offset=127-128
 
+# sent_id = s5
+# text = Sam , obre la finestra !
 1	Sam	_	Token	_	_	0	_	_	Offset=129-132
 2	,	_	Token	_	_	0	_	_	Offset=133-134
 3	obre	_	Token	_	_	0	_	_	Offset=135-139
@@ -37,6 +47,8 @@
 5	finestra	_	Token	_	_	0	_	_	Offset=143-151
 6	!	_	Token	_	_	0	_	_	Offset=152-153
 
+# sent_id = s6
+# text = Ella va fer rentar el cotxe al seu marit .
 1	Ella	_	Token	_	_	0	_	_	Offset=154-158
 2	va	_	Token	_	_	0	_	_	Offset=159-161
 3	fer	_	Token	_	_	0	_	_	Offset=162-165
@@ -48,6 +60,8 @@
 9	marit	_	Token	_	_	0	_	_	Offset=189-194
 10	.	_	Token	_	_	0	_	_	Offset=195-196
 
+# sent_id = s7
+# text = El veí d'en Peter va pintar la tanca de color vermell .
 1	El	_	Token	_	_	0	_	_	Offset=197-199
 2	veí	_	Token	_	_	0	_	_	Offset=200-203
 3	d'en	_	Token	_	_	0	_	_	Offset=204-208
@@ -61,6 +75,8 @@
 11	vermell	_	Token	_	_	0	_	_	Offset=243-250
 12	.	_	Token	_	_	0	_	_	Offset=251-252
 
+# sent_id = s8
+# text = Em meu pare és més guai que el teu .
 1	Em	_	Token	_	_	0	_	_	Offset=253-255
 2	meu	_	Token	_	_	0	_	_	Offset=256-259
 3	pare	_	Token	_	_	0	_	_	Offset=260-264
@@ -72,6 +88,8 @@
 9	teu	_	Token	_	_	0	_	_	Offset=284-287
 10	.	_	Token	_	_	0	_	_	Offset=288-289
 
+# sent_id = s9
+# text = Mary va guanyar el bronze , Peter la plata i Jane l'or .
 1	Mary	_	Token	_	_	0	_	_	Offset=290-294
 2	va	_	Token	_	_	0	_	_	Offset=295-297
 3	guanyar	_	Token	_	_	0	_	_	Offset=298-305
@@ -86,6 +104,8 @@
 12	l'or	_	Token	_	_	0	_	_	Offset=340-344
 13	.	_	Token	_	_	0	_	_	Offset=345-346
 
+# sent_id = s10
+# text = És Iguazu un país gran o petit ?
 1	És	_	Token	_	_	0	_	_	Offset=347-349
 2	Iguazu	_	Token	_	_	0	_	_	Offset=350-356
 3	un	_	Token	_	_	0	_	_	Offset=357-359
@@ -95,6 +115,8 @@
 7	petit	_	Token	_	_	0	_	_	Offset=372-377
 8	?	_	Token	_	_	0	_	_	Offset=378-379
 
+# sent_id = s11
+# text = Ni Peter Smith ni Mary Brown podien ser seleccionats .
 1	Ni	_	Token	_	_	0	_	_	Offset=380-382
 2	Peter	_	Token	_	_	0	_	_	Offset=383-388
 3	Smith	_	Token	_	_	0	_	_	Offset=389-394
@@ -106,6 +128,8 @@
 9	seleccionats	_	Token	_	_	0	_	_	Offset=420-432
 10	.	_	Token	_	_	0	_	_	Offset=433-434
 
+# sent_id = s12
+# text = No tenen ni idea de qui va escriure-ho .
 1	No	_	Token	_	_	0	_	_	Offset=435-437
 2	tenen	_	Token	_	_	0	_	_	Offset=438-443
 3	ni	_	Token	_	_	0	_	_	Offset=444-446
@@ -116,11 +140,15 @@
 8	escriure-ho	_	Token	_	_	0	_	_	Offset=462-473
 9	.	_	Token	_	_	0	_	_	Offset=474-475
 
+# sent_id = s13
+# text = Què estàs mirant ?
 1	Què	_	Token	_	_	0	_	_	Offset=476-479
 2	estàs	_	Token	_	_	0	_	_	Offset=480-485
 3	mirant	_	Token	_	_	0	_	_	Offset=486-492
 4	?	_	Token	_	_	0	_	_	Offset=493-494
 
+# sent_id = s14
+# text = Quan creus que podràs venir ?
 1	Quan	_	Token	_	_	0	_	_	Offset=495-499
 2	creus	_	Token	_	_	0	_	_	Offset=500-505
 3	que	_	Token	_	_	0	_	_	Offset=506-509
@@ -128,6 +156,8 @@
 5	venir	_	Token	_	_	0	_	_	Offset=517-522
 6	?	_	Token	_	_	0	_	_	Offset=523-524
 
+# sent_id = s15
+# text = Ell va comprar un cotxe però el seu germà només una bicicleta .
 1	Ell	_	Token	_	_	0	_	_	Offset=525-528
 2	va	_	Token	_	_	0	_	_	Offset=529-531
 3	comprar	_	Token	_	_	0	_	_	Offset=532-539
@@ -142,6 +172,8 @@
 12	bicicleta	_	Token	_	_	0	_	_	Offset=577-586
 13	.	_	Token	_	_	0	_	_	Offset=587-588
 
+# sent_id = s16
+# text = Peter i Mary es van abraçar i després van marxar de l'habitació .
 1	Peter	_	Token	_	_	0	_	_	Offset=589-594
 2	i	_	Token	_	_	0	_	_	Offset=595-596
 3	Mary	_	Token	_	_	0	_	_	Offset=597-601
@@ -156,6 +188,8 @@
 12	l'habitació	_	Token	_	_	0	_	_	Offset=641-652
 13	.	_	Token	_	_	0	_	_	Offset=653-654
 
+# sent_id = s17
+# text = Ella havia d'haver estat arreglant-se el cabell , però per algun motiu no ho va fer aquell dia .
 1	Ella	_	Token	_	_	0	_	_	Offset=655-659
 2	havia	_	Token	_	_	0	_	_	Offset=660-665
 3	d'haver	_	Token	_	_	0	_	_	Offset=666-673
@@ -176,6 +210,8 @@
 18	dia	_	Token	_	_	0	_	_	Offset=746-749
 19	.	_	Token	_	_	0	_	_	Offset=750-751
 
+# sent_id = s18
+# text = No podia seguir-lo perquè corria massa ràpid .
 1	No	_	Token	_	_	0	_	_	Offset=752-754
 2	podia	_	Token	_	_	0	_	_	Offset=755-760
 3	seguir-lo	_	Token	_	_	0	_	_	Offset=761-770
@@ -185,6 +221,8 @@
 7	ràpid	_	Token	_	_	0	_	_	Offset=791-796
 8	.	_	Token	_	_	0	_	_	Offset=797-798
 
+# sent_id = s19
+# text = Aquesta carta és de Peter i va ser lliurada ahir .
 1	Aquesta	_	Token	_	_	0	_	_	Offset=799-806
 2	carta	_	Token	_	_	0	_	_	Offset=807-812
 3	és	_	Token	_	_	0	_	_	Offset=813-815
@@ -197,6 +235,8 @@
 10	ahir	_	Token	_	_	0	_	_	Offset=843-847
 11	.	_	Token	_	_	0	_	_	Offset=848-849
 
+# sent_id = s20
+# text = Ella va créixer a París , la capital de França .
 1	Ella	_	Token	_	_	0	_	_	Offset=850-854
 2	va	_	Token	_	_	0	_	_	Offset=855-857
 3	créixer	_	Token	_	_	0	_	_	Offset=858-865
