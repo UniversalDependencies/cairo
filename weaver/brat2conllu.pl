@@ -1,19 +1,26 @@
 #!/usr/bin/env perl
 # Reads annotation in the Brat Standoff format. Writes CoNLL-U.
-# Copyright © 2016 Dan Zeman <zeman@ufal.mff.cuni.cz>
+# Copyright © 2016, 2018 Dan Zeman <zeman@ufal.mff.cuni.cz>
 # License: GNU GPL
 # Documentation of the Brat Standoff format: http://brat.nlplab.org/standoff.html
 # Documentation of the CoNLL-U format: http://universaldependencies.org/format.html
 # We need both the txt and the ann file from Brat (example for Russian, 'ru'):
 # wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=txt&protocol=1" -O ru.txt
 # wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=ann&protocol=1" -O ru.brat
-# perl brat2conllu.pl ru.txt ru.brat > ru.conllu
+# perl brat2conllu.pl --sidprefix syntagrus- ru.txt ru.brat > ru.conllu
 
 use utf8;
 use open ':utf8';
 binmode(STDIN, ':utf8');
 binmode(STDOUT, ':utf8');
 binmode(STDERR, ':utf8');
+use Getopt::Long;
+
+my $sid_prefix = '';
+GetOptions
+(
+    'sidprefix=s' => \$sid_prefix
+);
 
 # Minimize the output when run as a cron job.
 my $quiet = 1;
@@ -135,7 +142,7 @@ for(my $j = 0; $j <= $#tokens; $j++)
     $tid2iid{$tokens[$j]->{id}} = $i;
     $i++;
 }
-print("\# sent_id = s1\n");
+print("\# sent_id = ${sidprefix}s1\n");
 print("\# text = $sentences[0]");
 my $isent = 0;
 foreach my $token (@tokens)
@@ -167,7 +174,7 @@ foreach my $token (@tokens)
         if($isent <= $#sentences)
         {
             my $sid = $isent + 1;
-            print("\# sent_id = s$sid\n");
+            print("\# sent_id = ${sidprefix}s$sid\n");
             print("\# text = $sentences[$isent]");
         }
     }
