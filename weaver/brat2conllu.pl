@@ -19,10 +19,12 @@ binmode(STDERR, ':utf8');
 my $quiet = 1;
 my $txtfile = shift(@ARGV);
 my $text;
+my @sentences;
 open(TXT, $txtfile) or die("Cannot read $txtfile: $!");
 while(<TXT>)
 {
     $text .= $_;
+    push(@sentences, $_);
 }
 close(TXT);
 my @chars = split(//, $text);
@@ -133,6 +135,9 @@ for(my $j = 0; $j <= $#tokens; $j++)
     $tid2iid{$tokens[$j]->{id}} = $i;
     $i++;
 }
+print("\# sent_id = s1\n");
+print("\# text = $sentences[0]");
+my $isent = 0;
 foreach my $token (@tokens)
 {
     my $features = '_';
@@ -156,5 +161,15 @@ foreach my $token (@tokens)
     }
     my $offset = "$token->{c0}-$token->{c1}";
     print($token->{iid}, "\t", $token->{form}, "\t_\t", $token->{tag}, "\t_\t", $features, "\t", $head, "\t", $deprel, "\t", $deps, "\tOffset=$offset\n", $token->{sentend} ? "\n" : '');
+    if($token->{sentend})
+    {
+        $isent++;
+        if($isent <= $#sentences)
+        {
+            my $sid = $isent + 1;
+            print("\# sent_id = s$sid\n");
+            print("\# text = $sentences[$isent]");
+        }
+    }
 }
 print("\n");
