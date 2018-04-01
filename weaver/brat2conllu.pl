@@ -142,7 +142,7 @@ for(my $j = 0; $j <= $#tokens; $j++)
     $tid2iid{$tokens[$j]->{id}} = $i;
     $i++;
 }
-print("\# sent_id = ${sidprefix}s1\n");
+print("\# sent_id = ${sid_prefix}s1\n");
 print("\# text = $sentences[0]");
 my $isent = 0;
 foreach my $token (@tokens)
@@ -174,7 +174,7 @@ foreach my $token (@tokens)
         if($isent <= $#sentences)
         {
             my $sid = $isent + 1;
-            print("\# sent_id = ${sidprefix}s$sid\n");
+            print("\# sent_id = ${sid_prefix}s$sid\n");
             print("\# text = $sentences[$isent]");
         }
     }
