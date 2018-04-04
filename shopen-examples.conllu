@@ -7852,7 +7852,7 @@
 4	karli	karli	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Gloss=boomerang|MGloss=boomerang(ABS)
 5	ngurrjumani	ngurrjuma	VERB	_	Tense=Pres	0	root	_	Gloss=make|MSeg=ngurrjuma-ni|MGloss=make-NONPAST
 
-# sent_id = 3.94a/wbp
+# sent_id = 3.94b/wbp
 # Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
 # source = Hale, 1973
 # This example shows that the supplementary dative can co-occur with an indirect object, and is thus a distinct grammatical relation.
@@ -7985,7 +7985,7 @@
 # gloss = I(NOM) laugh-PAST I-ACC woman-ERG slap-DATSUB
 # text_en = I, who was slapped by the woman, laughed
 1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+2	manga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
 3	ŋaɲaɲ	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|MGloss=I(ACC)
 4	buɲa:n	_	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
 5	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB
@@ -7997,7 +7997,7 @@
 # gloss = I(NOM) laugh-PAST woman-ERG slap-DATSUB
 # text_en = I, who was slapped by the woman, laughed
 1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+2	manga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
 3	buɲa:n	_	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
 4	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB
 
@@ -8065,5 +8065,5 @@
 2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
 3	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
 4	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-5	wuɹa:ɖiɲunda	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
+5	wuɹa:ɖiɲunda	_	VERB	_	Tense=Past|Voice=Antip	1	acl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
 
