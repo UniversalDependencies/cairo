@@ -8060,10 +8060,44 @@
 # text = ŋayu maŋga:ɲ ŋayu buɲa:nda wuɹa:ɖiɲunda
 # gloss = I(NOM) laugh-PAST I(NOM) woman-DAT slap-ANTIPASS-DATSUB
 # text_en = I, who was slapping the woman, laughed; I laughed while slapping the woman
-###!!! Dyirbal dbl family: Pama-Nyungan / Dyirbalic
 1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
 2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
 3	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-4	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-5	wuɹa:ɖiɲunda	_	VERB	_	Tense=Past|Voice=Antip	1	acl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
+4	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	5	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+5	wuɹa:ɖiɲunda	_	VERB	_	Mood=Sub|Voice=Antip	1	acl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲunda|MGloss=slap-ANTIPASS-DATSUB
 
+# sent_id = 3.101ab/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋayu maŋga:ɲ buɲa:nda wuɹa:ɖiɲunda
+# gloss = I(NOM) laugh-PAST woman-DAT slap-ANTIPASS-DATSUB
+# text_en = I, who was slapping the woman, laughed; I laughed while slapping the woman
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+3	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	4	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+4	wuɹa:ɖiɲunda	_	VERB	_	Mood=Sub|Voice=Antip	1	acl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲunda|MGloss=slap-ANTIPASS-DATSUB
+
+# sent_id = 3.101ba/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋayu buɲa:nda wuɹa:ɖiɲu ŋayu maŋgaɲunda
+# gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST I(NOM) laugh-DATSUB
+# text_en = I, who was laughing, slapped the woman; I slapped the woman while laughing
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+3	wuɹa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
+4	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
+5	maŋgaɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB
+
+# sent_id = 3.101bb/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋayu buɲa:nda wuɹa:ɖiɲu maŋgaɲunda
+# gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST laugh-DATSUB
+# text_en = I, who was laughing, slapped the woman; I slapped the woman while laughing
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+3	wuɹa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
+4	maŋgaɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB
+
+###!!! Dyirbal dbl family: Pama-Nyungan / Dyirbalic
