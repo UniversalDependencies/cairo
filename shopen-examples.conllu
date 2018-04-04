@@ -7802,3 +7802,268 @@
 4	puntami	punta	VERB	_	Tense=Pres	0	root	_	Gloss=take-away|MSeg=punta-mi|MGloss=take.away-NONPAST
 5	kurduku	kurdu	NOUN	_	Case=Dat|Number=Sing	4	obj	_	Gloss=child|MSeg=kurdu-ku|MGloss=child-DAT
 
+# sent_id = 3.93aa/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# text = Karntagku kaju kurdu milkiyirrarni ngunanjakurraku
+# gloss = woman-ERG PRES-1SG(OBJ) child(ABS) show-put-NONPAST lie-INF-OBJ.COMP-DAT
+# text_en = The woman is showing the child to me while I am lying down
+1	Karntagku	karnta	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Gloss=woman|MSeg=karnta-gku|MGloss=woman-ERG
+2	kaju	ka	AUX	_	Number[obj]=Sing|Person[obj]=1|Tense=Pres	4	aux	_	Gloss=PRES|MSeg=ka-ju|MGloss=PRES-1SG(OBJ)
+3	kurdu	kurdu	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Gloss=child|MGloss=child(ABS)
+4	milkiyirrarni	milkiyirra	VERB	_	Tense=Pres	0	root	_	Gloss=show|MSeg=milki-yirra-rni|MGloss=show-put-NONPAST
+5	ngunanjakurraku	nguna	VERB	_	Case=Dat|VerbForm=Inf	4	xcomp	_	Gloss=while-lying|MSeg=nguna-nja-kurra-ku|MGloss=lie-INF-OBJ.COMP-DAT
+
+# sent_id = 3.93ab/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Simpson, 1991:341-2
+# text = Karntagku kaju kurdu milkiyirrarni ngunanjakurra
+# gloss = woman-ERG PRES-1SG(OBJ) child(ABS) show-put-NONPAST lie-INF-OBJ.COMP
+# text_en = The woman is showing the child to me while I am lying down
+1	Karntagku	karnta	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Gloss=woman|MSeg=karnta-gku|MGloss=woman-ERG
+2	kaju	ka	AUX	_	Number[obj]=Sing|Person[obj]=1|Tense=Pres	4	aux	_	Gloss=PRES|MSeg=ka-ju|MGloss=PRES-1SG(OBJ)
+3	kurdu	kurdu	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Gloss=child|MGloss=child(ABS)
+4	milkiyirrarni	milkiyirra	VERB	_	Tense=Pres	0	root	_	Gloss=show|MSeg=milki-yirra-rni|MGloss=show-put-NONPAST
+5	ngunanjakurra	nguna	VERB	_	VerbForm=Inf	4	xcomp	_	Gloss=while-lying|MSeg=nguna-nja-kurra|MGloss=lie-INF-OBJ.COMP
+
+# sent_id = 3.93b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Simpson, 1991:341-2
+# text = Yungurnarla kurdu parrjarla ngunanjakurra yaliki
+# gloss = give-PAST-1SG(SUBJ)-3(DAT) child(ABS) coolamon(LOC) sleep-INF-OBJ.COMP that-DAT
+# text_en = ??I gave the child sleeping in the coolamon to that one
+# This example, with absolutive controlling the kurra-verb, is questionable.
+# The speakers prefer an interpretation where it is the recipient that's sleeping in the coolamon rather than the theme.
+1	Yungurnarla	yu	VERB	_	Number=Sing|Person=1|Person[dat]=3|Tense=Past	0	root	_	Gloss=I-gave|MSeg=yu-ngu-rna-rla|MGloss=give-PAST-1SG(SUBJ)-3(DAT)
+2	kurdu	kurdu	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Gloss=child|MGloss=child(ABS)
+3	parrjarla	parrja	NOUN	_	Case=Loc|Number=Sing	4	obl	_	Gloss=in-coolamon|MSeg=parrja-rla|MGloss=coolamon-LOC
+4	ngunanjakurra	nguna	VERB	_	VerbForm=Inf	1	xcomp	_	Gloss=sleeping|MSeg=nguna-nja-kurra|MGloss=sleep-INF-OBJ.COMP
+5	yaliki	yali	PRON	_	Case=Dat|PronType=Dem	1	iobj	_	Gloss=to-that-one|MSeg=yali-ki|MGloss=that-DAT
+
+# sent_id = 3.94a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973
+# supplementary dative (called adjunct dative by Hale)
+# text = Ngarrkangku karla kurduku karli ngurrjumani
+# gloss = man-ERG PRES-3(DAT) child-DAT boomerang(ABS) make-NONPAST
+# text_en = The man is making a boomerang for the child
+1	Ngarrkangku	ngarrka	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+2	karla	ka	AUX	_	Person[dat]=3|Tense=Pres	5	aux	_	Gloss=PRES-3(DAT)
+3	kurduku	kurdu	NOUN	_	Case=Dat|Number=Sing	5	iobj	_	Gloss=for-child|MSeg=kurdu-ku|MGloss=child-DAT
+4	karli	karli	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Gloss=boomerang|MGloss=boomerang(ABS)
+5	ngurrjumani	ngurrjuma	VERB	_	Tense=Pres	0	root	_	Gloss=make|MSeg=ngurrjuma-ni|MGloss=make-NONPAST
+
+# sent_id = 3.94a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973
+# This example shows that the supplementary dative can co-occur with an indirect object, and is thus a distinct grammatical relation.
+# Jinta is the form assumed by the second of two cross-reference markers both referring to a third person singular dative.
+# text = Ngarrkangku karlajinta kurduku miyi karntaku yinyi
+# gloss = man-ERG PRES-3(DAT)-3(DAT) child-DAT food(ABS) woman-DAT give-NONPAST
+# text_en = The man is giving food to the child for the woman || The man is giving food to the woman for the child
+1	Ngarrkangku	ngarrka	NOUN	_	Case=Erg|Number=Sing	6	nsubj	_	Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+2	karlajinta	ka	AUX	_	Person[dat]=3|Person[sdat]=3|Tense=Pres	6	aux	_	Gloss=PRES-3(DAT)-3(DAT)
+3	kurduku	kurdu	NOUN	_	Case=Dat|Number=Sing	6	iobj	_	Gloss=to/for-child|MSeg=kurdu-ku|MGloss=child-DAT
+4	miyi	miyi	NOUN	_	Case=Abs|Number=Sing	6	obj	_	Gloss=food|MGloss=food(ABS)
+5	karntaku	karnta	NOUN	_	Case=Dat|Number=Sing	6	iobj	_	Gloss=for/to-woman|MSeg=karnta-ku|MGloss=woman-DAT
+6	yinyi	yi	VERB	_	Tense=Pres	0	root	_	Gloss=give|MSeg=yi-nyi|MGloss=give-NONPAST
+
+# sent_id = 3.95a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973
+# text = Kurdungku ka miyi ngarni
+# gloss = child-ERG PRES food(ABS) eat-NONPAST
+# text_en = The child is eating food
+1	Kurdungku	kurdu	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Gloss=child|MSeg=kurdu-ngku|MGloss=child-ERG
+2	ka	ka	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES
+3	miyi	miyi	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Gloss=food|MGloss=food(ABS)
+4	ngarni	nga	VERB	_	Tense=Pres	0	root	_	Gloss=eat|MSeg=nga-rni|MGloss=eat-NONPAST
+
+# sent_id = 3.95b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973
+# text = Kurdungku karla karntaku miyi marlajangarni
+# gloss = child-ERG PRES-3(DAT) woman-DAT food(ABS) CAUSE-eat-NONPAST
+# text_en = The woman brought about the circumstance that the child is eating food
+1	Kurdungku	kurdu	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=child|MSeg=kurdu-ngku|MGloss=child-ERG
+2	karla	ka	AUX	_	Person[dat]=3|Tense=Pres	5	aux	_	Gloss=PRES-3(DAT)
+3	karntaku	karnta	NOUN	_	Case=Dat|Number=Sing	5	iobj	_	Gloss=caused-by-woman|MSeg=karnta-ku|MGloss=woman-DAT
+4	miyi	miyi	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Gloss=food|MGloss=food(ABS)
+5	marlajangarni	nga	VERB	_	Tense=Pres	0	root	_	Gloss=eat|MSeg=marlaja-nga-rni|MGloss=CAUSE-eat-NONPAST
+
+# sent_id = 3.96a/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973
+# text = Ngarrkangku ka yujuku ngantirni
+# gloss = man-ERG PRES humpy(ABS) build-NONPAST
+# text_en = The man is building a humpy [bush shelter]
+1	Ngarrkangku	ngarrka	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+2	ka	ka	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES
+3	yujuku	yujuku	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Gloss=humpy|MGloss=humpy(ABS)
+4	ngantirni	nganti	VERB	_	Tense=Pres	0	root	_	Gloss=build|MSeg=nganti-rni|MGloss=build-NONPAST
+
+# sent_id = 3.96b/wbp
+# Warlpiri (Pama-Nyungan, Ngarrkic, Northern Territory, Australia)
+# source = Hale, 1973
+# text = Ngarrkangku karla warluku pikingantirni yujuku
+# gloss = man-ERG PRES-3(DAT) fire-DAT DANGER-build-NONPAST humpy(ABS)
+# text_en = The man is building a humpy in danger of fire [either man or humpy is in danger]
+1	Ngarrkangku	ngarrka	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+2	karla	ka	AUX	_	Person[dat]=3|Tense=Pres	4	aux	_	Gloss=PRES-3(DAT)
+3	warluku	warlu	NOUN	_	Case=Dat|Number=Sing	4	iobj	_	Gloss=in-danger-of-fire|MSeg=warlu-ku|MGloss=fire-DAT
+4	pikingantirni	nganti	VERB	_	Tense=Pres	0	root	_	Gloss=build|MSeg=piki-nganti-rni|MGloss=DANGER-build-NONPAST
+5	yujuku	yujuku	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Gloss=humpy
+
+# sent_id = 3.97a/en
+# text = Bruce barbecued the steak for Darlene
+1	Bruce	Bruce	PROPN	_	Number=Sing	2	nsubj	_	_
+2	barbecued	barbecue	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	steak	steak	NOUN	_	Number=Sing	2	obj	_	_
+5	for	for	ADP	_	_	6	case	_	_
+6	Darlene	Darlene	PROPN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 3.97b/en
+# text = Bruce barbecued Darlene the steak
+1	Bruce	Bruce	PROPN	_	Number=Sing	2	nsubj	_	_
+2	barbecued	barbecue	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Darlene	Darlene	PROPN	_	Number=Sing	2	iobj	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	steak	steak	NOUN	_	Number=Sing	2	iobj	_	_
+
+# sent_id = 3.98a/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋayu maŋga:ɲ
+# gloss = I(NOM) laugh-PAST
+# text_en = I laughed
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+
+# sent_id = 3.98b/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = buɲa maŋga:ɲ
+# gloss = woman(ABS) laugh-PAST
+# text_en = The woman laughed
+1	buɲa	_	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Gloss=woman|MGloss=woman(ABS)
+2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+
+# sent_id = 3.98c/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋaɲaɲ buɲa:ŋ wuɹa:ɲ
+# gloss = I(ACC) woman-ERG slap-PAST
+# text_en = The woman slapped me
+1	ŋaɲaɲ	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
+2	buɲa:ŋ	_	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
+3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST
+
+# sent_id = 3.98d/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋayu buɲa wuɹa:ɲ
+# gloss = I(NOM) woman(ABS) slap-PAST
+# text_en = I slapped the woman
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	buɲa	_	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=woman|MGloss=woman(ABS)
+3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST
+
+# sent_id = 3.98e/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = Waguɖaŋgu guda:ga wawa:l
+# gloss = man-ERG dog(ABS) see-PAST
+# text_en = The man saw the dog
+1	Waguɖaŋgu	_	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=man|MSeg=Waguɖa-ŋgu|MGloss=man-ERG
+2	guda:ga	_	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=dog|MGloss=dog(ABS)
+3	wawa:l	_	VERB	_	Tense=Past	0	root	_	Gloss=saw|MSeg=wawa:-l|MGloss=see-PAST
+
+# sent_id = 3.99aa/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋayu manga:ɲ ŋaɲaɲ buɲa:n wuɹa:ɲunda
+# gloss = I(NOM) laugh-PAST I-ACC woman-ERG slap-DATSUB
+# text_en = I, who was slapped by the woman, laughed
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+3	ŋaɲaɲ	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|MGloss=I(ACC)
+4	buɲa:n	_	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
+5	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB
+
+# sent_id = 3.99ab/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋayu manga:ɲ buɲa:n wuɹa:ɲunda
+# gloss = I(NOM) laugh-PAST woman-ERG slap-DATSUB
+# text_en = I, who was slapped by the woman, laughed
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+3	buɲa:n	_	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
+4	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB
+
+# sent_id = 3.99ba/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋaɲaɲ buɲa:ŋ wuɹaɲ ŋayu maŋgaɲunda
+# gloss = I-ACC woman-ERG slap-PAST I(NOM) laugh-DATSUB
+# text_en = I, who was laughing, was slapped by the woman
+1	ŋaɲaɲ	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
+2	buɲa:ŋ	_	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
+3	wuɹaɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa-ɲ|MGloss=slap-PAST
+4	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
+5	maŋgaɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughing|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB
+
+# sent_id = 3.99bb/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋaɲaɲ buɲa:ŋ wuɹaɲ maŋgaɲunda
+# gloss = I-ACC woman-ERG slap-PAST laugh-DATSUB
+# text_en = I, who was laughing, was slapped by the woman
+1	ŋaɲaɲ	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
+2	buɲa:ŋ	_	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
+3	wuɹaɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa-ɲ|MGloss=slap-PAST
+4	maŋgaɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughing|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB
+
+# sent_id = 3.100aa/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = wagu:ɖa gudaganda wawa:ɖiɲu
+# gloss = man(ABS) dog-DAT see-ANTIPASS-PAST
+# text_en = The man saw the dog
+1	wagu:ɖa	_	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Gloss=man|MGloss=man(ABS)
+2	gudaganda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=dog|MSeg=gudaga-nda|MGloss=dog-DAT
+3	wawa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=saw|MSeg=wawa:-ɖi-ɲu|MGloss=see-ANTIPASS-PAST
+
+# sent_id = 3.100ab/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = wagu:ɖa gudagala wawa:ɖiɲu
+# gloss = man(ABS) dog-LOC see-ANTIPASS-PAST
+# text_en = The man saw the dog
+1	wagu:ɖa	_	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Gloss=man|MGloss=man(ABS)
+2	gudagala	_	NOUN	_	Case=Loc|Number=Sing	3	obl:patient	_	Gloss=dog|MSeg=gudaga-la|MGloss=dog-LOC
+3	wawa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=saw|MSeg=wawa:-ɖi-ɲu|MGloss=see-ANTIPASS-PAST
+
+# sent_id = 3.100b/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋayu buɲa:nda wuɹa:ɖiɲu
+# gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST
+# text_en = I slapped the woman
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+3	wuɹa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
+
+# sent_id = 3.101aa/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977
+# text = ŋayu maŋga:ɲ ŋayu buɲa:nda wuɹa:ɖiɲunda
+# gloss = I(NOM) laugh-PAST I(NOM) woman-DAT slap-ANTIPASS-DATSUB
+# text_en = I, who was slapping the woman, laughed; I laughed while slapping the woman
+###!!! Dyirbal dbl family: Pama-Nyungan / Dyirbalic
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+3	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
+4	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+5	wuɹa:ɖiɲunda	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
+
