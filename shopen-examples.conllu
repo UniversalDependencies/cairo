@@ -8100,3 +8100,93 @@
 3	wuɹa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
 4	maŋgaɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB
 
+# sent_id = 3.102aa/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977a:370-1
+# text = ɲundu guwa galin
+# gloss = you(SG) west go-IMPER
+# text_en = You go west!
+1	ɲundu	_	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MGloss=you(SG)
+2	guwa	_	ADV	_	_	3	advmod	_	Gloss=west
+3	galin	_	VERB	_	Mood=Imp	0	root	_	Gloss=go|MSeg=gali-n|MGloss=go-IMPER
+
+# sent_id = 3.102ab/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977a:370-1
+# text = Guwa galin
+# gloss = west go-IMPER
+# text_en = Go west!
+1	Guwa	_	ADV	_	_	2	advmod	_	Gloss=west
+2	galin	_	VERB	_	Mood=Imp	0	root	_	Gloss=go|MSeg=gali-n|MGloss=go-IMPER
+
+# sent_id = 3.102ba/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977a:370-1
+# text = ɲundu:ba buɲa wawa
+# gloss = you(PL) woman watch(IMPER)
+# text_en = All of you watch the woman!
+1	ɲundu:ba	_	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MGloss=you(PL)
+2	buɲa	_	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=woman
+3	wawa	_	VERB	_	Mood=Imp	0	root	_	Gloss=watch|MGloss=watch(IMPER)
+
+# sent_id = 3.102bb/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977a:370-1
+# text = Buɲa wawa
+# gloss = woman watch(IMPER)
+# text_en = Watch the woman!
+1	Buɲa	_	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Gloss=woman
+2	wawa	_	VERB	_	Mood=Imp	0	root	_	Gloss=watch|MGloss=watch(IMPER)
+
+# sent_id = 3.103a/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977a:372-82,387
+# text = ŋayu gana:ŋgar gali:ɲ
+# gloss = I(NOM) first go-PAST
+# text_en = I went first
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	gana:ŋgar	_	ADV	_	_	3	advmod	_	Gloss=first
+3	gali:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=went|MSeg=gali:-ɲ|MGloss=go-PAST
+
+# sent_id = 3.103b/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977a:372-82,387
+# text = ŋayu gana:ŋgar gunda:l
+# gloss = I(NOM) first cut-PAST
+# text_en = I was the first person to cut [that tree]
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	gana:ŋgar	_	ADV	_	_	3	advmod	_	Gloss=first
+3	gunda:l	_	VERB	_	Tense=Past	0	root	_	Gloss=cut|MSeg=gunda:-l|MGloss=cut-PAST
+
+# sent_id = 3.104/yii
+# Yidiɲ (Pama-Nyungan, Australia)
+# source = Dixon, 1977a:375
+# text = ŋayu wala wula:ɲ ŋayu galwayala burgiŋ
+# gloss = I finish die I spirit walk-about
+# text_en = I really did die; I'm walking about as a spirit now
+1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	wala	_	ADV	_	_	3	advmod	_	Gloss=finish
+3	wula:ɲ	_	VERB	_	_	0	root	_	Gloss=die
+4	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=I|MGloss=I(NOM)
+5	galwayala	_	NOUN	_	Case=Abs|Number=Sing	4	acl	_	Gloss=spirit
+6	burgiŋ	_	VERB	_	_	3	parataxis	_	Gloss=walk-about
+
+# sent_id = 3.105a/iu
+# Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# text = Atuagaq ataasiq tikissimanngilaq
+# gloss = book(ABS) one(ABS) come-PERF-NEG-INDIC-3SG
+# text_en = One book hasn't come yet
+1	Atuagaq	atuagaq	NOUN	_	Case=Abs	3	nsubj	_	Gloss=book|MGloss=book(ABS)
+2	ataasiq	ataasiq	NUM	_	Case=Abs|NumType=Card	1	nummod	_	Gloss=one|MGloss=one(ABS)
+3	tikissimanngilaq	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	Gloss=has-not-come|MSeg=tikis-sima-nngi-la-q|MGloss=come-PERF-NEG-INDIC-3SG
+
+# sent_id = 3.105b/iu
+# Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# text = Juunap atuagaq ataasiq tigusimanngilaa
+# gloss = Juuna-ERG book(ABS) one(ABS) get-PERF-NEG-INDIC.3SG-3SG
+# text_en = There is a book which Juuna hasn't got yet
+1	Juunap	Juuna	PROPN	_	Case=Erg	4	nsubj	_	Gloss=Juuna|MSeg=Juuna-p|MGloss=Juuna-ERG
+2	atuagaq	atuagaq	NOUN	_	Case=Abs	4	obj	_	Gloss=book|MGloss=book(ABS)
+3	ataasiq	ataasiq	NUM	_	Case=Abs|NumType=Card	2	nummod	_	Gloss=one|MGloss=one(ABS)
+4	tigusimanngilaa	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Polarity=Neg	0	root	_	Gloss=has-not-got|MSeg=tigu-sima-nngi-la-a|MGloss=get-PERF-NEG-INDIC.3SG-3SG
+
