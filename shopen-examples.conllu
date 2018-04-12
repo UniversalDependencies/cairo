@@ -8222,3 +8222,20 @@
 3	Juuna	Juuna	PROPN	_	Case=Abs	4	obj	_	Gloss=Juuna|MGloss=Juuna(ABS)
 4	uqaluqatigisimanngilaa	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Polarity=Neg	0	root	_	Gloss=has-not-talked-to|MSeg=uqaluqatigi-sima-nngi-la-a|MGloss=talk.to-PERF-NEG-IND.3SG-3SG
 
+# sent_id = 3.108a/iu
+# Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# text = Miraaq kamattuq
+# gloss = child(ABS) angry-REL.INTRANS-SG
+# text_en = the child that is angry
+1	Miraaq	miraaq	NOUN	_	Case=Abs	0	root	_	Gloss=child|MGloss=child(ABS)
+2	kamattuq	kamat	VERB	_	Mood=Sub|Number=Sing	1	acl:relcl	_	Gloss=that-is-angry|MSeg=kamat-tu-q|MGloss=angry-REL.INTRANS-SG
+
+# sent_id = 3.108b/iu
+# Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# text = Nanuq Piitap tuqutaa
+# gloss = polar.bear(ABS) Piita-ERG kill-TR.PTCPL-3SG
+# text_en = a polar bear killed by Piita
+1	Nanuq	nanuq	NOUN	_	Case=Abs	0	root	_	Gloss=polar-bear|MGloss=polar.bear(ABS)
+2	Piitap	Piita	PROPN	_	Case=Erg	3	nsubj	_	Gloss=by-Piita|MSeg=Piita-p|MGloss=Piita-ERG
+3	tuqutaa	_	VERB	_	Number=Sing|Person=3|VerbForm=Part	1	acl:relcl	_	Gloss=that-has-been-killed|MSeg=tuqu-ta-a|MGloss=kill-TR.PTCPL-3SG
+
