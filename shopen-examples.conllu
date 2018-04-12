@@ -8190,3 +8190,35 @@
 3	ataasiq	ataasiq	NUM	_	Case=Abs|NumType=Card	2	nummod	_	Gloss=one|MGloss=one(ABS)
 4	tigusimanngilaa	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Polarity=Neg	0	root	_	Gloss=has-not-got|MSeg=tigu-sima-nngi-la-a|MGloss=get-PERF-NEG-INDIC.3SG-3SG
 
+# sent_id = 3.106a/en
+# source = Bittner, 1994
+# text = No books have come yet
+1	No	no	DET	_	PronType=Neg	2	det	_	_
+2	books	book	NOUN	_	Number=Plur	4	nsubj	_	_
+3	have	have	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	come	come	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	yet	yet	ADV	_	_	4	advmod	_	_
+
+# sent_id = 3.106b/en
+# source = Bittner, 1994
+# text = Juuna hasn't got any books yet
+1	Juuna	Juuna	PROPN	_	Number=Sing	4	nsubj	_	_
+2-3	hasn't	_	_	_	_	_	_	_	_
+2	has	have	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	not	not	PART	_	Polarity=Neg	4	advmod	_	_
+4	got	get	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	any	any	DET	_	PronType=Ind	6	det	_	_
+6	books	book	NOUN	_	Number=Plur	4	obj	_	_
+7	yet	yet	ADV	_	_	4	advmod	_	_
+
+# sent_id = 3.107/iu
+# Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# source = Bittner, 1994
+# text = Atuartup ataatsip Juuna uqaluqatigisimanngilaa
+# gloss = student-ERG one-ERG Juuna(ABS) talk.to-PERF-NEG-IND-3SG-3SG
+# text_en = No student has talked to Juuna yet / One student hasn't talked to Juuna yet
+1	Atuartup	atuartu	NOUN	_	Case=Erg	4	nsubj	_	Gloss=student|MSeg=atuartu-p|MGloss=student-ERG
+2	ataatsip	ataasiq	NUM	_	Case=Erg|NumType=Card	1	nummod	_	Gloss=one|MSeg=ataatsi-p|MGloss=one-ERG
+3	Juuna	Juuna	PROPN	_	Case=Abs	4	obj	_	Gloss=Juuna|MGloss=Juuna(ABS)
+4	uqaluqatigisimanngilaa	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Polarity=Neg	0	root	_	Gloss=has-not-talked-to|MSeg=uqaluqatigi-sima-nngi-la-a|MGloss=talk.to-PERF-NEG-IND.3SG-3SG
+
