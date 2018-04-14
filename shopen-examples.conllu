@@ -8224,6 +8224,7 @@
 
 # sent_id = 3.108a/iu
 # Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# source = Bittner, 1994:56-7
 # text = Miraaq kamattuq
 # gloss = child(ABS) angry-REL.INTRANS-SG
 # text_en = the child that is angry
@@ -8232,10 +8233,40 @@
 
 # sent_id = 3.108b/iu
 # Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# source = Bittner, 1994:56-7
 # text = Nanuq Piitap tuqutaa
 # gloss = polar.bear(ABS) Piita-ERG kill-TR.PTCPL-3SG
 # text_en = a polar bear killed by Piita
 1	Nanuq	nanuq	NOUN	_	Case=Abs	0	root	_	Gloss=polar-bear|MGloss=polar.bear(ABS)
 2	Piitap	Piita	PROPN	_	Case=Erg	3	nsubj	_	Gloss=by-Piita|MSeg=Piita-p|MGloss=Piita-ERG
 3	tuqutaa	_	VERB	_	Number=Sing|Person=3|VerbForm=Part	1	acl:relcl	_	Gloss=that-has-been-killed|MSeg=tuqu-ta-a|MGloss=kill-TR.PTCPL-3SG
+
+# sent_id = 3.109a/iu
+# Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# source = Manning, 1996:101-47
+# text = Hansi sinikkumavuq
+# gloss = Hansi(ABS) sleep-want-INDIC.INTRANS.3SG
+# text_en = Hansi wants to sleep
+1	Hansi	Hansi	PROPN	_	Case=Abs	2	nsubj	_	Gloss=Hansi
+2	sinikkumavuq	_	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	Gloss=wants-to-sleep|MSeg=sinik-kuma-vuq|MGloss=sleep-want-INDIC.INTRANS.3SG
+
+# sent_id = 3.109b/iu
+# Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# source = Manning, 1996:101-47
+# text = Aanip miiqqat ikiurumavai
+# gloss = Aani-ERG children(ABS) help-want-INDIC-TR-3SG.3PL
+# text_en = Aani wants to help the children
+1	Aanip	Aani	PROPN	_	Case=Erg	3	nsubj	_	Gloss=Aani|MSeg=Aani-p|MGloss=Aani-ERG
+2	miiqqat	_	NOUN	_	Case=Abs	3	obj	_	Gloss=children|MGloss=children(ABS)
+3	ikiurumavai	_	VERB	_	Mood=Ind|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=3	0	root	_	Gloss=wants-to-help|MSeg=ikiur-uma-v-a-i|MGloss=help-want-INDIC-TR-3SG.3PL
+
+# sent_id = 3.110/iu
+# Inuit / Central Canadian Eskimo (Eskimo-Aleut, Canada)
+# source = Manning, 1996:101-47
+# text = Miiqqat Aanimit ikiurniqarumapput
+# gloss = children(ABS) Aani-ABL help-PASS-want-INDIC-INTRANS-3SG
+# text_en = The children want to be helped by Aani
+1	Miiqqat	_	NOUN	_	Case=Abs	3	nsubj:pass	_	Gloss=children|MGloss=children(ABS)
+2	Aanimit	Aani	PROPN	_	Case=Abl	3	obl:agent	_	Gloss=by-Aani|MSeg=Aani-mit|MGloss=Aani-ABL
+3	ikiurniqarumapput	_	VERB	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	Gloss=want-to-be-helped|MSeg=ikiur-niqar-uma-pp-u-t|MGloss=help-PASS-want-INDIC-INTRANS-3SG
 
