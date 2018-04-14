@@ -8268,5 +8268,5 @@
 # text_en = The children want to be helped by Aani
 1	Miiqqat	_	NOUN	_	Case=Abs	3	nsubj:pass	_	Gloss=children|MGloss=children(ABS)
 2	Aanimit	Aani	PROPN	_	Case=Abl	3	obl:agent	_	Gloss=by-Aani|MSeg=Aani-mit|MGloss=Aani-ABL
-3	ikiurniqarumapput	_	VERB	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	Gloss=want-to-be-helped|MSeg=ikiur-niqar-uma-pp-u-t|MGloss=help-PASS-want-INDIC-INTRANS-3SG
+3	ikiurniqarumapput	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	Gloss=want-to-be-helped|MSeg=ikiur-niqar-uma-pp-u-t|MGloss=help-PASS-want-INDIC-INTRANS-3SG
 
