@@ -8270,3 +8270,20 @@
 2	Aanimit	Aani	PROPN	_	Case=Abl	3	obl:agent	_	Gloss=by-Aani|MSeg=Aani-mit|MGloss=Aani-ABL
 3	ikiurniqarumapput	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	Gloss=want-to-be-helped|MSeg=ikiur-niqar-uma-pp-u-t|MGloss=help-PASS-want-INDIC-INTRANS-3SG
 
+# sent_id = 3.111a/tl
+# text = Magaalis ang babae ng bigas sa sako para sa bata
+# gloss = AP-FUT-take.out PIV woman OBJ rice DIR sack for BEN child
+# text_en = The woman will take some rice out of a/the sack for a/the child
+# AP = actor pivot; PIV = pivot marker
+# http://www.seasite.niu.edu/Tagalog/tagalog_verbs.htm
+1	Magaalis	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-take-out|MSeg=mag-a-alis|MGloss=AP-FUT-take.out
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the|MGloss=PIV
+3	babae	babae	NOUN	_	_	1	nsubj	_	Gloss=woman
+4	ng	ng	ADP	_	Case=Acc	5	case	_	Gloss=OBJ
+5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
+6	sa	sa	ADP	_	_	7	case	_	Gloss=DIR
+7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
+8	para	para	ADP	_	_	10	case	_	Gloss=for
+9	sa	sa	ADP	_	_	10	case	_	Gloss=BEN
+10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
+
