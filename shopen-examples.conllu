@@ -1037,7 +1037,7 @@
 # text_en = Who is the child who went to the store?
 1	Sino	sino	PRON	_	PronType=Int	0	root	_	Gloss=who
 2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=TOPIC
-3	batang	bata	NOUN	_	_	1	nsubj	_	Gloss=child|MSeg=bata-ng|MGloss=child-LINK
+3	batang	bata	NOUN	_	Link=Yes	1	nsubj	_	Gloss=child|MSeg=bata-ng|MGloss=child-LINK
 4	pumunta	punta	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	3	acl	_	Gloss=went
 5	sa	sa	ADP	_	_	6	case	_	Gloss=OBL
 6	tindahan	tindahan	NOUN	_	_	4	obl	_	Gloss=store|SpaceAfter=No
@@ -1160,7 +1160,7 @@
 # gloss = EXIST Q-LINK food
 # text_en = Is there any food?
 1	Mayroon	mayroon	VERB	_	Polarity=Pos	0	root	_	Gloss=exists
-2	bang	ba	PART	_	PartType=Int	1	discourse	_	Gloss=QUESTION|MSeg=ba-ng|MGloss=QUESTION-LINK
+2	bang	ba	PART	_	Link=Yes|PartType=Int	1	discourse	_	Gloss=QUESTION|MSeg=ba-ng|MGloss=QUESTION-LINK
 3	pagkain	pagkain	NOUN	_	_	1	nsubj	_	Gloss=food|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
@@ -2662,7 +2662,7 @@
 # text = Mayroong libro sa mesa
 # gloss = EXIST/POSS-LINK book on table
 # text_en = There is a book on the table
-1	Mayroong	mayroon	VERB	_	Polarity=Pos|Poss=Yes	0	root	_	Gloss=there-is|MSeg=mayroon-g|MGloss=exists-POSSESSIVE
+1	Mayroong	mayroon	VERB	_	Link=Yes|Polarity=Pos|Poss=Yes	0	root	_	Gloss=there-is|MSeg=mayroon-g|MGloss=exists-POSSESSIVE
 2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
 3	sa	sa	ADP	_	_	4	case	_	Gloss=on
 4	mesa	mesa	NOUN	_	_	1	obl	_	Gloss=table
@@ -2671,7 +2671,7 @@
 # text = Walang libro sa mesa
 # gloss = EXIST/POSS(NEG)-LINK book on table
 # text_en = There isn't a book on the table
-1	Walang	wala	VERB	_	Polarity=Neg|Poss=Yes	0	root	_	Gloss=there-is-not|MSeg=wala-ng|MGloss=does+not+exist-POSSESSIVE
+1	Walang	wala	VERB	_	Link=Yes|Polarity=Neg|Poss=Yes	0	root	_	Gloss=there-is-not|MSeg=wala-ng|MGloss=does+not+exist-POSSESSIVE
 2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
 3	sa	sa	ADP	_	_	4	case	_	Gloss=on
 4	mesa	mesa	NOUN	_	_	1	obl	_	Gloss=table
@@ -2680,7 +2680,7 @@
 # text = Mayroong libro ang bata
 # gloss = EXIST/POSS-LINK book TOP child
 # text_en = The child has a book
-1	Mayroong	mayroon	VERB	_	Polarity=Pos|Poss=Yes	0	root	_	Gloss=there-is|MSeg=mayroon-g|MGloss=exists-POSSESSIVE
+1	Mayroong	mayroon	VERB	_	Link=Yes|Polarity=Pos|Poss=Yes	0	root	_	Gloss=there-is|MSeg=mayroon-g|MGloss=exists-POSSESSIVE
 2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
 3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
 4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
@@ -2689,7 +2689,7 @@
 # text = Walang libro ang bata
 # gloss = EXIST/POSS(NEG)-LINK book TOP child
 # text_en = The child doesn't have a book
-1	Walang	wala	VERB	_	Polarity=Neg|Poss=Yes	0	root	_	Gloss=there-is-not|MSeg=wala-ng|MGloss=does+not+exist-POSSESSIVE
+1	Walang	wala	VERB	_	Link=Yes|Polarity=Neg|Poss=Yes	0	root	_	Gloss=there-is-not|MSeg=wala-ng|MGloss=does+not+exist-POSSESSIVE
 2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
 3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
 4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
@@ -2758,7 +2758,7 @@
 # gloss = NEG you-LINK leave
 # text_en = Don't leave
 1	Huwag	huwag	AUX	_	Mood=Imp|Polarity=Neg	3	aux	_	Gloss=do-not
-2	kayong	kayo	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MSeg=kayo-ng|MGloss=you-LINK
+2	kayong	kayo	PRON	_	Case=Nom|Link=Yes|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MSeg=kayo-ng|MGloss=you-LINK
 3	umalis	alis	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=leave
 
 # sent_id = 1.186b/tl
@@ -2766,7 +2766,7 @@
 # gloss = NEG he-LINK come.here
 # text_en = He shouldn't come here
 1	Huwag	huwag	AUX	_	Mood=Imp|Polarity=Neg	3	aux	_	Gloss=do-not
-2	siyang	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MSeg=siya-ng|MGloss=he-LINK
+2	siyang	siya	PRON	_	Case=Nom|Link=Yes|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MSeg=siya-ng|MGloss=he-LINK
 3	pumarito	parito	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=come-here
 
 # sent_id = 1.187a/fr
@@ -3536,7 +3536,7 @@
 # source = Rubino, 1998:40
 1	ti	_	DET	_	_	4	det	_	Gloss=the|MGloss=ART
 2	nalaíng	_	ADJ	_	_	4	amod	_	Gloss=smart
-3	nga	_	ADP	_	_	4	case	_	Gloss=LINK
+3	nga	_	ADP	_	Link=Yes	4	case	_	Gloss=LINK
 4	ubíng	_	NOUN	_	_	0	root	_	Gloss=child
 
 # sent_id = 2.45b/ilo
@@ -3546,7 +3546,7 @@
 # source = Rubino, 1998:40
 1	ti	_	DET	_	_	2	det	_	Gloss=the|MGloss=ART
 2	ubíng	_	NOUN	_	_	0	root	_	Gloss=child
-3	a	_	ADP	_	_	4	case	_	Gloss=LINK
+3	a	_	ADP	_	Link=Yes	4	case	_	Gloss=LINK
 4	nalaíng	_	ADJ	_	_	2	amod	_	Gloss=smart
 
 # sent_id = 2.46/bsn
@@ -8333,4 +8333,26 @@
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
 8	ang	ang	ADP	_	Case=Nom	9	case	_	Gloss=the|MGloss=PIV
 9	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
+
+# sent_id = 3.112a/tl
+# text = Matalino ang lalaking bumasa ng diyaryo
+# gloss = intelligent PIV man-LINK [AP]-read OBJ newspaper
+# text_en = The man who read a newspaper is intelligent
+1	Matalino	_	ADJ	_	_	0	root	_	Gloss=intelligent
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the|MGloss=PIV
+3	lalaking	lalaki	NOUN	_	Link=Yes	1	nsubj	_	Gloss=man|MSeg=lalaki-ng|man-LINK
+4	bumasa	basa	VERB	_	Voice=Agf	3	acl:relcl	_	Gloss=read|MSeg=b[um]asa|MGloss=[AP]-read
+5	ng	ng	ADP	_	Case=Acc	6	case	_	Gloss=OBJ
+6	diyaryo	diyaryo	NOUN	_	_	4	obj	_	Gloss=newspaper
+
+# sent_id = 3.112b/tl
+# text = Interesante ang diyaryong binasa ng lalaki
+# gloss = interesting PIV newspaper-LINK [PERF]-read-OP ACT man
+# text_en = The newspaper that the man read is interesting
+1	Interesante	_	ADJ	_	_	0	root	_	Gloss=interesting
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the|MGloss=PIV
+3	diyaryong	diyaryo	NOUN	_	Link=Yes	1	nsubj	_	Gloss=newspaper|MSeg=diyaryo-ng|MGloss=newspaper-LINK
+4	binasa	basa	VERB	_	Aspect=Perf|Voice=Paf	3	acl:relcl	_	Gloss=be-read|MSeg=b[in]asa-0|MGloss=[PERF]-read-OP
+5	ng	ng	ADP	_	Case=Acc	6	case	_	Gloss=ACT
+6	lalaki	lalaki	NOUN	_	_	4	obj	_	Gloss=man
 
