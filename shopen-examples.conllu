@@ -8356,3 +8356,31 @@
 5	ng	ng	ADP	_	Case=Acc	6	case	_	Gloss=ACT
 6	lalaki	lalaki	NOUN	_	_	4	obj	_	Gloss=man
 
+# sent_id = 3.114a/tl
+# source = Schachter and Otanes, 1972:147-8
+# text = Susulat lahat ang mga bata ng mga liham
+# gloss = AP-FUT-write all PIV PL child OBJ PL letter
+# text_en = All the children will write letters
+1	Susulat	sulat	VERB	_	Aspect=Prog|Voice=Agf	0	root	_	Gloss=will-write|MSeg=0-su-sulat|MGloss=AP-FUT-write
+2	lahat	lahat	DET	_	PronType=Tot	5	det	_	Gloss=all
+3	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=the|MGloss=PIV
+4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PL
+5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
+6	ng	ng	ADP	_	Case=Acc	8	case	_	Gloss=OBJ
+7	mga	mga	DET	_	Number=Plur|PronType=Ind	8	det	_	Gloss=PL
+8	liham	liham	NOUN	_	_	1	obj	_	Gloss=letter
+
+# sent_id = 3.114b/tl
+# source = Schachter and Otanes, 1972:147-8
+# text = Susulatin lahat ng mga bata ang mga liham
+# gloss = FUT-write-OP all ACT PL child PIV PL letter
+# text_en = The/some children will write all the letters
+1	Susulatin	sulat	VERB	_	Aspect=Prog|Voice=Paf	0	root	_	Gloss=will-be-written|MSeg=su-sulat-in|MGloss=FUT-write-OP
+2	lahat	lahat	DET	_	PronType=Tot	8	det	_	Gloss=all
+3	ng	ng	ADP	_	Case=Acc	5	case	_	Gloss=ACT
+4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PL
+5	bata	bata	NOUN	_	_	1	obj	_	Gloss=child
+6	ang	ang	ADP	_	Case=Nom	8	case	_	Gloss=the|MGloss=PIV
+7	mga	mga	DET	_	Number=Plur|PronType=Ind	8	det	_	Gloss=PL
+8	liham	liham	NOUN	_	_	1	nsubj	_	Gloss=letter
+
