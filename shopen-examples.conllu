@@ -8384,3 +8384,27 @@
 7	mga	mga	DET	_	Number=Plur|PronType=Ind	8	det	_	Gloss=PL
 8	liham	liham	NOUN	_	_	1	nsubj	_	Gloss=letter
 
+# sent_id = 3.115a/tl
+# source = Schachter, 1977:292
+# text = Nagalala ang lolo sa kaniyang sarili
+# gloss = AP-worry PIV grandfather DIR his-LINK self
+# text_en = Grandfather worried about himself
+1	Nagalala	alala	VERB	_	Aspect=Perf|Voice=Agf	0	root	_	Gloss=worried|MSeg=nag-alala|MGloss=AP-worry
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the|MGloss=PIV
+3	lolo	lolo	NOUN	_	_	1	nsubj	_	Gloss=grandfather
+4	sa	sa	ADP	_	Case=Loc	6	case	_	Gloss=about|MGloss=DIR
+5	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	6	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
+6	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obl	_	Gloss=self
+
+# sent_id = 3.115b/tl
+# source = Schachter, 1977:292
+# text = Inalala ng lolo ang kaniyang sarili
+# gloss = PERF-worry-OP ACT grandfather PIV his-LINK self
+# text_en = Grandfather worried about himself
+1	Inalala	alala	VERB	_	Aspect=Perf|Voice=Paf	0	root	_	Gloss=worried|MSeg=in-alala-0|MGloss=PERF-worry-OP
+2	ng	ng	ADP	_	Case=Acc	3	case	_	Gloss=ACT
+3	lolo	lolo	NOUN	_	_	1	obj	_	Gloss=grandfather
+4	ang	ang	ADP	_	Case=Nom	6	case	_	Gloss=the|MGloss=PIV
+5	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	6	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
+6	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	nsubj	_	Gloss=self
+
