@@ -109,7 +109,7 @@
 1	Malapit	malapit	ADJ	_	_	0	root	_	Gloss=near
 2	sa	sa	ADP	_	_	3	case	_	Gloss=to
 3	babae	babae	NOUN	_	_	1	obl	_	Gloss=woman
-4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 
 # sent_id = 1.13/tl
@@ -129,7 +129,7 @@
 1	Malapit	malapit	ADJ	_	_	0	root	_	Gloss=near
 2	sa	sa	ADP	_	_	3	case	_	Gloss=to
 3	Maynila	Maynila	PROPN	_	_	1	obl	_	Gloss=Manila
-4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 5	Pasay	Pasay	PROPN	_	_	1	nsubj	_	Gloss=Pasay
 6	City	City	PROPN	_	_	5	flat	_	Gloss=City
 
@@ -154,7 +154,7 @@
 # http://www.seasite.niu.edu/Tagalog/tagalog_verbs.htm
 1	Pinanood	nood	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=watch
 2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
-3	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PLUR
 5	sumasayaw	sayaw	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	obj	_	Gloss=were-dancing
 
@@ -163,7 +163,7 @@
 # gloss = were.dancing TOP PL person
 # text_en = The people were dancing
 1	Sumasayaw	sayaw	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=were-dancing
-2	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
 3	mga	mga	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLUR
 4	tao	tao	NOUN	_	_	1	nsubj	_	Gloss=person
 
@@ -218,7 +218,7 @@
 # gloss = is.working TOP man
 # text_en = The man is working
 1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=is-working
-2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=TOPIC
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	lalaki	lalaki	NOUN	_	_	1	nsubj	_	Gloss=man
 
 # sent_id = 1.25/tl
@@ -226,7 +226,7 @@
 # gloss = man TOP is.working
 # text_en = The one who is working is a man
 1	Lalaki	lalaki	NOUN	_	_	0	root	_	Gloss=man
-2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=TOPIC
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	nsubj	_	Gloss=is-working
 
 # sent_id = 1.26/ilo
@@ -771,7 +771,7 @@
 1	Inahit	ahit	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=shaved
 2	ni	ni	ADP	_	Case=Acc	3	case	_	Gloss=AGENT
 3	John	John	PROPN	_	_	1	nsubj	_	Gloss=John
-4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 5	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obj	_	Gloss=self
 6	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=his
 
@@ -1036,7 +1036,7 @@
 # gloss = who TOP child	went OBL store
 # text_en = Who is the child who went to the store?
 1	Sino	sino	PRON	_	PronType=Int	0	root	_	Gloss=who
-2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=TOPIC
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	batang	bata	NOUN	_	Link=Yes	1	nsubj	_	Gloss=child|MSeg=bata-ng|MGloss=child-LINK
 4	pumunta	punta	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	3	acl	_	Gloss=went
 5	sa	sa	ADP	_	_	6	case	_	Gloss=OBL
@@ -1361,7 +1361,7 @@
 5	liham	liham	NOUN	_	_	1	obj	_	Gloss=letter
 6	kay	kay	ADP	_	_	7	case	_	Gloss=INDIRECT-OBJECT
 7	Mary	Mary	PROPN	_	_	1	iobj	_	Gloss=Mary
-8	ang	ang	ADP	_	Case=Nom	9	case	_	Gloss=TOPIC
+8	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	9	det	_	Gloss=the|MGloss=PIV
 9	makinilya	makinilya	NOUN	_	_	1	obl	_	Gloss=typewriter
 
 # sent_id = 1.101/ja
@@ -1512,7 +1512,7 @@
 # gloss = where TOP PL dish
 # text_en = Where are the dishes?
 1	Nasaan	nasaan	ADV	_	PronType=Int	0	root	_	Gloss=where
-2	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
 3	mga	mga	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLURAL
 4	pinggan	pinggan	NOUN	_	_	1	nsubj	_	Gloss=dish|SpaceAfter=No
 5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
@@ -2682,7 +2682,7 @@
 # text_en = The child has a book
 1	Mayroong	mayroon	VERB	_	Link=Yes|Polarity=Pos|Poss=Yes	0	root	_	Gloss=there-is|MSeg=mayroon-g|MGloss=exists-POSSESSIVE
 2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
-3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
 4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 
 # sent_id = 1.183d/tl
@@ -2691,7 +2691,7 @@
 # text_en = The child doesn't have a book
 1	Walang	wala	VERB	_	Link=Yes|Polarity=Neg|Poss=Yes	0	root	_	Gloss=there-is-not|MSeg=wala-ng|MGloss=does+not+exist-POSSESSIVE
 2	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
-3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
 4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 
 # sent_id = 1.184a/ja
@@ -2730,7 +2730,7 @@
 # text_en = Is the harvest good?
 1	Mabuti	mabuti	ADJ	_	_	0	root	_	Gloss=good
 2	a	a	AUX	_	Mood=Int	1	aux	_	Gloss=QUESTION
-3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
 4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest|SpaceAfter=No
 5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
@@ -2740,7 +2740,7 @@
 # text_en = Do you suppose the harvest will be good?
 1	Mabuti	mabuti	ADJ	_	_	0	root	_	Gloss=good
 2	kaya	kaya	AUX	_	Mood=Int	1	aux	_	Gloss=QUESTION-SPECULATIVE
-3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
 4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest|SpaceAfter=No
 5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
@@ -2750,7 +2750,7 @@
 # text_en = I hope the harvest is good
 1	Mabuti	mabuti	ADJ	_	_	0	root	_	Gloss=good
 2	sana	sana	AUX	_	Mood=Des	1	aux	_	Gloss=WISH
-3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=TOPIC
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
 4	ani	ani	NOUN	_	_	1	nsubj	_	Gloss=harvest
 
 # sent_id = 1.186a/tl
@@ -4143,7 +4143,7 @@
 1	gipalit	_	VERB	_	Voice=Paf	0	root	_	Gloss=bought|MSeg=gi-palit|MGloss=OBJ.FOCUS-buy
 2	sa	_	ADP	_	_	3	case	_	Gloss=NONTOPIC
 3	babayi	_	NOUN	_	_	1	obl	_	Gloss=woman
-4	ang	_	ADP	_	Case=Nom	5	case	_	Gloss=TOPIC
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 5	saging	_	NOUN	_	_	1	obj	_	Gloss=banana
 
 # sent_id = 2.84b/ceb
@@ -8277,7 +8277,7 @@
 # AP = actor pivot; PIV = pivot marker
 # http://www.seasite.niu.edu/Tagalog/tagalog_verbs.htm
 1	Magaalis	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-take-out|MSeg=mag-a-alis|MGloss=AP-FUT-take.out
-2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the|MGloss=PIV
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	babae	babae	NOUN	_	_	1	nsubj	_	Gloss=woman
 4	ng	ng	ADP	_	Case=Acc	5	case	_	Gloss=OBJ
 5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
@@ -8295,7 +8295,7 @@
 1	Aalisin	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=will-take-out|MSeg=a-alis-in|MGloss=FUT-take.out-OP
 2	ng	ng	ADP	_	Case=Acc	3	case	_	Gloss=ACT
 3	babae	babae	NOUN	_	_	1	obj	_	Gloss=woman
-4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=PIV
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 5	bigas	bigas	NOUN	_	_	1	nsubj	_	Gloss=rice
 6	sa	sa	ADP	_	_	7	case	_	Gloss=DIR
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
@@ -8313,7 +8313,7 @@
 3	babae	babae	NOUN	_	_	1	obj	_	Gloss=woman
 4	ng	ng	ADP	_	Case=Acc	5	case	_	Gloss=OBJ
 5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
-6	ang	ang	ADP	_	Case=Nom	7	case	_	Gloss=the|MGloss=PIV
+6	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	7	det	_	Gloss=the|MGloss=PIV
 7	sako	sako	NOUN	_	_	1	nsubj	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
 9	sa	sa	ADP	_	_	10	case	_	Gloss=BEN
@@ -8331,7 +8331,7 @@
 5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
 6	sa	sa	ADP	_	_	7	case	_	Gloss=DIR
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
-8	ang	ang	ADP	_	Case=Nom	9	case	_	Gloss=the|MGloss=PIV
+8	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	9	det	_	Gloss=the|MGloss=PIV
 9	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 
 # sent_id = 3.112a/tl
@@ -8339,7 +8339,7 @@
 # gloss = intelligent PIV man-LINK [AP]-read OBJ newspaper
 # text_en = The man who read a newspaper is intelligent
 1	Matalino	_	ADJ	_	_	0	root	_	Gloss=intelligent
-2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the|MGloss=PIV
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	lalaking	lalaki	NOUN	_	Link=Yes	1	nsubj	_	Gloss=man|MSeg=lalaki-ng|man-LINK
 4	bumasa	basa	VERB	_	Voice=Agf	3	acl:relcl	_	Gloss=read|MSeg=b[um]asa|MGloss=[AP]-read
 5	ng	ng	ADP	_	Case=Acc	6	case	_	Gloss=OBJ
@@ -8350,7 +8350,7 @@
 # gloss = interesting PIV newspaper-LINK [PERF]-read-OP ACT man
 # text_en = The newspaper that the man read is interesting
 1	Interesante	_	ADJ	_	_	0	root	_	Gloss=interesting
-2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the|MGloss=PIV
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	diyaryong	diyaryo	NOUN	_	Link=Yes	1	nsubj	_	Gloss=newspaper|MSeg=diyaryo-ng|MGloss=newspaper-LINK
 4	binasa	basa	VERB	_	Aspect=Perf|Voice=Paf	3	acl:relcl	_	Gloss=be-read|MSeg=b[in]asa-0|MGloss=[PERF]-read-OP
 5	ng	ng	ADP	_	Case=Acc	6	case	_	Gloss=ACT
@@ -8363,7 +8363,7 @@
 # text_en = All the children will write letters
 1	Susulat	sulat	VERB	_	Aspect=Prog|Voice=Agf	0	root	_	Gloss=will-write|MSeg=0-su-sulat|MGloss=AP-FUT-write
 2	lahat	lahat	DET	_	PronType=Tot	5	det	_	Gloss=all
-3	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=the|MGloss=PIV
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PL
 5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 6	ng	ng	ADP	_	Case=Acc	8	case	_	Gloss=OBJ
@@ -8380,7 +8380,7 @@
 3	ng	ng	ADP	_	Case=Acc	5	case	_	Gloss=ACT
 4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PL
 5	bata	bata	NOUN	_	_	1	obj	_	Gloss=child
-6	ang	ang	ADP	_	Case=Nom	8	case	_	Gloss=the|MGloss=PIV
+6	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	8	det	_	Gloss=the|MGloss=PIV
 7	mga	mga	DET	_	Number=Plur|PronType=Ind	8	det	_	Gloss=PL
 8	liham	liham	NOUN	_	_	1	nsubj	_	Gloss=letter
 
@@ -8390,7 +8390,7 @@
 # gloss = AP-worry PIV grandfather DIR his-LINK self
 # text_en = Grandfather worried about himself
 1	Nagalala	alala	VERB	_	Aspect=Perf|Voice=Agf	0	root	_	Gloss=worried|MSeg=nag-alala|MGloss=AP-worry
-2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the|MGloss=PIV
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	lolo	lolo	NOUN	_	_	1	nsubj	_	Gloss=grandfather
 4	sa	sa	ADP	_	Case=Loc	6	case	_	Gloss=about|MGloss=DIR
 5	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	6	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
@@ -8404,7 +8404,38 @@
 1	Inalala	alala	VERB	_	Aspect=Perf|Voice=Paf	0	root	_	Gloss=worried|MSeg=in-alala-0|MGloss=PERF-worry-OP
 2	ng	ng	ADP	_	Case=Acc	3	case	_	Gloss=ACT
 3	lolo	lolo	NOUN	_	_	1	obj	_	Gloss=grandfather
-4	ang	ang	ADP	_	Case=Nom	6	case	_	Gloss=the|MGloss=PIV
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	6	det	_	Gloss=the|MGloss=PIV
 5	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	6	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
 6	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	nsubj	_	Gloss=self
+
+# sent_id = 3.116a/en
+# text = John talked to Mary about himself
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	talked	talk	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	ADP	_	_	4	case	_	_
+4	Mary	Mary	PROPN	_	Number=Sing	2	obl	_	_
+5	about	about	ADP	_	_	6	case	_	_
+6	himself	himself	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	_
+
+# sent_id = 3.116b/en
+# text = John talked to Mary about herself
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	talked	talk	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	ADP	_	_	4	case	_	_
+4	Mary	Mary	PROPN	_	Number=Sing	2	obl	_	_
+5	about	about	ADP	_	_	6	case	_	_
+6	herself	herself	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	_
+
+# sent_id = 3.117a/tl
+# text = Iniabot niya sa bata ang kaniyang sariling larawan
+# gloss = PERF-OP-hand he(ACT) DIR child PIV his-LINK self-LINK picture
+# text_en = He[i] handed the child[j] a picture of himself[i,j]
+1	Iniabot	abot	VERB	_	Aspect=Perf|Voice=Paf	0	root	_	Gloss=handed|MSeg=in-i-abot|MGloss=PERF-OP-hand
+2	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	1	obj:agent	_	Gloss=by-him|MGloss=he(ACT)
+3	sa	sa	DET	_	Case=Loc|PronType=Art	4	det	_	Gloss=DIR
+4	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
+5	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	7	det	_	Gloss=the|MGloss=PIV
+6	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	7	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
+7	sariling	sarili	PRON	_	Link=Yes|PronType=Prs|Reflex=Yes	8	nmod	_	Gloss=self|MSeg=sarili-ng|MGloss=self-LINK
+8	larawan	larawan	NOUN	_	_	1	nsubj:pass	_	Gloss=picture
 
