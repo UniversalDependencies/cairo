@@ -8439,3 +8439,19 @@
 7	sariling	sarili	PRON	_	Link=Yes|PronType=Prs|Reflex=Yes	8	nmod	_	Gloss=self|MSeg=sarili-ng|MGloss=self-LINK
 8	larawan	larawan	NOUN	_	_	1	nsubj:pass	_	Gloss=picture
 
+# sent_id = 3.117b/tl
+# text = Tumanggap ang Rosa ng sulat para sa bata sa kaniyang sarili
+# gloss = [AP]-receive PIV Rosa OBJ letter BEN BEN child DIR her-LINK self
+# text_en = Rosa[i] received a letter for the child[j] from herself[i]/him-herself[j]
+1	Tumanggap	tanggap	VERB	_	Aspect=Perf|Voice=Agf	0	root	_	Gloss=received|MSeg=t[um]anggap|MGloss=[AP]-receive
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
+3	Rosa	Rosa	PROPN	_	_	1	nsubj	_	Gloss=Rosa
+4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
+5	sulat	sulat	NOUN	_	_	1	obj	_	Gloss=letter
+6	para	para	ADP	_	_	8	case	_	Gloss=for|MGloss=BEN
+7	sa	sa	DET	_	Case=Dat|PronType=Art	8	det	_	Gloss=to
+8	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
+9	sa	sa	DET	_	Case=Dat|PronType=Art	11	det	_	Gloss=from
+10	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	11	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
+11	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obl	_	Gloss=self
+
