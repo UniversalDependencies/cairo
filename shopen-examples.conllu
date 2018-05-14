@@ -8463,7 +8463,7 @@
 1	Magbigay	bigay	VERB	_	Mood=Imp|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=give|MSeg=mag-bigay|MGloss=AP-give
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|MGloss=you(PIV)
 3	sa	sa	DET	_	Case=Dat|PronType=Art	4	det	_	Gloss=to|MGloss=DIR
-4	kaniya	kaniya	PRON	_	Person=3|Number=Sing|PronType=Prs	1	obl	_	Gloss=him
+4	kaniya	kaniya	PRON	_	Number=Sing|Person=3|PronType=Prs	1	obl	_	Gloss=him
 5	ng	ng	DET	_	Case=Acc|PronType=Art	6	det	_	Gloss=DET
 6	kape	kape	NOUN	_	_	1	obj	_	Gloss=coffee
 
