@@ -8294,9 +8294,9 @@
 # OP = object pivot; PIV = pivot marker
 1	Aalisin	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=will-take-out|MSeg=a-alis-in|MGloss=FUT-take.out-OP
 2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
-3	babae	babae	NOUN	_	_	1	obj	_	Gloss=woman
+3	babae	babae	NOUN	_	_	1	obj:agent	_	Gloss=woman
 4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
-5	bigas	bigas	NOUN	_	_	1	nsubj	_	Gloss=rice
+5	bigas	bigas	NOUN	_	_	1	nsubj:pass	_	Gloss=rice
 6	sa	sa	DET	_	Case=Dat|PronType=Art	7	det	_	Gloss=to
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
@@ -8310,11 +8310,11 @@
 # DP = directional pivot; PIV = pivot marker
 1	Aalisan	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Locf	0	root	_	Gloss=will-take-out|MSeg=a-alis-an|MGloss=FUT-take.out-DP
 2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
-3	babae	babae	NOUN	_	_	1	obj	_	Gloss=woman
+3	babae	babae	NOUN	_	_	1	obj:agent	_	Gloss=woman
 4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
-5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
+5	bigas	bigas	NOUN	_	_	1	obj:patient	_	Gloss=rice
 6	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	7	det	_	Gloss=the|MGloss=PIV
-7	sako	sako	NOUN	_	_	1	nsubj	_	Gloss=sack
+7	sako	sako	NOUN	_	_	1	nsubj:loc	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
 9	sa	sa	DET	_	Case=Dat|PronType=Art	10	det	_	Gloss=to
 10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
@@ -8326,13 +8326,13 @@
 # BP = benefactive pivot; PIV = pivot marker
 1	Ipagaalis	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Benf	0	root	_	Gloss=will-take-out|MSeg=Ipag-a-alis|MGloss=BP-FUT-take.out
 2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
-3	babae	babae	NOUN	_	_	1	obj	_	Gloss=woman
+3	babae	babae	NOUN	_	_	1	obj:agent	_	Gloss=woman
 4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
-5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
+5	bigas	bigas	NOUN	_	_	1	obj:patient	_	Gloss=rice
 6	sa	sa	DET	_	Case=Dat|PronType=Art	7	det	_	Gloss=to
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
 8	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	9	det	_	Gloss=the|MGloss=PIV
-9	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
+9	bata	bata	NOUN	_	_	1	nsubj:ben	_	Gloss=child
 
 # sent_id = 3.112a/tl
 # text = Matalino ang lalaking bumasa ng diyaryo
@@ -8361,7 +8361,7 @@
 # text = Susulat lahat ang mga bata ng mga liham
 # gloss = AP-FUT-write all PIV PL child OBJ PL letter
 # text_en = All the children will write letters
-1	Susulat	sulat	VERB	_	Aspect=Prog|Voice=Agf	0	root	_	Gloss=will-write|MSeg=0-su-sulat|MGloss=AP-FUT-write
+1	Susulat	sulat	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-write|MSeg=0-su-sulat|MGloss=AP-FUT-write
 2	lahat	lahat	DET	_	PronType=Tot	5	det	_	Gloss=all
 3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PL
@@ -8375,7 +8375,7 @@
 # text = Susulatin lahat ng mga bata ang mga liham
 # gloss = FUT-write-OP all ACT PL child PIV PL letter
 # text_en = The/some children will write all the letters
-1	Susulatin	sulat	VERB	_	Aspect=Prog|Voice=Paf	0	root	_	Gloss=will-be-written|MSeg=su-sulat-in|MGloss=FUT-write-OP
+1	Susulatin	sulat	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=will-be-written|MSeg=su-sulat-in|MGloss=FUT-write-OP
 2	lahat	lahat	DET	_	PronType=Tot	8	det	_	Gloss=all
 3	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
 4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PL
@@ -8389,7 +8389,7 @@
 # text = Nagalala ang lolo sa kaniyang sarili
 # gloss = AP-worry PIV grandfather DIR his-LINK self
 # text_en = Grandfather worried about himself
-1	Nagalala	alala	VERB	_	Aspect=Perf|Voice=Agf	0	root	_	Gloss=worried|MSeg=nag-alala|MGloss=AP-worry
+1	Nagalala	alala	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=worried|MSeg=nag-alala|MGloss=AP-worry
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	lolo	lolo	NOUN	_	_	1	nsubj	_	Gloss=grandfather
 4	sa	sa	DET	_	Case=Dat|PronType=Art	6	det	_	Gloss=to
@@ -8401,7 +8401,7 @@
 # text = Inalala ng lolo ang kaniyang sarili
 # gloss = PERF-worry-OP ACT grandfather PIV his-LINK self
 # text_en = Grandfather worried about himself
-1	Inalala	alala	VERB	_	Aspect=Perf|Voice=Paf	0	root	_	Gloss=worried|MSeg=in-alala-0|MGloss=PERF-worry-OP
+1	Inalala	alala	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=worried|MSeg=in-alala-0|MGloss=PERF-worry-OP
 2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
 3	lolo	lolo	NOUN	_	_	1	obj	_	Gloss=grandfather
 4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	6	det	_	Gloss=the|MGloss=PIV
@@ -8430,7 +8430,7 @@
 # text = Iniabot niya sa bata ang kaniyang sariling larawan
 # gloss = PERF-OP-hand he(ACT) DIR child PIV his-LINK self-LINK picture
 # text_en = He[i] handed the child[j] a picture of himself[i,j]
-1	Iniabot	abot	VERB	_	Aspect=Perf|Voice=Paf	0	root	_	Gloss=handed|MSeg=in-i-abot|MGloss=PERF-OP-hand
+1	Iniabot	abot	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=handed|MSeg=in-i-abot|MGloss=PERF-OP-hand
 2	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	1	obj:agent	_	Gloss=by-him|MGloss=he(ACT)
 3	sa	sa	DET	_	Case=Dat|PronType=Art	4	det	_	Gloss=to
 4	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
@@ -8443,7 +8443,7 @@
 # text = Tumanggap ang Rosa ng sulat para sa bata sa kaniyang sarili
 # gloss = [AP]-receive PIV Rosa OBJ letter BEN BEN child DIR her-LINK self
 # text_en = Rosa[i] received a letter for the child[j] from herself[i]/him-herself[j]
-1	Tumanggap	tanggap	VERB	_	Aspect=Perf|Voice=Agf	0	root	_	Gloss=received|MSeg=t[um]anggap|MGloss=[AP]-receive
+1	Tumanggap	tanggap	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=received|MSeg=t[um]anggap|MGloss=[AP]-receive
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	Rosa	Rosa	PROPN	_	_	1	nsubj	_	Gloss=Rosa
 4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
@@ -8454,4 +8454,27 @@
 9	sa	sa	DET	_	Case=Dat|PronType=Art	11	det	_	Gloss=from
 10	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	11	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
 11	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obl	_	Gloss=self
+
+# sent_id = 3.118a/tl
+# source = Schachter, 1977
+# text = Magbigay ka sa kaniya ng kape
+# gloss = AP-give you(PIV) DIR him OBJ coffee
+# text_en = Give him some coffee!
+1	Magbigay	bigay	VERB	_	Mood=Imp|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=give|MSeg=mag-bigay|MGloss=AP-give
+2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|MGloss=you(PIV)
+3	sa	sa	DET	_	Case=Dat|PronType=Art	4	det	_	Gloss=to|MGloss=DIR
+4	kaniya	kaniya	PRON	_	Person=3|Number=Sing|PronType=Prs	1	obl	_	Gloss=him
+5	ng	ng	DET	_	Case=Acc|PronType=Art	6	det	_	Gloss=DET
+6	kape	kape	NOUN	_	_	1	obj	_	Gloss=coffee
+
+# sent_id = 3.118b/tl
+# source = Schachter, 1977
+# text = Bigyan mo siya ng kape
+# gloss = give-DP you(ACT) him(PIV) OBJ coffee
+# text_en = Give him some coffee!
+1	Bigyan	bigay	VERB	_	Mood=Imp|VerbForm=Fin|Voice=Locf	0	root	_	Gloss=give|MSeg=bigy-an|MGloss=give-DP
+2	mo	ikaw	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj:agent	_	Gloss=you|MGloss=you(ACT)
+3	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj:loc	_	Gloss=he|MGloss=him(PIV)
+4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
+5	kape	kape	NOUN	_	_	1	obj:patient	_	Gloss=coffee
 
