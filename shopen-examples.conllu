@@ -8478,3 +8478,49 @@
 4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
 5	kape	kape	NOUN	_	_	1	obj:patient	_	Gloss=coffee
 
+# sent_id = 3.119a/tl
+# source = Schachter and Otanes, 1972:407-9
+# text = Walisan natin ang sahig
+# gloss = Sweep-OP us(DU.ACT) PIV floor
+# text_en = Let's sweep the floor
+1	Walisan	walis	VERB	_	Mood=Imp|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=sweep|MSeg=walis-an|MGloss=sweep-OP
+2	natin	tayo	PRON	_	Case=Acc|Clusivity=In|Number=Plur|Person=1|PronType=Prs	1	obj:agent	_	Gloss=us|MGloss=us(DU.ACT)
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
+4	sahig	sahig	NOUN	_	_	1	nsubj:pass	_	Gloss=floor
+
+# sent_id = 3.119b/tl
+# source = Schachter and Otanes, 1972:407-9
+# text = Walisan nila ang sahig
+# gloss = Sweep-OP they(ACT) PIV floor
+# text_en = I want them to sweep the floor
+1	Walisan	walis	VERB	_	Mood=Imp|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=sweep|MSeg=walis-an|MGloss=sweep-OP
+2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj:agent	_	Gloss=them|MGloss=they(ACT)
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
+4	sahig	sahig	NOUN	_	_	1	nsubj:pass	_	Gloss=floor
+
+# sent_id = 3.120a/tl
+# source = Schachter, 1972
+# text = Nagatubili siyang humiram ng pera sa banko
+# gloss = AP-hesitate he(PIV)-LINK [AP]-borrow OBJ money DIR bank
+# text_en = He hesitated to borrow money from a/the bank
+1	Nagatubili	atubili	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=hesitated|MSeg=nag-atubili|MGloss=AP-hesitate
+2	siyang	siya	PRON	_	Case=Nom|Link=Yes|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he|MSeg=siya-ng|MGloss=he(PIV)-LINK
+3	humiram	hiram	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	1	xcomp	_	Gloss=borrow|MSeg=h[um]iram|MGloss=[AP]-borrow
+4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET|MGloss=OBJ
+5	pera	pera	NOUN	_	_	3	obj	_	Gloss=money
+6	sa	sa	DET	_	Case=Dat|PronType=Art	7	det	_	Gloss=to|MGloss=DIR
+7	banko	banko	NOUN	_	_	3	obl	_	Gloss=bank
+
+# sent_id = 3.120b/tl
+# source = Schachter, 1972
+# text = Nagatubili siyang hiramin ang pera sa banko
+# gloss = AP-hesitate he(PIV)-LINK borrow-OP PIV money DIR bank
+# text_en = He hesitated to borrow the money from the bank
+1	Nagatubili	atubili	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=hesitated|MSeg=nag-atubili|MGloss=AP-hesitate
+2	siyang	siya	PRON	_	Case=Nom|Link=Yes|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he|MSeg=siya-ng|MGloss=he(PIV)-LINK
+3	hiramin	hiram	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	1	xcomp	_	Gloss=borrow|MSeg=hiram-in|MGloss=borrow-OP
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
+5	pera	pera	NOUN	_	_	3	nsubj:pass	_	Gloss=money
+6	sa	sa	DET	_	Case=Dat|PronType=Art	7	det	_	Gloss=to|MGloss=DIR
+7	banko	banko	NOUN	_	_	3	obl	_	Gloss=bank
+
