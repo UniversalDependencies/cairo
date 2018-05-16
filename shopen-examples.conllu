@@ -8539,3 +8539,49 @@
 6	ng	ng	DET	_	Case=Acc|PronType=Art	7	det	_	Gloss=DET|MGloss=ACT
 7	doktor	doktor	NOUN	_	_	4	obj:agent	_	Gloss=doctor
 
+# sent_id = 3.122a/tl
+# text = Masagwa ang tumatanda
+# gloss = disagreeable PIV [AP]-IMPERF-become-old
+# text_en = It is disagreeable to become old
+1	Masagwa	masagwa	ADJ	_	_	0	root	_	Gloss=disagreeable
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
+3	tumatanda	tatanda	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	csubj	_	Gloss=to-become-old|MSeg=t[um]a-tanda|MGloss=[AP]-IMPERF-become-old
+
+# sent_id = 3.122b/tl
+# text = Gusto niyang gumanda
+# gloss = want he/she(ACT)-LINK [AP]-beautiful
+# text_en = She wants to become beautiful
+1	Gusto	gusto	VERB	_	VerbForm=Inf	0	root	_	Gloss=want
+2	niyang	siya	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=3|PronType=Prs	1	obj:agent	_	Gloss=she|MSeg=niya-ng|MGloss=he/she(ACT)-LINK
+3	gumanda	ganda	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	1	xcomp	_	Gloss=become-beautiful|MSeg=g[um]anda|MGloss=[AP]-beautiful
+
+# sent_id = 3.122c/tl
+# text = Gusto kong tumanggap ng gantimpala
+# gloss = want I(ACT)-LINK [AP]-receive OBJ prize
+# text_en = I want to be the recipient of the prize
+1	Gusto	gusto	VERB	_	VerbForm=Inf	0	root	_	Gloss=want
+2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=I|MSeg=ko-ng|MGloss=I(ACT)-LINK
+3	tumanggap	tanggap	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	1	xcomp	_	Gloss=receive|MSeg=t[um]anggap|MGloss=[AP]-receive
+4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET|MGloss=OBJ
+5	gantimpala	gantimpala	NOUN	_	_	3	obj	_	Gloss=prize
+
+# sent_id = 3.122d/tl
+# text = Gusto kong matanggap ang gantimpala
+# gloss = want I(ACT)-LINK OP-receive PIV prize
+# text_en = I want to receive the prize
+1	Gusto	gusto	VERB	_	VerbForm=Inf	0	root	_	Gloss=want
+2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=I|MSeg=ko-ng|MGloss=I(ACT)-LINK
+3	matanggap	tanggap	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	1	xcomp	_	Gloss=receive|MSeg=ma-tanggap|MGloss=OP-receive
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
+5	gantimpala	gantimpala	NOUN	_	_	3	nsubj:pass	_	Gloss=prize
+
+# sent_id = 3.123/tl
+# text = Ayaw kong mamatay sa Maynila
+# gloss = not.want I(ACT)-LINK AP-die DIR Manila
+# text_en = I don't want to die in Manila
+1	Ayaw	ayaw	VERB	_	VerbForm=Inf	0	root	_	Gloss=not-want|MGloss=not.want
+2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=I|MSeg=ko-ng|MGloss=I(ACT)-LINK
+3	mamatay	patay	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	1	xcomp	_	Gloss=die|MSeg=ma-matay|MGloss=AP-die
+4	sa	sa	DET	_	Case=Dat|PronType=Art	5	det	_	Gloss=to|MGloss=DIR
+5	Maynila	Maynila	PROPN	_	_	3	obl	_	Gloss=Manila
+
