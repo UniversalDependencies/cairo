@@ -8524,3 +8524,18 @@
 6	sa	sa	DET	_	Case=Dat|PronType=Art	7	det	_	Gloss=to|MGloss=DIR
 7	banko	banko	NOUN	_	_	3	obl	_	Gloss=bank
 
+# sent_id = 3.121a/tl
+# source = Schachter, 1977:295
+# text = Gusto ni Juan sunin siya ng doktor
+# gloss = want ACT John(LINK) examine-OP he(PIV) ACT doctor
+# text_en = John wants the doctor to examine him
+# The verb gusto seems to have only the patient focus voice. But here it appears in its base form, without aspectual inflection.
+# The patient focus means that the agent (which is the only argument) must appear in the accusative case.
+1	Gusto	gusto	VERB	_	VerbForm=Inf	0	root	_	Gloss=want
+2	ni	ni	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
+3	Juan	Juan	PROPN	_	Link=Yes	1	obj:agent	_	Gloss=Juan|MGloss=John(LINK)
+4	sunin	sun	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	1	ccomp	_	Gloss=examine|MSeg=sun-in|MGloss=examine-OP
+5	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	Gloss=him|MGloss=he(PIV)
+6	ng	ng	DET	_	Case=Acc|PronType=Art	7	det	_	Gloss=DET|MGloss=ACT
+7	doktor	doktor	NOUN	_	_	4	obj:agent	_	Gloss=doctor
+
