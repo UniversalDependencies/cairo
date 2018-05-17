@@ -8637,3 +8637,13 @@
 8	sa	sa	DET	_	Case=Dat|PronType=Art	9	det	_	Gloss=to|MGloss=DAT
 9	banko	banko	NOUN	_	_	7	obl	_	Gloss=bank
 
+# sent_id = 3.125a/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Manə əybu kawwi
+# gloss = he-NOM me-ACC kicked
+# text_en = He kicked me
+1	Manə	ma	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MSeg=ma-nə|MGloss=he-NOM
+2	əybu	əy	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=me|MSeg=əy-bu|MGloss=me-ACC
+3	kawwi	_	VERB	_	_	0	root	_	Gloss=kicked
+
