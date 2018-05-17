@@ -8585,3 +8585,55 @@
 4	sa	sa	DET	_	Case=Dat|PronType=Art	5	det	_	Gloss=to|MGloss=DIR
 5	Maynila	Maynila	PROPN	_	_	3	obl	_	Gloss=Manila
 
+# sent_id = 3.124a/tl
+# text = Binisita ni Juan ang hari nang nagiisa
+# gloss = [PERF]-visit(OP) ACT Juan PIV king ADV AP.IMPERF-one
+# text_en = Juan visited the king alone [either Juan or the king is alone]
+1	Binisita	bisita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=visited|MSeg=b[in]isita|MGloss=[PERF]-visit(OP)
+2	ni	ni	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET|MGloss=ACT
+3	Juan	Juan	PROPN	_	_	1	obj:agent	_	Gloss=Juan|MGloss=John(LINK)
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
+5	hari	hari	NOUN	_	_	1	nsubj:pass	_	Gloss=king
+6	nang	nang	SCONJ	_	_	7	mark	_	Gloss=while|MGloss=ADV
+7	nagiisa	iisa	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	advcl	_	Gloss=being-alone|MSeg=nag-iisa|MGloss=AP.IMPERF-one
+
+# sent_id = 3.124b/tl
+# text = Bumisita si Juan sa hari nang nagiisa
+# gloss = [AP.PERF]-visit PIV Juan DAT king ADV AP.IMPERF-one
+# text_en = Juan visited the king alone [only Juan is alone]
+1	Bumisita	bisita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=visited|MSeg=b[um]isita|MGloss=[AP.PERF]-visit
+2	si	si	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
+3	Juan	Juan	PROPN	_	_	1	nsubj	_	Gloss=Juan|MGloss=John(LINK)
+4	sa	sa	DET	_	Case=Dat|PronType=Art	5	det	_	Gloss=to|MGloss=DAT
+5	hari	hari	NOUN	_	_	1	obl	_	Gloss=king
+6	nang	nang	SCONJ	_	_	7	mark	_	Gloss=while|MGloss=ADV
+7	nagiisa	iisa	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	advcl	_	Gloss=being-alone|MSeg=nag-iisa|MGloss=AP.IMPERF-one
+
+# sent_id = 3.124c/tl
+# text = Hinuli ng polis ang mgananakaw nang pumapasok sa banko
+# gloss = PERF-catch(OP) ACT police PIV thief ADV AP.IMPERF:enter DAT bank
+# text_en = The police caught the thief entering the bank [either thief or police are entering]
+1	Hinuli	huli	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=caught|MSeg=h[in]uli|MGloss=PERF-catch(OP)
+2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET|MGloss=ACT
+3	polis	polis	NOUN	_	_	1	obj:agent	_	Gloss=police
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
+5	mgananakaw	mgananakaw	NOUN	_	_	1	nsubj:pass	_	Gloss=thief
+6	nang	nang	SCONJ	_	_	7	mark	_	Gloss=while|MGloss=ADV
+7	pumapasok	pasok	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	advcl	_	Gloss=entering|MSeg=p[um]a-pasok|MGloss=[AP]-IMPERF-enter
+8	sa	sa	DET	_	Case=Dat|PronType=Art	9	det	_	Gloss=to|MGloss=DAT
+9	banko	banko	NOUN	_	_	7	obl	_	Gloss=bank
+
+# sent_id = 3.124d/tl
+# text = Nanghuli ng mgananakaw ang polis nang pumapasok sa banko
+# gloss = AP.PERF-catch OBJ thief PIV police ADV AV.IMPERF:enter DAT bank
+# text_en = The police caught the thief entering the bank [either thief or police are entering]
+1	Nanghuli	huli	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=caught|MSeg=nang-huli|MGloss=AP.PERF-catch
+2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET|MGloss=OBJ
+3	mgananakaw	mgananakaw	NOUN	_	_	1	obj	_	Gloss=thief
+4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
+5	polis	polis	NOUN	_	_	1	nsubj	_	Gloss=police
+6	nang	nang	SCONJ	_	_	7	mark	_	Gloss=while|MGloss=ADV
+7	pumapasok	pasok	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	advcl	_	Gloss=entering|MSeg=p[um]a-pasok|MGloss=[AP]-IMPERF-enter
+8	sa	sa	DET	_	Case=Dat|PronType=Art	9	det	_	Gloss=to|MGloss=DAT
+9	banko	banko	NOUN	_	_	7	obl	_	Gloss=bank
+
