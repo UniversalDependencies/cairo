@@ -8653,7 +8653,7 @@
 # text = Manə kəppi
 # gloss = he-NOM cried
 # text_en = He cried
-1	Manə	ma	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MSeg=ma-nə|MGloss=he-NOM
+1	Manə	ma	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MSeg=ma-nə|MGloss=he-NOM
 2	kəppi	_	VERB	_	_	0	root	_	Gloss=cried
 
 # sent_id = 3.126a/mni
@@ -8672,7 +8672,7 @@
 # text = Ma sawwi
 # gloss = he angry
 # text_en = He is angry
-1	Ma	ma	PRON	_	Case=Abs|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he
+1	Ma	ma	PRON	_	Case=Abs|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
 2	sawwi	_	VERB	_	_	0	root	_	Gloss=angry
 
 # sent_id = 3.128a/mni
@@ -8743,7 +8743,7 @@
 # text = Mabu laktre
 # gloss = he-ACC came.not
 # text_en = He didn't come
-1	Mabu	ma	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj:agent	_	Gloss=he|MSeg=ma-bu|MGloss=he-ACC
+1	Mabu	ma	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	obj:agent	_	Gloss=he|MSeg=ma-bu|MGloss=he-ACC
 2	laktre	_	VERB	_	Polarity=Neg	0	root	_	Gloss=did-not-come|MGloss=came.not
 
 # sent_id = 3.131b/mni
