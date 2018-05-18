@@ -8644,6 +8644,150 @@
 # gloss = he-NOM me-ACC kicked
 # text_en = He kicked me
 1	Manə	ma	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MSeg=ma-nə|MGloss=he-NOM
-2	əybu	əy	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=me|MSeg=əy-bu|MGloss=me-ACC
+2	əybu	əy	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MSeg=əy-bu|MGloss=me-ACC
 3	kawwi	_	VERB	_	_	0	root	_	Gloss=kicked
+
+# sent_id = 3.125b/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Manə kəppi
+# gloss = he-NOM cried
+# text_en = He cried
+1	Manə	ma	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MSeg=ma-nə|MGloss=he-NOM
+2	kəppi	_	VERB	_	_	0	root	_	Gloss=cried
+
+# sent_id = 3.126a/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Ma əybu uy
+# gloss = he me-ACC saw
+# text_en = He saw me
+1	Ma	ma	PRON	_	Case=Abs|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he
+2	əybu	əy	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MSeg=əy-bu|MGloss=me-ACC
+3	uy	_	VERB	_	_	0	root	_	Gloss=saw
+
+# sent_id = 3.126b/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Ma sawwi
+# gloss = he angry
+# text_en = He is angry
+1	Ma	ma	PRON	_	Case=Abs|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he
+2	sawwi	_	VERB	_	_	0	root	_	Gloss=angry
+
+# sent_id = 3.128a/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Manə huybu kawwi
+# gloss = he-NOM dog-ACC kicked
+# text_en = He kicked the dog
+1	Manə	ma	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MSeg=ma-nə|MGloss=he-NOM
+2	huybu	huy	NOUN	_	Case=Nom	3	obj	_	Gloss=dog|MSeg=huy-bu|MGloss=dog-ACC
+3	kawwi	_	VERB	_	_	0	root	_	Gloss=kicked
+
+# sent_id = 3.128b/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Manə tebəl kawwi
+# gloss = he-NOM table kicked
+# text_en = He kicked the table
+1	Manə	ma	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MSeg=ma-nə|MGloss=he-NOM
+2	tebəl	tebəl	NOUN	_	Case=Abs	3	obj	_	Gloss=table
+3	kawwi	_	VERB	_	_	0	root	_	Gloss=kicked
+
+# sent_id = 3.129a/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Əy mabu sawwi
+# gloss = I him-ACC angry
+# text_en = I am angry with him [showing anger]
+1	Əy	əy	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
+2	mabu	ma	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=him|MSeg=ma-bu|MGloss=he-ACC
+3	sawwi	_	VERB	_	_	0	root	_	Gloss=angry
+
+# sent_id = 3.129b/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Əy ma sawwi
+# gloss = I he angry
+# text_en = I am angry with him
+1	Əy	əy	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
+2	ma	ma	PRON	_	Case=Abs|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he
+3	sawwi	_	VERB	_	_	0	root	_	Gloss=angry
+
+# sent_id = 3.130a/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Əynə mabu sel pi
+# gloss = I-NOM him-ACC money gave
+# text_en = I gave him money
+1	Əynə	əy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MSeg=əy-nə|MGloss=I-NOM
+2	mabu	ma	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=him|MSeg=ma-bu|MGloss=he-ACC
+3	sel	sel	NOUN	_	Case=Abs	4	iobj	_	Gloss=money
+4	pi	_	VERB	_	_	0	root	_	Gloss=gave
+
+# sent_id = 3.130b/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Əynə mabu tebəl ilhəlli
+# gloss = I-NOM him-ACC table caused.to.push
+# text_en = I made him push the table
+1	Əynə	əy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:caus	_	Gloss=I|MSeg=əy-nə|MGloss=I-NOM
+2	mabu	ma	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj:agent	_	Gloss=him|MSeg=ma-bu|MGloss=he-ACC
+3	tebəl	tebəl	NOUN	_	Case=Abs	4	obj	_	Gloss=table
+4	ilhəlli	_	VERB	_	_	0	root	_	Gloss=caused-to-push|MGloss=caused.to.push
+
+# sent_id = 3.131a/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Mabu laktre
+# gloss = he-ACC came.not
+# text_en = He didn't come
+1	Mabu	ma	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj:agent	_	Gloss=he|MSeg=ma-bu|MGloss=he-ACC
+2	laktre	_	VERB	_	Polarity=Neg	0	root	_	Gloss=did-not-come|MGloss=came.not
+
+# sent_id = 3.131b/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Layriksi əybu padri
+# gloss = book.this I-ACC read.not
+# text_en = He didn't read this book
+1	Layriksi	layriksi	NOUN	_	Case=Abs	3	obj	_	Gloss=this-book|MGloss=book.this
+2	əybu	əy	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj:agent	_	Gloss=I|MSeg=əy-bu|MGloss=I-ACC
+3	padri	_	VERB	_	Polarity=Neg	0	root	_	Gloss=did-not-read|MGloss=read.not
+
+# sent_id = 3.132a/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Ra:ju akki tandu be:yisida
+# gloss = Raju rice brought(PAST.PTCPL) cooked
+# text_en = Raju brought the rice and cooked it
+1	Ra:ju	Ra:ju	PROPN	_	Case=Abs	4	nsubj	_	Gloss=Raju
+2	akki	akki	NOUN	_	Case=Abs	4	obj	_	Gloss=rice
+3	tandu	_	VERB	_	Tense=Past|VerbForm=Part	4	advcl	_	Gloss=having-brought|MGloss=brought(PAST.PTCPL)
+4	be:yisida	_	VERB	_	_	0	root	_	Gloss=cooked
+
+# sent_id = 3.133a/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Avanu be:gane bandu namage tondard a:yitu
+# gloss = he(NOM) early came(PAST.PTCPL) us(DAT) trouble became
+# text_en = We were troubled by his coming early
+1	Avanu	avanu	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MGloss=he(NOM)
+2	be:gane	be:gane	ADV	_	_	3	advmod	_	Gloss=early
+3	bandu	_	VERB	_	Tense=Past|VerbForm=Part	6	advcl	_	Gloss=having-come|MGloss=came(PAST.PTCPL)
+4	namage	_	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obl	_	Gloss=us|MGloss=us(DAT)
+5	tondard	tondard	NOUN	_	Case=Abs	6	nsubj	_	Gloss=trouble
+6	a:yitu	_	VERB	_	_	0	root	_	Gloss=became
+
+# sent_id = 3.133b/mni
+# Manipuri / Meitei (Sino-Tibetan, India)
+# source = Bhat, 1991
+# text = Mara biddu ma:du muiyitu
+# gloss = tree fell(PAST.PTCPL) roof broke
+# text_en = The tree fell and the roof broke
+1	Mara	mara	NOUN	_	Case=Abs	2	nsubj	_	Gloss=tree
+2	biddu	_	VERB	_	Tense=Past|VerbForm=Part	4	advcl	_	Gloss=having-fallen|MGloss=fell(PAST.PTCPL)
+3	ma:du	ma:du	NOUN	_	Case=Abs	4	nsubj	_	Gloss=roof
+4	muiyitu	_	VERB	_	_	0	root	_	Gloss=broke
 
