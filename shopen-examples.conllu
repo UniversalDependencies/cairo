@@ -8797,7 +8797,7 @@
 # text = Chibashlilitok
 # gloss = 2(ACC)-cut-1(NOM)-PAST
 # text_en = I cut you
-1	Chibashlilitok	bashli	VERB	_	Person[acc]=2|Person[nom]=1|Tense=Past	0	root	_	Gloss=I-cut-you|MSeg=chi-bashli-li-tok|MGloss=2(ACC)-cut-1(NOM)-PAST
+1	Chibashlilitok	bashli	VERB	_	Person[acc]=2|Person=1|Tense=Past	0	root	_	Gloss=I-cut-you|MSeg=chi-bashli-li-tok|MGloss=2(ACC)-cut-1(NOM)-PAST
 
 # sent_id = 3.135b/cho
 # Choctaw (Muskogean, USA)
@@ -8805,7 +8805,7 @@
 # text = Issassotok
 # gloss = 2(NOM)-1(ACC)-hit-PAST
 # text_en = You hit me
-1	Issassotok	sso	VERB	_	Person[acc]=1|Person[nom]=2|Tense=Past	0	root	_	Gloss=you-hit-me|MSeg=is-sa-sso-tok|MGloss=2(NOM)-1(ACC)-hit-PAST
+1	Issassotok	sso	VERB	_	Person[acc]=1|Person=2|Tense=Past	0	root	_	Gloss=you-hit-me|MSeg=is-sa-sso-tok|MGloss=2(NOM)-1(ACC)-hit-PAST
 
 # sent_id = 3.136a/cho
 # Choctaw (Muskogean, USA)
@@ -8813,7 +8813,7 @@
 # text = Hilhalitok
 # gloss = dance-1(NOM)-PAST
 # text_en = I danced
-1	Hilhalitok	hilha	VERB	_	Person[nom]=1|Tense=Past	0	root	_	Gloss=I-danced|MSeg=hilha-li-tok|MGloss=dance-1(NOM)-PAST
+1	Hilhalitok	hilha	VERB	_	Person=1|Tense=Past	0	root	_	Gloss=I-danced|MSeg=hilha-li-tok|MGloss=dance-1(NOM)-PAST
 
 # sent_id = 3.136b/cho
 # Choctaw (Muskogean, USA)
@@ -8821,7 +8821,7 @@
 # text = Ishĩpahõ
 # gloss = 2(NOM)-eat-PRED-Q
 # text_en = Have you eaten?
-1	Ishĩpahõ	ĩpa	VERB	_	Person[nom]=2	0	root	_	Gloss=have-you-eaten|MSeg=ish-ĩpa-h-õ|MGloss=2(NOM)-eat-PRED-Q
+1	Ishĩpahõ	ĩpa	VERB	_	Person=2	0	root	_	Gloss=have-you-eaten|MSeg=ish-ĩpa-h-õ|MGloss=2(NOM)-eat-PRED-Q
 
 # sent_id = 3.137a/cho
 # Choctaw (Muskogean, USA)
@@ -8852,8 +8852,8 @@
 # sent_id = 3.138ab/cho
 # Choctaw (Muskogean, USA)
 # source = W. Davies, 1986:14-16
-# text = Ofiyat towa lhiolitok
-# gloss = dog-NOM ball chase-PAST
+# text = Ofiyat towayã lhiolitok
+# gloss = dog-NOM ball-OBL chase-PAST
 # text_en = The dog chased the ball
 1	Ofiyat	ofi	NOUN	_	Case=Nom	3	nsubj	_	Gloss=dog|MSeg=ofi-yat|MGloss=dog-NOM
 2	towayã	towa	NOUN	_	Case=Dat	3	obl	_	Gloss=to-ball|MSeg=towa-yã|MGloss=ball-OBL
