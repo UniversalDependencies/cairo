@@ -8964,7 +8964,7 @@
 # text = gopnyan geujak
 # gloss = (s)he 3-go
 # text_en = He/she goes
-1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he/she|MGloss=(s)he(P)
+1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=he/she|MGloss=(s)he(P)
 2	geujak	jak	VERB	_	Person=3	0	root	_	Gloss=go|MSeg=geu-jak|MGloss=3-go
 
 # sent_id = 3.142ca/ace
@@ -8973,7 +8973,7 @@
 # text = gopnyan rhëtgeuh
 # gloss = (s)he fall-3
 # text_en = He/she falls
-1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he/she|MGloss=(s)he(P)
+1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=he/she|MGloss=(s)he(P)
 2	rhëtgeuh	rhët	VERB	_	Person=3	0	root	_	Gloss=fall|MSeg=rhët-geuh|MGloss=fall-3
 
 # sent_id = 3.142cb/ace
@@ -8982,7 +8982,7 @@
 # text = gopnyan rhët
 # gloss = (s)he fall
 # text_en = He/she falls
-1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he/she|MGloss=(s)he(P)
+1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=he/she|MGloss=(s)he(P)
 2	rhët	rhët	VERB	_	_	0	root	_	Gloss=fall
 
 # sent_id = 3.143a/ace
