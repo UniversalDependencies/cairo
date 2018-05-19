@@ -8791,3 +8791,89 @@
 3	ma:du	ma:du	NOUN	_	Case=Abs	4	nsubj	_	Gloss=roof
 4	muiyitu	_	VERB	_	_	0	root	_	Gloss=broke
 
+# sent_id = 3.135a/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Chibashlilitok
+# gloss = 2(ACC)-cut-1(NOM)-PAST
+# text_en = I cut you
+1	Chibashlilitok	bashli	VERB	_	Person[acc]=2|Person[nom]=1|Tense=Past	0	root	_	Gloss=I-cut-you|MSeg=chi-bashli-li-tok|MGloss=2(ACC)-cut-1(NOM)-PAST
+
+# sent_id = 3.135b/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Issassotok
+# gloss = 2(NOM)-1(ACC)-hit-PAST
+# text_en = You hit me
+1	Issassotok	sso	VERB	_	Person[acc]=1|Person[nom]=2|Tense=Past	0	root	_	Gloss=you-hit-me|MSeg=is-sa-sso-tok|MGloss=2(NOM)-1(ACC)-hit-PAST
+
+# sent_id = 3.136a/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Hilhalitok
+# gloss = dance-1(NOM)-PAST
+# text_en = I danced
+1	Hilhalitok	hilha	VERB	_	Person[nom]=1|Tense=Past	0	root	_	Gloss=I-danced|MSeg=hilha-li-tok|MGloss=dance-1(NOM)-PAST
+
+# sent_id = 3.136b/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Ishĩpahõ
+# gloss = 2(NOM)-eat-PRED-Q
+# text_en = Have you eaten?
+1	Ishĩpahõ	ĩpa	VERB	_	Person[nom]=2	0	root	_	Gloss=have-you-eaten|MSeg=ish-ĩpa-h-õ|MGloss=2(NOM)-eat-PRED-Q
+
+# sent_id = 3.137a/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Sahohchafoh
+# gloss = 1(ACC)-hungry-PRED
+# text_en = I am hungry
+1	Sahohchafoh	hohchafo	VERB	_	Person[acc]=1	0	root	_	Gloss=I-am-hungry|MSeg=sa-hohchafo-h|MGloss=1(ACC)-hungry-PRED
+
+# sent_id = 3.137b/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Chicha:hah
+# gloss = 2(ACC)-tall-PRED
+# text_en = You are tall
+1	Chicha:hah	cha:ha	VERB	_	Person[acc]=2	0	root	_	Gloss=you-are-tall|MSeg=chi-cha:ha-h|MGloss=2(ACC)-tall-PRED
+
+# sent_id = 3.138aa/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Ofiyat towa lhiolitok
+# gloss = dog-NOM ball chase-PAST
+# text_en = The dog chased the ball
+1	Ofiyat	ofi	NOUN	_	Case=Nom	3	nsubj	_	Gloss=dog|MSeg=ofi-yat|MGloss=dog-NOM
+2	towa	towa	NOUN	_	_	3	obj	_	Gloss=ball
+3	lhiolitok	lhioli	VERB	_	Tense=Past	0	root	_	Gloss=chased|MSeg=lhioli-tok|MGloss=chase-PAST
+
+# sent_id = 3.138ab/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Ofiyat towa lhiolitok
+# gloss = dog-NOM ball chase-PAST
+# text_en = The dog chased the ball
+1	Ofiyat	ofi	NOUN	_	Case=Nom	3	nsubj	_	Gloss=dog|MSeg=ofi-yat|MGloss=dog-NOM
+2	towayã	towa	NOUN	_	Case=Dat	3	obl	_	Gloss=to-ball|MSeg=towa-yã|MGloss=ball-OBL
+3	lhiolitok	lhioli	VERB	_	Tense=Past	0	root	_	Gloss=chased|MSeg=lhioli-tok|MGloss=chase-PAST
+
+# sent_id = 3.138b/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Issobayat ĩpatok
+# gloss = horse-NOM eat-PAST
+# text_en = The horse ate
+1	Issobayat	issoba	NOUN	_	Case=Nom	2	nsubj	_	Gloss=horse|MSeg=issoba-yat|MGloss=horse-NOM
+2	ĩpatok	ĩpa	VERB	_	Tense=Past	0	root	_	Gloss=ate|MSeg=ĩpa-tok|MGloss=eat-PAST
+
+# sent_id = 3.138c/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Chimallat cha:hah
+# gloss = your-child-NOM tall-PRED
+# text_en = Your child is tall
+1	Chimallat	alla	NOUN	_	Case=Nom|Person[psor]=2	2	nsubj	_	Gloss=your-child|MSeg=chim-alla-t|MGloss=your-child-NOM
+2	cha:hah	cha:ha	VERB	_	_	0	root	_	Gloss=tall|MSeg=cha:ha-h|MGloss=tall-PRED
+
