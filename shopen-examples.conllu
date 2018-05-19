@@ -8797,7 +8797,7 @@
 # text = Chibashlilitok
 # gloss = 2(ACC)-cut-1(NOM)-PAST
 # text_en = I cut you
-1	Chibashlilitok	bashli	VERB	_	Person[acc]=2|Person=1|Tense=Past	0	root	_	Gloss=I-cut-you|MSeg=chi-bashli-li-tok|MGloss=2(ACC)-cut-1(NOM)-PAST
+1	Chibashlilitok	bashli	VERB	_	Person=1|Person[acc]=2|Tense=Past	0	root	_	Gloss=I-cut-you|MSeg=chi-bashli-li-tok|MGloss=2(ACC)-cut-1(NOM)-PAST
 
 # sent_id = 3.135b/cho
 # Choctaw (Muskogean, USA)
@@ -8805,7 +8805,7 @@
 # text = Issassotok
 # gloss = 2(NOM)-1(ACC)-hit-PAST
 # text_en = You hit me
-1	Issassotok	sso	VERB	_	Person[acc]=1|Person=2|Tense=Past	0	root	_	Gloss=you-hit-me|MSeg=is-sa-sso-tok|MGloss=2(NOM)-1(ACC)-hit-PAST
+1	Issassotok	sso	VERB	_	Person=2|Person[acc]=1|Tense=Past	0	root	_	Gloss=you-hit-me|MSeg=is-sa-sso-tok|MGloss=2(NOM)-1(ACC)-hit-PAST
 
 # sent_id = 3.136a/cho
 # Choctaw (Muskogean, USA)
