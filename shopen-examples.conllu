@@ -8877,3 +8877,143 @@
 1	Chimallat	alla	NOUN	_	Case=Nom|Person[psor]=2	2	nsubj	_	Gloss=your-child|MSeg=chim-alla-t|MGloss=your-child-NOM
 2	cha:hah	cha:ha	VERB	_	_	0	root	_	Gloss=tall|MSeg=cha:ha-h|MGloss=tall-PRED
 
+# sent_id = 3.139a/it
+# source = Perlmutter, 1983
+# text = Due persone sono rimaste
+# gloss = two people are remained
+# text_en = Two people remained
+1	Due	due	NUM	_	NumType=Card	2	nummod	_	Gloss=two
+2	persone	persona	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	Gloss=persons
+3	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=are
+4	rimaste	rimanere	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Gloss=remained
+
+# sent_id = 3.139b/it
+# source = Perlmutter, 1983
+# text = Sono rimaste due persone
+# gloss = are remained two people
+# text_en = Two people remained
+1	Sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	Gloss=are
+2	rimaste	rimanere	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Gloss=remained
+3	due	due	NUM	_	NumType=Card	4	nummod	_	Gloss=two
+4	persone	persona	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	Gloss=persons
+
+# sent_id = 3.139c/it
+# source = Perlmutter, 1983
+# text = Due persone hanno reagito
+# gloss = two people have reacted
+# text_en = Two people reacted
+1	Due	due	NUM	_	NumType=Card	2	nummod	_	Gloss=two
+2	persone	persona	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	Gloss=persons
+3	hanno	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=have
+4	reagito	reagire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=reacted
+
+# sent_id = 3.139d/it
+# source = Perlmutter, 1983
+# text = Hanno reagito due persone
+# gloss = have reacted two people
+# text_en = Two people reacted
+1	Hanno	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	Gloss=have
+2	reagito	reagire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=reacted
+3	due	due	NUM	_	NumType=Card	4	nummod	_	Gloss=two
+4	persone	persona	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	Gloss=persons
+
+# sent_id = 3.140a/it
+# source = Perlmutter, 1983
+# text = Ne sono rimaste due
+# gloss = of.them are remained two
+# text_en = Two of them remained
+1	Ne	lui	PRON	_	Case=Gen|Person=3|PronType=Prs	4	nmod	_	Gloss=of-them|MGloss=of.them
+2	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Gloss=are
+3	rimaste	rimanere	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Gloss=remained
+4	due	due	NUM	_	NumType=Card	3	nsubj	_	Gloss=two
+
+# sent_id = 3.141/it
+# source = Perlmutter, 1983
+# text = Giorgio ne ha comprate due
+# gloss = George of.them has bought two
+# text_en = George bought two of them
+1	Giorgio	Giorgio	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Giorgio
+2	ne	lui	PRON	_	Case=Gen|Person=3|PronType=Prs	5	nmod	_	Gloss=of-them|MGloss=of.them
+3	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=has
+4	comprate	comprare	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	Gloss=bought
+5	due	due	NUM	_	NumType=Card	3	obj	_	Gloss=two
+
+# sent_id = 3.142aa/ace
+# Acehnese (Malayo-Polynesian, Aceh, Sumatra, Indonesia)
+# source = Van Valin and LaPolla, 1997:255-60
+# text = gopnyan ka lônngienggeuh
+# gloss = (s)he(P) already 1-see-3
+# text_en = I saw him/her
+1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he/she|MGloss=(s)he(P)
+2	ka	ka	AUX	_	_	3	aux	_	Gloss=already
+3	lônngienggeuh	ngieng	VERB	_	Person=1|Person[obj]=3	0	root	_	Gloss=saw|MSeg=lôn-ngieng-geuh|MGloss=1-see-3
+
+# sent_id = 3.142ab/ace
+# Acehnese (Malayo-Polynesian, Aceh, Sumatra, Indonesia)
+# source = Van Valin and LaPolla, 1997:255-60
+# text = gopnyan ka lônngieng
+# gloss = (s)he(P) already 1-see
+# text_en = I saw him/her
+1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he/she|MGloss=(s)he(P)
+2	ka	ka	AUX	_	_	3	aux	_	Gloss=already
+3	lônngieng	ngieng	VERB	_	Person=1	0	root	_	Gloss=saw|MSeg=lôn-ngieng|MGloss=1-see
+
+# sent_id = 3.142b/ace
+# Acehnese (Malayo-Polynesian, Aceh, Sumatra, Indonesia)
+# source = Van Valin and LaPolla, 1997:255-60
+# text = gopnyan geujak
+# gloss = (s)he 3-go
+# text_en = He/she goes
+1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he/she|MGloss=(s)he(P)
+2	geujak	jak	VERB	_	Person=3	0	root	_	Gloss=go|MSeg=geu-jak|MGloss=3-go
+
+# sent_id = 3.142ca/ace
+# Acehnese (Malayo-Polynesian, Aceh, Sumatra, Indonesia)
+# source = Van Valin and LaPolla, 1997:255-60
+# text = gopnyan rhëtgeuh
+# gloss = (s)he fall-3
+# text_en = He/she falls
+1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he/she|MGloss=(s)he(P)
+2	rhëtgeuh	rhët	VERB	_	Person=3	0	root	_	Gloss=fall|MSeg=rhët-geuh|MGloss=fall-3
+
+# sent_id = 3.142cb/ace
+# Acehnese (Malayo-Polynesian, Aceh, Sumatra, Indonesia)
+# source = Van Valin and LaPolla, 1997:255-60
+# text = gopnyan rhët
+# gloss = (s)he fall
+# text_en = He/she falls
+1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he/she|MGloss=(s)he(P)
+2	rhët	rhët	VERB	_	_	0	root	_	Gloss=fall
+
+# sent_id = 3.143a/ace
+# Acehnese (Malayo-Polynesian, Aceh, Sumatra, Indonesia)
+# source = Van Valin and LaPolla, 1997:255-60
+# text = gopnyan geutém jak
+# gloss = (s)he 3-want go
+# text_en = He/she wants to go
+1	gopnyan	gopnyan	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=he/she|MGloss=(s)he(P)
+2	geutém	tém	VERB	_	_	0	root	_	Gloss=want|MSeg=geu-tém|MGloss=3-want
+3	jak	jak	VERB	_	_	2	xcomp	_	Gloss=go
+
+# sent_id = 3.143b/ace
+# Acehnese (Malayo-Polynesian, Aceh, Sumatra, Indonesia)
+# source = Van Valin and LaPolla, 1997:255-60
+# text = geutém taguen bu
+# gloss = 3-want cook rice
+# text_en = He/she wants to cook rice
+1	geutém	tém	VERB	_	_	0	root	_	Gloss=want|MSeg=geu-tém|MGloss=3-want
+2	taguen	taguen	VERB	_	_	1	xcomp	_	Gloss=cook
+3	bu	bu	NOUN	_	_	2	obj	_	Gloss=rice
+
+# sent_id = 3.144/ace
+# Acehnese (Malayo-Polynesian, Aceh, Sumatra, Indonesia)
+# source = Van Valin and LaPolla, 1997:255-60
+# text = lônpajoh lé lôn pisang nyan
+# gloss = I-ate by me banana that
+# text_en = I ate that banana
+1	lônpajoh	pajoh	VERB	_	_	0	root	_	Gloss=I-ate|MSeg=lôn-pajoh|MGloss=1-eat
+2	lé	lé	ADP	_	_	3	case	_	Gloss=by
+3	lôn	lôn	PRON	_	Number=Sing|Person=1|PronType=Prs	1	obl:agent	_	Gloss=me
+4	pisang	pisang	NOUN	_	_	1	obj	_	Gloss=banana
+5	nyan	nyan	DET	_	PronType=Dem	4	det	_	Gloss=that
+
