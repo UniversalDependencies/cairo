@@ -9139,3 +9139,26 @@
 4	wiɹit	_	NOUN	_	_	0	root	_	Gloss=bed|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
+# sent_id = 4.3a/wmb
+# Wambaya (West Barkly, northern Australia)
+# source = Nordlinger, 1998
+# text = Mirra ngirraji Nganaarrani.
+# gloss = sit 1PL.EXCL-HABIT.PAST Brunette.Downs-LOC
+# text_en = We stayed at Brunette Downs.
+1	Mirra	_	VERB	_	_	0	root	_	Gloss=sitting
+2	ngirraji	_	AUX	_	Aspect=Hab|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	aux	_	Gloss=we-used-to-be|MSeg=ngirr-aji|MGloss=1PL.EXCL-HABIT.PAST
+3	Nganaarrani	_	PROPN	_	Case=Loc	1	obl	_	Gloss=at-Brunette-Downs|MSeg=nganaarra-ni|MGloss=Brunette.Downs-LOC|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.3b/wmb
+# Wambaya (West Barkly, northern Australia)
+# source = Nordlinger, 1998
+# text = Ini gin galyurringi mirra.
+# gloss = this 3SG-PROG water sit
+# text_en = This is water.
+1	Ini	_	DET	_	PronType=Dem	3	nsubj	_	Gloss=this
+2	gin	_	AUX	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Gloss=is|MSeg=gi-n|MGloss=3SG-PROG
+3	galyurringi	_	NOUN	_	_	0	root	_	Gloss=water
+4	mirra	_	AUX	_	_	3	cop	_	Gloss=sit|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
