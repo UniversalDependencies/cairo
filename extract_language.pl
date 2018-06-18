@@ -12,6 +12,8 @@ binmode(STDERR, ':utf8');
 sub usage
 {
     print STDERR ("Usage: perl extract_language.pl LANGCODE < INPUT.conllu\n");
+    # And we may also want to remove the comments that introduce the language.
+    # perl extract_language.pl wbp < shopen-examples.conllu | perl -pe "$_='' if(m/^\# Warlpiri/)" > wbp.conllu
 }
 
 my $wanted_lcode = shift(@ARGV);
@@ -25,11 +27,12 @@ my @sentence = ();
 my $lcode;
 while(<>)
 {
-    push(@sentence, $_);
-    if(m/^\#\s*sent_id\s*=\s*\S+\/(\S+)/)
+    # Find language code and remove it from the sentence id.
+    if(s/^(\#\s*sent_id\s*=\s*\S+)\/(\S+)/$1/)
     {
-        $lcode = $1;
+        $lcode = $2;
     }
+    push(@sentence, $_);
     if(m/^\s*$/)
     {
         if(defined($lcode) && $lcode eq $wanted_lcode)

@@ -9075,3 +9075,67 @@
 4	pisang	pisang	NOUN	_	_	1	obj	_	Gloss=banana
 5	nyan	nyan	DET	_	PronType=Dem	4	det	_	Gloss=that
 
+# chapter_id = 4
+# chapter_author = Dryer, Matthew S.
+# chapter_title = Clause types
+# sent_id = 4.1a/en
+# text = My dog is black.
+1	My	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	dog	dog	NOUN	_	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	black	black	ADJ	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 4.1b/en
+# text = My dog is a cocker spaniel.
+1	My	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	dog	dog	NOUN	_	Number=Sing	6	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	6	det	_	_
+5	cocker	cocker	NOUN	_	Number=Sing	6	compound	_	_
+6	spaniel	spaniel	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 4.1c/en
+# text = My dog is in the house.
+1	My	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	dog	dog	NOUN	_	Number=Sing	6	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	in	in	ADP	_	_	6	case	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	house	house	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 4.2a/mwf
+# Muɹinypata (isolate, northern Australia)
+# source = Walsh, 1976
+# text = Panŋun kanʸika putput.
+# gloss = woman this-TOP pregnant
+# text_en = This woman is pregnant.
+1	Panŋun	_	NOUN	_	_	3	nsubj	_	Gloss=woman
+2	kanʸika	_	DET	_	PronType=Dem	1	det	_	Gloss=this|MSeg=kanʸi-ka|MGloss=this-TOP
+3	putput	_	ADJ	_	_	0	root	_	Gloss=pregnant|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = 4.2b/mwf
+# Muɹinypata (isolate, northern Australia)
+# source = Walsh, 1976
+# text = Paŋuka lawaŋga.
+# gloss = that.REM-TOP wallaby
+# text_en = That's a wallaby.
+1	Paŋuka	_	DET	_	PronType=Dem	2	nsubj	_	Gloss=that|MSeg=paŋu-ka|MGloss=that.REM-TOP
+2	lawaŋga	_	NOUN	_	_	0	root	_	Gloss=wallaby|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = 4.2c/mwf
+# Muɹinypata (isolate, northern Australia)
+# source = Walsh, 1976
+# text = Nukunuka ŋaɹa ḍa wiɹit.
+# gloss = 3SG.MASC-TOP LOC place bed
+# text_en = He's on the bed.
+1	Nukunuka	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|MSeg=nukunu-ka|MGloss=3SG.MASC-TOP
+2	ŋaɹa	_	ADP	_	_	4	case	_	Gloss=LOC
+3	ḍa	_	NOUN	_	_	4	clf	_	Gloss=place
+4	wiɹit	_	NOUN	_	_	0	root	_	Gloss=bed|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
