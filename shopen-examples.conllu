@@ -4858,10 +4858,10 @@
 # gloss = man-PL this:NC10.PL three:NC10.PL NC10.PL-black NC10.PL-big
 # text_en = these three big black men
 1	majanda	_	NOUN	_	Number=Plur	0	root	_	Gloss=men|MSeg=maj-anda|MGloss=man-PL
-2	ildi	_	DET	_	NounClass=10|Number=Plur|PronType=Dem	1	det	_	Gloss=this|MGloss=this:NC10.PL
-3	ir̨əjin	_	NUM	_	NounClass=10|Number=Plur|NumType=Card	1	nummod	_	Gloss=three|MGloss=three:NC10.PL
-4	lamənu	_	ADJ	_	NounClass=10|Number=Plur	1	amod	_	Gloss=black|MSeg=l-amənu|MGloss=NC.PL-black
-5	lor̨ra	_	ADJ	_	NounClass=10|Number=Plur	1	amod	_	Gloss=big|MSeg=l-or̨ra|MGloss=NC.PL-big
+2	ildi	_	DET	_	NounClass=Bantu10|Number=Plur|PronType=Dem	1	det	_	Gloss=this|MGloss=this:NC10.PL
+3	ir̨əjin	_	NUM	_	NounClass=Bantu10|Number=Plur|NumType=Card	1	nummod	_	Gloss=three|MGloss=three:NC10.PL
+4	lamənu	_	ADJ	_	NounClass=Bantu10|Number=Plur	1	amod	_	Gloss=black|MSeg=l-amənu|MGloss=NC.PL-black
+5	lor̨ra	_	ADJ	_	NounClass=Bantu10|Number=Plur	1	amod	_	Gloss=big|MSeg=l-or̨ra|MGloss=NC.PL-big
 
 # sent_id = 2.126/nyn
 # Nkore-Kiga (Niger-Congo, Bantu, Uganda)
