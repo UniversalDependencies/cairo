@@ -9162,3 +9162,76 @@
 4	mirra	_	AUX	_	_	3	cop	_	Gloss=sit|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
+# sent_id = 4.4/nus
+# Nuer (Nilotic, Sudan)
+# text = Ɛ ɣän dec.
+# gloss = be.SG 1SG soldier
+# I am a soldier.
+1	Ɛ	_	AUX	_	Number=Sing	3	cop	_	Gloss=be|MGloss=be.SG
+2	ɣän	_	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=1SG
+3	dec	_	NOUN	_	_	0	root	_	Gloss=soldier|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = 4.5/nus
+# Nuer (Nilotic, Sudan)
+# text = Cɔŋɛ.
+# gloss = dance-3SG
+# text_en = He is dancing.
+1	Cɔŋɛ	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=he-dances|MSeg=cɔŋ-ɛ|MGloss=dance-3SG|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.6a/sw
+# Swahili (Bantu, East Africa)
+# text = Watoto wanacheza mpira.
+# gloss = NC2(PL)-child 3PL.NC2-PRES-play ball
+# text_en = The children are playing ball.
+1	Watoto	_	NOUN	_	NounClass=Bantu2|Number=Plur	2	nsubj	_	Gloss=children|MSeg=wa-toto|MGloss=NC2(PL)-child
+2	wanacheza	_	VERB	_	Mood=Ind|NounClass=Bantu2|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=are-playing|MSeg=wa-na-cheza|MGloss=3PL.NC2-PRES-play
+3	mpira	_	NOUN	_	NounClass=Bantu9|Number=Sing	2	obj	_	Gloss=ball|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = 4.6b/sw
+# Swahili (Bantu, East Africa)
+# text = Watoto hawa ni wadogo.
+# gloss = NC2(PL)-child this-NC2(PL) be NC2(PL)-small
+# text_en = These children are small.
+1	Watoto	_	NOUN	_	NounClass=Bantu2|Number=Plur	4	nsubj	_	Gloss=children|MSeg=wa-toto|MGloss=NC2(PL)-child
+2	hawa	_	DET	_	NounClass=Bantu2|Number=Plur|PronType=Dem	1	det	_	Gloss=these|MSeg=ha-wa|MGloss=this-NC2(PL)
+3	ni	_	AUX	_	_	4	cop	_	Gloss=be
+4	wadogo	_	ADJ	_	NounClass=Bantu2|Number=Plur	0	root	_	Gloss=small|MSeg=wa-dogo|MGloss=NC2(PL)-small|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = 4.7a/peb
+# Eastern Pomo (Hokan, California, USA)
+# source = McLendon, 1975
+# text = Báheʔ ʠo·díʔè.
+# gloss = that good-COPULA
+# text_en = That one is good.
+1	Báheʔ	_	DET	_	PronType=Dem	2	nsubj	_	Gloss=that
+2-3	ʠo·díʔè	_	_	_	_	_	_	_	Gloss=is-good|MSeg=ʠo·dí-ʔè|MGloss=good-COPULA|SpaceAfter=No
+2	ʠo·dí	_	ADJ	_	_	0	root	_	Gloss=good
+3	ʔè	_	AUX	_	_	2	cop	_	Gloss=is
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = 4.7b/peb
+# Eastern Pomo (Hokan, California, USA)
+# source = McLendon, 1975
+# text = Ká·yn̥aʔè.
+# gloss = ground-on-COPULA
+# text_en = It's on the ground.
+1-2	Ká·yn̥aʔè	_	_	_	_	_	_	_	SpaceAfter=No
+1	Ká·yn̥a	_	NOUN	_	Case=Loc	0	root	_	Gloss=on-ground|MSeg=ká·y-n̥a|MGloss=ground-on
+2	ʔè	_	AUX	_	_	1	cop	_	Gloss=is|MGloss=COPULA
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.8/nig
+# Ngalakan (Gunwinyguan, northern Australia)
+# source = Merlan, 1983
+# text = Ŋaykaʔ goʔye ŋumiṛparameniñ.
+# gloss = 1SG.ABS here 1SG-child-COPULA-PAST.CONTIN
+# text_en = I was a child here.
+1	Ŋaykaʔ	_	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=1SG.ABS
+2	goʔye	_	ADV	_	_	3	advmod	_	Gloss=here
+3	ŋumiṛparameniñ	_	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=was-child|MSeg=ŋu-miṛpara-me-niñ|MGloss=1SG-child-COPULA-PAST.CONTIN|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
