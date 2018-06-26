@@ -9235,3 +9235,31 @@
 3	ŋumiṛparameniñ	_	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=was-child|MSeg=ŋu-miṛpara-me-niñ|MGloss=1SG-child-COPULA-PAST.CONTIN|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
+# sent_id = 4.9a/zmu
+# Muruwari (Pama-Nyungan, Australia)
+# source = Oates, 1988
+# text = Marnta yintayu.
+# gloss = cold be-REALIS-PAST-1SG
+# text_en = I was cold.
+1	Marnta	_	ADJ	_	_	0	root	_	Gloss=cold
+2	yintayu	yi	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	cop	_	Gloss=I-was|MSeg=yi-n-ta-yu|MGloss=be-REALIS-PAST-1SG|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.9b/zmu
+# Muruwari (Pama-Nyungan, Australia)
+# source = Oates, 1988
+# text = Marntamayu.
+# gloss = cold-COPULA-1SG
+# text_en = I am cold.
+1	Marntamayu	marntama	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=I-am-cold|MSeg=marnta-ma-yu|MGloss=cold-COPULA-1SG|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.10a/crk
+# Cree (Algic, Algonquian, Canada)
+# source = Wolfart and Carroll, 1981
+# text = Nipāw.
+# gloss = sleep-3SG
+# text_en = He/she sleeps.
+1	Nipāw	nipā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Dir	0	root	_	Gloss=he-sleeps|MSeg=nipā-w|MGloss=sleep-3SG|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
