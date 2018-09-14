@@ -14,7 +14,7 @@ use LWP::Simple;
 my $quiet = 1;
 my @languages = qw(ar bg bn ca cs da de el en en2 es et eu ewo fa fi fil fr ga ha hi hr hu it ja ko lv mk mr ne nl no or pl pt rcf ro ru sk sl sr sv ta te tr ur vi yo zh);
 # wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=txt&protocol=1" -O ru.txt
-# wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=ann&protocol=1" -O ru.brat
+# wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=ann&protocol=1" -O ru.ann
 my $baseurl = 'http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&protocol=1&collection=%2Fcicling2015%2F';
 foreach my $language (@languages)
 {

@@ -6,8 +6,8 @@
 # Documentation of the CoNLL-U format: http://universaldependencies.org/format.html
 # We need both the txt and the ann file from Brat (example for Russian, 'ru'):
 # wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=txt&protocol=1" -O ru.txt
-# wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=ann&protocol=1" -O ru.brat
-# perl brat2conllu.pl --sidprefix syntagrus- ru.txt ru.brat > ru.conllu
+# wget "http://weaver.nlplab.org/ud/ajax.cgi?action=downloadFile&collection=%2Fcicling2015%2F&document=ru&extension=ann&protocol=1" -O ru.ann
+# perl brat2conllu.pl --sidprefix syntagrus- ru.txt ru.ann > ru.conllu
 
 use utf8;
 use open ':utf8';
