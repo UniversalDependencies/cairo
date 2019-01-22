@@ -9263,3 +9263,71 @@
 1	Nipāw	nipā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Dir	0	root	_	Gloss=he-sleeps|MSeg=nipā-w|MGloss=sleep-3SG|SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
+# sent_id = 4.10b/crk
+# Cree (Algic, Algonquian, Canada)
+# source = Wolfart and Carroll, 1981
+# text = Nipāwak.
+# gloss = sleep-3PL
+# text_en = They sleep.
+1	Nipāwak	nipā	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Dir	0	root	_	Gloss=they-sleep|MSeg=nipā-wak|MGloss=sleep-3PL|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.10c/crk
+# Cree (Algic, Algonquian, Canada)
+# source = Wolfart and Carroll, 1981
+# text = Ninipān.
+# gloss = 1-sleep-1SG
+# text_en = I sleep.
+1	Ninipān	nipā	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Dir	0	root	_	Gloss=I-sleep|MSeg=ni-nipā-n|MGloss=1-sleep-1SG|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.11a/crk
+# Cree (Algic, Algonquian, Canada)
+# source = Wolfart and Carroll, 1981
+# text = Mišikitiw.
+# gloss = big-3SG
+# text_en = He/she is big.
+1	Mišikitiw	mišikiti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Dir	0	root	_	Gloss=he-is-big|MSeg=mišikiti-w|MGloss=big-3SG|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.11b/crk
+# Cree (Algic, Algonquian, Canada)
+# source = Wolfart and Carroll, 1981
+# text = Mišikitiwak.
+# gloss = big-3PL
+# text_en = They are big.
+1	Mišikitiwak	mišikiti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Dir	0	root	_	Gloss=they-are-big|MSeg=mišikiti-wak|MGloss=big-3PL|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.11c/crk
+# Cree (Algic, Algonquian, Canada)
+# source = Wolfart and Carroll, 1981
+# text = Nimišikitin.
+# gloss = 1-big-1SG
+# text_en = I am big.
+1	Nimišikitin	mišikiti	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Dir	0	root	_	Gloss=I-am-big|MSeg=ni-mišikiti-n|MGloss=1-big-1SG|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = 4.12a/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# text = ʔiHhiáʔM gá:Mi naVHmaM
+# gloss = very big.INAN.3 CLSFR-tree
+# text_en = The tree is very big.
+# source = Rupp, 1989
+# Capital letters represent tones.
+1	ʔiHhiáʔM	_	ADV	_	_	2	advmod	_	Gloss=very
+2	gá:Mi	_	VERB	_	Animacy=Inan|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=big|MGloss=big.INAN.3
+3	naVHmaM	_	NOUN	_	Animacy=Inan	2	nsubj	_	Gloss=tree|MSeg=naVH-maM|MGloss=CLSFR-tree
+
+# sent_id = 4.12b/cle
+# Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# text = ʔiHhiáʔM gá:Mi naLlïVH naVHmaM
+# gloss = very big.INAN.3 STAT-be.INAN.3 CLSFR-tree
+# text_en = The tree is very big.
+# source = Rupp, 1989
+# Capital letters represent tones.
+1	ʔiHhiáʔM	_	ADV	_	_	2	advmod	_	Gloss=very
+2	gá:Mi	_	VERB	_	Animacy=Inan|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=big|MGloss=big.INAN.3
+3	naLlïVH	_	AUX	_	Animacy=Inan|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Gloss=is|MSeg=naL-lïVH|MGloss=STAT-be.INAN.3
+4	naVHmaM	_	NOUN	_	Animacy=Inan	2	nsubj	_	Gloss=tree|MSeg=naVH-maM|MGloss=CLSFR-tree
+
