@@ -2940,7 +2940,7 @@
 # source = Rice, 1989
 1	kǫ́	_	NOUN	_	_	2	nsubj	_	Gloss=match
 2	seghǫ	_	PRON	_	Case=Ben|Number=Sing|Person=1|PronType=Prs	0	root	_	Gloss=for-me
-3	húle	_	VERB	_	Mood=Ind|Person=3|VerbForm=Fin	2	cop	_	Gloss=is
+3	húle	_	AUX	_	Mood=Ind|Person=3|VerbForm=Fin	2	cop	_	Gloss=is
 4	t'áh	_	SCONJ	_	_	2	mark	_	Gloss=because
 
 # sent_id = 2.9/ssd
@@ -4135,7 +4135,7 @@
 3	wañib	_	NOUN	_	_	5	obj	_	Gloss=string-bag|MGloss=string.bag
 4	i	_	DET	_	PronType=Dem	3	det	_	Gloss=this
 5	ud	_	VERB	_	_	0	root	_	Gloss=take
-6	arnɨm	_	VERB	_	Number=Sing|Person=3	5	aux	_	Gloss=should|MSeg=ar-nɨm|MGloss=go-should.3SG
+6	arnɨm	_	AUX	_	Number=Sing|Person=3	5	aux	_	Gloss=should|MSeg=ar-nɨm|MGloss=go-should.3SG
 7	Dusin	_	PROPN	_	_	5	obl	_	Gloss=Dusin
 8	laŋ	_	ADP	_	_	7	case	_	Gloss=above
 
@@ -7594,7 +7594,7 @@
 # text = Honum var hjálpað
 # gloss = him(DAT) was helped
 # text_en = He was helped
-1	Honum	hann	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj:pass	_	Gloss=him|MGloss=him(DAT)
+1	Honum	hann	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	Gloss=him|MGloss=him(DAT)
 2	var	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	Gloss=was
 3	hjálpað	_	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Gloss=helped
 
