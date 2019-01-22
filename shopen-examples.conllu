@@ -9310,10 +9310,10 @@
 
 # sent_id = 4.12a/cle
 # Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# source = Rupp, 1989
 # text = ʔiHhiáʔM gá:Mi naVHmaM
 # gloss = very big.INAN.3 CLSFR-tree
 # text_en = The tree is very big.
-# source = Rupp, 1989
 # Capital letters represent tones.
 1	ʔiHhiáʔM	_	ADV	_	_	2	advmod	_	Gloss=very
 2	gá:Mi	_	VERB	_	Animacy=Inan|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=big|MGloss=big.INAN.3
@@ -9321,13 +9321,114 @@
 
 # sent_id = 4.12b/cle
 # Lealao Chinantec (Oto-Mangue, Oaxaca, Mexico)
+# source = Rupp, 1989
 # text = ʔiHhiáʔM gá:Mi naLlïVH naVHmaM
 # gloss = very big.INAN.3 STAT-be.INAN.3 CLSFR-tree
 # text_en = The tree is very big.
-# source = Rupp, 1989
 # Capital letters represent tones.
 1	ʔiHhiáʔM	_	ADV	_	_	2	advmod	_	Gloss=very
 2	gá:Mi	_	VERB	_	Animacy=Inan|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=big|MGloss=big.INAN.3
 3	naLlïVH	_	AUX	_	Animacy=Inan|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Gloss=is|MSeg=naL-lïVH|MGloss=STAT-be.INAN.3
 4	naVHmaM	_	NOUN	_	Animacy=Inan	2	nsubj	_	Gloss=tree|MSeg=naVH-maM|MGloss=CLSFR-tree
+
+# sent_id = 4.13/xsl
+# Slave (Athabaskan, Canada)
+# source = Rice, 1989
+# text = ʔeyá yákįlį
+# gloss = sick DISTRIBUTIVE-be
+# text_en = They are sick.
+1	ʔeyá	_	ADJ	_	_	0	root	_	Gloss=sick
+2	yákįlį	_	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	Gloss=they-are|MSeg=yá-kįlį|MGloss=DISTRIBUTIVE-be
+
+# sent_id = 4.14/xsl
+# Slave (Athabaskan, Canada)
+# source = Rice, 1989
+# text = yánechá
+# gloss = DISTRIBUTIVE-big
+# text_en = They are big.
+1	yánechá	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=they-are-big|MSeg=yá-nechá|MGloss=DISTRIBUTIVE-big
+
+# sent_id = 4.15a/ml
+# Malayalam (Dravidian, Southern, India)
+# source = Asher and Kumari, 1997
+# text = Ii kuṭṭi nallavan aaṇə
+# gloss = This child good-MASC.SG be.PRES
+# text_en = This child is good.
+1	Ii	_	DET	_	PronType=Dem	2	det	_	Gloss=this
+2	kuṭṭi	_	NOUN	_	_	3	nsubj	_	Gloss=child
+3	nallavan	_	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=good|MSeg=nalla-van|MGloss=good-NOMINALIZER.MASC.SG
+4	aaṇə	_	AUX	_	Tense=Pres	3	cop	_	Gloss=is|MGloss=be.PRES
+
+# sent_id = 4.15b/ml
+# Malayalam (Dravidian, Southern, India)
+# source = Asher and Kumari, 1997
+# text = nalla kuṭṭi
+# gloss = good child
+# text_en = the good child
+1	nalla	_	ADJ	_	_	2	amod	_	Gloss=good
+2	kuṭṭi	_	NOUN	_	_	0	root	_	Gloss=child
+
+# sent_id = 4.16a/lus
+# Mizo (Sino-Tibetan, Mizoram, India)
+# source = Chhangte, 1989
+# text = Keel a thii¹
+# gloss = goat 3SG dead
+# text_en = A goat is dead.
+# Superscript ¹ denotes tone.
+1	Keel	keel	NOUN	_	_	3	nsubj	_	Gloss=goat
+2	a	a	PRON	_	Number=Sing|Person=3	3	expl	_	Gloss=it|MGloss=3SG
+3	thii¹	thii¹	VERB	_	_	0	root	_	Gloss=be-dead
+
+# sent_id = 4.16b/lus
+# Mizo (Sino-Tibetan, Mizoram, India)
+# source = Chhangte, 1989
+# text = Dou¹a a zuang¹
+# gloss = Dova 3SG jump
+# text_en = Dova is jumping.
+1	Dou¹a	Dou¹a	PROPN	_	_	3	nsubj	_	Gloss=Dova
+2	a	a	PRON	_	Number=Sing|Person=3	3	expl	_	Gloss=it|MGloss=3SG
+3	zuang¹	zuang¹	VERB	_	_	0	root	_	Gloss=jump
+
+# sent_id = 4.17/lus
+# Mizo (Sino-Tibetan, Mizoram, India)
+# source = Chhangte, 1989
+# text = Ka aar¹ a¹ nii
+# gloss = 1SG hen 3SG be
+# text_en = It is my hen.
+1	Ka	ka	PRON	_	Number=Sing|Person=1	2	nmod	_	Gloss=I|MGloss=1SG
+2	aar¹	aar¹	NOUN	_	_	0	root	_	Gloss=hen
+3	a¹	a	PRON	_	Number=Sing|Person=3	2	nsubj	_	Gloss=it|MGloss=3SG
+4	nii	nii	AUX	_	_	2	cop	_	Gloss=be
+
+# sent_id = 4.18a/gde
+# Gude (Afro-Asiatic, Chadic, Nigeria, Cameroon)
+# source = Hoskison, 1983
+# text = Gusə nə minə
+# gloss = short SUBJ woman
+# text_en = The woman is short.
+1	Gusə	_	ADJ	_	_	0	root	_	Gloss=short
+2	nə	_	ADP	_	_	3	case	_	Gloss=SUBJ
+3	minə	_	NOUN	_	_	1	nsubj	_	Gloss=woman
+
+# sent_id = 4.18b/gde
+# Gude (Afro-Asiatic, Chadic, Nigeria, Cameroon)
+# source = Hoskison, 1983
+# text = Nwənwu nə Kwalii
+# gloss = chief SUBJ Kwalii
+# text_en = Kwalii is a chief.
+1	Nwənwu	_	NOUN	_	_	0	root	_	Gloss=chief
+2	nə	_	ADP	_	_	3	case	_	Gloss=SUBJ
+3	Kwalii	_	PROPN	_	_	1	nsubj	_	Gloss=Kwalii
+
+# sent_id = 4.19/gde
+# Gude (Afro-Asiatic, Chadic, Nigeria, Cameroon)
+# source = Hoskison, 1983
+# text = Agi adənə nə Musa ɗəfəna
+# gloss = CONTIN eat SUBJ Musa mush
+# text_en = Musa is eating mush.
+1	Agi	_	AUX	_	Aspect=Prog	2	aux	_	Gloss=CONTIN
+2	adənə	_	VERB	_	_	0	root	_	Gloss=eat
+3	nə	_	ADP	_	_	4	case	_	Gloss=SUBJ
+4	Musa	_	PROPN	_	_	2	nsubj	_	Gloss=Musa
+5	ɗəfəna	_	NOUN	_	_	2	obj	_	Gloss=mush
 
