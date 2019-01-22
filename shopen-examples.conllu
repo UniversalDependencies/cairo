@@ -1119,7 +1119,7 @@
 2	ne	ne	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
 3	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=comes
 4	pas	pas	PART	_	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
-5	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+5	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
 # sent_id = 1.88b/fr
 # text = Si
