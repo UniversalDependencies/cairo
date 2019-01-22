@@ -7604,8 +7604,8 @@
 # text_en = He hopes to be helped
 1	Hann	hann	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
 2	vonast	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=hopes
-3	til	til	ADP	_	_	5	mark	_	Gloss=toward
-4	að	að	PART	_	_	5	mark	_	Gloss=to
+3	til	til	ADP	_	_	6	mark	_	Gloss=toward
+4	að	að	PART	_	_	6	mark	_	Gloss=to
 5	verða	verða	AUX	_	VerbForm=Fin	6	aux:pass	_	Gloss=be
 6	hjálpað	_	VERB	_	Tense=Past|VerbForm=Part	2	xcomp	_	Gloss=helped
 
