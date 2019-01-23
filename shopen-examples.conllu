@@ -9432,3 +9432,92 @@
 4	Musa	_	PROPN	_	_	2	nsubj	_	Gloss=Musa
 5	ɗəfəna	_	NOUN	_	_	2	obj	_	Gloss=mush
 
+# sent_id = 4.20a/prx
+# Purki (Sino-Tibetan, Ladakh, India)
+# source = Rangan, 1979
+# text = Kʰo rgyalpoik inmin
+# gloss = 3SG king be-PAST
+# text_en = He was a king.
+1	Kʰo	kʰo	PRON	_	Number=Sing|Person=3	2	nsubj	_	Gloss=he|MGloss=3SG
+2	rgyalpoik	rgyalpoik	NOUN	_	_	0	root	_	Gloss=king
+3	inmin	in	AUX	_	Tense=Past	2	cop	_	Gloss=was|MSeg=in-min|MGloss=be-PAST
+
+# sent_id = 4.20b/prx
+# Purki (Sino-Tibetan, Ladakh, India)
+# source = Rangan, 1979
+# text = Kʰo rd̪amo d̪uk
+# gloss = 3SG beautiful be.PRES
+# text_en = She is beautiful.
+1	Kʰo	kʰo	PRON	_	Number=Sing|Person=3	2	nsubj	_	Gloss=she|MGloss=3SG
+2	rd̪amo	rd̪amo	ADJ	_	_	0	root	_	Gloss=beautiful
+3	d̪uk	d̪uk	AUX	_	Tense=Pres	2	cop	_	Gloss=is|MGloss=be.PRES
+
+# sent_id = 4.21/mxx
+# Mauka/Mahou (Mande, Ivory Coast)
+# source = Ebermann, 1986
+# text = Dî à tímí
+# gloss = honey be sweet
+# text_en = Honey is sweet.
+1	Dî	dî	NOUN	_	_	3	nsubj	_	Gloss=honey
+2	à	à	AUX	_	_	3	cop	_	Gloss=be
+3	tímí	tímí	ADJ	_	_	0	root	_	Gloss=sweet
+
+# sent_id = 4.22a/mxx
+# Mauka/Mahou (Mande, Ivory Coast)
+# source = Ebermann, 1986
+# text = Sò yè tú lɔ́
+# gloss = horse be.at forest in
+# text_en = Horses are in the forest.
+1	Sò	sò	NOUN	_	_	3	nsubj	_	Gloss=horse
+2	yè	yè	AUX	_	_	3	cop	_	Gloss=be-at|MGloss=be.at
+3	tú	tú	NOUN	_	_	0	root	_	Gloss=forest
+4	lɔ́	lɔ́	ADP	_	_	3	case	_	Gloss=in
+
+# sent_id = 4.22b/mxx
+# Mauka/Mahou (Mande, Ivory Coast)
+# source = Ebermann, 1986
+# text = Sò yè sòò lé
+# gloss = horse be.at animal like
+# text_en = Horses are animals.
+1	Sò	sò	NOUN	_	_	3	nsubj	_	Gloss=horse
+2	yè	yè	AUX	_	_	3	cop	_	Gloss=be-at|MGloss=be.at
+3	sòò	sòò	NOUN	_	_	0	root	_	Gloss=animal
+4	lé	lé	ADP	_	_	3	case	_	Gloss=like
+
+# sent_id = 4.23/log
+# Logo (Nilo-Saharan, Zaire)
+# source = Tucker, 1940/1967
+# text = Ma agoe
+# gloss = 1SG man-COPULA
+# text_en = I am a man.
+1	Ma	ma	PRON	_	Number=Sing|Person=1	2	nsubj	_	Gloss=I|MGloss=1SG
+2	agoe	ago	NOUN	_	Copula=Yes	0	root	_	Gloss=be-man|MSeg=ago-e|MGloss=man-COPULA
+
+# sent_id = 4.24/log
+# Logo (Nilo-Saharan, Zaire)
+# source = Tucker, 1940/1967
+# text = A'di tovoro
+# gloss = 3SG lazy-COPULA
+# text_en = He is lazy.
+1	A'di	a'di	PRON	_	Number=Sing|Person=3	2	nsubj	_	Gloss=he|MGloss=3SG
+2	tovoro	tovo	ADJ	_	Copula=Yes	0	root	_	Gloss=be-lazy|MSeg=tovo-ro|MGloss=lazy-COPULA
+
+# sent_id = 4.25a/log
+# Logo (Nilo-Saharan, Zaire)
+# source = Tucker, 1940/1967
+# text = Mí kugúru
+# gloss = 2SG thief-COPULA
+# text_en = You are a thief.
+1	Mí	mí	PRON	_	Number=Sing|Person=2	2	nsubj	_	Gloss=you|MGloss=2SG
+2	kugúru	kugú	NOUN	_	Copula=Yes	0	root	_	Gloss=be-thief|MSeg=kugú-ru|MGloss=thief-COPULA
+
+# sent_id = 4.25b/log
+# Logo (Nilo-Saharan, Zaire)
+# source = Tucker, 1940/1967
+# text = 'Dia alo tanie
+# gloss = only one good-COPULA
+# text_en = One only is good.
+1	'Dia	'dia	ADV	_	_	2	advmod:emph	_	Gloss=only
+2	alo	alo	NUM	_	NumType=Card	3	nsubj	_	Gloss=one
+3	tanie	tani	ADJ	_	Copula=Yes	0	root	_	Gloss=be-good|MSeg=tani-e|MGloss=good-COPULA
+
