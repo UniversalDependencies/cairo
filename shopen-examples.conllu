@@ -9521,3 +9521,31 @@
 2	alo	alo	NUM	_	NumType=Card	3	nsubj	_	Gloss=one
 3	tanie	tani	ADJ	_	Copula=Yes	0	root	_	Gloss=be-good|MSeg=tani-e|MGloss=good-COPULA
 
+# sent_id = 4.26a/laj
+# Lango (Nilotic, Uganda)
+# source = Noonan, 1992
+# text = Án àdáktâl
+# gloss = 1SG 1SG-doctor.HABIT
+# text = I am a doctor.
+1	Án	án	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=1SG
+2	àdáktâl	dàktàl	NOUN	_	Aspect=Hab|Number=Sing|Person=1	0	root	_	Gloss=am-doctor|MSeg=à-dáktâl|MGloss=1SG-doctor.HABIT
+
+# sent_id = 4.26b/laj
+# Lango (Nilotic, Uganda)
+# source = Noonan, 1992
+# text = Àtíyô
+# gloss = 1SG-work.HABIT
+# text = I work.
+1	Àtíyô	_	VERB	_	Aspect=Hab|Number=Sing|Person=1	0	root	_	Gloss=I-work|MSeg=à-tíyô|MGloss=1SG-work.HABIT
+
+# sent_id = 4.27/laj
+# Lango (Nilotic, Uganda)
+# source = Noonan, 1992
+# text = Án àdáktâl à bɛ̀r
+# gloss = 1SG 1SG-doctor.HABIT REL good
+# text = I am a good doctor.
+1	Án	án	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=1SG
+2	àdáktâl	dàktàl	NOUN	_	Aspect=Hab|Number=Sing|Person=1	0	root	_	Gloss=am-doctor|MSeg=à-dáktâl|MGloss=1SG-doctor.HABIT
+3	à	à	SCONJ	_	_	4	mark	_	Gloss=REL
+4	bɛ̀r	bɛ̀r	ADJ	_	_	2	acl	_	Gloss=good
+
