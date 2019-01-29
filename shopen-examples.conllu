@@ -9549,3 +9549,24 @@
 3	à	à	SCONJ	_	_	4	mark	_	Gloss=REL
 4	bɛ̀r	bɛ̀r	ADJ	_	_	2	acl	_	Gloss=good
 
+# sent_id = 4.28a/laj
+# Lango (Nilotic, Uganda)
+# source = Noonan, 1992
+# text = Án àbédò dàktàl
+# gloss = 1SG 1SG-stay.PERF doctor
+# text_en = I was a doctor.
+1	Án	án	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=1SG
+2	àbédò	bèdò	AUX	_	Aspect=Perf|Number=Sing|Person=1	3	cop	_	Gloss=was|MSeg=à-bédò|MGloss=1SG-stay.PERF
+3	dàktàl	dàktàl	NOUN	_	_	0	root	_	Gloss=doctor
+
+# sent_id = 4.28b/laj
+# Lango (Nilotic, Uganda)
+# source = Noonan, 1992
+# text = Òkélò bínô bèdò rwòt
+# gloss = Okelo 3SG.come.HABIT stay.INFIN king
+# text_en = Okelo will be king.
+1	Òkélò	Òkélò	PROPN	_	_	4	nsubj	_	Gloss=Òkélò
+2	bínô	bìnò	AUX	_	Aspect=Hab|Number=Sing|Person=3	4	aux	_	Gloss=will|MGloss=3SG.come.HABIT
+3	bèdò	bèdò	AUX	_	VerbForm=Inf	4	cop	_	Gloss=be|MGloss=stay.INFIN
+4	rwòt	rwòt	NOUN	_	_	0	root	_	Gloss=king
+
