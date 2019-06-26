@@ -1,2 +1,217 @@
 # sent_id = s1
-# text = 
+# text = Dievča napísalo list priateľovi .
+1	Dievča	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Offset=0-6
+2	napísalo	_	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=7-15
+3	list	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	dobj	_	Offset=16-20
+4	priateľovi	_	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Offset=21-31
+5	.	_	PUNCT	_	_	2	punct	_	Offset=32-33
+
+# sent_id = s2
+# text = Myslím , že prší .
+1	Myslím	_	Token	_	_	0	_	_	Offset=34-40
+2	,	_	Token	_	_	0	_	_	Offset=41-42
+3	že	_	Token	_	_	0	_	_	Offset=43-45
+4	prší	_	VERB	_	Aspect=Imp|Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	Offset=46-50
+5	.	_	Token	_	_	1	punct	_	Offset=51-52
+
+# sent_id = s3
+# text = Snažil sa prestať fajčiť a piť .
+1	Snažil	_	Token	_	_	0	_	_	Offset=53-59
+2	sa	_	Token	_	_	0	_	_	Offset=60-62
+3	prestať	_	Token	_	_	0	_	_	Offset=63-70
+4	fajčiť	_	Token	_	_	0	_	_	Offset=71-77
+5	a	_	Token	_	_	0	_	_	Offset=78-79
+6	piť	_	Token	_	_	0	_	_	Offset=80-83
+7	.	_	Token	_	_	0	_	_	Offset=84-85
+
+# sent_id = s4
+# text = Chceš ísť ?
+1	Chceš	_	Token	_	_	0	_	_	Offset=86-91
+2	ísť	_	Token	_	_	0	_	_	Offset=92-95
+3	?	_	Token	_	_	0	_	_	Offset=96-97
+
+# sent_id = s5
+# text = Samuel , otvor okno !
+1	Samuel	_	Token	_	_	0	_	_	Offset=98-104
+2	,	_	Token	_	_	0	_	_	Offset=105-106
+3	otvor	_	Token	_	_	0	_	_	Offset=107-112
+4	okno	_	Token	_	_	0	_	_	Offset=113-117
+5	!	_	Token	_	_	0	_	_	Offset=118-119
+
+# sent_id = s6
+# text = Prinútila manžela umyť auto .
+1	Prinútila	_	Token	_	_	0	_	_	Offset=120-129
+2	manžela	_	Token	_	_	0	_	_	Offset=130-137
+3	umyť	_	Token	_	_	0	_	_	Offset=138-142
+4	auto	_	Token	_	_	0	_	_	Offset=143-147
+5	.	_	Token	_	_	3	acl	_	Offset=148-149
+
+# sent_id = s7
+# text = Petrov sused natrel plot na červeno .
+1	Petrov	_	Token	_	_	0	_	_	Offset=150-156
+2	sused	_	Token	_	_	0	_	_	Offset=157-162
+3	natrel	_	Token	_	_	0	_	_	Offset=163-169
+4	plot	_	Token	_	_	0	_	_	Offset=170-174
+5	na	_	Token	_	_	0	_	_	Offset=175-177
+6	červeno	_	Token	_	_	0	_	_	Offset=178-185
+7	.	_	Token	_	_	0	_	_	Offset=186-187
+
+# sent_id = s8
+# text = Môj otec je zábavnejší ako tvoj .
+1	Môj	_	Token	_	_	0	_	_	Offset=188-191
+2	otec	_	Token	_	_	4	acl	3:acl	Offset=192-196
+3	je	_	Token	_	_	0	_	_	Offset=197-199
+4	zábavnejší	_	Token	_	_	3	acl	_	Offset=200-210
+5	ako	_	Token	_	_	0	_	_	Offset=211-214
+6	tvoj	_	Token	_	_	0	_	_	Offset=215-219
+7	.	_	Token	_	_	0	_	_	Offset=220-221
+
+# sent_id = s9
+# text = Mária vyhrala bronz , Peter striebro a Jana zlato .
+1	Mária	_	Token	_	_	0	_	_	Offset=222-227
+2	vyhrala	_	Token	_	_	0	_	_	Offset=228-235
+3	bronz	_	Token	_	_	0	_	_	Offset=236-241
+4	,	_	Token	_	_	0	_	_	Offset=242-243
+5	Peter	_	Token	_	_	0	_	_	Offset=244-249
+6	striebro	_	Token	_	_	0	_	_	Offset=250-258
+7	a	_	Token	_	_	0	_	_	Offset=259-260
+8	Jana	_	Token	_	_	0	_	_	Offset=261-265
+9	zlato	_	Token	_	_	0	_	_	Offset=266-271
+10	.	_	Token	_	_	0	_	_	Offset=272-273
+
+# sent_id = s10
+# text = Je Iguazu veľká alebo malá krajina ?
+1	Je	_	Token	_	_	0	_	_	Offset=274-276
+2	Iguazu	_	Token	_	_	0	_	_	Offset=277-283
+3	veľká	_	Token	_	_	0	_	_	Offset=284-289
+4	alebo	_	Token	_	_	0	_	_	Offset=290-295
+5	malá	_	Token	_	_	0	_	_	Offset=296-300
+6	krajina	_	Token	_	_	0	_	_	Offset=301-308
+7	?	_	Token	_	_	5	auxpass	_	Offset=309-310
+
+# sent_id = s11
+# text = Vybraný byť nemohol ani Peter Kováč , ani Mária Horváthová .
+1	Vybraný	_	Token	_	_	0	_	_	Offset=311-318
+2	byť	_	Token	_	_	0	_	_	Offset=319-322
+3	nemohol	_	Token	_	_	0	_	_	Offset=323-330
+4	ani	_	Token	_	_	0	_	_	Offset=331-334
+5	Peter	_	Token	_	_	0	_	_	Offset=335-340
+6	Kováč	_	Token	_	_	0	_	_	Offset=341-346
+7	,	_	Token	_	_	0	_	_	Offset=347-348
+8	ani	_	Token	_	_	0	_	_	Offset=349-352
+9	Mária	_	Token	_	_	0	_	_	Offset=353-358
+10	Horváthová	_	Token	_	_	0	_	_	Offset=359-369
+11	.	_	Token	_	_	0	_	_	Offset=370-371
+
+# sent_id = s12
+# text = Nemajú potuchy , kto to napísal .
+1	Nemajú	_	Token	_	_	0	_	_	Offset=372-378
+2	potuchy	_	Token	_	_	0	_	_	Offset=379-386
+3	,	_	Token	_	_	0	_	_	Offset=387-388
+4	kto	_	Token	_	_	0	_	_	Offset=389-392
+5	to	_	Token	_	_	0	_	_	Offset=393-395
+6	napísal	_	Token	_	_	0	_	_	Offset=396-403
+7	.	_	Token	_	_	0	_	_	Offset=404-405
+
+# sent_id = s13
+# text = Na čo sa pozeráš ?
+1	Na	_	Token	_	_	0	_	_	Offset=406-408
+2	čo	_	Token	_	_	0	_	_	Offset=409-411
+3	sa	_	Token	_	_	0	_	_	Offset=412-414
+4	pozeráš	_	Token	_	_	0	_	_	Offset=415-422
+5	?	_	Token	_	_	0	_	_	Offset=423-424
+
+# sent_id = s14
+# text = Kedy myslíš , že by si mohla prísť ?
+1	Kedy	_	Token	_	_	0	_	_	Offset=425-429
+2	myslíš	_	Token	_	_	0	_	_	Offset=430-436
+3	,	_	Token	_	_	0	_	_	Offset=437-438
+4	že	_	Token	_	_	0	_	_	Offset=439-441
+5	by	_	Token	_	_	0	_	_	Offset=442-444
+6	si	_	Token	_	_	0	_	_	Offset=445-447
+7	mohla	_	Token	_	_	0	_	_	Offset=448-453
+8	prísť	_	Token	_	_	0	_	_	Offset=454-459
+9	?	_	Token	_	_	0	_	_	Offset=460-461
+
+# sent_id = s15
+# text = Kúpil si auto , ale jeho brat len motorku .
+1	Kúpil	_	Token	_	_	0	_	_	Offset=462-467
+2	si	_	Token	_	_	0	_	_	Offset=468-470
+3	auto	_	Token	_	_	0	_	_	Offset=471-475
+4	,	_	Token	_	_	0	_	_	Offset=476-477
+5	ale	_	Token	_	_	0	_	_	Offset=478-481
+6	jeho	_	Token	_	_	0	_	_	Offset=482-486
+7	brat	_	Token	_	_	0	_	_	Offset=487-491
+8	len	_	Token	_	_	0	_	_	Offset=492-495
+9	motorku	_	Token	_	_	0	_	_	Offset=496-503
+10	.	_	Token	_	_	0	_	_	Offset=504-505
+
+# sent_id = s16
+# text = Peter a Mária sa objali a potom odišli z izby .
+1	Peter	_	Token	_	_	0	_	_	Offset=506-511
+2	a	_	Token	_	_	0	_	_	Offset=512-513
+3	Mária	_	Token	_	_	0	_	_	Offset=514-519
+4	sa	_	Token	_	_	0	_	_	Offset=520-522
+5	objali	_	Token	_	_	0	_	_	Offset=523-529
+6	a	_	Token	_	_	0	_	_	Offset=530-531
+7	potom	_	Token	_	_	0	_	_	Offset=532-537
+8	odišli	_	Token	_	_	0	_	_	Offset=538-544
+9	z	_	Token	_	_	0	_	_	Offset=545-546
+10	izby	_	Token	_	_	0	_	_	Offset=547-551
+11	.	_	Token	_	_	0	_	_	Offset=552-553
+
+# sent_id = s17
+# text = Toho dňa si mala robiť účes , ale z nejakého dôvodu to neurobila .
+1	Toho	_	Token	_	_	0	_	_	Offset=554-558
+2	dňa	_	Token	_	_	0	_	_	Offset=559-562
+3	si	_	Token	_	_	0	_	_	Offset=563-565
+4	mala	_	Token	_	_	0	_	_	Offset=566-570
+5	robiť	_	Token	_	_	0	_	_	Offset=571-576
+6	účes	_	Token	_	_	0	_	_	Offset=577-581
+7	,	_	Token	_	_	0	_	_	Offset=582-583
+8	ale	_	Token	_	_	0	_	_	Offset=584-587
+9	z	_	Token	_	_	0	_	_	Offset=588-589
+10	nejakého	_	Token	_	_	0	_	_	Offset=590-598
+11	dôvodu	_	Token	_	_	0	_	_	Offset=599-605
+12	to	_	Token	_	_	0	_	_	Offset=606-608
+13	neurobila	_	Token	_	_	0	_	_	Offset=609-618
+14	.	_	Token	_	_	0	_	_	Offset=619-620
+
+# sent_id = s18
+# text = Nebol som schopný držať krok , pretože bežal príliš rýchlo .
+1	Nebol	_	Token	_	_	0	_	_	Offset=621-626
+2	som	_	Token	_	_	0	_	_	Offset=627-630
+3	schopný	_	Token	_	_	0	_	_	Offset=631-638
+4	držať	_	Token	_	_	0	_	_	Offset=639-644
+5	krok	_	Token	_	_	0	_	_	Offset=645-649
+6	,	_	Token	_	_	0	_	_	Offset=650-651
+7	pretože	_	Token	_	_	0	_	_	Offset=652-659
+8	bežal	_	Token	_	_	0	_	_	Offset=660-665
+9	príliš	_	Token	_	_	0	_	_	Offset=666-672
+10	rýchlo	_	Token	_	_	0	_	_	Offset=673-679
+11	.	_	Token	_	_	0	_	_	Offset=680-681
+
+# sent_id = s19
+# text = Tento list je od Petra a bol doručený včera .
+1	Tento	_	Token	_	_	0	_	_	Offset=682-687
+2	list	_	Token	_	_	0	_	_	Offset=688-692
+3	je	_	Token	_	_	0	_	_	Offset=693-695
+4	od	_	Token	_	_	0	_	_	Offset=696-698
+5	Petra	_	Token	_	_	0	_	_	Offset=699-704
+6	a	_	Token	_	_	0	_	_	Offset=705-706
+7	bol	_	Token	_	_	0	_	_	Offset=707-710
+8	doručený	_	Token	_	_	0	_	_	Offset=711-719
+9	včera	_	Token	_	_	0	_	_	Offset=720-725
+10	.	_	Token	_	_	0	_	_	Offset=726-727
+
+# sent_id = s20
+# text = Vyrástla v Paríži , hlavnom meste Francúzska .
+1	Vyrástla	_	Token	_	_	0	_	_	Offset=728-736
+2	v	_	Token	_	_	0	_	_	Offset=737-738
+3	Paríži	_	Token	_	_	0	_	_	Offset=739-745
+4	,	_	Token	_	_	0	_	_	Offset=746-747
+5	hlavnom	_	Token	_	_	0	_	_	Offset=748-755
+6	meste	_	Token	_	_	0	_	_	Offset=756-761
+7	Francúzska	_	Token	_	_	0	_	_	Offset=762-772
+8	.	_	Token	_	_	0	_	_	Offset=773-774
+

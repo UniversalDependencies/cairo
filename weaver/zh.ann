@@ -1,0 +1,229 @@
+T1	Token 355 356	去
+T2	Token 357 358	。
+T3	Token 349 351	因故
+T4	Token 352 354	没有
+T5	Token 363 365	办法
+T6	Token 366 367	跟
+T7	Token 359 360	我
+T8	Token 361 362	没
+T9	PRON 119 120	我
+T10	Token 368 369	上
+T11	Token 370 371	，
+T12	NOUN 121 123	爸爸
+T13	Token 163 166	伊瓜苏
+T14	Token 167 168	是
+T15	Token 158 160	金牌
+T16	Token 161 162	。
+T17	Token 173 174	大
+T18	Token 175 176	国
+T19	Token 169 170	一
+T20	Token 171 172	个
+T21	Token 177 179	还是
+T22	Token 180 181	小
+T23	Token 124 125	比
+T24	Token 131 132	酷
+T25	Token 347 348	却
+T26	Token 345 346	，
+T27	Token 338 339	在
+T28	Token 335 337	应该
+T29	Token 342 344	头发
+T30	Token 340 341	做
+T31	Token 328 330	那天
+T32	Token 326 327	。
+T33	Token 333 334	本
+T34	Token 331 332	她
+T35	Token 209 210	选
+T36	Token 207 208	被
+T37	Token 205 206	会
+T38	Token 203 204	不
+T39	Token 201 202	都
+T40	Token 195 200	玛丽·布朗
+T41	Token 193 194	和
+T42	Token 186 192	皮特·史密斯
+T43	Token 184 185	？
+T44	Token 182 183	国
+T45	Token 321 322	了
+T46	Token 323 325	房间
+T47	Token 385 386	了
+T48	Token 300 301	。
+T49	NOUN 302 304	皮特
+T50	Token 305 306	和
+T51	NOUN 307 309	玛丽
+T52	Token 310 312	互相
+T53	Token 313 315	拥抱
+T54	Token 316 317	后
+T55	Token 318 320	离开
+T56	AUX 29 30	在
+T57	VERB 31 33	下雨
+T58	PUNCT 34 35	。
+T59	PROPN 36 37	他
+T60	NOUN 20 21	信
+T61	PUNCT 22 23	。
+T62	PRON 24 25	我
+T63	VERB 26 28	觉得
+T64	VERB 38 40	尝试
+T65	AUX 41 42	过
+T66	NUM 16 17	一
+T67	X 18 19	封
+T68	NOUN 0 2	女孩
+T69	Token 229 230	的
+T70	Token 231 232	。
+T71	Token 220 222	知道
+T72	Token 223 224	是
+T73	Token 225 226	谁
+T74	Token 227 228	写
+T75	Token 211 212	上
+T76	Token 213 214	。
+T77	Token 215 217	他们
+T78	Token 218 219	不
+T79	Token 296 299	自行车
+T80	Token 294 295	辆
+T81	Token 283 285	兄弟
+T82	Token 281 282	的
+T83	Token 279 280	他
+T84	Token 277 278	但
+T85	Token 292 293	一
+T86	Token 290 291	了
+T87	Token 288 289	买
+T88	Token 286 287	只
+T89	NOUN 63 65	山姆
+T90	PUNCT 61 62	？
+T91	CONJ 46 47	和
+T92	NOUN 43 45	戒烟
+T93	PUNCT 51 52	。
+T94	NOUN 48 50	戒酒
+T95	VERB 55 56	想
+T96	PRON 53 54	你
+T97	ADV 59 60	吗
+T98	VERB 57 58	去
+T99	Token 117 118	。
+T100	Token 82 83	的
+T101	Token 84 86	丈夫
+T102	Token 78 79	让
+T103	Token 80 81	她
+T104	PUNCT 74 75	！
+T105	PRON 76 77	她
+T106	AUX 70 71	下
+T107	NOUN 72 73	窗
+T108	PUNCT 66 67	，
+T109	VERB 68 69	开
+T110	Token 154 155	，
+T111	Token 108 109	涂
+T112	Token 105 107	篱笆
+T113	Token 93 94	。
+T114	Token 91 92	车
+T115	Token 89 90	洗
+T116	Token 87 88	去
+T117	Token 103 104	把
+T118	Token 100 102	邻居
+T119	Token 98 99	的
+T120	Token 95 97	皮特
+T121	Token 269 270	一
+T122	Token 271 272	辆
+T123	Token 265 266	买
+T124	Token 267 268	了
+T125	Token 261 262	？
+T126	Token 263 264	他
+T127	Token 257 258	能
+T128	Token 259 260	来
+T129	Token 273 274	车
+T130	Token 275 276	，
+T131	Token 403 404	它
+T132	Token 405 406	是
+T133	Token 407 409	昨天
+T134	Token 410 411	寄
+T135	Token 393 394	信
+T136	Token 395 397	来自
+T137	Token 398 400	皮特
+T138	Token 401 402	，
+T139	Token 412 413	到
+T140	Token 414 415	的
+T141	Token 439 440	。
+T142	Token 436 438	长大
+T143	Token 110 111	成
+T144	Token 112 113	了
+T145	Token 114 116	红色
+T146	Token 420 421	在
+T147	Token 428 430	法国
+T148	Token 425 427	——
+T149	Token 433 435	首都
+T150	Token 431 432	的
+T151	Token 235 236	在
+T152	Token 233 234	你
+T153	Token 239 241	什么
+T154	Token 237 238	看
+T155	Token 244 245	你
+T156	Token 242 243	？
+T157	Token 249 250	你
+T158	Token 246 248	觉得
+T159	Token 254 256	时候
+T160	Token 251 253	什么
+T161	Token 387 388	。
+T162	NOUN 128 130	爸爸
+T163	Token 383 384	快
+T164	Token 381 382	太
+T165	Token 379 380	得
+T166	Token 377 378	跑
+T167	Token 375 376	他
+T168	Token 372 374	因为
+T169	VERB 12 13	写
+T170	AUX 14 15	了
+T171	PART 7 8	的
+T172	NOUN 9 11	朋友
+T173	VERB 3 4	给
+T174	PRON 5 6	她
+T175	Token 391 392	封
+T176	Token 389 390	这
+T177	Token 156 157	珍
+T178	PRON 126 127	你
+T179	Token 146 147	，
+T180	Token 143 145	铜牌
+T181	Token 151 153	银牌
+T182	Token 148 150	皮特
+T183	Token 135 137	玛丽
+T184	Token 133 134	。
+T185	Token 141 142	了
+T186	Token 138 140	赢得
+T187	Token 418 419	她
+T188	Token 416 417	。
+T189	Token 422 424	巴黎
+R1	nsubj Arg1:T173 Arg2:T68	
+A1	Person T62 1
+A2	Person T9 1
+A3	Case T9 Gen
+R3	nmod Arg1:T172 Arg2:T174	
+A4	Case T178 Gen
+A5	Number T178 Sing
+A6	Person T178 2
+R4	case Arg1:T174 Arg2:T171	
+R5	nsubj Arg1:T63 Arg2:T62	
+R2	nsubj Arg1:T169 Arg2:T68	
+A7	Tense T170 Past
+R7	aux Arg1:T169 Arg2:T170	
+R8	det Arg1:T60 Arg2:T66	
+R9	det Arg1:T66 Arg2:T67	
+R10	punct Arg1:T169 Arg2:T61	
+R11	ccomp Arg1:T63 Arg2:T57	
+R12	aux Arg1:T57 Arg2:T56	
+R13	punct Arg1:T63 Arg2:T58	
+A8	Person T96 2
+A9	Tense T65 Past
+R14	nsubj Arg1:T64 Arg2:T59	
+R15	dobj Arg1:T64 Arg2:T92	
+R16	conj Arg1:T92 Arg2:T94	
+R17	cc Arg1:T92 Arg2:T91	
+R18	aux Arg1:T64 Arg2:T65	
+R19	punct Arg1:T64 Arg2:T93	
+A10	Person T105 3
+A11	Number T105 Sing
+R20	csubj Arg1:T98 Arg2:T96	
+R21	punct Arg1:T98 Arg2:T90	
+R22	nmod Arg1:T96 Arg2:T95	
+R23	aux Arg1:T98 Arg2:T97	
+R24	csubj Arg1:T109 Arg2:T89	
+R25	punct Arg1:T89 Arg2:T108	
+R26	dobj Arg1:T109 Arg2:T107	
+R27	punct Arg1:T109 Arg2:T104	
+R6	case Arg1:T172 Arg2:T173	
+R28	iobj Arg1:T169 Arg2:T172	
+R29	dobj Arg1:T169 Arg2:T60	

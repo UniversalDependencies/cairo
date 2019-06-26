@@ -1,0 +1,203 @@
+T1	Token 738 740	од
+T2	Token 741 746	Патар
+T3	Token 730 735	писмо
+T4	Token 736 737	е
+T5	Token 758 759	е
+T6	Token 760 765	вчера
+T7	Token 747 748	и
+T8	Token 749 757	стигнато
+T9	Token 766 767	.
+T10	Token 768 771	Таа
+T11	Token 346 352	држава
+T12	Token 353 354	?
+T13	Token 337 340	или
+T14	Token 341 345	мала
+T15	Token 366 370	Смит
+T16	Token 371 375	ниту
+T17	Token 355 359	Ниту
+T18	Token 360 365	Петар
+T19	Token 376 380	Мери
+T20	Token 381 386	Браун
+T21	Token 726 729	Ова
+T22	Token 724 725	.
+T23	Token 701 708	бидејќи
+T24	Token 694 700	следам
+T25	Token 716 723	пребрзо
+T26	Token 709 715	трчаше
+T27	Token 682 687	можев
+T28	Token 679 681	Не
+T29	Token 691 693	го
+T30	Token 688 690	да
+T31	Token 428 430	го
+T32	Token 424 427	кој
+T33	Token 418 423	знаат
+T34	Token 415 417	Не
+T35	Token 413 414	.
+T36	Token 405 412	одбрани
+T37	Token 399 404	бидат
+T38	Token 396 398	да
+T39	Token 390 395	можеа
+T40	Token 387 389	не
+T41	Token 671 676	дента
+T42	Token 677 678	.
+T43	Token 634 635	,
+T44	Token 636 638	но
+T45	Token 639 641	од
+T46	Token 642 648	некоја
+T47	Token 649 656	причина
+T48	Token 657 659	не
+T49	Token 660 662	ја
+T50	Token 663 670	направи
+T51	Token 69 74	обиде
+T52	Token 75 77	да
+T53	Token 78 86	престане
+T54	Token 87 89	да
+T55	Token 54 58	дека
+T56	Token 59 63	врне
+T57	Token 64 65	.
+T58	Token 66 68	Се
+T59	Token 90 94	пуши
+T60	Token 95 96	и
+T61	PUNCT 45 46	.
+T62	Token 47 53	Мислам
+T63	NOUN 0 9	Дејвоката
+T64	Token 466 468	си
+T65	Token 469 475	мислиш
+T66	Token 448 451	што
+T67	Token 452 458	гледаш
+T68	Token 459 460	?
+T69	Token 461 465	Кога
+T70	Token 431 438	напишал
+T71	Token 439 442	тоа
+T72	Token 443 444	.
+T73	Token 445 447	На
+T74	Token 626 633	фризура
+T75	Token 620 625	прави
+T76	Token 597 603	собата
+T77	Token 594 596	од
+T78	Token 586 593	излегоа
+T79	Token 580 585	потоа
+T80	Token 617 619	си
+T81	Token 614 616	да
+T82	Token 606 613	Требаше
+T83	Token 604 605	.
+T84	Token 130 136	отвори
+T85	Token 128 129	,
+T86	Token 101 102	.
+T87	Token 97 100	пие
+T88	Token 109 111	да
+T89	Token 103 108	Сакаш
+T90	Token 117 121	одиш
+T91	Token 112 116	(си)
+T92	Token 124 127	Сем
+T93	Token 122 123	?
+T94	Token 174 176	ја
+T95	Token 177 182	измие
+T96	Token 169 170	ѝ
+T97	Token 171 173	да
+T98	Token 156 162	натера
+T99	Token 163 168	мажот
+T100	Token 151 152	!
+T101	Token 153 155	Го
+T102	Token 137 139	го
+T103	Token 140 150	прозорецот
+T104	Token 236 237	.
+T105	Token 229 235	црвено
+T106	Token 200 202	на
+T107	Token 192 199	Соседот
+T108	Token 190 191	.
+T109	Token 183 189	колата
+T110	Token 220 228	оградата
+T111	Token 212 219	исфарба
+T112	Token 209 211	ја
+T113	Token 203 208	Петар
+T114	Token 561 565	Мери
+T115	Token 566 568	се
+T116	Token 553 558	Петар
+T117	Token 559 560	и
+T118	Token 541 550	велосипед
+T119	Token 551 552	.
+T120	Token 531 535	брат
+T121	Token 536 540	само
+T122	Token 569 577	прегрнаа
+T123	Token 578 579	и
+T124	Token 279 283	доби
+T125	Token 284 290	бронза
+T126	Token 238 243	Мојот
+T127	Token 244 249	татко
+T128	Token 250 251	е
+T129	Token 252 261	позабавен
+T130	Token 262 264	од
+T131	Token 265 271	твојот
+T132	Token 272 273	.
+T133	Token 274 278	Мери
+T134	Token 481 486	можеш
+T135	Token 476 480	дека
+T136	Token 490 496	дојдеш
+T137	Token 487 489	да
+T138	Token 499 502	Тој
+T139	Token 497 498	?
+T140	Token 508 518	автомобил,
+T141	Token 503 507	купи
+T142	Token 522 530	неговиот
+T143	Token 519 521	но
+T144	Token 809 811	на
+T145	Token 804 808	град
+T146	Token 795 803	главниот
+T147	Token 793 794	,
+T148	Token 787 792	Париз
+T149	Token 784 786	во
+T150	Token 774 783	израсната
+T151	Token 772 773	е
+T152	DET 29 35	својот
+T153	NOUN 36 44	пријател
+T154	NOUN 20 25	писмо
+T155	ADP 26 28	на
+T156	PRON 10 12	му
+T157	VERB 13 19	напиша
+T158	Token 821 822	.
+T159	Token 812 820	Франција
+T160	Token 330 336	голема
+T161	Token 328 329	е
+T162	Token 313 318	злато
+T163	Token 308 312	Џејн
+T164	Token 321 327	Игуацу
+T165	Token 319 320	.
+T166	Token 293 298	Петар
+T167	Token 291 292	,
+T168	Token 306 307	а
+T169	Token 299 305	сребро
+A1	Gender T63 Fem
+A2	Definite T63 Def
+A3	Number T63 Sing
+A4	Case T156 Dat
+A5	PronType T156 Prs
+A6	Gender T156 Masc
+A7	Number T156 Sing
+A8	Person T156 3
+A9	Mood T157 Ind
+A10	Number T157 Sing
+A11	Person T157 3
+A12	Tense T157 Past
+A13	Aspect T157 Perf
+A14	Voice T157 Act
+A15	VerbForm T157 Fin
+R1	nsubj Arg1:T157 Arg2:T63	
+R2	iobj Arg1:T157 Arg2:T156	
+A16	Gender T154 Neut
+A17	Definite T154 Ind
+A18	Number T154 Sing
+R3	dobj Arg1:T157 Arg2:T154	
+A19	PronType T152 Prs
+A20	Gender T152 Masc
+A21	Definite T152 Def
+A22	Number T152 Sing
+A23	Reflex T152
+A24	Poss T152
+A25	Gender T153 Masc
+A26	Definite T153 Ind
+A27	Number T153 Sing
+R4	det Arg1:T153 Arg2:T152	
+R5	case Arg1:T153 Arg2:T155	
+R6	iobj Arg1:T157 Arg2:T153	
+R7	iobj Arg1:T157 Arg2:T61	

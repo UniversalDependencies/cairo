@@ -1,2 +1,188 @@
 # sent_id = s1
-# text = 
+# text = 그녀는 친구에게 편지를 썼다 .
+1	그녀는	_	Token	_	_	0	_	_	Offset=0-3
+2	친구에게	_	Token	_	_	0	_	_	Offset=4-8
+3	편지를	_	Token	_	_	0	_	_	Offset=9-12
+4	썼다	_	Token	_	_	0	_	_	Offset=13-15
+5	.	_	Token	_	_	0	_	_	Offset=16-17
+
+# sent_id = s2
+# text = 비가 온다고 생각한다 .
+1	비가	_	Token	_	_	0	_	_	Offset=18-20
+2	온다고	_	Token	_	_	0	_	_	Offset=21-24
+3	생각한다	_	Token	_	_	0	_	_	Offset=25-29
+4	.	_	Token	_	_	0	_	_	Offset=30-31
+
+# sent_id = s3
+# text = 그는 담배와 술을 끊을려고 시도했다 .
+1	그는	_	Token	_	_	0	_	_	Offset=32-34
+2	담배와	_	Token	_	_	0	_	_	Offset=35-38
+3	술을	_	Token	_	_	0	_	_	Offset=39-41
+4	끊을려고	_	Token	_	_	0	_	_	Offset=42-46
+5	시도했다	_	Token	_	_	0	_	_	Offset=47-51
+6	.	_	Token	_	_	0	_	_	Offset=52-53
+
+# sent_id = s4
+# text = 가고 싶어 ?
+1	가고	_	Token	_	_	0	_	_	Offset=54-56
+2	싶어	_	Token	_	_	0	_	_	Offset=57-59
+3	?	_	Token	_	_	0	_	_	Offset=60-61
+
+# sent_id = s5
+# text = 샘 , 창문 열어 .
+1	샘	_	Token	_	_	0	_	_	Offset=62-63
+2	,	_	Token	_	_	0	_	_	Offset=64-65
+3	창문	_	Token	_	_	0	_	_	Offset=66-68
+4	열어	_	Token	_	_	0	_	_	Offset=69-71
+5	.	_	Token	_	_	0	_	_	Offset=72-73
+
+# sent_id = s6
+# text = 그녀는 남편이 세차를 하도록 했다 .
+1	그녀는	_	Token	_	_	0	_	_	Offset=74-77
+2	남편이	_	Token	_	_	0	_	_	Offset=78-81
+3	세차를	_	Token	_	_	0	_	_	Offset=82-85
+4	하도록	_	Token	_	_	0	_	_	Offset=86-89
+5	했다	_	Token	_	_	0	_	_	Offset=90-92
+6	.	_	Token	_	_	0	_	_	Offset=93-94
+
+# sent_id = s7
+# text = 피터의 이웃은 담을 붉은색으로 칠했다 .
+1	피터의	_	Token	_	_	0	_	_	Offset=95-98
+2	이웃은	_	Token	_	_	0	_	_	Offset=99-102
+3	담을	_	Token	_	_	0	_	_	Offset=103-105
+4	붉은색으로	_	Token	_	_	0	_	_	Offset=106-111
+5	칠했다	_	Token	_	_	0	_	_	Offset=112-115
+6	.	_	Token	_	_	0	_	_	Offset=116-117
+
+# sent_id = s8
+# text = 우리 아버지는 너네 아버지보다 쿨하시다 .
+1	우리	_	Token	_	_	0	_	_	Offset=118-120
+2	아버지는	_	Token	_	_	0	_	_	Offset=121-125
+3	너네	_	Token	_	_	0	_	_	Offset=126-128
+4	아버지보다	_	Token	_	_	0	_	_	Offset=129-134
+5	쿨하시다	_	Token	_	_	0	_	_	Offset=135-139
+6	.	_	Token	_	_	0	_	_	Offset=140-141
+
+# sent_id = s9
+# text = 메리는 동메달을 , 피터는 은메달을 , 제인은 금메달을 획득했다 .
+1	메리는	_	Token	_	_	0	_	_	Offset=142-145
+2	동메달을	_	Token	_	_	0	_	_	Offset=146-150
+3	,	_	Token	_	_	0	_	_	Offset=151-152
+4	피터는	_	Token	_	_	0	_	_	Offset=153-156
+5	은메달을	_	Token	_	_	0	_	_	Offset=157-161
+6	,	_	Token	_	_	0	_	_	Offset=162-163
+7	제인은	_	Token	_	_	0	_	_	Offset=164-167
+8	금메달을	_	Token	_	_	0	_	_	Offset=168-172
+9	획득했다	_	Token	_	_	0	_	_	Offset=173-177
+10	.	_	Token	_	_	0	_	_	Offset=178-179
+
+# sent_id = s10
+# text = lguaze는 큰 나라인가 ? 혹은 작은 나라인가 ?
+1	lguaze는	_	Token	_	_	0	_	_	Offset=180-187
+2	큰	_	Token	_	_	0	_	_	Offset=188-189
+3	나라인가	_	Token	_	_	0	_	_	Offset=190-194
+4	?	_	Token	_	_	0	_	_	Offset=195-196
+5	혹은	_	Token	_	_	0	_	_	Offset=197-199
+6	작은	_	Token	_	_	0	_	_	Offset=200-202
+7	나라인가	_	Token	_	_	0	_	_	Offset=203-207
+8	?	_	Token	_	_	0	_	_	Offset=208-209
+
+# sent_id = s11
+# text = 피터 스미스도 메리 브라운도 선택되지 못했다 .
+1	피터	_	Token	_	_	0	_	_	Offset=210-212
+2	스미스도	_	Token	_	_	0	_	_	Offset=213-217
+3	메리	_	Token	_	_	0	_	_	Offset=218-220
+4	브라운도	_	Token	_	_	0	_	_	Offset=221-225
+5	선택되지	_	Token	_	_	0	_	_	Offset=226-230
+6	못했다	_	Token	_	_	0	_	_	Offset=231-234
+7	.	_	Token	_	_	0	_	_	Offset=235-236
+
+# sent_id = s12
+# text = 그들은 이걸 누가 썼는지 모른다 .
+1	그들은	_	Token	_	_	0	_	_	Offset=237-240
+2	이걸	_	Token	_	_	0	_	_	Offset=241-243
+3	누가	_	Token	_	_	0	_	_	Offset=244-246
+4	썼는지	_	Token	_	_	0	_	_	Offset=247-250
+5	모른다	_	Token	_	_	0	_	_	Offset=251-254
+6	.	_	Token	_	_	0	_	_	Offset=255-256
+
+# sent_id = s13
+# text = 뭘 보고 있어 ?
+1	뭘	_	Token	_	_	0	_	_	Offset=257-258
+2	보고	_	Token	_	_	0	_	_	Offset=259-261
+3	있어	_	Token	_	_	0	_	_	Offset=262-264
+4	?	_	Token	_	_	0	_	_	Offset=265-266
+
+# sent_id = s14
+# text = 언제 올 수 있다고 생각해 ?
+1	언제	_	Token	_	_	0	_	_	Offset=267-269
+2	올	_	Token	_	_	0	_	_	Offset=270-271
+3	수	_	Token	_	_	0	_	_	Offset=272-273
+4	있다고	_	Token	_	_	0	_	_	Offset=274-277
+5	생각해	_	Token	_	_	0	_	_	Offset=278-281
+6	?	_	Token	_	_	0	_	_	Offset=282-283
+
+# sent_id = s15
+# text = 그는 자동차를 샀지만 그의 동생은 그냥 자전거를 샀다 .
+1	그는	_	Token	_	_	0	_	_	Offset=284-286
+2	자동차를	_	Token	_	_	0	_	_	Offset=287-291
+3	샀지만	_	Token	_	_	0	_	_	Offset=292-295
+4	그의	_	Token	_	_	0	_	_	Offset=296-298
+5	동생은	_	Token	_	_	0	_	_	Offset=299-302
+6	그냥	_	Token	_	_	0	_	_	Offset=303-305
+7	자전거를	_	Token	_	_	0	_	_	Offset=306-310
+8	샀다	_	Token	_	_	0	_	_	Offset=311-313
+9	.	_	Token	_	_	0	_	_	Offset=314-315
+
+# sent_id = s16
+# text = 피터와 메리는 포옹을 하고 방을 떠났다 .
+1	피터와	_	Token	_	_	0	_	_	Offset=316-319
+2	메리는	_	Token	_	_	0	_	_	Offset=320-323
+3	포옹을	_	Token	_	_	0	_	_	Offset=324-327
+4	하고	_	Token	_	_	0	_	_	Offset=328-330
+5	방을	_	Token	_	_	0	_	_	Offset=331-333
+6	떠났다	_	Token	_	_	0	_	_	Offset=334-337
+7	.	_	Token	_	_	0	_	_	Offset=338-339
+
+# sent_id = s17
+# text = 그녀는 머리를 해야 했지만 어떤 이유인지 그날은 하지 않았다 .
+1	그녀는	_	Token	_	_	0	_	_	Offset=340-343
+2	머리를	_	Token	_	_	0	_	_	Offset=344-347
+3	해야	_	Token	_	_	0	_	_	Offset=348-350
+4	했지만	_	Token	_	_	0	_	_	Offset=351-354
+5	어떤	_	Token	_	_	0	_	_	Offset=355-357
+6	이유인지	_	Token	_	_	0	_	_	Offset=358-362
+7	그날은	_	Token	_	_	0	_	_	Offset=363-366
+8	하지	_	Token	_	_	0	_	_	Offset=367-369
+9	않았다	_	Token	_	_	0	_	_	Offset=370-373
+10	.	_	Token	_	_	0	_	_	Offset=374-375
+
+# sent_id = s18
+# text = 그가 너무 빨리 뛰어서 따라갈 수가 없었다 .
+1	그가	_	Token	_	_	0	_	_	Offset=376-378
+2	너무	_	Token	_	_	0	_	_	Offset=379-381
+3	빨리	_	Token	_	_	0	_	_	Offset=382-384
+4	뛰어서	_	Token	_	_	0	_	_	Offset=385-388
+5	따라갈	_	Token	_	_	0	_	_	Offset=389-392
+6	수가	_	Token	_	_	0	_	_	Offset=393-395
+7	없었다	_	Token	_	_	0	_	_	Offset=396-399
+8	.	_	Token	_	_	0	_	_	Offset=400-401
+
+# sent_id = s19
+# text = 이 편지는 피터한테 온거고 어제 배달되었다.
+1	이	_	Token	_	_	0	_	_	Offset=402-403
+2	편지는	_	Token	_	_	0	_	_	Offset=404-407
+3	피터한테	_	Token	_	_	0	_	_	Offset=408-412
+4	온거고	_	Token	_	_	0	_	_	Offset=413-416
+5	어제	_	Token	_	_	0	_	_	Offset=417-419
+6	배달되었다.	_	Token	_	_	0	_	_	Offset=420-426
+
+# sent_id = s20
+# text = 그녀는 프랑스의 수도인 파리에서 자랐다 .
+1	그녀는	_	Token	_	_	0	_	_	Offset=427-430
+2	프랑스의	_	Token	_	_	0	_	_	Offset=431-435
+3	수도인	_	Token	_	_	0	_	_	Offset=436-439
+4	파리에서	_	Token	_	_	0	_	_	Offset=440-444
+5	자랐다	_	Token	_	_	0	_	_	Offset=445-448
+6	.	_	Token	_	_	0	_	_	Offset=449-450
+

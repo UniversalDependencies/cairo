@@ -1,2 +1,226 @@
 # sent_id = s1
-# text = 
+# text = Deklica je napisala pismo prijateljici .
+1	Deklica	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Offset=0-7
+2	je	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	Offset=8-10
+3	napisala	_	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=11-19
+4	pismo	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	dobj	_	Offset=20-25
+5	prijateljici	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	Offset=26-38
+6	.	_	PUNCT	_	_	3	punct	_	Offset=39-40
+
+# sent_id = s2
+# text = Mislim , da dežuje .
+1	Mislim	_	Token	_	_	0	_	_	Offset=41-47
+2	,	_	Token	_	_	0	_	_	Offset=48-49
+3	da	_	Token	_	_	0	_	_	Offset=50-52
+4	dežuje	_	Token	_	_	0	_	_	Offset=53-59
+5	.	_	Token	_	_	0	_	_	Offset=60-61
+
+# sent_id = s3
+# text = Poizkusil je prenehati kaditi in piti .
+1	Poizkusil	_	Token	_	_	0	_	_	Offset=62-71
+2	je	_	Token	_	_	0	_	_	Offset=72-74
+3	prenehati	_	Token	_	_	0	_	_	Offset=75-84
+4	kaditi	_	Token	_	_	0	_	_	Offset=85-91
+5	in	_	Token	_	_	0	_	_	Offset=92-94
+6	piti	_	Token	_	_	0	_	_	Offset=95-99
+7	.	_	Token	_	_	0	_	_	Offset=100-101
+
+# sent_id = s4
+# text = Hočeš iti ?
+1	Hočeš	_	Token	_	_	0	_	_	Offset=102-107
+2	iti	_	Token	_	_	0	_	_	Offset=108-111
+3	?	_	Token	_	_	0	_	_	Offset=112-113
+
+# sent_id = s5
+# text = Sam , odpri okno !
+1	Sam	_	Token	_	_	0	_	_	Offset=114-117
+2	,	_	Token	_	_	0	_	_	Offset=118-119
+3	odpri	_	Token	_	_	0	_	_	Offset=120-125
+4	okno	_	Token	_	_	0	_	_	Offset=126-130
+5	!	_	Token	_	_	0	_	_	Offset=131-132
+
+# sent_id = s6
+# text = Prisilila je moža , da je umil avto .
+1	Prisilila	_	Token	_	_	0	_	_	Offset=133-142
+2	je	_	Token	_	_	0	_	_	Offset=143-145
+3	moža	_	Token	_	_	0	_	_	Offset=146-150
+4	,	_	Token	_	_	0	_	_	Offset=151-152
+5	da	_	Token	_	_	0	_	_	Offset=153-155
+6	je	_	Token	_	_	0	_	_	Offset=156-158
+7	umil	_	Token	_	_	0	_	_	Offset=159-163
+8	avto	_	Token	_	_	0	_	_	Offset=164-168
+9	.	_	Token	_	_	0	_	_	Offset=169-170
+
+# sent_id = s7
+# text = Petrov sosed je pobarval ograjo na rdeče .
+1	Petrov	_	Token	_	_	0	_	_	Offset=171-177
+2	sosed	_	Token	_	_	0	_	_	Offset=178-183
+3	je	_	Token	_	_	0	_	_	Offset=184-186
+4	pobarval	_	Token	_	_	0	_	_	Offset=187-195
+5	ograjo	_	Token	_	_	0	_	_	Offset=196-202
+6	na	_	Token	_	_	0	_	_	Offset=203-205
+7	rdeče	_	Token	_	_	0	_	_	Offset=206-211
+8	.	_	Token	_	_	0	_	_	Offset=212-213
+
+# sent_id = s8
+# text = Moj oče je zabavnejši od tvojega .
+1	Moj	_	Token	_	_	0	_	_	Offset=214-217
+2	oče	_	Token	_	_	0	_	_	Offset=218-221
+3	je	_	Token	_	_	0	_	_	Offset=222-224
+4	zabavnejši	_	Token	_	_	0	_	_	Offset=225-235
+5	od	_	Token	_	_	0	_	_	Offset=236-238
+6	tvojega	_	Token	_	_	0	_	_	Offset=239-246
+7	.	_	Token	_	_	0	_	_	Offset=247-248
+
+# sent_id = s9
+# text = Marija je dobila bron , Peter srebro in Jana zlato .
+1	Marija	_	Token	_	_	0	_	_	Offset=249-255
+2	je	_	Token	_	_	0	_	_	Offset=256-258
+3	dobila	_	Token	_	_	0	_	_	Offset=259-265
+4	bron	_	Token	_	_	0	_	_	Offset=266-270
+5	,	_	Token	_	_	0	_	_	Offset=271-272
+6	Peter	_	Token	_	_	0	_	_	Offset=273-278
+7	srebro	_	Token	_	_	0	_	_	Offset=279-285
+8	in	_	Token	_	_	0	_	_	Offset=286-288
+9	Jana	_	Token	_	_	0	_	_	Offset=289-293
+10	zlato	_	Token	_	_	0	_	_	Offset=294-299
+11	.	_	Token	_	_	0	_	_	Offset=300-301
+
+# sent_id = s10
+# text = Ali je Iguazu velika ali majhna dežela ?
+1	Ali	_	Token	_	_	0	_	_	Offset=302-305
+2	je	_	Token	_	_	0	_	_	Offset=306-308
+3	Iguazu	_	Token	_	_	0	_	_	Offset=309-315
+4	velika	_	Token	_	_	0	_	_	Offset=316-322
+5	ali	_	Token	_	_	0	_	_	Offset=323-326
+6	majhna	_	Token	_	_	0	_	_	Offset=327-333
+7	dežela	_	Token	_	_	0	_	_	Offset=334-340
+8	?	_	Token	_	_	0	_	_	Offset=341-342
+
+# sent_id = s11
+# text = Niti Peter Smith niti Mary Brown nista mogla biti izbrana .
+1	Niti	_	Token	_	_	0	_	_	Offset=343-347
+2	Peter	_	Token	_	_	0	_	_	Offset=348-353
+3	Smith	_	Token	_	_	0	_	_	Offset=354-359
+4	niti	_	Token	_	_	0	_	_	Offset=360-364
+5	Mary	_	Token	_	_	0	_	_	Offset=365-369
+6	Brown	_	Token	_	_	0	_	_	Offset=370-375
+7	nista	_	Token	_	_	0	_	_	Offset=376-381
+8	mogla	_	Token	_	_	0	_	_	Offset=382-387
+9	biti	_	Token	_	_	0	_	_	Offset=388-392
+10	izbrana	_	Token	_	_	0	_	_	Offset=393-400
+11	.	_	Token	_	_	0	_	_	Offset=401-402
+
+# sent_id = s12
+# text = Pojma nimajo , kdo je to napisal .
+1	Pojma	_	Token	_	_	0	_	_	Offset=403-408
+2	nimajo	_	Token	_	_	0	_	_	Offset=409-415
+3	,	_	Token	_	_	0	_	_	Offset=416-417
+4	kdo	_	Token	_	_	0	_	_	Offset=418-421
+5	je	_	Token	_	_	0	_	_	Offset=422-424
+6	to	_	Token	_	_	0	_	_	Offset=425-427
+7	napisal	_	Token	_	_	0	_	_	Offset=428-435
+8	.	_	Token	_	_	0	_	_	Offset=436-437
+
+# sent_id = s13
+# text = Kaj gledaš ?
+1	Kaj	_	Token	_	_	0	_	_	Offset=438-441
+2	gledaš	_	Token	_	_	0	_	_	Offset=442-448
+3	?	_	Token	_	_	0	_	_	Offset=449-450
+
+# sent_id = s14
+# text = Kdaj misliš , da bi lahko prišel ?
+1	Kdaj	_	Token	_	_	0	_	_	Offset=451-455
+2	misliš	_	Token	_	_	0	_	_	Offset=456-462
+3	,	_	Token	_	_	0	_	_	Offset=463-464
+4	da	_	Token	_	_	0	_	_	Offset=465-467
+5	bi	_	Token	_	_	0	_	_	Offset=468-470
+6	lahko	_	Token	_	_	0	_	_	Offset=471-476
+7	prišel	_	Token	_	_	0	_	_	Offset=477-483
+8	?	_	Token	_	_	0	_	_	Offset=484-485
+
+# sent_id = s15
+# text = Kupil je avto , njegov brat pa samo motor .
+1	Kupil	_	Token	_	_	0	_	_	Offset=486-491
+2	je	_	Token	_	_	0	_	_	Offset=492-494
+3	avto	_	Token	_	_	0	_	_	Offset=495-499
+4	,	_	Token	_	_	0	_	_	Offset=500-501
+5	njegov	_	Token	_	_	0	_	_	Offset=502-508
+6	brat	_	Token	_	_	0	_	_	Offset=509-513
+7	pa	_	Token	_	_	0	_	_	Offset=514-516
+8	samo	_	Token	_	_	0	_	_	Offset=517-521
+9	motor	_	Token	_	_	0	_	_	Offset=522-527
+10	.	_	Token	_	_	0	_	_	Offset=528-529
+
+# sent_id = s16
+# text = Peter in Mary sta se objela in nato zapustila sobo .
+1	Peter	_	Token	_	_	0	_	_	Offset=530-535
+2	in	_	Token	_	_	0	_	_	Offset=536-538
+3	Mary	_	Token	_	_	0	_	_	Offset=539-543
+4	sta	_	Token	_	_	0	_	_	Offset=544-547
+5	se	_	Token	_	_	0	_	_	Offset=548-550
+6	objela	_	Token	_	_	0	_	_	Offset=551-557
+7	in	_	Token	_	_	0	_	_	Offset=558-560
+8	nato	_	Token	_	_	0	_	_	Offset=561-565
+9	zapustila	_	Token	_	_	0	_	_	Offset=566-575
+10	sobo	_	Token	_	_	0	_	_	Offset=576-580
+11	.	_	Token	_	_	0	_	_	Offset=581-582
+
+# sent_id = s17
+# text = Morala bi si urediti pričesko , vendar si je iz nekega razloga tisti dan ni .
+1	Morala	_	Token	_	_	0	_	_	Offset=583-589
+2	bi	_	Token	_	_	0	_	_	Offset=590-592
+3	si	_	Token	_	_	0	_	_	Offset=593-595
+4	urediti	_	Token	_	_	0	_	_	Offset=596-603
+5	pričesko	_	Token	_	_	0	_	_	Offset=604-612
+6	,	_	Token	_	_	0	_	_	Offset=613-614
+7	vendar	_	Token	_	_	0	_	_	Offset=615-621
+8	si	_	Token	_	_	0	_	_	Offset=622-624
+9	je	_	Token	_	_	0	_	_	Offset=625-627
+10	iz	_	Token	_	_	0	_	_	Offset=628-630
+11	nekega	_	Token	_	_	0	_	_	Offset=631-637
+12	razloga	_	Token	_	_	0	_	_	Offset=638-645
+13	tisti	_	Token	_	_	0	_	_	Offset=646-651
+14	dan	_	Token	_	_	0	_	_	Offset=652-655
+15	ni	_	Token	_	_	0	_	_	Offset=656-658
+16	.	_	Token	_	_	0	_	_	Offset=659-660
+
+# sent_id = s18
+# text = Nisem ga mogel dohajati , ker je prehitro tekel .
+1	Nisem	_	Token	_	_	0	_	_	Offset=661-666
+2	ga	_	Token	_	_	0	_	_	Offset=667-669
+3	mogel	_	Token	_	_	0	_	_	Offset=670-675
+4	dohajati	_	Token	_	_	0	_	_	Offset=676-684
+5	,	_	Token	_	_	0	_	_	Offset=685-686
+6	ker	_	Token	_	_	0	_	_	Offset=687-690
+7	je	_	Token	_	_	0	_	_	Offset=691-693
+8	prehitro	_	Token	_	_	0	_	_	Offset=694-702
+9	tekel	_	Token	_	_	0	_	_	Offset=703-708
+10	.	_	Token	_	_	0	_	_	Offset=709-710
+
+# sent_id = s19
+# text = Tole pismo je od Petra in je bilo vročeno včeraj .
+1	Tole	_	Token	_	_	0	_	_	Offset=711-715
+2	pismo	_	Token	_	_	0	_	_	Offset=716-721
+3	je	_	Token	_	_	0	_	_	Offset=722-724
+4	od	_	Token	_	_	0	_	_	Offset=725-727
+5	Petra	_	Token	_	_	0	_	_	Offset=728-733
+6	in	_	Token	_	_	0	_	_	Offset=734-736
+7	je	_	Token	_	_	0	_	_	Offset=737-739
+8	bilo	_	Token	_	_	0	_	_	Offset=740-744
+9	vročeno	_	Token	_	_	0	_	_	Offset=745-752
+10	včeraj	_	Token	_	_	0	_	_	Offset=753-759
+11	.	_	Token	_	_	0	_	_	Offset=760-761
+
+# sent_id = s20
+# text = Odrasla je v Parizu , glavnem mestu Francije .
+1	Odrasla	_	Token	_	_	0	_	_	Offset=762-769
+2	je	_	Token	_	_	0	_	_	Offset=770-772
+3	v	_	Token	_	_	0	_	_	Offset=773-774
+4	Parizu	_	Token	_	_	0	_	_	Offset=775-781
+5	,	_	Token	_	_	0	_	_	Offset=782-783
+6	glavnem	_	Token	_	_	0	_	_	Offset=784-791
+7	mestu	_	Token	_	_	0	_	_	Offset=792-797
+8	Francije	_	Token	_	_	0	_	_	Offset=798-806
+9	.	_	Token	_	_	0	_	_	Offset=807-808
+

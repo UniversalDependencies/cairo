@@ -1,2 +1,219 @@
 # sent_id = s1
-# text = 
+# text = Dziewczyna napisała list do swojej przyjaciółki .
+1	Dziewczyna	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Offset=0-10
+2	napisała	_	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=11-19
+3	list	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	dobj	_	Offset=20-24
+4	do	_	ADP	_	Case=Gen	6	case	_	Offset=25-27
+5	swojej	_	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=|PronType=Prs|Reflex=	6	det	_	Offset=28-34
+6	przyjaciółki	_	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	iobj	_	Offset=35-47
+7	.	_	PUNCT	_	_	2	punct	_	Offset=48-49
+
+# sent_id = s2
+# text = Myślę , że pada .
+1	Myślę	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=50-55
+2	,	_	PUNCT	_	_	4	punct	_	Offset=56-57
+3	że	_	SCONJ	_	_	4	mark	_	Offset=58-60
+4	pada	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Offset=61-65
+5	.	_	PUNCT	_	_	1	punct	_	Offset=66-67
+
+# sent_id = s3
+# text = Próbował rzucić palenie i picie .
+1	Próbował	_	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=68-76
+2	rzucić	_	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	Offset=77-83
+3	palenie	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Ger	2	dobj	_	Offset=84-91
+4	i	_	CONJ	_	_	3	cc	_	Offset=92-93
+5	picie	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Ger	3	conj	_	Offset=94-99
+6	.	_	PUNCT	_	_	1	punct	_	Offset=100-101
+
+# sent_id = s4
+# text = Chcesz iść ?
+1	Chcesz	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	Offset=102-108
+2	iść	_	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	Offset=109-112
+3	?	_	PUNCT	_	_	1	punct	_	Offset=113-114
+
+# sent_id = s5
+# text = Samie , otwórz okno !
+1	Samie	_	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	Offset=115-120
+2	,	_	PUNCT	_	_	1	punct	_	Offset=121-122
+3	otwórz	_	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	_	_	Offset=123-129
+4	okno	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	dobj	_	Offset=130-134
+5	!	_	PUNCT	_	_	3	punct	_	Offset=135-136
+
+# sent_id = s6
+# text = Zmusiła swojego męża do tego , żeby umył samochód .
+1	Zmusiła	_	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=137-144
+2	swojego	_	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=|PronType=Prs|Reflex=	3	det	_	Offset=145-152
+3	męża	_	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	dobj	_	Offset=153-157
+4	do	_	ADP	_	Case=Gen	5	case	_	Offset=158-160
+5	tego	_	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	iobj	_	Offset=161-165
+6	,	_	PUNCT	_	_	8	punct	_	Offset=166-167
+7	żeby	_	SCONJ	_	_	8	mark	_	Offset=168-172
+8	umył	_	VERB	_	Animacy=Anim|Aspect=Perf|Gender=Masc|Mood=Cnd|Number=Sing|VerbForm=Fin|Voice=Act	5	acl	_	Offset=173-177
+9	samochód	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	dobj	_	Offset=178-186
+10	.	_	PUNCT	_	_	1	punct	_	Offset=187-188
+
+# sent_id = s7
+# text = Sąsiad Petera pomalował płot na czerwono .
+1	Sąsiad	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Offset=189-195
+2	Petera	_	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Offset=196-202
+3	pomalował	_	VERB	_	Animacy=Anim|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	Offset=203-212
+4	płot	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	dobj	_	Offset=213-217
+5	na	_	ADP	_	Case=Acc	6	case	_	Offset=218-220
+6	czerwono	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	Offset=221-229
+7	.	_	PUNCT	_	_	3	punct	_	Offset=230-231
+
+# sent_id = s8
+# text = Mój tata jest fajniejszy niż twój .
+1	Mój	_	Token	_	_	0	_	_	Offset=232-235
+2	tata	_	Token	_	_	0	_	_	Offset=236-240
+3	jest	_	Token	_	_	0	_	_	Offset=241-245
+4	fajniejszy	_	Token	_	_	0	_	_	Offset=246-256
+5	niż	_	Token	_	_	0	_	_	Offset=257-260
+6	twój	_	Token	_	_	0	_	_	Offset=261-265
+7	.	_	Token	_	_	0	_	_	Offset=266-267
+
+# sent_id = s9
+# text = Mary zdobyła brąz , Peter srebro a Jane złoto .
+1	Mary	_	Token	_	_	0	_	_	Offset=268-272
+2	zdobyła	_	Token	_	_	0	_	_	Offset=273-280
+3	brąz	_	Token	_	_	0	_	_	Offset=281-285
+4	,	_	Token	_	_	0	_	_	Offset=286-287
+5	Peter	_	Token	_	_	0	_	_	Offset=288-293
+6	srebro	_	Token	_	_	0	_	_	Offset=294-300
+7	a	_	Token	_	_	0	_	_	Offset=301-302
+8	Jane	_	Token	_	_	0	_	_	Offset=303-307
+9	złoto	_	Token	_	_	0	_	_	Offset=308-313
+10	.	_	Token	_	_	0	_	_	Offset=314-315
+
+# sent_id = s10
+# text = Czy Iguazu to duże czy małe państwo ?
+1	Czy	_	Token	_	_	0	_	_	Offset=316-319
+2	Iguazu	_	Token	_	_	0	_	_	Offset=320-326
+3	to	_	Token	_	_	0	_	_	Offset=327-329
+4	duże	_	Token	_	_	0	_	_	Offset=330-334
+5	czy	_	Token	_	_	0	_	_	Offset=335-338
+6	małe	_	Token	_	_	0	_	_	Offset=339-343
+7	państwo	_	Token	_	_	0	_	_	Offset=344-351
+8	?	_	Token	_	_	0	_	_	Offset=352-353
+
+# sent_id = s11
+# text = Ani Peter Smith ani Mary Brown nie mogli być wybrani .
+1	Ani	_	Token	_	_	0	_	_	Offset=354-357
+2	Peter	_	Token	_	_	0	_	_	Offset=358-363
+3	Smith	_	Token	_	_	0	_	_	Offset=364-369
+4	ani	_	Token	_	_	0	_	_	Offset=370-373
+5	Mary	_	Token	_	_	0	_	_	Offset=374-378
+6	Brown	_	Token	_	_	0	_	_	Offset=379-384
+7	nie	_	Token	_	_	0	_	_	Offset=385-388
+8	mogli	_	Token	_	_	0	_	_	Offset=389-394
+9	być	_	Token	_	_	0	_	_	Offset=395-398
+10	wybrani	_	Token	_	_	0	_	_	Offset=399-406
+11	.	_	Token	_	_	0	_	_	Offset=407-408
+
+# sent_id = s12
+# text = Nie mają pojęcia kto to napisał .
+1	Nie	_	Token	_	_	0	_	_	Offset=409-412
+2	mają	_	Token	_	_	0	_	_	Offset=413-417
+3	pojęcia	_	Token	_	_	0	_	_	Offset=418-425
+4	kto	_	Token	_	_	0	_	_	Offset=426-429
+5	to	_	Token	_	_	0	_	_	Offset=430-432
+6	napisał	_	Token	_	_	0	_	_	Offset=433-440
+7	.	_	Token	_	_	0	_	_	Offset=441-442
+
+# sent_id = s13
+# text = Na co się patrzysz ?
+1	Na	_	Token	_	_	0	_	_	Offset=443-445
+2	co	_	Token	_	_	0	_	_	Offset=446-448
+3	się	_	Token	_	_	0	_	_	Offset=449-452
+4	patrzysz	_	Token	_	_	0	_	_	Offset=453-461
+5	?	_	Token	_	_	0	_	_	Offset=462-463
+
+# sent_id = s14
+# text = Jak myślisz , kiedy będziesz mógł przyjść ?
+1	Jak	_	Token	_	_	0	_	_	Offset=464-467
+2	myślisz	_	Token	_	_	0	_	_	Offset=468-475
+3	,	_	Token	_	_	0	_	_	Offset=476-477
+4	kiedy	_	Token	_	_	0	_	_	Offset=478-483
+5	będziesz	_	Token	_	_	0	_	_	Offset=484-492
+6	mógł	_	Token	_	_	0	_	_	Offset=493-497
+7	przyjść	_	Token	_	_	0	_	_	Offset=498-505
+8	?	_	Token	_	_	0	_	_	Offset=506-507
+
+# sent_id = s15
+# text = On kupił samochód , ale jego brat tylko rower .
+1	On	_	Token	_	_	0	_	_	Offset=508-510
+2	kupił	_	Token	_	_	0	_	_	Offset=511-516
+3	samochód	_	Token	_	_	0	_	_	Offset=517-525
+4	,	_	Token	_	_	0	_	_	Offset=526-527
+5	ale	_	Token	_	_	0	_	_	Offset=528-531
+6	jego	_	Token	_	_	0	_	_	Offset=532-536
+7	brat	_	Token	_	_	0	_	_	Offset=537-541
+8	tylko	_	Token	_	_	0	_	_	Offset=542-547
+9	rower	_	Token	_	_	0	_	_	Offset=548-553
+10	.	_	Token	_	_	0	_	_	Offset=554-555
+
+# sent_id = s16
+# text = Peter i Mary uściskali się i wyszli z pokoju .
+1	Peter	_	Token	_	_	0	_	_	Offset=556-561
+2	i	_	Token	_	_	0	_	_	Offset=562-563
+3	Mary	_	Token	_	_	0	_	_	Offset=564-568
+4	uściskali	_	Token	_	_	0	_	_	Offset=569-578
+5	się	_	Token	_	_	0	_	_	Offset=579-582
+6	i	_	Token	_	_	0	_	_	Offset=583-584
+7	wyszli	_	Token	_	_	0	_	_	Offset=585-591
+8	z	_	Token	_	_	0	_	_	Offset=592-593
+9	pokoju	_	Token	_	_	0	_	_	Offset=594-600
+10	.	_	Token	_	_	0	_	_	Offset=601-602
+
+# sent_id = s17
+# text = Miała robić swoją fryzurę , ale z jakiegoś powodu tego dnia tego nie zrobiła .
+1	Miała	_	Token	_	_	0	_	_	Offset=603-608
+2	robić	_	Token	_	_	0	_	_	Offset=609-614
+3	swoją	_	Token	_	_	0	_	_	Offset=615-620
+4	fryzurę	_	Token	_	_	0	_	_	Offset=621-628
+5	,	_	Token	_	_	0	_	_	Offset=629-630
+6	ale	_	Token	_	_	0	_	_	Offset=631-634
+7	z	_	Token	_	_	0	_	_	Offset=635-636
+8	jakiegoś	_	Token	_	_	0	_	_	Offset=637-645
+9	powodu	_	Token	_	_	0	_	_	Offset=646-652
+10	tego	_	Token	_	_	0	_	_	Offset=653-657
+11	dnia	_	Token	_	_	0	_	_	Offset=658-662
+12	tego	_	Token	_	_	0	_	_	Offset=663-667
+13	nie	_	Token	_	_	0	_	_	Offset=668-671
+14	zrobiła	_	Token	_	_	0	_	_	Offset=672-679
+15	.	_	Token	_	_	0	_	_	Offset=680-681
+
+# sent_id = s18
+# text = Nie mogłam nadążyć , bo za szybko biegł .
+1	Nie	_	Token	_	_	0	_	_	Offset=682-685
+2	mogłam	_	Token	_	_	0	_	_	Offset=686-692
+3	nadążyć	_	Token	_	_	0	_	_	Offset=693-700
+4	,	_	Token	_	_	0	_	_	Offset=701-702
+5	bo	_	Token	_	_	0	_	_	Offset=703-705
+6	za	_	Token	_	_	0	_	_	Offset=706-708
+7	szybko	_	Token	_	_	0	_	_	Offset=709-715
+8	biegł	_	Token	_	_	0	_	_	Offset=716-721
+9	.	_	Token	_	_	0	_	_	Offset=722-723
+
+# sent_id = s19
+# text = Ten list jest od Petera i przyszedł wczoraj .
+1	Ten	_	Token	_	_	0	_	_	Offset=724-727
+2	list	_	Token	_	_	0	_	_	Offset=728-732
+3	jest	_	Token	_	_	0	_	_	Offset=733-737
+4	od	_	Token	_	_	0	_	_	Offset=738-740
+5	Petera	_	Token	_	_	0	_	_	Offset=741-747
+6	i	_	Token	_	_	0	_	_	Offset=748-749
+7	przyszedł	_	Token	_	_	0	_	_	Offset=750-759
+8	wczoraj	_	Token	_	_	0	_	_	Offset=760-767
+9	.	_	Token	_	_	0	_	_	Offset=768-769
+
+# sent_id = s20
+# text = Dorastała w Paryżu , stolicy Francji .
+1	Dorastała	_	Token	_	_	0	_	_	Offset=770-779
+2	w	_	Token	_	_	0	_	_	Offset=780-781
+3	Paryżu	_	Token	_	_	0	_	_	Offset=782-788
+4	,	_	Token	_	_	0	_	_	Offset=789-790
+5	stolicy	_	Token	_	_	0	_	_	Offset=791-798
+6	Francji	_	Token	_	_	0	_	_	Offset=799-806
+7	.	_	Token	_	_	0	_	_	Offset=807-808
+
