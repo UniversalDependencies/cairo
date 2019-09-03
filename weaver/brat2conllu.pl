@@ -82,7 +82,7 @@ while(<>)
         my ($deprel, $parent, $child);
         $ann =~ s/^\s+//;
         $ann =~ s/\s+$//;
-        if($ann =~ m/^(\S+)\s+Arg1:(T\d+)\s+Arg2:(T\d+)$/)
+        if($ann =~ m/^(\S+)\s+Arg1:(T[\d\.]+)\s+Arg2:(T[\d\.]+)$/)
         {
             $deprel = $1;
             $parent = $2;
