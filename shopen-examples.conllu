@@ -9570,3 +9570,74 @@
 3	bèdò	bèdò	AUX	_	VerbForm=Inf	4	cop	_	Gloss=be|MGloss=stay.INFIN
 4	rwòt	rwòt	NOUN	_	_	0	root	_	Gloss=king
 
+# sent_id = 4.29a/en
+# text = Nancy is a lawyer
+1	Nancy	Nancy	PROPN	_	Number=Sing	4	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	lawyer	lawyer	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 4.29b/en
+# text = Sally Smith is the head of this department
+1	Sally	Sally	PROPN	_	Number=Sing	5	nsubj	_	_
+2	Smith	Smith	PROPN	_	Number=Sing	1	flat	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	head	head	NOUN	_	Number=Sing	0	root	_	_
+6	of	of	ADP	_	_	8	case	_	_
+7	this	this	DET	_	PronType=Dem	8	det	_	_
+8	department	department	NOUN	_	Number=Sing	5	nmod	_	_
+
+# sent_id = 4.30/en
+# text = The head of this department is Sally Smith
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	head	head	NOUN	_	Number=Sing	7	nsubj	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	this	this	DET	_	PronType=Dem	5	det	_	_
+5	department	department	NOUN	_	Number=Sing	2	nmod	_	_
+6	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	Sally	Sally	PROPN	_	Number=Sing	0	root	_	_
+8	Smith	Smith	PROPN	_	Number=Sing	7	flat	_	_
+
+# sent_id = 4.31a/en
+# text = My dog is the cocker spaniel
+1	My	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	dog	dog	NOUN	_	Number=Sing	5	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	cocker	cocker	NOUN	_	Number=Sing	0	root	_	_
+6	spaniel	spaniel	NOUN	_	Number=Sing	5	compound	_	_
+
+# sent_id = 4.31b/en
+# text = My dog is a cocker spaniel
+1	My	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	dog	dog	NOUN	_	Number=Sing	5	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	cocker	cocker	NOUN	_	Number=Sing	0	root	_	_
+6	spaniel	spaniel	NOUN	_	Number=Sing	5	compound	_	_
+
+# sent_id = 4.32a/en
+# text = I saw the cocker spaniel
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	saw	see	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	cocker	cocker	NOUN	_	Number=Sing	2	obj	_	_
+5	spaniel	spaniel	NOUN	_	Number=Sing	4	compound	_	_
+
+# sent_id = 4.32b/en
+# text = I saw a cocker spaniel
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	saw	see	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	cocker	cocker	NOUN	_	Number=Sing	2	obj	_	_
+5	spaniel	spaniel	NOUN	_	Number=Sing	4	compound	_	_
+
+# sent_id = 4.33/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = n̓ini xaxas
+# gloss = be-INDIC skunk
+# text_en = it was a skunk; it was the skunk
+1	n̓ini	_	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=be|MSeg=n̓in-i|MGloss=be-INDIC
+2	xaxas	_	NOUN	_	_	1	nsubj	_	Gloss=skunk
+
