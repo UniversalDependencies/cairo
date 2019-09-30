@@ -9641,3 +9641,38 @@
 1	n̓ini	_	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=be|MSeg=n̓in-i|MGloss=be-INDIC
 2	xaxas	_	NOUN	_	_	1	nsubj	_	Gloss=skunk
 
+# sent_id = 4.34a/kos
+# Kusaiean (Austronesian, Micronesia)
+# source = K. D. Lee, 1975
+# text = Mwet luti sac pa mwet sacn
+# gloss = person teach the COPULA person that
+# text_en = The teacher is that person
+1	Mwet	_	NOUN	_	_	5	nsubj	_	Gloss=person
+2	luti	_	VERB	_	_	1	acl	_	Gloss=teach
+3	sac	_	DET	_	Definite=Def|PronType=Art	1	det	_	Gloss=the
+4	pa	_	AUX	_	_	5	cop	_	Gloss=is
+5	mwet	_	NOUN	_	_	0	root	_	Gloss=person
+6	sacn	_	DET	_	PronType=Dem	5	det	_	Gloss=that
+
+# sent_id = 4.34b/kos
+# Kusaiean (Austronesian, Micronesia)
+# source = K. D. Lee, 1975
+# text = Mwet sacn muhtwacn se
+# gloss = person that woman one
+# text_en = That person is a woman
+1	Mwet	_	NOUN	_	_	3	nsubj	_	Gloss=person
+2	sacn	_	DET	_	PronType=Dem	1	det	_	Gloss=that
+3	muhtwacn	_	NOUN	_	_	0	root	_	Gloss=woman
+4	se	_	DET	_	Definite=Ind|PronType=Art	3	det	_	Gloss=one
+
+# sent_id = 4.35/kos
+# Kusaiean (Austronesian, Micronesia)
+# source = K. D. Lee, 1975
+# text = Ma sacn usr soko
+# gloss = thing that banana plant
+# text_en = That thing is a banana plant
+1	Ma	_	NOUN	_	_	3	nsubj	_	Gloss=thing
+2	sacn	_	DET	_	PronType=Dem	1	det	_	Gloss=that
+3	usr	_	NOUN	_	_	0	root	_	Gloss=banana-plant
+4	soko	_	NOUN	_	_	3	compound	_	Gloss=banana-plant
+
