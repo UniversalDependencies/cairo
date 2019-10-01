@@ -9733,3 +9733,55 @@
 3	nagtawag	tawag	VERB	_	Aspect=Prog|Voice=Agf	1	csubj	_	Gloss=was-calling|MSeg=nag-tawag|MGloss=SUBJ.FOCUS:DUR-call
 4	nakuq	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=1SG.NONTOPIC
 
+# sent_id = 4.39a/taj
+# Tamang (Tibeto-Burman, Nepal)
+# source = Mazaudon, 1976
+# text = Nála tìm cǎca múla
+# gloss = 1SG-GEN house small be-INDEF
+# text_en = My house is small
+1	Nála	_	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Gloss=my|MSeg=ná-la|MGloss=1SG-GEN
+2	tìm	_	NOUN	_	_	3	nsubj	_	Gloss=house
+3	cǎca	_	ADJ	_	_	0	root	_	Gloss=small
+4	múla	_	AUX	_	Definite=Ind	3	cop	_	Gloss=is|MSeg=mú-la|MGloss=be-INDEF
+
+# sent_id = 4.39b/taj
+# Tamang (Tibeto-Burman, Nepal)
+# source = Mazaudon, 1976
+# text = Cū měnto cǎca
+# gloss = this flower small
+# text_en = This flower is small
+1	Cū	_	DET	_	PronType=Dem	2	det	_	Gloss=this
+2	měnto	_	NOUN	_	_	3	nsubj	_	Gloss=flower
+3	cǎca	_	ADJ	_	_	0	root	_	Gloss=small
+
+# sent_id = 4.40a/xsu
+# Sanuma (Yanomaman, Venezuela, Brazil)
+# source = Borgman, 1990
+# text = Hisa sa
+# gloss = young.man 1SG
+# text_en = I am a young man
+1	Hisa	_	NOUN	_	_	0	root	_	Gloss=young-man|MGloss=young.man
+2	sa	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I|MGloss=1SG
+
+# sent_id = 4.40a/xsu
+# Sanuma (Yanomaman, Venezuela, Brazil)
+# source = Borgman, 1990
+# text = Palata ti hösösö kuoma
+# gloss = rubber CLSFR resin be-PUNCT-COMPLET
+# text_en = It was rubber
+1	Palata	_	NOUN	_	_	0	root	_	Gloss=rubber
+2	ti	_	NOUN	_	_	3	clf	_	Gloss=CLSFR
+3	hösösö	_	NOUN	_	_	1	nsubj	_	Gloss=resin
+4	kuoma	_	AUX	_	Aspect=Perf	1	cop	_	Gloss=was|MSeg=ku-o-ma|MGloss=be-PUNCT-COMPLET
+
+# sent_id = 4.40a/xsu
+# Sanuma (Yanomaman, Venezuela, Brazil)
+# source = Borgman, 1990
+# text = Kaikana te kuki kite
+# gloss = headman 3SG be-FOCUS FUT
+# text_en = He will be headman
+1	Kaikana	_	NOUN	_	_	0	root	_	Gloss=headman
+2	te	_	PRON	_	Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he|MGloss=3SG
+3	kuki	_	AUX	_	Focus=Yes	1	cop	_	Gloss=be|MSeg=ku-ki|MGloss=be-FOCUS
+4	kite	_	AUX	_	Tense=Fut	1	aux	_	Gloss=will|MGloss=FUT
+
