@@ -9676,3 +9676,60 @@
 3	usr	_	NOUN	_	_	0	root	_	Gloss=banana-plant
 4	soko	_	NOUN	_	_	3	compound	_	Gloss=banana-plant
 
+# sent_id = 4.36a/kl
+# West Greenlandic (Eskimo-Aleut, Greenland)
+# source = Fortescue, 1984
+# text = Hansi tassa pisurtaq
+# gloss = Hansi be leader
+# text_en = Hansi is the leader
+1	Hansi	_	PROPN	_	_	3	nsubj	_	Gloss=Hansi
+2	tassa	_	AUX	_	_	3	cop	_	Gloss=be
+3	pisurtaq	_	NOUN	_	_	0	root	_	Gloss=leader
+
+# sent_id = 4.36b/kl
+# West Greenlandic (Eskimo-Aleut, Greenland)
+# source = Fortescue, 1984
+# text = Illuqarviuvuq
+# gloss = town-COPULA-3SG.INDIC
+# text_en = It is a town
+1	Illuqarviuvuq	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=it-is-a-town|MSeg=illuqarvi-u-vuq|MGloss=town-COPULA-3SG.INDIC
+
+# sent_id = 4.37a/ceb
+# Cebuano (Austronesian, Philippines)
+# text = Ang duktur ang babayi
+# gloss = TOP doctor TOP woman
+# text_en = The woman is the doctor
+1	Ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	2	det	_	Gloss=the|MGloss=TOP
+2	duktur	duktur	NOUN	_	_	0	root	_	Gloss=doctor
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=TOP
+4	babayi	babayi	NOUN	_	_	2	nsubj	_	Gloss=woman
+
+# sent_id = 4.37b/ceb
+# Cebuano (Austronesian, Philippines)
+# text = Duktur ang babayi
+# gloss = doctor TOP woman
+# text_en = The woman is a doctor
+1	Duktur	duktur	NOUN	_	_	0	root	_	Gloss=doctor
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=TOP
+3	babayi	babayi	NOUN	_	_	1	nsubj	_	Gloss=woman
+
+# sent_id = 4.38a/ceb
+# Cebuano (Austronesian, Philippines)
+# text = Nagtawag ang babayi nakuq
+# gloss = SUBJ.FOCUS:DUR-call TOPIC woman 1SG.NONTOPIC
+# text_en = The woman was calling me
+1	Nagtawag	tawag	VERB	_	Aspect=Prog|Voice=Agf	0	root	_	Gloss=was-calling|MSeg=nag-tawag|MGloss=SUBJ.FOCUS:DUR-call
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=TOP
+3	babayi	babayi	NOUN	_	_	1	nsubj	_	Gloss=woman
+4	nakuq	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=me|MGloss=1SG.NONTOPIC
+
+# sent_id = 4.38b/ceb
+# Cebuano (Austronesian, Philippines)
+# text = Babayi ang nagtawag nakuq
+# gloss = woman TOPIC SUBJ.FOCUS:DUR-call 1SG.NONTOPIC
+# text_en = The one who was calling me was a woman
+1	Babayi	babayi	NOUN	_	_	0	root	_	Gloss=woman
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=TOP
+3	nagtawag	tawag	VERB	_	Aspect=Prog|Voice=Agf	1	csubj	_	Gloss=was-calling|MSeg=nag-tawag|MGloss=SUBJ.FOCUS:DUR-call
+4	nakuq	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=1SG.NONTOPIC
+
