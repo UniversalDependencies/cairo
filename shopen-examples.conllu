@@ -9763,7 +9763,7 @@
 1	Hisa	_	NOUN	_	_	0	root	_	Gloss=young-man|MGloss=young.man
 2	sa	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I|MGloss=1SG
 
-# sent_id = 4.40a/xsu
+# sent_id = 4.40b/xsu
 # Sanuma (Yanomaman, Venezuela, Brazil)
 # source = Borgman, 1990
 # text = Palata ti hösösö kuoma
@@ -9774,7 +9774,7 @@
 3	hösösö	_	NOUN	_	_	1	nsubj	_	Gloss=resin
 4	kuoma	_	AUX	_	Aspect=Perf	1	cop	_	Gloss=was|MSeg=ku-o-ma|MGloss=be-PUNCT-COMPLET
 
-# sent_id = 4.40a/xsu
+# sent_id = 4.40c/xsu
 # Sanuma (Yanomaman, Venezuela, Brazil)
 # source = Borgman, 1990
 # text = Kaikana te kuki kite
