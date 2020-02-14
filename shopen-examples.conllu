@@ -9785,3 +9785,53 @@
 3	kuki	_	AUX	_	Focus=Yes	1	cop	_	Gloss=be|MSeg=ku-ki|MGloss=be-FOCUS
 4	kite	_	AUX	_	Tense=Fut	1	aux	_	Gloss=will|MGloss=FUT
 
+# sent_id = 4.41a/evn
+# Evenki (Tungusic, Russia, China)
+# source = Nedjalkov, 1997
+# text = Bi alagumni bichev
+# gloss = 1SG teacher be-PAST-1SG
+# text_en = I was a teacher
+1	Bi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=1SG
+2	alagumni	_	NOUN	_	_	0	root	_	Gloss=teacher
+3	bichev	_	AUX	_	Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	cop	_	Gloss=was|MSeg=bi-che-v|MGloss=be-PAST-1SG
+
+# sent_id = 4.41b/evn
+# Evenki (Tungusic, Russia, China)
+# source = Nedjalkov, 1997
+# text = Minngi amim bejumimni (bisin)
+# gloss = my father-1SG.POSS hunter be-PRES-3SG
+# text_en = My father is a hunter
+1	Minngi	_	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	Gloss=my
+2	amim	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Gloss=father|MSeg=ami-m|MGloss=father-1SG.POSS
+3	bejumimni	_	NOUN	_	_	0	root	_	Gloss=hunter
+4	(bisin)	_	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Gloss=is|MSeg=bi-si-n|MGloss=be-PRES-3SG
+
+# sent_id = 4.42a/mig
+# Chalcatongo Mixtec (Mexico)
+# source = Macaulay, 1996
+# text = Ku ɨ̃ čàà kã́ʔnũ
+# gloss = be.POTENT.3 one man big
+# text_en = He will be a big man
+1	Ku	_	AUX	_	Mood=Pot|Person=3|VerbForm=Fin	3	cop	_	Gloss=will-be|MGloss=be.POTENT.3
+2	ɨ̃	_	NUM	_	NumType=Card	3	det	_	Gloss=one
+3	čàà	_	NOUN	_	_	0	root	_	Gloss=man
+4	kã́ʔnũ	_	ADJ	_	_	3	amod	_	Gloss=big
+
+# sent_id = 4.42b/mig
+# Chalcatongo Mixtec (Mexico)
+# source = Macaulay, 1996
+# text = Ku sṹkṹ
+# gloss = be.POTENT.3 tall
+# text_en = He will be tall [when he grows up]
+1	Ku	_	AUX	_	Mood=Pot|Person=3|VerbForm=Fin	2	cop	_	Gloss=will-be|MGloss=be.POTENT.3
+2	sṹkṹ	_	ADJ	_	_	0	root	_	Gloss=tall
+
+# sent_id = 4.42c/mig
+# Chalcatongo Mixtec (Mexico)
+# source = Macaulay, 1996
+# text = Čã́ʔã xalúlí
+# gloss = dirty NOMIN-small
+# text_en = The boy is dirty
+1	Čã́ʔã	_	ADJ	_	_	0	root	_	Gloss=dirty
+2	xalúlí	_	NOUN	_	_	1	nsubj	_	Gloss=boy|MSeg=xa-lúlí|MGloss=NOMIN-small
+
