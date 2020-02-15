@@ -9954,3 +9954,15 @@
 3	táa	táa	ADP	_	_	4	case	_	Gloss=in
 4	yìwìŋ	yìwìŋ	NOUN	_	_	0	root	_	Gloss=market
 
+# sent_id = 4.49/laj
+# Lango (Nilotic, Uganda)
+# source = Noonan, 1992
+# text = Án dáŋ àtíê ɪ̀ cùkúl
+# gloss = 1SG also 1SG-be.at:PRES.HABIT at school
+# text_en = I'm also at school
+1	Án	án	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=1SG
+2	dáŋ	dáŋ	ADV	_	_	3	advmod	_	Gloss=also
+3	àtíê	tíê	VERB	_	Aspect=Hab|Number=Sing|Person=1|Tense=Pres	0	root	_	Gloss=am|MSeg=à-tíê|MGloss=1SG-be.at:PRES.HABIT
+4	ɪ̀	ɪ̀	ADP	_	_	5	case	_	Gloss=at
+5	cùkúl	cùkúl	NOUN	_	_	3	obl	_	Gloss=school
+
