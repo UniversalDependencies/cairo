@@ -537,6 +537,7 @@
 3	nüaizi	nüaizi	NOUN	_	_	0	root	_	Gloss=girl
 
 # sent_id = 1.45a/mov
+# Mojave (Yuman, Arizona, California)
 # text = ʔi:pač homi:k
 # gloss = man tall
 # text_en = The man is tall
@@ -544,6 +545,7 @@
 2	homi:k	homi:	ADJ	_	Tense=Pres	0	root	_	Gloss=tall|MSeg=homi:-k|MGloss=tall-PRES
 
 # sent_id = 1.45b/mov
+# Mojave (Yuman, Arizona, California)
 # text = ʔi:pač homi:k iðu:m
 # gloss = man tall AUX
 # text_en = The man is tall
@@ -552,6 +554,7 @@
 3	iðu:m	iðu:m	AUX	_	_	2	aux	_	Gloss=AUX
 
 # sent_id = 1.46a/mov
+# Mojave (Yuman, Arizona, California)
 # text = ʔi:pač su:pawk
 # gloss = man know
 # text_en = The man knows
@@ -559,6 +562,7 @@
 2	su:pawk	su:paw	VERB	_	Tense=Pres	0	root	_	Gloss=know|MSeg=su:paw-k|MGloss=know-PRES
 
 # sent_id = 1.46b/mov
+# Mojave (Yuman, Arizona, California)
 # text = ʔi:pač su:pawk iðu:m
 # gloss = man know AUX
 # text_en = The man knows
@@ -567,6 +571,7 @@
 3	iðu:m	iðu:m	AUX	_	_	2	aux	_	Gloss=AUX
 
 # sent_id = 1.47/mov
+# Mojave (Yuman, Arizona, California)
 # text = ʔi:pa kʷsu:pawnʸč iva:k
 # gloss = man who.knows is.here
 # text_en = The man who knows is here
@@ -575,6 +580,7 @@
 3	iva:k	iva:	VERB	_	Tense=Pres	0	root	_	Gloss=is-here
 
 # sent_id = 1.48a/mov
+# Mojave (Yuman, Arizona, California)
 # text = ʔi:pa homi:nʸč iva:k
 # gloss = man tall is.here
 # text_en = The tall man is here
@@ -583,6 +589,7 @@
 3	iva:k	iva:	VERB	_	Tense=Pres	0	root	_	Gloss=is-here
 
 # sent_id = 1.48b/mov
+# Mojave (Yuman, Arizona, California)
 # text = ʔi:pa kʷhomi:nʸč iva:k
 # gloss = man who.is.tall is.here
 # text_en = The tall man is here
@@ -1841,20 +1848,22 @@
 4	ase	ase	ADP	_	_	2	compound:prt	_	Gloss=under
 
 # sent_id = 1.125a/gqa
+# Ga'anda (Afro-Asiatic, Chadic, Nigeria)
+# source = Paul Newman, 1971
 # text = Ə ʂənnda wanɓəɓa in
 # gloss = PERF they.send medicine along
 # text_en = They sent medicine along
-# source = Paul Newman, 1971
 1	Ə	ə	AUX	_	Aspect=Perf	2	aux	_	Gloss=PERFECT
 2	ʂənnda	_	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	Gloss=they-send
 3	wanɓəɓa	_	NOUN	_	_	2	obj	_	Gloss=medicine
 4	in	in	PART	_	_	2	compound:prt	_	Gloss=along
 
 # sent_id = 1.125b/gqa
+# Ga'anda (Afro-Asiatic, Chadic, Nigeria)
+# source = Paul Newman, 1971
 # text = Ni xiy pirsh kaɗə
 # gloss = I.FUT buy horse away
 # text_en = I will sell a horse
-# source = Paul Newman, 1971
 1	Ni	ni	AUX	_	Number=Sing|Person=1|Tense=Fut	2	aux	_	Gloss=I-will
 2	xiy	_	VERB	_	_	0	root	_	Gloss=buy
 3	pirsh	_	NOUN	_	_	2	obj	_	Gloss=horse
@@ -9834,4 +9843,79 @@
 # text_en = The boy is dirty
 1	Čã́ʔã	_	ADJ	_	_	0	root	_	Gloss=dirty
 2	xalúlí	_	NOUN	_	_	1	nsubj	_	Gloss=boy|MSeg=xa-lúlí|MGloss=NOMIN-small
+
+# sent_id = 4.43a/tyn
+# Kombai (Trans-New Guinea, Awyu, Irian Jaya)
+# source = De Vries, 1993
+# text = Mene afa
+# gloss = this house-COPULA
+# text_en = This is a house
+1	Mene	mene	DET	_	PronType=Dem	2	nsubj	_	Gloss=this
+2	afa	a	NOUN	_	Copula=Yes	0	root	_	Gloss=be-house|MSeg=af-a|MGloss=house-COPULA
+
+# sent_id = 4.43b/tyn
+# Kombai (Trans-New Guinea, Awyu, Irian Jaya)
+# source = De Vries, 1993
+# text = Mene a
+# gloss = this house
+# text_en = This is a house
+1	Mene	mene	DET	_	PronType=Dem	2	nsubj	_	Gloss=this
+2	a	a	NOUN	_	_	0	root	_	Gloss=house
+
+# sent_id = 4.44a/tyn
+# Kombai (Trans-New Guinea, Awyu, Irian Jaya)
+# source = De Vries, 1993
+# text = Mofene rubukheya
+# gloss = that bad-ADJ-COPULA
+# text_en = That is bad
+1	Mofene	mofene	DET	_	PronType=Dem	2	nsubj	_	Gloss=that
+2	rubukheya	rubukhe	ADJ	_	Copula=Yes	0	root	_	Gloss=be-bad|MSeg=rubu-khey-a|MGloss=bad-ADJ-COPULA
+
+# sent_id = 4.44b/tyn
+# Kombai (Trans-New Guinea, Awyu, Irian Jaya)
+# source = De Vries, 1993
+# text = Mofene rubukhe
+# gloss = that bad-ADJ
+# text_en = That is bad
+1	Mofene	mofene	DET	_	PronType=Dem	2	nsubj	_	Gloss=that
+2	rubukhe	rubukhe	ADJ	_	_	0	root	_	Gloss=bad|MSeg=rubu-khe|MGloss=bad-ADJ
+
+# sent_id = 4.45/tyn
+# Kombai (Trans-New Guinea, Awyu, Irian Jaya)
+# source = De Vries, 1993
+# text = A mene yaferabo
+# gloss = house this good-very
+# text_en = This house is very good
+1	A	a	NOUN	_	_	3	nsubj	_	Gloss=house
+2	mene	mene	DET	_	PronType=Dem	1	det	_	Gloss=this
+3	yaferabo	yafe	ADJ	_	Degree=Abs	0	root	_	Gloss=very-good|MSeg=yafe-rabo|MGloss=good-very
+
+# sent_id = 4.46/tyn
+# Kombai (Trans-New Guinea, Awyu, Irian Jaya)
+# source = De Vries, 1993
+# text = Mene nufa
+# gloss = this 1SG-COPULA
+# text_en = This is mine
+1	Mene	mene	DET	_	PronType=Dem	2	nsubj	_	Gloss=this
+2	nufa	nuf	PRON	_	Copula=Yes|Number=Sing|Person=1	0	root	_	Gloss=be-mine|MSeg=nuf-a|MGloss=1SG-COPULA
+
+# sent_id = 4.47a/khe
+# Korowai (Trans-New Guinea, Awyu, Papua)
+# source = Van Enk and De Vries, 1997
+# text = Nokhu khakhul khéntelofelundé
+# gloss = we yesterday angry-be-NEAR-1SG.REALIS
+# text_en = Yesterday we were angry
+# The gloss NEAR means a time near to the present, either past or future. I encode it as Tense=Rct where RCT is taken from Unimorph.
+1	Nokhu	nokhu	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=we
+2	khakhul	khakhul	ADV	_	_	3	advmod	_	Gloss=yesterday
+3	khéntelofelundé	khén	ADJ	_	Copula=Yes|Mood=Ind|Number=Sing|Person=1|Tense=Rct	0	root	_	Gloss=were-angry|MSeg=khén-telo-felu-ndé|MGloss=angry-be-NEAR-1SG.REALIS
+
+# sent_id = 4.47b/khe
+# Korowai (Trans-New Guinea, Awyu, Papua)
+# source = Van Enk and De Vries, 1997
+# text = Yu nggulunbenè
+# gloss = he teacher-Q
+# text_en = Is he a teacher?
+1	Yu	yu	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	nggulunbenè	nggulun	NOUN	_	Mood=Int	0	root	_	Gloss=teacher?|MSeg=nggulun-benè|MGloss=teacher-Q
 
