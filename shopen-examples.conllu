@@ -9966,3 +9966,36 @@
 4	ɪ̀	ɪ̀	ADP	_	_	5	case	_	Gloss=at
 5	cùkúl	cùkúl	NOUN	_	_	3	obl	_	Gloss=school
 
+# sent_id = 4.50a/kfz
+# Koromfe (Niger-Congo, Burkina Faso)
+# source = Rennison, 1997
+# text = Mə la a jɔ
+# gloss = 1SG be ART chief
+# text_en = I am the chief
+1	Mə	mə	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|MGloss=1SG
+2	la	la	AUX	_	_	4	cop	_	Gloss=be
+3	a	a	DET	_	PronType=Art	4	det	_	Gloss=the|MGloss=ART
+4	jɔ	jɔ	NOUN	_	_	0	root	_	Gloss=chief
+
+# sent_id = 4.50b/kfz
+# Koromfe (Niger-Congo, Burkina Faso)
+# source = Rennison, 1997
+# text = Də lugni a bĩnĩã la
+# gloss = 3SG cat.PL ART black.PL be
+# text_en = His cats are black
+1	Də	də	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod	_	Gloss=his|MGloss=3SG
+2	lugni	_	NOUN	_	Number=Plur	4	nsubj	_	Gloss=cats|MGloss=cat.PL
+3	a	a	DET	_	PronType=Art	4	det	_	Gloss=ART
+4	bĩnĩã	_	ADJ	_	Number=Plur	0	root	_	Gloss=black|MGloss=black.PL
+5	la	la	AUX	_	_	4	cop	_	Gloss=be
+
+# sent_id = 4.50c/kfz
+# Koromfe (Niger-Congo, Burkina Faso)
+# source = Rennison, 1997
+# text = Də wɛ̃ dããnɛ
+# gloss = 3SG be.at at.home
+# text_en = He is at home
+1	Də	də	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG
+2	wɛ̃	wɛ̃	VERB	_	_	0	root	_	Gloss=be-at|MGloss=be.at
+3	dããnɛ	dããnɛ	ADV	_	_	2	advmod	_	Gloss=at-home|MGloss=at.home
+
