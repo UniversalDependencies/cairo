@@ -10043,3 +10043,40 @@
 3	sa	sa	ADP	_	_	4	case	_	Gloss=in|MGloss=LOC
 4	Sibú	_	PROPN	_	_	0	root	_	Gloss=Cebu
 
+# sent_id = 4.53a/mhy
+# Ma'anyan (Austronesian, Kalimantan)
+# source = Gudai, 1988
+# text = Inehni naqan hang sungking
+# gloss = mother be.at at kitchen
+# text_en = His mother is in the kitchen
+1	Inehni	inehni	NOUN	_	_	2	nsubj	_	Gloss=mother
+2	naqan	naqan	VERB	_	_	0	root	_	Gloss=be|MGloss=be.at
+3	hang	hang	ADP	_	_	4	case	_	Gloss=at
+4	sungking	sungking	NOUN	_	_	2	obl	_	Gloss=kitchen
+
+# sent_id = 4.53b/mhy
+# Ma'anyan (Austronesian, Kalimantan)
+# source = Gudai, 1988
+# text = Naqan erang kaulun wawey mawiney hang tumpuk yeruq
+# gloss = be.at/exist one CLSFR woman beautiful at village the
+# text_en = There was a beautiful woman in the village
+1	Naqan	naqan	VERB	_	_	0	root	_	Gloss=be|MGloss=be.at/exist
+2	erang	erang	NUM	_	_	4	nummod	_	Gloss=one
+3	kaulun	kaulun	NOUN	_	_	2	clf	_	Gloss=CLSFR
+4	wawey	wawey	NOUN	_	_	1	nsubj	_	Gloss=woman
+5	mawiney	mawiney	ADJ	_	_	4	amod	_	Gloss=beautiful
+6	hang	hang	ADP	_	_	7	case	_	Gloss=at
+7	tumpuk	tumpuk	NOUN	_	_	1	obl	_	Gloss=village
+8	yeruq	yeruq	DET	_	PronType=Art	7	det	_	Gloss=the
+
+# sent_id = 4.53c/mhy
+# Ma'anyan (Austronesian, Kalimantan)
+# source = Gudai, 1988
+# text = Sadiq naqan tumpuk Eteqen
+# gloss = olden.time exist village Eteen
+# text_en = Once upon a time there was a village called Eteen
+1	Sadiq	sadiq	ADV	_	_	2	advmod	_	Gloss=olden-time|MGloss=olden.time
+2	naqan	naqan	VERB	_	_	0	root	_	Gloss=exist
+3	tumpuk	tumpuk	NOUN	_	_	2	nsubj	_	Gloss=village
+4	Eteqen	Eteqen	PROPN	_	_	3	nmod	_	Gloss=Eteen
+
