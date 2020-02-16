@@ -10128,3 +10128,40 @@
 6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	garden	garden	NOUN	_	Number=Sing	2	obl	_	_
 
+# sent_id = 4.57a/ml
+# Malayalam (Dravidian, Southern, India)
+# text = Kuṭṭi tooṭṭattil aaṇə
+# gloss = child garden-LOC be.PRES
+# text_en = The child is in the garden
+1	Kuṭṭi	_	NOUN	_	_	2	nsubj	_	Gloss=child
+2	tooṭṭattil	tooṭṭatt	NOUN	_	Case=Loc	0	root	_	Gloss=in-garden|MSeg=tooṭṭatt-il|MGloss=garden-LOC
+3	aaṇə	_	AUX	_	Tense=Pres	2	cop	_	Gloss=is|MGloss=be.PRES
+
+# sent_id = 4.57b/ml
+# Malayalam (Dravidian, Southern, India)
+# text = Meeʃa meel pustakam uṇṭə
+# gloss = table on book exist.PRES
+# text_en = There is a book on the table
+1	Meeʃa	_	NOUN	_	_	4	obl	_	Gloss=table
+2	meel	_	ADP	_	_	1	case	_	Gloss=on
+3	pustakam	_	NOUN	_	_	4	nsubj	_	Gloss=book
+4	uṇṭə	_	VERB	_	Tense=Pres	0	root	_	Gloss=exists|MGloss=exist.PRES
+
+# sent_id = 4.58/ml
+# Malayalam (Dravidian, Southern, India)
+# text = Avan ṭiiccar aaṇə
+# gloss = 3SG.MASC teacher be.PRES
+# text_en = He is a teacher
+1	Avan	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG.MASC
+2	ṭiiccar	_	NOUN	_	_	0	root	_	Gloss=teacher
+3	aaṇə	_	AUX	_	Tense=Pres	2	cop	_	Gloss=is|MGloss=be.PRES
+
+# sent_id = 4.59/ml
+# Malayalam (Dravidian, Southern, India)
+# text = Uṇṇi viiṭṭil uṇṭə
+# gloss = Unni house-LOC exist.PRES
+# text_en = Unni is at home
+1	Uṇṇi	Uṇṇi	PROPN	_	_	3	nsubj	_	Gloss=Unni
+2	viiṭṭil	viiṭṭ	NOUN	_	_	3	obl	_	Gloss=at-home|MSeg=viiṭṭ-il|MGloss=house-LOC
+3	uṇṭə	_	VERB	_	Tense=Pres	0	root	_	Gloss=exists|MGloss=exist.PRES
+
