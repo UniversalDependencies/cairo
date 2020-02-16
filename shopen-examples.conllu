@@ -9999,3 +9999,25 @@
 2	wɛ̃	wɛ̃	VERB	_	_	0	root	_	Gloss=be-at|MGloss=be.at
 3	dããnɛ	dããnɛ	ADV	_	_	2	advmod	_	Gloss=at-home|MGloss=at.home
 
+# sent_id = 4.51a/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = Wiḻa marapu ŋamayi ŋuraṉi
+# gloss = woman many.ABS sit-PRES camp-LOC
+# text_en = There are many women in the camp
+1	Wiḻa	_	NOUN	_	_	3	nsubj	_	Gloss=woman
+2	marapu	_	DET	_	Case=Abs	1	det	_	Gloss=many
+3	ŋamayi	_	VERB	_	Tense=Pres	0	root	_	Gloss=sit|MSeg=ŋama-yi|MGloss=sit-PRES
+4	ŋuraṉi	_	NOUN	_	Case=Loc	3	obl	_	Gloss=in-camp|MSeg=ŋura-ṉi|MGloss=camp-LOC
+
+# sent_id = 4.51b/dif
+# Diyari (Pama-Nyungan, Karnic, South Australia, Australia)
+# source = P. K. Austin, 1981a, 1981b
+# text = Ŋapa piṇa pantuṉi padayi
+# gloss = water big.ABS lake-LOC lie-PRES
+# text_en = There is a lot of water in the lake
+1	Ŋapa	_	NOUN	_	_	4	nsubj	_	Gloss=water
+2	piṇa	_	ADJ	_	Case=Abs	1	amod	_	Gloss=big
+3	pantuṉi	_	NOUN	_	Case=Loc	4	obl	_	Gloss=in-lake|MSeg=pantu-ṉi|MGloss=lake-LOC
+4	padayi	_	VERB	_	Tense=Pres	0	root	_	Gloss=lie|MSeg=pada-yi|MGloss=lie-PRES
+
