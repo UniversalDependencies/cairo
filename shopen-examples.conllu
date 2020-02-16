@@ -10080,3 +10080,51 @@
 3	tumpuk	tumpuk	NOUN	_	_	2	nsubj	_	Gloss=village
 4	Eteqen	Eteqen	PROPN	_	_	3	nmod	_	Gloss=Eteen
 
+# sent_id = 4.54a/en
+# text = The dog is in the garden
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	dog	dog	NOUN	_	Number=Sing	6	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	in	in	ADP	_	_	6	case	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	garden	garden	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 4.54b/en
+# text = A dog is in the garden
+1	A	a	DET	_	Definite=Ind|PronType=Art	2	det	_	_
+2	dog	dog	NOUN	_	Number=Sing	6	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	in	in	ADP	_	_	6	case	_	_
+5	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	garden	garden	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = 4.55/en
+# text = There is a dog in the garden
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
+2	is	be	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	dog	dog	NOUN	_	Number=Sing	2	nsubj	_	_
+5	in	in	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	garden	garden	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 4.55b/en
+# text = There are two dogs in the garden
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
+2	are	be	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	two	two	NUM	_	NumType=Card	4	nummod	_	_
+4	dogs	dog	NOUN	_	Number=Plur	2	nsubj	_	_
+5	in	in	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	garden	garden	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 4.56/en
+# text = There is the dog in the garden
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
+2	is	be	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	dog	dog	NOUN	_	Number=Sing	2	nsubj	_	_
+5	in	in	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	garden	garden	NOUN	_	Number=Sing	2	obl	_	_
+
