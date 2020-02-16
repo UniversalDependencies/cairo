@@ -10200,3 +10200,12 @@
 1	May	_	VERB	_	_	0	root	_	Gloss=exist
 2	bir	_	NOUN	_	_	1	nsubj	_	Gloss=beer
 
+# sent_id = 4.62/ksd
+# Tolai (Austronesian, New Britain, Papua New Guinea)
+# source = Mosel, 1984
+# text = A kilalanamulmulum
+# gloss = ART season-LINK-hunger
+# text_en = There was famine
+1	A	_	DET	_	PronType=Art	2	det	_	Gloss=ART
+2	kilalanamulmulum	_	NOUN	_	_	0	root	_	Gloss=famine|MSeg=kilala-na-mulmulum|MGloss=season-LINK-hunger
+
