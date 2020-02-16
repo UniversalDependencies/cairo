@@ -10021,3 +10021,25 @@
 3	pantuṉi	_	NOUN	_	Case=Loc	4	obl	_	Gloss=in-lake|MSeg=pantu-ṉi|MGloss=lake-LOC
 4	padayi	_	VERB	_	Tense=Pres	0	root	_	Gloss=lie|MSeg=pada-yi|MGloss=lie-PRES
 
+# sent_id = 4.52a/ceb
+# Cebuano (Austronesian, Philippines)
+# text = Túqa si Místir Abáya sa Amiriká
+# gloss = there:NOT.NEAR.HEARER:PRES TOP Mr Abaya LOC America
+# text_en = Mr Abaya is in America
+1	Túqa	_	PRON	_	PronType=Dem|Tense=Pres	6	cop	_	Gloss=there|MGloss=there:NOT.NEAR.HEARER:PRES
+2	si	si	DET	_	Case=Nom|PronType=Art	3	det	_	Gloss=TOP
+3	Místir	_	NOUN	_	_	6	nsubj	_	Gloss=Mr
+4	Abáya	_	PROPN	_	_	3	flat	_	Gloss=Abaya
+5	sa	sa	ADP	_	_	6	case	_	Gloss=in|MGloss=LOC
+6	Amiriká	_	PROPN	_	_	0	root	_	Gloss=America
+
+# sent_id = 4.52b/ceb
+# Cebuano (Austronesian, Philippines)
+# text = Ánhi siyá sa Sibú
+# gloss = here:NEAR.1PL.INCL:FUT 3SG.TOP LOC Cebu
+# text_en = He will be here in Cebu
+1	Ánhi	_	PRON	_	PronType=Dem|Tense=Fut	4	cop	_	Gloss=here|MGloss=here:NEAR.1PL.INCL:FUT
+2	siyá	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|MGloss=3SG.TOP
+3	sa	sa	ADP	_	_	4	case	_	Gloss=in|MGloss=LOC
+4	Sibú	_	PROPN	_	_	0	root	_	Gloss=Cebu
+
