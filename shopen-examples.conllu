@@ -10286,3 +10286,27 @@
 2	naqan	naqan	VERB	_	_	0	root	_	Gloss=be-at|MGloss=be.at
 3	buku	buku	NOUN	_	_	2	nsubj	_	Gloss=book
 
+# sent_id = 4.68a/imn
+# Imonda (Border, Papua New Guinea)
+# source = Seiler, 1985
+# text = Nena motorbike kai lifme
+# gloss = 2-GEN motorbike Q lie-PRES-Q
+# text_en = Do you have a motorbike?
+1	Nena	ne	PRON	_	Case=Gen|Person=2	2	nmod	_	Gloss=your|MSeg=ne-na|MGloss=2-GEN
+2	motorbike	motorbike	NOUN	_	_	4	nsubj	_	Gloss=motorbike
+3	kai	kai	ADV	_	PronType=Int	4	advmod	_	Gloss=whether|MGloss=Q
+4	lifme	li	VERB	_	Mood=Int|Tense=Pres	0	root	_	Gloss=exists?|MSeg=li-f-me|MGloss=lie-PRES-Q
+
+# sent_id = 4.68b/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = Niʔs pik̓aks san̓ ʔat łin ʔinsi ʔakawutłaʔis
+# gloss = ART earlier.times but HABIT must be-OBV-INDIC teepee-3.POSS
+# text_en = But in earlier times they must have had teepees
+1	Niʔs	_	DET	_	PronType=Art	2	det	_	Gloss=ART
+2	pik̓aks	_	NOUN	_	_	6	obl	_	Gloss=earlier-times|MGloss=earlier.times
+3	san̓	_	CCONJ	_	_	6	cc	_	Gloss=but
+4	ʔat	_	AUX	_	Aspect=Hab	6	aux	_	Gloss=HABIT
+5	łin	_	AUX	_	_	6	aux	_	Gloss=must
+6	ʔinsi	_	VERB	_	Mood=Ind	0	root	_	Gloss=be|MSeg=ʔin-s-i|MGloss=be-OBV-INDIC
+7	ʔakawutłaʔis	_	NOUN	_	Person[psor]=3	6	nsubj	_	Gloss=their-teepees|MSeg=ʔakawutła-ʔis|MGloss=teepee-3.POSS
+
