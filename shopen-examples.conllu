@@ -1652,18 +1652,20 @@
 2	tafiya	_	VERB	_	VerbForm=Part	0	root	_	Gloss=going
 
 # sent_id = 1.116a/kn
+# Kannada (Dravidian, India)
+# source = Upadhyaya and Krishnamurthy, 1972
 # text = Baritta iddiini
 # gloss = writing I.PROG
 # text_en = I am writing
-# source = Upadhyaya and Krishnamurthy, 1972
 1	Baritta	_	VERB	_	VerbForm=Part	0	root	_	Gloss=writing
 2	iddiini	_	AUX	_	Aspect=Prog|Number=Sing|Person=1	1	aux	_	Gloss=I-am
 
 # sent_id = 1.116b/kn
+# Kannada (Dravidian, India)
+# source = Upadhyaya and Krishnamurthy, 1972
 # text = Baritta irtiini
 # gloss = writing I.PROG.HABIT
 # text_en = I am writing
-# source = Upadhyaya and Krishnamurthy, 1972
 1	Baritta	_	VERB	_	VerbForm=Part	0	root	_	Gloss=writing
 2	irtiini	_	AUX	_	Aspect=Hab,Prog|Number=Sing|Person=1	1	aux	_	Gloss=I-am
 
@@ -10241,4 +10243,26 @@
 4	is	id	ADP	_	_	6	case	_	Gloss=LOC
 5	nan	_	DET	_	PronType=Art	6	det	_	Gloss=ART
 6	ongṓnga	_	NOUN	_	_	1	obl	_	Gloss=boy
+
+# sent_id = 4.65a/kn
+# Kannada (Dravidian, India)
+# source = Sridhar, 1990
+# text = Ka:ŋgaru:gaḷu a:stre:liya:dalli iruttave
+# gloss = kangaroo-NOM.PL Australia-LOC be.NONPAST.3PL.NEUT
+# text_en = Kangaroos live in Australia
+1	Ka:ŋgaru:gaḷu	ka:ŋgaru:	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	Gloss=kangaroos|MSeg=Ka:ŋgaru:-gaḷu|MGloss=kangaroo-NOM.PL
+2	a:stre:liya:dalli	a:stre:liya:	PROPN	_	Case=Loc|Number=Sing	0	root	_	Gloss=in-Australia|MSeg=a:stre:liya:-dalli|MGloss=Australia-LOC
+3	iruttave	_	AUX	_	Gender=Neut|Number=Plur|Person=3|Tense=Pres	2	cop	_	Gloss=are|MGloss=be.NONPAST.3PL.NEUT
+
+# sent_id = 4.65b/kn
+# Kannada (Dravidian, India)
+# source = Sridhar, 1990
+# text = Nanage mu:varu heṇṇu makkaḷu idda:re
+# gloss = 1SG-DAT three female children.NOM.PL be.NONPAST.3PL.HUMAN
+# text_en = I have three daughters
+1	Nanage	nana	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	0	root	_	Gloss=to-me|MSeg=Nana-ge|MGloss=1SG-DAT
+2	mu:varu	mu:varu	NUM	_	NumType=Card	4	nummod	_	Gloss=three
+3	heṇṇu	heṇṇu	ADJ	_	_	4	amod	_	Gloss=female
+4	makkaḷu	magu	NOUN	_	Case=Nom|Number=Plur	1	nsubj	_	Gloss=children|MGloss=children.NOM.PL
+5	idda:re	_	AUX	_	Animacy=Hum|Number=Plur|Person=3|Tense=Pres	1	cop	_	Gloss=are|MGloss=be.NONPAST.3PL.HUMAN
 
