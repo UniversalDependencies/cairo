@@ -10209,3 +10209,36 @@
 1	A	_	DET	_	PronType=Art	2	det	_	Gloss=ART
 2	kilalanamulmulum	_	NOUN	_	_	0	root	_	Gloss=famine|MSeg=kilala-na-mulmulum|MGloss=season-LINK-hunger
 
+# sent_id = 4.63/en
+# text = John has a new car
+1	John	John	PROPN	_	Number=Sing	2	nsubj	_	_
+2	has	have	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+4	new	new	ADJ	_	_	5	amod	_	_
+5	car	car	NOUN	_	Number=Sing	2	obj	_	_
+
+# sent_id = 4.64a/bnc
+# Igorot Bontoc (Austronesian, Luzon, Philippines)
+# source = Seidenadel, 1909
+# text = Wodā́ nan ṓnash id Falī́dfid
+# gloss = be.at ART sugar.plantation LOC Falidfid
+# text_en = There was a sugar cane plantation at Falidfid
+1	Wodā́	_	VERB	_	_	0	root	_	Gloss=was|MGloss=be.at
+2	nan	_	DET	_	PronType=Art	3	det	_	Gloss=ART
+3	ṓnash	_	NOUN	_	_	1	nsubj	_	Gloss=sugar-plantation|MGloss=sugar.plantation
+4	id	id	ADP	_	_	5	case	_	Gloss=LOC
+5	Falī́dfid	_	PROPN	_	_	1	obl	_	Gloss=Falidfid
+
+# sent_id = 4.64b/bnc
+# Igorot Bontoc (Austronesian, Luzon, Philippines)
+# source = Seidenadel, 1909
+# text = Wodā́y nan fā́kat is nan ongṓnga
+# gloss = be.at ART nail LOC ART boy
+# text_en = The boy has a nail
+1	Wodā́y	_	VERB	_	_	0	root	_	Gloss=is|MGloss=be.at
+2	nan	_	DET	_	PronType=Art	3	det	_	Gloss=ART
+3	fā́kat	_	NOUN	_	_	1	nsubj	_	Gloss=nail
+4	is	id	ADP	_	_	6	case	_	Gloss=LOC
+5	nan	_	DET	_	PronType=Art	6	det	_	Gloss=ART
+6	ongṓnga	_	NOUN	_	_	1	obl	_	Gloss=boy
+
