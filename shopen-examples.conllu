@@ -10266,3 +10266,23 @@
 4	makkaḷu	magu	NOUN	_	Case=Nom|Number=Plur	1	nsubj	_	Gloss=children|MGloss=children.NOM.PL
 5	idda:re	_	AUX	_	Animacy=Hum|Number=Plur|Person=3|Tense=Pres	1	cop	_	Gloss=are|MGloss=be.NONPAST.3PL.HUMAN
 
+# sent_id = 4.66/ceb
+# Cebuano (Austronesian, Philippines)
+# text = May bir si Lúling
+# gloss = exist beer TOPIC Loling
+# text_en = Loling has/had beer
+1	May	_	VERB	_	_	0	root	_	Gloss=exist
+2	bir	_	NOUN	_	_	1	obj	_	Gloss=beer
+3	si	si	DET	_	Case=Nom	4	det	_	Gloss=TOPIC
+4	Lúling	Lúling	PROPN	_	_	1	nsubj	_	Gloss=Loling
+
+# sent_id = 4.67/mhy
+# Ma'anyan (Austronesian, Kalimantan)
+# source = Gudai, 1988
+# text = Aku naqan buku
+# gloss = 1SG be.at book
+# text_en = I have a book
+1	Aku	aku	PRON	_	Number=Sing|Person=1|PronType=Prs	2	obj	_	Gloss=I|MGloss=1SG
+2	naqan	naqan	VERB	_	_	0	root	_	Gloss=be-at|MGloss=be.at
+3	buku	buku	NOUN	_	_	2	nsubj	_	Gloss=book
+
