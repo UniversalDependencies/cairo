@@ -10310,3 +10310,72 @@
 6	ʔinsi	_	VERB	_	Mood=Ind	0	root	_	Gloss=be|MSeg=ʔin-s-i|MGloss=be-OBV-INDIC
 7	ʔakawutłaʔis	_	NOUN	_	Person[psor]=3	6	nsubj	_	Gloss=their-teepees|MSeg=ʔakawutła-ʔis|MGloss=teepee-3.POSS
 
+# sent_id = 4.69a/qu
+# source = Weber, 1989
+# text = Mana papa karanchu
+# gloss = NEG potato be-PAST-3-NEG
+# text_en = There were no potatoes
+1	Mana	_	PART	_	Polarity=Neg	3	advmod	_	Gloss=not|MGloss=NEG
+2	papa	_	NOUN	_	_	3	nsubj	_	Gloss=potato
+3	karanchu	_	AUX	_	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	Gloss=was-not|MSeg=ka-ra-n-chu|MGloss=be-PAST-3-NEG
+
+# sent_id = 4.69b/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = Łuʔni kȼikam niȼtahał
+# gloss = not.exist-INDIC SUBORD=come young.man
+# text_en = None of the young men came
+# text_en_lit = The young men who came did not exist
+1	Łuʔni	_	VERB	_	Mood=Ind|Polarity=Neg	0	root	_	Gloss=not-exist|MSeg=Łuʔ-ni|MGloss=not.exist-INDIC
+2	kȼikam	_	VERB	_	Mood=Sub	3	acl	_	Gloss=who-come|MSeg=k=ȼikam|MGloss=SUBORD=come
+3	niȼtahał	_	NOUN	_	_	1	nsubj	_	Gloss=young-man|MGloss=young.man
+
+# sent_id = 4.69c/ml
+# Malayalam (Dravidian, Southern, India)
+# text = Iviṭe kooleej illa
+# gloss = here college not.exist
+# text_en = There is no college here
+1	Iviṭe	_	ADV	_	_	3	advmod	_	Gloss=here
+2	kooleej	_	NOUN	_	_	3	nsubj	_	Gloss=college
+3	illa	_	VERB	_	Polarity=Neg	0	root	_	Gloss=not-exist|MGloss=not.exist
+
+# sent_id = 4.70a/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = N̓asni titqat̓
+# gloss = INDIC=two-INDIC man
+# text_en = There were two men
+# text_en_lit = The men were two
+1	N̓asni	_	VERB	_	Mood=Ind	0	root	_	Gloss=be-two|MSeg=N̓=as-ni|MGloss=INDIC=two-INDIC
+2	titqat̓	_	NOUN	_	_	1	nsubj	_	Gloss=man
+
+# sent_id = 4.70b/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = Taxas yunaqaʔni suyapi
+# gloss = then many-INDIC white.person
+# text_en = Then there were a lot of white people
+# text_en_lit = Then the white people were many
+1	Taxas	_	ADV	_	_	2	advmod	_	Gloss=then
+2	yunaqaʔni	_	VERB	_	Mood=Ind	0	root	_	Gloss=be-many|MSeg=yunaqaʔ-ni|MGloss=many-INDIC
+3	suyapi	_	NOUN	_	_	2	nsubj	_	Gloss=white-person|MGloss=white.person
+
+# sent_id = 4.71a/csz
+# Hanis Coos (Coosan, Oregon)
+# source = Frachtenberg, 1922
+# text = Kat˓E´mîs hanʟ lE qaiʟā´was
+# gloss = five FUT the rollers
+# text_en = The rollers will be five (in number) / There will be five rollers
+1	Kat˓E´mîs	_	NUM	_	NumType=Card	0	root	_	Gloss=five
+2	hanʟ	_	AUX	_	Tense=Fut	1	aux	_	Gloss=will-be|MGloss=FUT
+3	lE	_	DET	_	Definite=Def|PronType=Art	4	det	_	Gloss=the
+4	qaiʟā´was	_	NOUN	_	_	1	nsubj	_	Gloss=rollers
+
+# sent_id = 4.71b/csz
+# Hanis Coos (Coosan, Oregon)
+# source = Frachtenberg, 1922
+# text = Yû´xwä û hī´me
+# gloss = two his children
+# text_en = He had two children
+# text_en_lit = His children were two
+1	Yû´xwä	_	NUM	_	NumType=Card	0	root	_	Gloss=two
+2	û	_	PRON	_	Poss=Yes	3	nmod	_	Gloss=his
+3	hī´me	_	NOUN	_	_	1	nsubj	_	Gloss=children
+
