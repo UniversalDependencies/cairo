@@ -10577,3 +10577,22 @@
 3	kȼ	_	AUX	_	Mood=Sub|Tense=Fut	4	aux	_	Gloss=that-would|MSeg=k=ȼ|MGloss=SUBORD=FUT
 4	hałnuxunaqnamnam	_	VERB	_	_	2	ccomp	_	Gloss=race|MSeg=hałnuxunaqnam-nam|MGloss=race-NONSPEC.SUBJ
 
+# sent_id = 4.85a/kew
+# Kewa (Engan, Papua New Guinea)
+# source = Franklin, 1971
+# text = Áá píraa
+# gloss = man.ABS sit-PAST.3SG
+# text_en = The man sat down
+1	Áá	_	NOUN	_	Case=Abs	2	nsubj	_	Gloss=man|MGloss=man.ABS
+2	píraa	_	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=sat|MSeg=píra-a|MGloss=sit-PAST.3SG
+
+# sent_id = 4.85b/kew
+# Kewa (Engan, Papua New Guinea)
+# source = Franklin, 1971
+# text = Áámé étaa náa
+# gloss = man-ERG food.ABS eat-PAST.3SG
+# text_en = The man ate the food
+1	Áámé	_	NOUN	_	Case=Erg	3	nsubj	_	Gloss=man|MSeg=Áá-mé|MGloss=man-ERG
+2	étaa	_	NOUN	_	Case=Abs	3	obj	_	Gloss=food|MGloss=food.ABS
+3	náa	_	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=ate|MSeg=ná-a|MGloss=eat-PAST.3SG
+
