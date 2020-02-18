@@ -10531,3 +10531,21 @@
 4	noŋguru	_	NOUN	_	_	0	root	_	Gloss=place
 5	suubante	_	ADJ	_	VerbForm=Part	4	amod	_	Gloss=select|MSeg=suub-ante|Mgloss=chose-PTCPL
 
+# sent_id = 4.81a/en
+# text = My dog ate the hamburger
+1	My	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	dog	dog	NOUN	_	Number=Sing	3	nsubj	_	_
+3	ate	eat	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	hamburger	hamburger	NOUN	_	Number=Sing	3	obj	_	_
+
+# sent_id = 4.81b/en
+# text = My dog is sleeping in the basement
+1	My	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	dog	dog	NOUN	_	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sleeping	sleep	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+5	in	in	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	basement	basement	NOUN	_	Number=Sing	4	obl	_	_
+
