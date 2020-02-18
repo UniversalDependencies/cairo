@@ -10399,3 +10399,34 @@
 2	yaniyaga	_	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Gloss=that|MGloss=that.IV.SG.NOM
 3	warnu	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Gloss=tobacco|MGloss=tobacco(IV).NOM
 
+# sent_id = 4.73a/kwi
+# Awa Pit (Barbacoan, Colombia, Ecuador)
+# source = Curnow, 1997
+# text = ap pimpul
+# gloss = 1SG.POSS leg
+# text_en = my leg
+1	ap	_	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	Gloss=my|MGloss=1SG.POSS
+2	pimpul	_	NOUN	_	_	0	root	_	Gloss=leg
+
+# sent_id = 4.73b/kwi
+# Awa Pit (Barbacoan, Colombia, Ecuador)
+# source = Curnow, 1997
+# text = An yalna ap kay
+# gloss = this house=TOPIC 1SG.POSS be.permanently-NONLOCUT
+# text_en = This house is mine
+1	An	_	DET	_	PronType=Dem	2	det	_	Gloss=this
+2	yalna	yal	NOUN	_	Topic=Yes	3	nsubj	_	Gloss=house|MSeg=yal=na|MGloss=house=TOPIC
+3	ap	_	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	Gloss=mine|MGloss=1SG.POSS
+4	kay	_	AUX	_	_	3	cop	_	Gloss=be|MSeg=ka-y|MGloss=be.permanently-NONLOCUT
+
+# sent_id = 4.74/mtg
+# Una / Goliath (Trans-New Guinea, West Papua, Indonesia)
+# source = Louwerse, 1988
+# text = A yina Karba yina
+# gloss = that food Karba food
+# text_en = That food is Karba's
+1	A	_	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	yina	_	NOUN	_	_	4	nsubj	_	Gloss=food
+3	Karba	_	PROPN	_	_	4	nmod	_	Gloss=Karba
+4	yina	_	NOUN	_	_	0	root	_	Gloss=food
+
