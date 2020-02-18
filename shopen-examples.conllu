@@ -10549,3 +10549,31 @@
 6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	basement	basement	NOUN	_	Number=Sing	4	obl	_	_
 
+# sent_id = 4.82/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = Hu qakiʔni k'umaȼ niʔ pałkiy
+# gloss = 1SG say-INDIC SUBORD=laugh the woman
+# text_en = I said that the woman laughed
+1	Hu	_	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=1SG
+2	qakiʔni	_	VERB	_	Mood=Ind	0	root	_	Gloss=say|MSeg=qakiʔ-ni|MGloss=say-INDIC
+3	k'umaȼ	_	VERB	_	Mood=Sub	2	ccomp	_	Gloss=that-laugh|MSeg=k'=umaȼ|MGloss=SUBORD=laugh
+4	niʔ	_	DET	_	PronType=Art	5	det	_	Gloss=the
+5	pałkiy	_	NOUN	_	_	3	nsubj	_	Gloss=woman
+
+# sent_id = 4.83/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = Nuwasnamni
+# gloss = INDIC=hungry-NONSPEC.SUBJ-INDIC
+# text_en = People were hungry
+1	Nuwasnamni	_	VERB	_	Mood=Ind	0	root	_	Gloss=one-hungry|MSeg=n=uwas-nam-ni|MGloss=INDIC=hungry-NONSPEC.SUBJ-INDIC
+
+# sent_id = 4.84/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = Taxas qakyamni kȼ hałnuxunaqnamnam
+# gloss = then say-NONSPEC.SUBJ-INDIC SUBORD=FUT race-NONSPEC.SUBJ
+# text_en = Then people said that people would have a race
+1	Taxas	_	ADV	_	_	2	advmod	_	Gloss=then
+2	qakyamni	_	VERB	_	Mood=Ind	0	root	_	Gloss=say|MSeg=qaky-am-ni|MGloss=say-NONSPEC.SUBJ-INDIC
+3	kȼ	_	AUX	_	Mood=Sub|Tense=Fut	4	aux	_	Gloss=that-would|MSeg=k=ȼ|MGloss=SUBORD=FUT
+4	hałnuxunaqnamnam	_	VERB	_	_	2	ccomp	_	Gloss=race|MSeg=hałnuxunaqnam-nam|MGloss=race-NONSPEC.SUBJ
+
