@@ -10472,3 +10472,62 @@
 2	yoowooloo	yoowooloo	NOUN	_	_	3	nsubj	_	Gloss=man
 3	moolooddjanhingi	moolooddja	PROPN	_	Case=Abl	0	root	_	Gloss=from-Mulurrja|MSeg=moolooddja-nhingi|MGloss=Mulurrja-ABL
 
+# sent_id = 4.77/mla
+# Tamambo (Austronesian, Vanuatu)
+# source = Jauncey, 1997
+# text = Sorae atea niani matai tanume arua
+# gloss = talk-NOMIN one this about devil two
+# text_en = This story is about two devils
+1	Sorae	_	NOUN	_	Case=Nom	5	nsubj	_	Gloss=story|MSeg=Sora-e|MGloss=talk-NOMIN
+2	atea	_	NUM	_	NumType=Card	1	nummod	_	Gloss=one
+3	niani	_	DET	_	PronType=Dem	1	det	_	Gloss=this
+4	matai	_	ADP	_	_	5	case	_	Gloss=about
+5	tanume	_	NOUN	_	_	0	root	_	Gloss=devil
+6	arua	_	NUM	_	NumType=Card	5	nummod	_	Gloss=two
+
+# sent_id = 4.78/fi
+# source = Sulkala and Karjalainen, 1992
+# text = Hän on minun kanssani
+# gloss = 3SG be.3SG 1SG.GEN with-1SG.POSS
+# text_en = She/he is with me
+1	Hän	hän	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he/she|MGloss=3SG
+2	on	_	AUX	_	Number=Sing|Person=3	4	cop	_	Gloss=is|MGloss=be.3SG
+3	minun	_	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod	_	Gloss=me|MGloss=1SG.GEN
+4	kanssani	kanssa	NOUN	_	Number[psor]=Sing|Person[psor]=1	0	root	_	Gloss=with|MSeg=kanssa-ni|MGloss=with-1SG.POSS
+
+# sent_id = 4.79/ses
+# Koyraboro Senni (Nilo-Saharan, Songhay, Mali)
+# source = Heath, 1999
+# text = A goonda zaŋka hiŋka
+# gloss = 3SG be.at-with child two
+# text_en = He has two children
+1	A	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG
+2	goonda	_	VERB	_	_	0	root	_	Gloss=is-with|MSeg=goo-nda|MGloss=be.at-with
+3	zaŋka	_	NOUN	_	_	2	obl	_	Gloss=child
+4	hiŋka	_	NUM	_	NumType=Card	3	nummod	_	Gloss=two
+
+# sent_id = 4.80a/ses
+# Koyraboro Senni (Nilo-Saharan, Songhay, Mali)
+# source = Heath, 1999
+# text = A goo no baa sõhoo da
+# gloss = 3SG be.at there even now EMPH
+# text_en = It is still there even now
+1	A	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=it|MGloss=3SG
+2	goo	_	VERB	_	_	0	root	_	Gloss=is|MGloss=be.at
+3	no	_	ADV	_	PronType=Dem	2	advmod	_	Gloss=there
+4	baa	_	ADV	_	_	5	advmod	_	Gloss=even
+5	sõhoo	_	ADV	_	PronType=Dem	2	advmod	_	Gloss=now
+6	da	_	PART	_	_	5	advmod	_	Gloss=EMPH
+
+# sent_id = 4.80b/ses
+# Koyraboro Senni (Nilo-Saharan, Songhay, Mali)
+# source = Heath, 1999
+# text = A ga ti noŋguru suubante
+# gloss = 3SG IMPERF be place chose-PTCPL
+# text_en = It was a select place
+1	A	_	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=it|MGloss=3SG
+2	ga	_	AUX	_	Aspect=Imp	4	aux	_	Gloss=IMPERF
+3	ti	_	AUX	_	_	4	cop	_	Gloss=be
+4	noŋguru	_	NOUN	_	_	0	root	_	Gloss=place
+5	suubante	_	ADJ	_	VerbForm=Part	4	amod	_	Gloss=select|MSeg=suub-ante|Mgloss=chose-PTCPL
+
