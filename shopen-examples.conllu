@@ -10430,3 +10430,15 @@
 3	Karba	_	PROPN	_	_	4	nmod	_	Gloss=Karba
 4	yina	_	NOUN	_	_	0	root	_	Gloss=food
 
+# sent_id = 4.75/bav
+# Babungo (Niger-Congo, Bantu, Cameroon)
+# source = Schaub, 1985
+# text = Ŋwà'lə̀ ŋwə̏ lùu t́ɨ Làmbí
+# gloss = letter this be to Lambi
+# text_en = This letter is for Lambi
+1	Ŋwà'lə̀	ŋwà'lə̀	NOUN	_	_	5	nsubj	_	Gloss=letter
+2	ŋwə̏	ŋwə̏	DET	_	PronType=Dem	1	det	_	Gloss=this
+3	lùu	lùu	AUX	_	_	5	cop	_	Gloss=be
+4	t́ɨ	t́ɨ	ADP	_	_	5	case	_	Gloss=to
+5	Làmbí	Làmbí	PROPN	_	_	0	root	_	Gloss=Lambi
+
