@@ -10379,3 +10379,23 @@
 2	û	_	PRON	_	Poss=Yes	3	nmod	_	Gloss=his
 3	hī´me	_	NOUN	_	_	1	nsubj	_	Gloss=children
 
+# sent_id = 4.72a/wmb
+# Wambaya (West Barkly, northern Australia)
+# source = Nordlinger, 1998
+# text = Yana ngarrga!
+# gloss = this.IV.SG.NOM 1SG.POSS.IV
+# text_en = This (money) is mine!
+1	Yana	_	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	Gloss=this|MGloss=this.IV.SG.NOM
+2	ngarrga	_	PRON	_	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	Gloss=mine|MGloss=1SG.POSS.IV|SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+# sent_id = 4.72b/wmb
+# Wambaya (West Barkly, northern Australia)
+# source = Nordlinger, 1998
+# text = Bungmanyankal yaniyaga warnu
+# gloss = old.woman-DAT.IV that.IV.SG.NOM tobacco(IV).NOM
+# text_en = That tobacco is the old woman's
+1	Bungmanyankal	_	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	0	root	_	Gloss=old-woman's|MSeg=Bungmanya-nkal|MGloss=old.woman-DAT.IV
+2	yaniyaga	_	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Gloss=that|MGloss=that.IV.SG.NOM
+3	warnu	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Gloss=tobacco|MGloss=tobacco(IV).NOM
+
