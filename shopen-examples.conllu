@@ -10442,3 +10442,33 @@
 4	t́ɨ	t́ɨ	ADP	_	_	5	case	_	Gloss=to
 5	Làmbí	Làmbí	PROPN	_	_	0	root	_	Gloss=Lambi
 
+# sent_id = 4.76a/gni
+# Gooniyandi (Bunuban, Western Australia)
+# source = McGregor, 1990
+# text = Thangarla moonyjooyoo ligiddwoo
+# gloss = toothbrush tooth-DAT clean-DAT
+# text_en = A toothbrush is for cleaning teeth
+1	Thangarla	thangarla	NOUN	_	_	3	nsubj	_	Gloss=toothbrush
+2	moonyjooyoo	moonyjoo	NOUN	_	Case=Dat	3	nmod	_	Gloss=tooth|MSeg=moonyjoo-yoo|MGloss=tooth-DAT
+3	ligiddwoo	ligidd	NOUN	_	Case=Dat	0	root	_	Gloss=cleaning|MSeg=ligidd-woo|MGloss=clean-DAT
+
+# sent_id = 4.76b/gni
+# Gooniyandi (Bunuban, Western Australia)
+# source = McGregor, 1990
+# text = Goornboo ngooddoo yoowooloojangi
+# gloss = woman that man-like
+# text_en = That woman is like a man
+1	Goornboo	goornboo	NOUN	_	_	3	nsubj	_	Gloss=woman
+2	ngooddoo	ngooddoo	DET	_	PronType=Dem	1	det	_	Gloss=that
+3	yoowooloojangi	yoowooloo	NOUN	_	_	0	root	_	Gloss=like-man|MSeg=yoowooloo-jangi|MGloss=man-like
+
+# sent_id = 4.76c/gni
+# Gooniyandi (Bunuban, Western Australia)
+# source = McGregor, 1990
+# text = Niyaji yoowooloo moolooddjanhingi
+# gloss = this man Mulurrja-ABL
+# text_en = This man is from Mulurrja
+1	Niyaji	niyaji	DET	_	PronType=Dem	2	det	_	Gloss=this
+2	yoowooloo	yoowooloo	NOUN	_	_	3	nsubj	_	Gloss=man
+3	moolooddjanhingi	moolooddja	PROPN	_	Case=Abl	0	root	_	Gloss=from-Mulurrja|MSeg=moolooddja-nhingi|MGloss=Mulurrja-ABL
+
