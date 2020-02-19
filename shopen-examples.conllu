@@ -10596,3 +10596,25 @@
 2	étaa	_	NOUN	_	Case=Abs	3	obj	_	Gloss=food|MGloss=food.ABS
 3	náa	_	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=ate|MSeg=ná-a|MGloss=eat-PAST.3SG
 
+# sent_id = 4.86a/rug
+# Roviana (Austronesian, Solomon Islands)
+# source = Corston, 1996
+# text = Taloa se Zima
+# gloss = leave ABS Zima
+# text_en = Zima left
+1	Taloa	_	VERB	_	_	0	root	_	Gloss=leave
+2	se	_	ADP	_	Case=Abs	3	case	_	Gloss=ABS
+3	Zima	_	PROPN	_	_	1	nsubj	_	Gloss=Zima
+
+# sent_id = 4.86b/rug
+# Roviana (Austronesian, Solomon Islands)
+# source = Corston, 1996
+# text = Sekeia e Zima se Maepeza
+# gloss = hit-TRANS-3SG.OBJ ERG Zima ABS Maepeza
+# text_en = Zima hit Maepeza
+1	Sekeia	_	VERB	_	Number=Sing|Person=3	0	root	_	Gloss=hit|MSeg=Seke-i-a|MGloss=hit-TRANS-3SG.OBJ
+2	e	_	ADP	_	Case=Erg	3	case	_	Gloss=ERG
+3	Zima	_	PROPN	_	_	1	nsubj	_	Gloss=Zima
+4	se	_	ADP	_	Case=Abs	5	case	_	Gloss=ABS
+5	Maepeza	_	PROPN	_	_	1	obj	_	Gloss=Maepeza
+
