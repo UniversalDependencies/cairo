@@ -10618,3 +10618,22 @@
 4	se	_	ADP	_	Case=Abs	5	case	_	Gloss=ABS
 5	Maepeza	_	PROPN	_	_	1	obj	_	Gloss=Maepeza
 
+# sent_id = 4.87a/nia
+# Nias (Austronesian, Sumatra)
+# source = Brown, 2001
+# text = Mörö nasu
+# gloss = sleep ABS-dog
+# text_en = The dog is sleeping
+1	Mörö	_	VERB	_	_	0	root	_	Gloss=sleep
+2	nasu	asu	NOUN	_	Case=Abs	1	nsubj	_	Gloss=dog|MSeg=n-asu|MGloss=ABS-dog
+
+# sent_id = 4.87b/nia
+# Nias (Austronesian, Sumatra)
+# source = Brown, 2001
+# text = I'inu nidanö asu
+# gloss = 3SG.ERG-drink ABS-water dog.ERG
+# text_en = The dog is drinking the water
+1	I'inu	_	VERB	_	Number=Sing|Person=3	0	root	_	Gloss=drink|MSeg=I-'inu|MGloss=3SG.ERG-drink
+2	nidanö	idanö	NOUN	_	Case=Abs	1	obj	_	Gloss=water|MSeg=n-idanö|MGloss=ABS-water
+3	asu	asu	NOUN	_	Case=Erg	1	nsubj	_	Gloss=dog|MGloss=dog.ERG
+
