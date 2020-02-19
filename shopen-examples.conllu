@@ -10583,8 +10583,8 @@
 # text = Áá píraa
 # gloss = man.ABS sit-PAST.3SG
 # text_en = The man sat down
-1	Áá	_	NOUN	_	Case=Abs	2	nsubj	_	Gloss=man|MGloss=man.ABS
-2	píraa	_	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=sat|MSeg=píra-a|MGloss=sit-PAST.3SG
+1	Áá	áá	NOUN	_	Case=Abs	2	nsubj	_	Gloss=man|MGloss=man.ABS
+2	píraa	píra	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=sat|MSeg=píra-a|MGloss=sit-PAST.3SG
 
 # sent_id = 4.85b/kew
 # Kewa (Engan, Papua New Guinea)
@@ -10592,9 +10592,9 @@
 # text = Áámé étaa náa
 # gloss = man-ERG food.ABS eat-PAST.3SG
 # text_en = The man ate the food
-1	Áámé	_	NOUN	_	Case=Erg	3	nsubj	_	Gloss=man|MSeg=Áá-mé|MGloss=man-ERG
-2	étaa	_	NOUN	_	Case=Abs	3	obj	_	Gloss=food|MGloss=food.ABS
-3	náa	_	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=ate|MSeg=ná-a|MGloss=eat-PAST.3SG
+1	Áámé	áá	NOUN	_	Case=Erg	3	nsubj	_	Gloss=man|MSeg=Áá-mé|MGloss=man-ERG
+2	étaa	étaa	NOUN	_	Case=Abs	3	obj	_	Gloss=food|MGloss=food.ABS
+3	náa	ná	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=ate|MSeg=ná-a|MGloss=eat-PAST.3SG
 
 # sent_id = 4.86a/rug
 # Roviana (Austronesian, Solomon Islands)
@@ -10649,4 +10649,57 @@
 1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	dog	dog	NOUN	_	Number=Sing	3	nsubj	_	_
 3	barked	bark	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# sent_id = 4.90a/kew
+# Kewa (Engan, Papua New Guinea)
+# source = Franklin, 1971
+# text = Ní pírawa
+# gloss = 1SG.ABS sit-1SG.PAST
+# text_en = I sat down
+1	Ní	ní	PRON	_	Case=Abs|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=1SG.ABS
+2	pírawa	píra	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	Gloss=sat|MSeg=píra-wa|MGloss=sit-1SG.PAST
+
+# sent_id = 4.90b/kew
+# Kewa (Engan, Papua New Guinea)
+# source = Franklin, 1971
+# text = Némé irikai táwa
+# gloss = 1SG-ERG dog.ABS hit-1SG.PAST
+# text_en = I hit the dog
+1	Némé	ní	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MSeg=Né-mé|MGloss=1SG-ERG
+2	irikai	irikai	NOUN	_	Case=Abs	3	obj	_	Gloss=dog|MGloss=dog.ABS
+3	táwa	tá	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	Gloss=hit|MSeg=tá-wa|MGloss=hit-1SG.PAST
+
+# sent_id = 4.91a/en
+# text = Nancy gave Jeff some flowers
+1	Nancy	Nancy	PROPN	_	Number=Sing	2	nsubj	_	_
+2	gave	give	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Jeff	Jeff	PROPN	_	Number=Sing	2	iobj	_	_
+4	some	some	DET	_	PronType=Ind	5	det	_	_
+5	flowers	flower	NOUN	_	Number=Plur	2	obj	_	_
+
+# sent_id = 4.91b/en
+# text = Bob told Sally a story
+1	Bob	Bob	PROPN	_	Number=Sing	2	nsubj	_	_
+2	told	tell	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Sally	Sally	PROPN	_	Number=Sing	2	iobj	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	story	story	NOUN	_	Number=Sing	2	obj	_	_
+
+# sent_id = 4.92a/en
+# text = Nancy gave some flowers to Jeff
+1	Nancy	Nancy	PROPN	_	Number=Sing	2	nsubj	_	_
+2	gave	give	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	some	some	DET	_	PronType=Ind	4	det	_	_
+4	flowers	flower	NOUN	_	Number=Plur	2	obj	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Jeff	Jeff	PROPN	_	Number=Sing	2	obl	_	_
+
+# sent_id = 4.92b/en
+# text = Bob told a story to Sally
+1	Bob	Bob	PROPN	_	Number=Sing	2	nsubj	_	_
+2	told	tell	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	story	story	NOUN	_	Number=Sing	2	obj	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Sally	Sally	PROPN	_	Number=Sing	2	obl	_	_
 
