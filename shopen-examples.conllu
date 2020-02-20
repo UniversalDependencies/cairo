@@ -10804,3 +10804,25 @@
 4	ni	ni	ADP	_	_	5	case	_	Gloss=PREP
 5	owo	owo	NOUN	_	_	2	obl	_	Gloss=money
 
+# sent_id = 4.99a/mrg
+# Mising (Sino-Tibetan, Assam, India)
+# source = Prasad, 1991
+# text = Bï kediëm dɔ́pɔduŋ
+# gloss = 3SG mango-ACC eat-PRES
+# text_en = He eats mango
+1	Bï	_	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|MGloss=3SG
+2	kediëm	_	NOUN	_	Case=Acc	3	obj	_	Gloss=mango|MSeg=kedi-ëm|MGloss=mango-ACC
+3	dɔ́pɔduŋ	_	VERB	_	Tense=Pres	0	root	_	Gloss=eat|MSeg=dɔ́pɔ-duŋ|MGloss=eat-PRES
+
+# sent_id = 4.99b/mrg
+# Mising (Sino-Tibetan, Assam, India)
+# source = Prasad, 1991
+# text = Nɔkke awëdë bulum kitabdëm biduŋ
+# gloss = 2SG-GEN son-ART 3PL-ACC book-ART-ACC give-PRES
+# text_en = Your son is giving them a book
+1	Nɔkke	_	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Gloss=your|MSeg=Nɔ-kke|MGloss=2SG-GEN
+2	awëdë	_	NOUN	_	_	5	nsubj	_	Gloss=son|MSeg=awë-dë|MGloss=son-ART
+3	bulum	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	Gloss=them|MSeg=bulu-m|MGloss=3PL-ACC
+4	kitabdëm	_	NOUN	_	Case=Acc	5	obj	_	Gloss=book|MSeg=kitab-dë-m|MGloss=book-ART-ACC
+5	biduŋ	_	VERB	_	Tense=Pres	0	root	_	Gloss=give|MSeg=bi-duŋ|MGloss=give-PRES
+
