@@ -10860,3 +10860,33 @@
 4	eskatu	_	VERB	_	Aspect=Perf	0	root	_	Gloss=ask|MSeg=eska-tu|MGloss=ask-PERF
 5	diot	_	AUX	_	Person[abs]=3|Person[dat]=3|Person[erg]=1	4	aux	_	Gloss=have|MSeg=d-0-io-t|MGloss=3-AUX-3SG-1SG
 
+# sent_id = 4.103a/iu
+# Québec Inuktitut (Eskimo-Aleut, Canada)
+# source = Dorais, 1978
+# text = Jaani tikilirtuq
+# gloss = Jaani-ABS arrive-PART.3SG
+# text_en = Jaani arrives
+1	Jaani	_	PROPN	_	Case=Abs	2	nsubj	_	Gloss=Jaani|MSeg=Jaani-0|MGloss=Jaani-ABS
+2	tikilirtuq	_	VERB	_	Number=Sing|Person=3|VerbForm=Part	0	root	_	Gloss=arrives|MSeg=tikilir-tuq|MGloss=arrive-PART.3SG
+
+# sent_id = 4.103b/iu
+# Québec Inuktitut (Eskimo-Aleut, Canada)
+# source = Dorais, 1978
+# text = Jaaniup illu takuvaa
+# gloss = Jaani-ERG house-ABS see-INDIC.3SG.3SG
+# text_en = Jaani saw the house
+1	Jaaniup	_	PROPN	_	Case=Erg	3	nsubj	_	Gloss=Jaani|MSeg=Jaani-up|MGloss=Jaani-ERG
+2	illu	_	NOUN	_	Case=Abs	3	obj	_	Gloss=house|MSeg=illu-0|MGloss=house-ABS
+3	takuvaa	_	VERB	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin	0	root	_	Gloss=saw|MSeg=taku-vaa|MGloss=see-INDIC.3SG.3SG
+
+# sent_id = 4.103c/iu
+# Québec Inuktitut (Eskimo-Aleut, Canada)
+# source = Dorais, 1978
+# text = Angutiup Jaani aitupaa illumik
+# gloss = man-ERG Jaani-ABS give-INDIC.3SG.3SG house-SECONDARY
+# text_en = A man gave Jaani a house
+1	Angutiup	_	NOUN	_	Case=Erg	3	nsubj	_	Gloss=man|MSeg=Anguti-up|MGloss=man-ERG
+2	Jaani	_	PROPN	_	Case=Abs	3	obj	_	Gloss=Jaani|MSeg=Jaani-0|MGloss=Jaani-ABS
+3	aitupaa	_	VERB	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin	0	root	_	Gloss=give|MSeg=aitu-paa|MGloss=give-INDIC.3SG.3SG
+4	illumik	_	NOUN	_	Case=Acc	3	iobj	_	Gloss=house|MSeg=illu-mik|MGloss=house-SECONDARY
+
