@@ -10750,3 +10750,57 @@
 3	puero	puer	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	Gloss=to-boy|MSeg=puer-o|MGloss=boy-DAT
 4	dēdit	dedico	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave|MGloss=give.PERF.3SG
 
+# sent_id = 4.96a/kun
+# Kunama (Nilo-Saharan, Eritrea, Ethiopia)
+# source = E. D. Thompson, 1983
+# text = Ka itasi intike
+# gloss = man house-OBJ saw
+# text_en = A man saw a house
+1	Ka	_	NOUN	_	Case=Nom	3	nsubj	_	Gloss=man
+2	itasi	_	NOUN	_	Case=Acc	3	obj	_	Gloss=house|MSeg=ita-si|MGloss=house-OBJ
+3	intike	_	VERB	_	_	0	root	_	Gloss=saw
+
+# sent_id = 4.96b/kun
+# Kunama (Nilo-Saharan, Eritrea, Ethiopia)
+# source = E. D. Thompson, 1983
+# text = Darkoam ikkasi bia išoke
+# gloss = woman-that-SUBJ son-OBJ water gave
+# text_en = The woman gave water to her son
+1	Darkoam	_	NOUN	_	Case=Nom|Definite=Def	4	nsubj	_	Gloss=the-woman|MSeg=dark-oa-m|MGloss=woman-that-SUBJ
+2	ikkasi	_	NOUN	_	Case=Acc	4	obj	_	Gloss=son|MSeg=ikka-si|MGloss=son-OBJ
+3	bia	_	NOUN	_	Case=Nom	4	iobj	_	Gloss=water
+4	išoke	_	VERB	_	_	0	root	_	Gloss=gave
+
+# sent_id = 4.97a/yo
+# Yoruba (Niger-Congo, Nigeria)
+# text = Mo ri baba e l'ana
+# gloss = I saw father your yestereday
+# text_en = I saw your father yesterday
+1	Mo	mo	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I
+2	ri	ri	VERB	_	_	0	root	_	Gloss=saw
+3	baba	baba	NOUN	_	_	2	obj	_	Gloss=father
+4	e	e	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nmod	_	Gloss=your
+5	l'ana	l'ana	ADV	_	_	2	advmod	_	Gloss=yesterday
+
+# sent_id = 4.97b/yo
+# Yoruba (Niger-Congo, Nigeria)
+# text = Ajaki ko Ayo ni Yoruba
+# gloss = Ajaki taught Ayo PREP Yoruba
+# text_en = Ajaki taught Ayo Yoruba
+1	Ajaki	Ajaki	PROPN	_	_	2	nsubj	_	Gloss=Ajaki
+2	ko	ko	VERB	_	_	0	root	_	Gloss=taught
+3	Ayo	Ayo	PROPN	_	_	2	obj	_	Gloss=Ayo
+4	ni	ni	ADP	_	_	5	case	_	Gloss=PREP
+5	Yoruba	Yoruba	PROPN	_	_	2	obl	_	Gloss=Yoruba
+
+# sent_id = 4.97c/yo
+# Yoruba (Niger-Congo, Nigeria)
+# text = Mo ya a ni owo
+# gloss = I lend him PREP money
+# text_en = I lent him some money
+1	Mo	mo	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I
+2	ya	ya	VERB	_	_	0	root	_	Gloss=lend
+3	a	a	PRON	_	Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=him
+4	ni	ni	ADP	_	_	5	case	_	Gloss=PREP
+5	owo	owo	NOUN	_	_	2	obl	_	Gloss=money
+
