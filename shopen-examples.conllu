@@ -10826,3 +10826,37 @@
 4	kitabdëm	_	NOUN	_	Case=Acc	5	obj	_	Gloss=book|MSeg=kitab-dë-m|MGloss=book-ART-ACC
 5	biduŋ	_	VERB	_	Tense=Pres	0	root	_	Gloss=give|MSeg=bi-duŋ|MGloss=give-PRES
 
+# sent_id = 4.102a/eu
+# Basque (Isolate, Spain, France)
+# source = Saltarelli, 1988
+# text = Katua etzanda dago
+# gloss = cat-ABS lie.down-PERF-ADV 3-PRES-be
+# text_en = The cat is lying down
+1	Katua	katua	NOUN	_	Case=Abs	2	nsubj	_	Gloss=cat|MSeg=katu-a|MGloss=cat-ABS
+2	etzanda	_	VERB	_	Aspect=Perf	0	root	_	Gloss=lie-down|MSeg=etza-n-da|MGloss=lie.down-PERF-ADV
+3	dago	_	AUX	_	Person[abs]=3|Tense=Pres	2	aux	_	Gloss=is|MSeg=d-a-go|MGloss=3-PRES-be
+
+# sent_id = 4.102b/eu
+# Basque (Isolate, Spain, France)
+# source = Saltarelli, 1988
+# text = Amak gona gorria erosi du
+# gloss = mother-ERG skirt red-ABS buy-PERF 3-AUX.PRES-3SG
+# text_en = Mother has bought a red skirt
+1	Amak	ama	NOUN	_	Case=Erg	4	nsubj	_	Gloss=mother|MSeg=Ama-k|MGloss=mother-ERG
+2	gona	gona	NOUN	_	Case=Abs	4	obj	_	Gloss=skirt
+3	gorria	gorri	ADJ	_	Case=Abs	2	amod	_	Gloss=red|MSeg=gorri-a|MGloss=red-ABS
+4	erosi	_	VERB	_	Aspect=Perf	0	root	_	Gloss=buy|MSeg=eros-i|MGloss=buy-PERF
+5	du	_	AUX	_	Person[abs]=3|Person[erg]=3|Tense=Pres	4	aux	_	Gloss=is|MSeg=d-u-0|MGloss=3-AUX.PRES-3SG
+
+# sent_id = 4.102c/eu
+# Basque (Isolate, Spain, France)
+# source = Saltarelli, 1988
+# text = Nik aitari dirua eskatu diot
+# gloss = 1SG-ERG father-DAT money-ABS ask-PERF 3-AUX-3SG-1SG
+# text_en = I have asked father for money
+1	Nik	ni	PRON	_	Case=Erg|Number=Sing|Person=1	4	nsubj	_	Gloss=I|MSeg=Ni-k|MGloss=1SG-ERG
+2	aitari	aita	NOUN	_	Case=Dat	4	iobj	_	Gloss=father|MSeg=aita-ri|MGloss=father-DAT
+3	dirua	diru	NOUN	_	Case=Abs	4	obj	_	Gloss=money|MSeg=diru-a|MGloss=money-ABS
+4	eskatu	_	VERB	_	Aspect=Perf	0	root	_	Gloss=ask|MSeg=eska-tu|MGloss=ask-PERF
+5	diot	_	AUX	_	Person[abs]=3|Person[dat]=3|Person[erg]=1	4	aux	_	Gloss=have|MSeg=d-0-io-t|MGloss=3-AUX-3SG-1SG
+
