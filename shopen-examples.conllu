@@ -10703,3 +10703,26 @@
 5	to	to	ADP	_	_	6	case	_	_
 6	Sally	Sally	PROPN	_	Number=Sing	2	obl	_	_
 
+# sent_id = 4.93/ig
+# Igbo (Niger-Congo, Nigeria)
+# source = Green and Igwe, 1963
+# text = O nyèrè Àdha àkhwa
+# gloss = 3SG gave Adha egg
+# text_en = He gave Adha some eggs
+1	O	o	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG
+2	nyèrè	_	VERB	_	_	0	root	_	Gloss=gave
+3	Àdha	Àdha	PROPN	_	_	2	iobj	_	Gloss=Adha
+4	àkhwa	àkhwa	NOUN	_	_	2	obj	_	Gloss=egg
+
+# sent_id = 4.94/mhy
+# Ma'anyan (Austronesian, Kalimantan)
+# source = Gudai, 1988
+# text = Aku ngamiq duwit ma ambahku
+# gloss = 1SG TRANS-give money to father-1SG
+# text_en = I give some money to my father
+1	Aku	aku	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=1SG
+2	ngamiq	amiq	VERB	_	_	0	root	_	Gloss=give|MSeg=ng-amiq|MGloss=TRANS-give
+3	duwit	duwit	NOUN	_	_	2	obj	_	Gloss=money
+4	ma	ma	ADP	_	_	5	case	_	Gloss=to
+5	ambahku	ambah	NOUN	_	Number[psor]=Sing|Person[psor]=1	2	obl	_	Gloss=my-father|MSeg=ambah-ku|MGloss=father-1SG
+
