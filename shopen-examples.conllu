@@ -10890,3 +10890,37 @@
 3	aitupaa	_	VERB	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin	0	root	_	Gloss=give|MSeg=aitu-paa|MGloss=give-INDIC.3SG.3SG
 4	illumik	_	NOUN	_	Case=Acc	3	iobj	_	Gloss=house|MSeg=illu-mik|MGloss=house-SECONDARY
 
+# sent_id = 4.104a/wyb
+# Ngiyambaa (Pama-Nyungan, New South Wales, Australia)
+# source = Donaldson, 1980
+# text = Dhibi baranha balimaga
+# gloss = bird.ABS fly-PRES sky-LOC
+# text_en = Birds are flying in the sky
+1	Dhibi	_	NOUN	_	Case=Abs	2	nsubj	_	Gloss=bird|MGloss=bird.ABS
+2	baranha	_	VERB	_	Tense=Pres	0	root	_	Gloss=fly|MSeg=bara-nha|MGloss=fly-PRES
+3	balimaga	_	NOUN	_	Case=Loc	2	obl	_	Gloss=in-sky|MSeg=balima-ga|MGloss=sky-LOC
+
+# sent_id = 4.104b/wyb
+# Ngiyambaa (Pama-Nyungan, New South Wales, Australia)
+# source = Donaldson, 1980
+# text = Miriguna bura:y gadhiyi
+# gloss = dog-ERG=3.ABS child.ABS bite-PAST
+# text_en = The dog bit the child
+1-2	Miriguna	_	_	_	_	_	_	_	_
+1	Mirigu	_	NOUN	_	Case=Erg	4	nsubj	_	Gloss=dog|MSeg=Miri-gu|MGloss=dog-ERG
+2	na	_	PRON	_	Case=Abs|Person=3	4	expl	_	Gloss=3.ABS
+3	bura:y	_	NOUN	_	Case=Abs	4	obj	_	Gloss=child|MGloss=child.ABS
+4	gadhiyi	_	VERB	_	Tense=Past	0	root	_	Gloss=bit|MSeg=gadhiy-i|MGloss=bite-PAST
+
+# sent_id = 4.104c/wyb
+# Ngiyambaa (Pama-Nyungan, New South Wales, Australia)
+# source = Donaldson, 1980
+# text = Guyandu bura:y ŋunhi
+# gloss = fish.ABS=2.NOM child.ABS give-PAST
+# text_en = You gave a child a fish
+1-2	Guyandu	_	_	_	_	_	_	_	_
+1	Guya	_	NOUN	_	Case=Abs	4	obj	_	Gloss=fish|MGloss=fish.ABS
+2	ndu	_	PRON	_	Case=Nom|Person=2	4	nsubj	_	Gloss=you|MGloss=2.NOM
+3	bura:y	_	NOUN	_	Case=Abs	4	obj	_	Gloss=child|MGloss=child.ABS
+4	ŋunhi	_	VERB	_	Tense=Past	0	root	_	Gloss=gave|MSeg=ŋu-nhi|MGloss=give-PAST
+
