@@ -10726,3 +10726,27 @@
 4	ma	ma	ADP	_	_	5	case	_	Gloss=to
 5	ambahku	ambah	NOUN	_	Number[psor]=Sing|Person[psor]=1	2	obl	_	Gloss=my-father|MSeg=ambah-ku|MGloss=father-1SG
 
+# sent_id = 4.95a/la
+# text = Puella vocat
+# gloss = girl-NOM call.PRES.3SG
+# text_en = The girl is calling
+1	Puella	puella	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Gloss=girl|MSeg=puell-a|MGloss=girl-NOM
+2	vocat	uoco	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=calls|MGloss=call.PRES.3SG
+
+# sent_id = 4.95b/la
+# text = Puella puerum vīdit
+# gloss = girl-NOM boy-ACC see.PERF.3SG
+# text_en = The girl saw the boy
+1	Puella	puella	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Gloss=girl|MSeg=puell-a|MGloss=girl-NOM
+2	puerum	puer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=boy|MSeg=puer-um|MGloss=boy-ACC
+3	vīdit	uidimo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=saw|MGloss=see.PERF.3SG
+
+# sent_id = 4.95c/la
+# text = Puella librum puero dēdit
+# gloss = girl-NOM book-ACC boy-DAT give.PERF.3SG
+# text_en = The girl gave the book to the boy
+1	Puella	puella	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Gloss=girl|MSeg=puell-a|MGloss=girl-NOM
+2	librum	liber	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Gloss=book|MSeg=libr-um|MGloss=book-ACC
+3	puero	puer	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	Gloss=to-boy|MSeg=puer-o|MGloss=boy-DAT
+4	dēdit	dedico	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave|MGloss=give.PERF.3SG
+
