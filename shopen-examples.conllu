@@ -10924,3 +10924,69 @@
 3	bura:y	_	NOUN	_	Case=Abs	4	obj	_	Gloss=child|MGloss=child.ABS
 4	ŋunhi	_	VERB	_	Tense=Past	0	root	_	Gloss=gave|MSeg=ŋu-nhi|MGloss=give-PAST
 
+# sent_id = 4.105a/mnb
+# Muna (Austronesian, Sulawesi, Indonesia)
+# source = R. Van Den Berg, 1989
+# text = Nokala
+# gloss = 3SG.REALIS-go
+# text_en = He goes
+1	Nokala	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=he-goes|MSeg=No-kala|MGloss=3SG.REALIS-go
+
+# sent_id = 4.105b/mnb
+# Muna (Austronesian, Sulawesi, Indonesia)
+# source = R. Van Den Berg, 1989
+# text = Noghae
+# gloss = 3SG.REALIS-cry
+# text_en = He cries
+1	Noghae	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=he-cries|MSeg=No-ghae|MGloss=3SG.REALIS-cry
+
+# sent_id = 4.106a/mnb
+# Muna (Austronesian, Sulawesi, Indonesia)
+# source = R. Van Den Berg, 1989
+# text = Noghosa
+# gloss = 3SG.REALIS-strong
+# text_en = He is strong
+1	Noghosa	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=he-is-strong|MSeg=No-ghosa|MGloss=3SG.REALIS-strong
+
+# sent_id = 4.106b/mnb
+# Muna (Austronesian, Sulawesi, Indonesia)
+# source = R. Van Den Berg, 1989
+# text = Nokesa
+# gloss = 3SG.REALIS-beautiful
+# text_en = It is beautiful
+1	Nokesa	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=it-is-beautiful|MSeg=No-kesa|MGloss=3SG.REALIS-beautiful
+
+# sent_id = 4.107/mnb
+# Muna (Austronesian, Sulawesi, Indonesia)
+# source = R. Van Den Berg, 1989
+# text = anahi moghaeno
+# gloss = child PTCPL-cry-PTCPL
+# text_en = a child that cries
+1	anahi	_	NOUN	_	_	0	root	_	Gloss=child
+2	moghaeno	_	VERB	_	VerbForm=Part	1	acl	_	Gloss=crying|MSeg=mo-ghae-no|MGloss=PTCPL-cry-PTCPL
+
+# sent_id = 4.108/mnb
+# Muna (Austronesian, Sulawesi, Indonesia)
+# source = R. Van Den Berg, 1989
+# text = kalambe mokesano
+# gloss = girl PTCPL-beautiful-PTCPL
+# text_en = a beautiful girl
+1	kalambe	_	NOUN	_	_	0	root	_	Gloss=girl
+2	mokesano	_	VERB	_	VerbForm=Part	1	acl	_	Gloss=beautiful|MSeg=mo-kesa-no|MGloss=PTCPL-beautiful-PTCPL
+
+# sent_id = 4.109/mnb
+# Muna (Austronesian, Sulawesi, Indonesia)
+# source = R. Van Den Berg, 1989
+# text = Nombaghosaghosa
+# gloss = 3SG.REALIS-rather-strong-strong
+# text_en = He is rather strong
+1	Nombaghosaghosa	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=he-is-rather-strong|MSeg=No-mba-ghosa-ghosa|MGloss=3SG.REALIS-rather-strong-strong
+
+# sent_id = 4.111/mnb
+# Muna (Austronesian, Sulawesi, Indonesia)
+# source = R. Van Den Berg, 1989
+# text = Nofekaghosae
+# gloss = 3SG.REALIS-CAUS-strong-it
+# text_en = He makes it strong
+1	Nofekaghosae	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Cau	0	root	_	Gloss=he-makes-it-strong|MSeg=No-feka-ghosa-e|MGloss=3SG.REALIS-CAUS-strong-it
+
