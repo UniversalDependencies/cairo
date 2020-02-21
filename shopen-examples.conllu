@@ -10990,3 +10990,38 @@
 # text_en = He makes it strong
 1	Nofekaghosae	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Cau	0	root	_	Gloss=he-makes-it-strong|MSeg=No-feka-ghosa-e|MGloss=3SG.REALIS-CAUS-strong-it
 
+# sent_id = 4.113a/ape
+# Bukiyip (Torricelli, Papua New Guinea)
+# source = Conrad and Wogiga, 1991
+# text = Nalatú
+# gloss = NC7.SG-REALIS-build-NC11.SG
+# text_en = He built it (a house)
+1	Nalatú	_	VERB	_	Mood=Ind|NounClass[obj]=Arap11|NounClass[subj]=Arap7|Number[obj]=Sing|Number[subj]=Sing	0	root	_	Gloss=he-built-it|MSeg=n-a-la-tú|MGloss=NC7.SG-REALIS-build-NC11.SG
+
+# sent_id = 4.113b/ape
+# Bukiyip (Torricelli, Papua New Guinea)
+# source = Conrad and Wogiga, 1991
+# text = Okok kwatúlúnú
+# gloss = she NC4.SG-REALIS-see-NC7.SG
+# text_en = She saw him
+1	Okok	_	PRON	_	NounClass=Arap4|Number=Sing|PronType=Prs	2	nsubj	_	Gloss=she
+2	kwatúlúnú	_	VERB	_	Mood=Ind|NounClass[obj]=Arap7|NounClass[subj]=Arap4|Number[obj]=Sing|Number[subj]=Sing	0	root	_	Gloss=she-saw-him|MSeg=kw-a-túl-únú|MGloss=NC4.SG-REALIS-see-NC7.SG
+
+# sent_id = 4.114/ape
+# Bukiyip (Torricelli, Papua New Guinea)
+# source = Conrad and Wogiga, 1991
+# text = Énan naleh
+# gloss = he NC7.SG-REALIS-cry
+# text_en = He cried
+1	Énan	_	PRON	_	NounClass=Arap7|Number=Sing|PronType=Prs	2	nsubj	_	Gloss=he
+2	naleh	_	VERB	_	Mood=Ind|NounClass[subj]=Arap7|Number[subj]=Sing	0	root	_	Gloss=he-cried|MSeg=n-a-leh|MGloss=NC7.SG-REALIS-cry
+
+# sent_id = 4.115/ape
+# Bukiyip (Torricelli, Papua New Guinea)
+# source = Conrad and Wogiga, 1991
+# text = Énan élgeinú
+# gloss = he afraid-NC7.SG
+# text_en = He is afraid
+1	Énan	_	PRON	_	NounClass=Arap7|Number=Sing|PronType=Prs	2	nsubj	_	Gloss=he
+2	élgeinú	_	VERB	_	Mood=Ind|NounClass[subj]=Arap7|Number[subj]=Sing	0	root	_	Gloss=he-is-afraid|MSeg=élgei-nú|MGloss=afraid-NC7.SG
+
