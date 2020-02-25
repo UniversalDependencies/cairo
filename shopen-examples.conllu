@@ -11025,3 +11025,251 @@
 1	Énan	_	PRON	_	NounClass=Arap7|Number=Sing|PronType=Prs	2	nsubj	_	Gloss=he
 2	élgeinú	_	VERB	_	Mood=Ind|NounClass[subj]=Arap7|Number[subj]=Sing	0	root	_	Gloss=he-is-afraid|MSeg=élgei-nú|MGloss=afraid-NC7.SG
 
+# sent_id = 4.117a/huz
+# Hunzib (Northeast Caucasian, Dagestan, Russia)
+# source = H. Van Den Berg, 1995
+# text = Iyul hɑrɑ bohor
+# gloss = mother-ACT cow NC4-feed-PRET
+# text_en = Mother fed the cow
+# The -l case is used mostly for the A argument of transitive verbs. In addition, there are 10 intransitive verbs whose S argument also uses this case. Since the S usage is exceptional, we can probably say that the -l case is ergative.
+# The -0 case is used for the P argument of transitive verbs and for the S argument of almost all intransitive verbs, therefore we call it absolutive.
+1	Iyul	_	NOUN	_	Case=Erg	3	nsubj	_	Gloss=mother|MSeg=Iyu-l|MGloss=mother-ACT
+2	hɑrɑ	_	NOUN	_	Case=Abs	3	obj	_	Gloss=cow
+3	bohor	_	VERB	_	Tense=Past	0	root	_	Gloss=fed|MSeg=b-oho-r|MGloss=NC4-feed-PRET
+
+# sent_id = 4.117b/huz
+# Hunzib (Northeast Caucasian, Dagestan, Russia)
+# source = H. Van Den Berg, 1995
+# text = Ože ut̓ur
+# gloss = boy sleep-PRET
+# text_en = The boy slept
+# The -0 case is used for the P argument of transitive verbs and for the S argument of almost all intransitive verbs, therefore we call it absolutive.
+1	Ože	_	NOUN	_	Case=Abs	2	nsubj	_	Gloss=boy
+2	ut̓ur	_	VERB	_	Tense=Past	0	root	_	Gloss=slept|MSeg=ut̓-ur|MGloss=sleep-PRET
+
+# sent_id = 4.117c/huz
+# Hunzib (Northeast Caucasian, Dagestan, Russia)
+# source = H. Van Den Berg, 1995
+# text = Hɑrɑl heƛer
+# gloss = cow-ACT moo-PRET
+# text_en = The cow mooed
+# The -l case is used mostly for the A argument of the transitive verbs. In addition, there are 10 intransitive verbs whose S argument also uses this case. Since the S usage is exceptional, we can probably say that the -l case is ergative.
+1	Hɑrɑl	_	NOUN	_	Case=Erg	2	nsubj	_	Gloss=cow|MSeg=Hɑrɑ-l|MGloss=cow-ACT
+2	heƛer	_	VERB	_	Tense=Past	0	root	_	Gloss=mooed|MSeg=heƛe-r|MGloss=moo-PRET
+
+# sent_id = 4.118a/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Chipisalitok
+# gloss = 2SG.UNDERGOER-see-1SG.ACT-PAST
+# text_en = I saw you
+1	Chipisalitok	_	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=1|Tense=Past	0	root	_	Gloss=I-saw-you|MSeg=Chi-pisa-li-tok|MGloss=2SG.UNDERGOER-see-1SG.ACT-PAST
+
+# sent_id = 4.118b/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Issassotok
+# gloss = 2SG.ACT-1SG.UNDERGOER-hit-PAST
+# text_en = You hit me
+1	Issassotok	_	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Tense=Past	0	root	_	Gloss=you-hit-me|MSeg=Is-sa-sso-tok|MGloss=2SG.ACT-1SG.UNDERGOER-hit-PAST
+
+# sent_id = 4.119a/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Bali:lilitok
+# gloss = run-1SG.ACT-PAST
+# text_en = I ran
+1	Bali:lilitok	_	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	Gloss=I-ran|MSeg=bali:li-li-tok|MGloss=run-1SG.ACT-PAST
+
+# sent_id = 4.119b/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Sacha:ha
+# gloss = 1SG.UNDERGOER-tall
+# text_en = I am tall
+1	Sacha:ha	_	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	Gloss=I-am-tall|MSeg=Sa-cha:ha|MGloss=1SG.UNDERGOER-tall
+
+# sent_id = 4.120a/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Sattolatok
+# gloss = 1SG.UNDERGOER-fall-PAST
+# text_en = I fell
+1	Sattolatok	_	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	Gloss=I-fell|MSeg=Sa-ttola-tok|MGloss=1SG.UNDERGOER-fall-PAST
+
+# sent_id = 4.120b/cho
+# Choctaw (Muskogean, USA)
+# source = W. Davies, 1986:14-16
+# text = Sahabishko
+# gloss = 1SG.UNDERGOER-sneeze
+# text_en = I sneezed
+1	Sahabishko	_	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	Gloss=I-sneezed|MSeg=Sa-habishko|MGloss=1SG.UNDERGOER-sneeze
+
+# sent_id = 4.121/apu
+# Apurinã (Arawakan, Brazil)
+# source = Facundes, 2000
+# text = Narikaru
+# gloss = 1SG.ACT-set.on.fire-3SG.MASC.UNDERGOER
+# text_en = I set it on fire
+1	Narikaru	_	VERB	_	Gender[obj]=Masc|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	0	root	_	Gloss=I-set-it-on-fire|MSeg=N-arika-ru|MGloss=1SG.ACT-set.on.fire-3SG.MASC.UNDERGOER
+
+# sent_id = 4.122a/apu
+# Apurinã (Arawakan, Brazil)
+# source = Facundes, 2000
+# text = Numuteka
+# gloss = 1SG.ACT-run
+# text_en = I run
+1	Numuteka	_	VERB	_	Number=Sing|Person=1	0	root	_	Gloss=I-run|MSeg=Nu-muteka|MGloss=1SG.ACT-run
+
+# sent_id = 4.122b/apu
+# Apurinã (Arawakan, Brazil)
+# source = Facundes, 2000
+# text = Harekano
+# gloss = good-1SG.UNDERGOER
+# text_en = I am good
+1	Harekano	_	VERB	_	Number=Sing|Person=1	0	root	_	Gloss=I-am-good|MSeg=Hareka-no|MGloss=good-1SG.UNDERGOER
+
+# sent_id = 4.123a/apu
+# Apurinã (Arawakan, Brazil)
+# source = Facundes, 2000
+# text = Nhiri
+# gloss = 1SG.ACT-fall
+# text_en = I fell down
+1	Nhiri	_	VERB	_	Number=Sing|Person=1	0	root	_	Gloss=I-fell-down|MSeg=Nh-iri|MGloss=1SG.ACT-fall
+
+# sent_id = 4.123b/apu
+# Apurinã (Arawakan, Brazil)
+# source = Facundes, 2000
+# text = Opöp
+# gloss = 3SG.FEM.ACT-die-IMPERF
+# text_en = She died
+1	Opöp	_	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	0	root	_	Gloss=she-died|MSeg=O-pö-p|MGloss=3SG.FEM.ACT-die-IMPERF
+
+# sent_id = 4.124a/apu
+# Apurinã (Arawakan, Brazil)
+# source = Facundes, 2000
+# text = Nusãpaka
+# gloss = 1SG.ACT-tired
+# text_en = I am tired
+1	Nusãpaka	_	VERB	_	Number=Sing|Person=1	0	root	_	Gloss=I-am-tired|MSeg=Nu-sãpaka|MGloss=1SG.ACT-tired
+
+# sent_id = 4.124b/apu
+# Apurinã (Arawakan, Brazil)
+# source = Facundes, 2000
+# text = Nhiinhikaka
+# gloss = 1SG.ACT-feel.hot
+# text_en = I feel hot
+1	Nhiinhikaka	_	VERB	_	Number=Sing|Person=1	0	root	_	Gloss=I-feel-hot|MSeg=Nhi-inhikaka|MGloss=1SG.ACT-feel.hot
+
+# sent_id = 4.125/mky
+# Taba (Austronesian, Indonesia)
+# source = Bowden, 1997
+# text = Ahmad npun kolay
+# gloss = Ahmad 3SG.ACT-kill snake
+# text_en = Ahmad killed a snake
+1	Ahmad	_	PROPN	_	_	2	nsubj	_	Gloss=Ahmad
+2	npun	_	VERB	_	Number=Sing|Person=3	0	root	_	Gloss=killed|MSeg=n-pun|MGloss=3SG.ACT-kill
+3	kolay	_	NOUN	_	_	2	obj	_	Gloss=snake
+
+# sent_id = 4.126a/mky
+# Taba (Austronesian, Indonesia)
+# source = Bowden, 1997
+# text = Am atala motor lawe
+# gloss = 1PL.EXCL 1PL.EXCL-meet boat sea-ESS
+# text_en = We (exclusive) met the boat by the sea
+1	Am	_	PRON	_	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Gloss=we|MGloss=1PL.EXCL
+2	atala	_	VERB	_	Clusivity=Ex|Number=Plur|Person=1	0	root	_	Gloss=met|MSeg=a-tala|MGloss=1PL.EXCL-meet
+3	motor	_	NOUN	_	_	2	obj	_	Gloss=boat
+4	lawe	_	NOUN	_	Case=Ess	2	obl	_	Gloss=by-the-sea|MSeg=la-we|MGloss=sea-ESS
+
+# sent_id = 4.126b/mky
+# Taba (Austronesian, Indonesia)
+# source = Bowden, 1997
+# text = Ni mamasi nwet i
+# gloss = 3SG.POSS mother 3SG.ACT-hit 3SG
+# text_en = His mother hit him
+1	Ni	_	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	Gloss=his|MGloss=3SG.POSS
+2	mamasi	_	NOUN	_	_	3	nsubj	_	Gloss=mother
+3	nwet	_	VERB	_	Number=Sing|Person=3	0	root	_	Gloss=hit|MSeg=n-wet|MGloss=3SG.ACT-hit
+4	i	_	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=him|MGloss=3SG
+
+# sent_id = 4.127a/mky
+# Taba (Austronesian, Indonesia)
+# source = Bowden, 1997
+# text = I ntagil ndara
+# gloss = 3SG 3SG.ACT-walk too.much
+# text_en = He walks too much
+1	I	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG
+2	ntagil	_	VERB	_	Number=Sing|Person=3	0	root	_	Gloss=walks|MSeg=n-tagil|MGloss=3SG.ACT-walk
+3	ndara	_	ADV	_	_	2	advmod	_	Gloss=too-much|MGloss=too.much
+
+# sent_id = 4.127b/mky
+# Taba (Austronesian, Indonesia)
+# source = Bowden, 1997
+# text = Kawail i
+# gloss = tired 3SG
+# text_en = He is tired
+1	Kawail	_	VERB	_	_	0	root	_	Gloss=tired
+2	i	_	PRON	_	Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he|MGloss=3SG
+
+# sent_id = 4.128a/mky
+# Taba (Austronesian, Indonesia)
+# source = Bowden, 1997
+# text = Nhamlongan
+# gloss = 3SG.ACT-CAUS-long
+# text_en = He is tall
+1	Nhamlongan	_	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	Gloss=he-is-tall|MSeg=n-ha-mlongan|MGloss=3SG.ACT-CAUS-long
+
+# sent_id = 4.128b/mky
+# Taba (Austronesian, Indonesia)
+# source = Bowden, 1997
+# text = Ubang da mlongan
+# gloss = fence that long
+# text_en = That fence is long
+1	Ubang	_	NOUN	_	_	3	nsubj	_	Gloss=fence
+2	da	_	DET	_	PronType=Dem	1	det	_	Gloss=that
+3	mlongan	_	VERB	_	_	0	root	_	Gloss=long
+
+# sent_id = 4.129a/xbr
+# Kambera (Austronesian, Indonesia)
+# source = Klamer, 1998
+# text = Napaluya na ahu
+# gloss = 3SG.ACT-hit-3SG.UNDERGOER ART dog
+# text_en = She hits the dog
+1	Napaluya	_	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	Gloss=she-hits-it|MSeg=na-palu-ya|MGloss=3SG.ACT-hit-3SG.UNDERGOER
+2	na	_	DET	_	PronType=Art	3	det	_	Gloss=ART
+3	ahu	_	NOUN	_	_	1	obj	_	Gloss=dog
+
+# sent_id = 4.129b/xbr
+# Kambera (Austronesian, Indonesia)
+# source = Klamer, 1998
+# text = Nakapunduh weling la kanjaka
+# gloss = 3SG.ACT-jump move.from LOC chair
+# text_en = He jumps from the chair
+1	Nakapunduh	_	VERB	_	Number=Sing|Person=3	0	root	_	Gloss=he-jumps|MSeg=Na-kapunduh|MGloss=3SG.ACT-jump
+2	weling	_	ADP	_	_	4	case	_	Gloss=from|MGloss=move.from
+3	la	_	ADP	_	_	4	case	_	Gloss=LOC
+4	kanjaka	_	NOUN	_	_	1	obl	_	Gloss=chair
+
+# sent_id = 4.129c/xbr
+# Kambera (Austronesian, Indonesia)
+# source = Klamer, 1998
+# text = Hurundanduya
+# gloss = soldier-3SG.UNDERGOER
+# text_en = He is a soldier
+1-2	Hurundanduya	_	_	_	_	_	_	_	_
+1	Hurundandu	_	NOUN	_	Number=Sing|Person=3	0	root	_	Gloss=he-soldier|MSeg=hurundandu-ya|MGloss=soldier-3SG.UNDERGOER
+2	ya	_	PRON	_	Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he|MGloss=3SG.UNDERGOER
+
+# sent_id = 4.129d/xbr
+# Kambera (Austronesian, Indonesia)
+# source = Klamer, 1998
+# text = La wawa kotakya
+# gloss = LOC down village-3SG.UNDERGOER
+# text_en = He is below the village
+1	La	_	ADP	_	_	2	case	_	Gloss=LOC
+2	wawa	_	NOUN	_	_	0	root	_	Gloss=down
+3-4	kotakya	_	_	_	_	_	_	_	_
+3	kotak	_	NOUN	_	_	2	nmod	_	Gloss=village
+4	ya	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG.UNDERGOER
+
