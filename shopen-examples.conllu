@@ -11273,3 +11273,100 @@
 3	kotak	_	NOUN	_	_	2	nmod	_	Gloss=village
 4	ya	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG.UNDERGOER
 
+# sent_id = 4.130a/en
+# text = It is raining
+1	It	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	raining	rain	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+
+# sent_id = 4.130b/en
+# text = It is cold today
+1	It	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	cold	cold	ADJ	_	Degree=Pos	0	root	_	_
+4	today	today	ADV	_	_	3	advmod	_	_
+
+# sent_id = 4.130c/en
+# text = It is hot in this room
+1	It	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	hot	hot	ADJ	_	Degree=Pos	0	root	_	_
+4	in	in	ADP	_	_	6	case	_	_
+5	this	this	DET	_	Number=Sing|PronType=Dem	6	det	_	_
+6	room	room	NOUN	_	Number=Sing	3	obl	_	_
+
+# sent_id = 4.131/mhs
+# Buru (Austronesian, Maluku, Indonesia)
+# source = Grimes, 1991
+# text = Da deka
+# gloss = 3SG rain
+# text_en = It's raining
+1	Da	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	expl	_	Gloss=it|MGloss=3SG
+2	deka	_	VERB	_	_	0	root	_	Gloss=rain
+
+# sent_id = 4.132/khc
+# Tukang Besi (Austronesian, Indonesia)
+# source = Donohue, 1999
+# text = Nowande
+# gloss = 3.REALIS-rain
+# text_en = It is raining
+1	Nowande	_	VERB	_	Mood=Ind|Person=3	0	root	_	Gloss=it-rains|MSeg=no-wande|MGloss=3.REALIS-rain
+
+# sent_id = 4.135/khc
+# Tukang Besi (Austronesian, Indonesia)
+# source = Donohue, 1999
+# text = Notinti
+# gloss = 3.REALIS-run
+# text_en = She is running
+1	Notinti	_	VERB	_	Mood=Ind|Person=3	0	root	_	Gloss=she-is-running|MSeg=no-tinti|MGloss=3.REALIS-run
+
+# sent_id = 4.136/ape
+# Bukiyip (Torricelli, Papua New Guinea)
+# source = Conrad and Wogiga, 1991
+# text = Echah halali
+# gloss = rain NC13-REALIS-rain
+# text_en = It rains
+# text_en_lit = Rain rains
+1	Echah	_	NOUN	_	_	2	nsubj	_	Gloss=rain
+2	halali	_	VERB	_	Mood=Ind|NounClass=Arap13	0	root	_	Gloss=rains|MSeg=h-a-lali|MGloss=NC13-REALIS-rain
+
+# sent_id = 4.137/ty
+# Tahitian (Austronesian, Tahiti)
+# source = Tryon, 1970a
+# text = 'E ūa
+# gloss = FUT rain
+# text_en = It will rain
+1	'E	_	AUX	_	Tense=Fut	2	aux	_	Gloss=FUT
+2	ūa	_	VERB	_	_	0	root	_	Gloss=rain
+
+# sent_id = 4.138/tbo
+# Tawala (Austronesian, Papua New Guinea)
+# source = Ezard, 1997
+# text = Gadiwewe
+# gloss = rain(NOUN)
+# text_en = There is rain
+1	Gadiwewe	_	NOUN	_	_	0	root	_	Gloss=rain|MGloss=rain(NOUN)
+
+# sent_id = 4.139/ksd
+# Tolai (Austronesian, New Britain, Papua New Guinea)
+# source = Mosel, 1984
+# text = I ga bata
+# gloss = 3SG PAST rain
+# text_en = It rained
+1	I	_	PRON	_	Number=Sing|Person=3|PronType=Prs	3	expl	_	Gloss=it|MGloss=3SG
+2	ga	_	AUX	_	Tense=Past	3	aux	_	Gloss=was|MGloss=PAST
+3	bata	_	VERB	_	_	0	root	_	Gloss=rain
+
+# sent_id = 4.140/ksd
+# Tolai (Austronesian, New Britain, Papua New Guinea)
+# source = Mosel, 1984
+# text = Nina ra tutana i ga mait
+# gloss = that DEF man 3SG PAST sick
+# text_en = That man was sick
+1	Nina	_	DET	_	PronType=Dem	3	det	_	Gloss=that
+2	ra	_	DET	_	Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=DEF
+3	tutana	_	NOUN	_	_	6	nsubj	_	Gloss=man
+4	i	_	PRON	_	Number=Sing|Person=3|PronType=Prs	6	expl	_	Gloss=he|MGloss=3SG
+5	ga	_	AUX	_	Tense=Past	6	aux	_	Gloss=was|MGloss=PAST
+6	mait	_	VERB	_	_	0	root	_	Gloss=sick
+
