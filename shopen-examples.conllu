@@ -11370,3 +11370,21 @@
 5	ga	_	AUX	_	Tense=Past	6	aux	_	Gloss=was|MGloss=PAST
 6	mait	_	VERB	_	_	0	root	_	Gloss=sick
 
+# sent_id = 4.141a/kut
+# Kutenai (Isolate, British Columbia, Montana, Idaho)
+# text = Kwałkwayits ła łaxaxi łkamnin̓tik
+# gloss = SUBORD=be.evening-OBV back arrive-INDIC child-PL
+# text_en = When evening came, the children arrived back.
+1	Kwałkwayits	_	VERB	_	Mood=Sub|VerbForm=Fin	3	advcl	_	Gloss=when-evening-came|MSeg=K=wałkwayit-s|MGloss=SUBORD=be.evening-OBV
+2	ła	_	ADV	_	_	3	advmod	_	Gloss=back
+3	łaxaxi	_	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=arrive|MSeg=łaxax-i|MGloss=arrive-INDIC
+4	łkamnin̓tik	_	NOUN	_	Number=Plur	3	nsubj	_	Gloss=children|MSeg=łkam-nin̓tik|MGloss=child-PL
+
+# sent_id = 4.141b/kwi
+# Awa Pit (Barbacoan, Colombia, Ecuador)
+# source = Curnow, 1997
+# text = Nashmɨzi
+# gloss = be.afternoon-INCEP-NONLOCUT
+# gloss = It is getting late
+1	Nashmɨzi	_	VERB	_	_	0	root	_	Gloss=it-is-getting-late|MSeg=Nash-mɨz-i|MGloss=be.afternoon-INCEP-NONLOCUT
+
