@@ -11385,6 +11385,72 @@
 # source = Curnow, 1997
 # text = Nashmɨzi
 # gloss = be.afternoon-INCEP-NONLOCUT
-# gloss = It is getting late
+# text_en = It is getting late
 1	Nashmɨzi	_	VERB	_	_	0	root	_	Gloss=it-is-getting-late|MSeg=Nash-mɨz-i|MGloss=be.afternoon-INCEP-NONLOCUT
+
+# sent_id = 4.142/ses
+# Koyraboro Senni (Songhay, Mali)
+# source = Heath, 1999
+# text = A na ham ŋaa
+# gloss = 3SG TRANS meat eat
+# text_en = He ate meat
+1	A	_	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|MGloss=3SG
+2	na	_	AUX	_	_	4	aux	_	Gloss=TRANSITIVE|MGloss=TRANS
+3	ham	_	NOUN	_	_	4	obj	_	Gloss=meat
+4	ŋaa	_	VERB	_	_	0	root	_	Gloss=eat
+
+# sent_id = 4.143/ses
+# Koyraboro Senni (Songhay, Mali)
+# source = Heath, 1999
+# text = A koy koyraa ra
+# gloss = 3SG go town-DEF.SG LOC
+# text_en = He went to the city
+1	A	_	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|MGloss=3SG
+2	koy	_	VERB	_	_	0	root	_	Gloss=go
+3	koyraa	_	NOUN	_	Definite=Def|Number=Sing	2	obl	_	Gloss=city|MSeg=koyr-aa|MGloss=town-DEF.SG
+4	ra	_	ADP	_	_	3	case	_	Gloss=LOC
+
+# sent_id = 4.144a/ses
+# Koyraboro Senni (Songhay, Mali)
+# source = Prost, 1956
+# text = A ga ba agey
+# gloss = 3SG INCOMP like 1SG
+# text_en = She likes me
+1	A	_	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=she|MGloss=3SG
+2	ga	_	AUX	_	Aspect=Imp	3	aux	_	Gloss=INCOMP
+3	ba	_	VERB	_	_	0	root	_	Gloss=like
+4	agey	_	PRON	_	Number=Sing|Person=1|PronType=Prs	3	obl	_	Gloss=I|MGloss=1SG
+
+# sent_id = 4.144b/ses
+# Koyraboro Senni (Songhay, Mali)
+# source = Prost, 1956
+# text = Ay di né wando
+# gloss = 1SG see 2SG wife-DEF
+# text_en = I saw your wife
+1	Ay	_	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=1SG
+2	di	_	VERB	_	_	0	root	_	Gloss=see
+3	né	_	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nmod	_	Gloss=you|MGloss=2SG
+4	wando	_	NOUN	_	Definite=Def	2	obl	_	Gloss=wife|MSeg=wand-o|MGloss=wife-DEF
+
+# sent_id = 4.144c/ses
+# Koyraboro Senni (Songhay, Mali)
+# source = Prost, 1956
+# text = Ay ga humbur hanso
+# gloss = 1SG INCOMP fear dog-DEF
+# text_en = I am afraid of the dog
+1	Ay	_	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=1SG
+2	ga	_	AUX	_	Aspect=Imp	3	aux	_	Gloss=INCOMP
+3	humbur	_	VERB	_	_	0	root	_	Gloss=fear
+4	hanso	_	NOUN	_	Definite=Def	3	obl	_	Gloss=dog|MSeg=hans-o|MGloss=dog-DEF
+
+# sent_id = 4.144d/ses
+# Koyraboro Senni (Songhay, Mali)
+# source = Prost, 1956
+# text = I ga hima kyerey
+# gloss = 3PL INCOMP resemble each.other-PL
+# text_en = They resemble each other
+1	I	_	PRON	_	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=they|MGloss=3PL
+2	ga	_	AUX	_	Aspect=Imp	3	aux	_	Gloss=INCOMP
+3	hima	_	VERB	_	_	0	root	_	Gloss=resemble
+4	kyerey	_	PRON	_	Number=Plur|PronType=Rcp	3	obl	_	Gloss=each-other|MSeg=kyer-ey|MGloss=each.other-PL
 
