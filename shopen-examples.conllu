@@ -11454,3 +11454,56 @@
 3	hima	_	VERB	_	_	0	root	_	Gloss=resemble
 4	kyerey	_	PRON	_	Number=Plur|PronType=Rcp	3	obl	_	Gloss=each-other|MSeg=kyer-ey|MGloss=each.other-PL
 
+# sent_id = 4.145a/ddj
+# Djaru (Pama-Nyungan, Western Australia)
+# source = Tsunoda, 1981
+# text = Mawun janan
+# gloss = man.ABS go-PRES
+# text_en = The man goes
+1	Mawun	mawun	NOUN	_	Case=Abs	2	nsubj	_	Gloss=man|MGloss=man.ABS
+2	janan	_	VERB	_	Tense=Pres	0	root	_	Gloss=goes|MSeg=jan-an|MGloss=go-PRES
+
+# sent_id = 4.145b/ddj
+# Djaru (Pama-Nyungan, Western Australia)
+# source = Tsunoda, 1981
+# text = Mawundu ɲaŋan ɖaɖi
+# gloss = man-ERG see-PRES kangaroo.ABS
+# text_en = A man sees a kangaroo
+1	Mawundu	mawun	NOUN	_	Case=Erg	2	nsubj	_	Gloss=man|MSeg=mawun-du|MGloss=man-ERG
+2	ɲaŋan	_	VERB	_	Tense=Pres	0	root	_	Gloss=sees|MSeg=ɲaŋ-an|MGloss=see-PRES
+3	ɖaɖi	ɖaɖi	NOUN	_	Case=Abs	2	obj	_	Gloss=kangaroo|MGloss=kangaroo.ABS
+
+# sent_id = 4.146/ddj
+# Djaru (Pama-Nyungan, Western Australia)
+# source = Tsunoda, 1981
+# text = Mawundu ŋala ɖaɖiwu muwu wuŋan
+# gloss = man-ERG CLITIC.HOST=3SG.DAT kangaroo-DAT search-PRES
+# text_en = A man is looking for a kangaroo
+1	Mawundu	mawun	NOUN	_	Case=Erg	5	nsubj	_	Gloss=man|MSeg=mawun-du|MGloss=man-ERG
+2	ŋala	_	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=it|MSeg=ŋa=la|MGloss=CLITIC.HOST=3SG.DAT
+3	ɖaɖiwu	ɖaɖi	NOUN	_	Case=Dat	5	obl	_	Gloss=kangaroo|MSeg=ɖaɖi-wu|MGloss=kangaroo-DAT
+4	muwu	_	VERB	_	_	5	compound	_	Gloss=search
+5	wuŋan	_	VERB	_	Tense=Pres	0	root	_	Gloss=searches|MSeg=wuŋ-an|MGloss=search-PRES
+
+# sent_id = 4.147/ddj
+# Djaru (Pama-Nyungan, Western Australia)
+# source = Tsunoda, 1981
+# text = Jambagina ŋaɲanda juwa maɲan guɲara
+# gloss = child.ABS CLITIC.HOST=3SG.LOC be.afraid-PRES dog-LOC
+# text_en = A child is afraid of a dog
+1	Jambagina	jambagina	NOUN	_	Case=Abs	4	nsubj	_	Gloss=child|MGloss=child.ABS
+2	ŋaɲanda	_	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	4	expl	_	Gloss=it|MSeg=ŋa=ɲanda|MGloss=CLITIC.HOST=3SG.LOC
+3	juwa	_	VERB	_	_	4	compound	_	Gloss=be-afraid
+4	maɲan	_	VERB	_	Tense=Pres	0	root	_	Gloss=is-afraid|MSeg=maɲ-an|MGloss=be.afraid-PRES
+5	guɲara	guɲar	NOUN	_	Case=Loc	4	obl	_	Gloss=dog|MSeg=guɲar-a|MGloss=dog-LOC
+
+# sent_id = 4.148/ddj
+# Djaru (Pama-Nyungan, Western Australia)
+# source = Tsunoda, 1981
+# text = Mawun ɖaru maɲan
+# gloss = man.ABS Djaru.ABS talk-PRES
+# text_en = A man talks Djaru
+1	Mawun	mawun	NOUN	_	Case=Abs	3	nsubj	_	Gloss=man|MGloss=man.ABS
+2	ɖaru	ɖaru	NOUN	_	Case=Abs	3	obj	_	Gloss=Djaru|MGloss=Djaru.ABS
+3	maɲan	_	VERB	_	Tense=Pres	0	root	_	Gloss=talks|MSeg=maɲ-an|MGloss=talk-PRES
+
