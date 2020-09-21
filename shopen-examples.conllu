@@ -11507,3 +11507,23 @@
 2	ɖaru	ɖaru	NOUN	_	Case=Abs	3	obj	_	Gloss=Djaru|MGloss=Djaru.ABS
 3	maɲan	_	VERB	_	Tense=Pres	0	root	_	Gloss=talks|MSeg=maɲ-an|MGloss=talk-PRES
 
+# sent_id = 4.149a/nia
+# Nias (Austronesian, Sumatra)
+# source = Brown, 2001
+# text = Ata'u nakhigu nasu
+# gloss = be.afraid ABS-younger.sibling-1SG.POSS ABS-dog
+# text_en = My younger brother is afraid of the dog
+1	Ata'u	_	VERB	_	_	0	root	_	Gloss=be-afraid|MGloss=be.afraid
+2	nakhigu	_	NOUN	_	Case=Abs|Number[psor]=Sing|Person[psor]=1	1	nsubj	_	Gloss=my-younger-brother|MSeg=n-akhi-gu|MGloss=ABS-younger.sibling-1SG.POSS
+3	nasu	_	NOUN	_	Case=Abs	1	obj	_	Gloss=dog|MSeg=n-asu|MGloss=ABS-dog
+
+# sent_id = 4.149b/nia
+# Nias (Austronesian, Sumatra)
+# source = Brown, 2001
+# text = Omasi nasu nakhigu
+# gloss = like ABS-dog ABS-younger.sibling-1SG.POSS
+# text_en = The dog likes my younger brother
+1	Omasi	_	VERB	_	_	0	root	_	Gloss=like
+2	nasu	_	NOUN	_	Case=Abs	1	nsubj	_	Gloss=dog|MSeg=n-asu|MGloss=ABS-dog
+3	nakhigu	_	NOUN	_	Case=Abs|Number[psor]=Sing|Person[psor]=1	1	obj	_	Gloss=my-younger-brother|MSeg=n-akhi-gu|MGloss=ABS-younger.sibling-1SG.POSS
+
