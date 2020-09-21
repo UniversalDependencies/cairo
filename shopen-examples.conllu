@@ -11527,3 +11527,25 @@
 2	nasu	_	NOUN	_	Case=Abs	1	nsubj	_	Gloss=dog|MSeg=n-asu|MGloss=ABS-dog
 3	nakhigu	_	NOUN	_	Case=Abs|Number[psor]=Sing|Person[psor]=1	1	obj	_	Gloss=my-younger-brother|MSeg=n-akhi-gu|MGloss=ABS-younger.sibling-1SG.POSS
 
+# sent_id = 4.150a/bav
+# Babungo (Niger-Congo, Bantu, Cameroon)
+# source = Schaub, 1985
+# text = Ndùlá gə̀ táa yìwìŋ
+# gloss = Ndula go.PERF to market
+# text_en = Ndula has gone to the market
+1	Ndùlá	Ndùlá	PROPN	_	_	2	nsubj	_	Gloss=Ndula
+2	gə̀	gə̀	VERB	_	Aspect=Perf	0	root	_	Gloss=has-gone|MGloss=go.PERF
+3	táa	táa	ADP	_	_	4	case	_	Gloss=to
+4	yìwìŋ	yìwìŋ	NOUN	_	_	2	obl	_	Gloss=market
+
+# sent_id = 4.150b/bav
+# Babungo (Niger-Congo, Bantu, Cameroon)
+# source = Schaub, 1985
+# text = Fə̀shīa kò' fúu t̀ɨ
+# gloss = squirrel climb.PERF on tree
+# text_en = A squirrel climbed on a tree
+1	Fə̀shīa	fə̀shīa	NOUN	_	_	2	nsubj	_	Gloss=squirrel
+2	kò'	kò'	VERB	_	Aspect=Perf	0	root	_	Gloss=has-climbed|MGloss=climb.PERF
+3	fúu	fúu	ADP	_	_	4	case	_	Gloss=on
+4	t̀ɨ	t̀ɨ	NOUN	_	_	2	obl	_	Gloss=tree
+
