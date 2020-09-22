@@ -11541,11 +11541,36 @@
 # sent_id = 4.150b/bav
 # Babungo (Niger-Congo, Bantu, Cameroon)
 # source = Schaub, 1985
-# text = Fə̀shīa kò' fúu t̀ɨ
+# text = Fə̀shīa kò' fúu tɨ̀
 # gloss = squirrel climb.PERF on tree
 # text_en = A squirrel climbed on a tree
 1	Fə̀shīa	fə̀shīa	NOUN	_	_	2	nsubj	_	Gloss=squirrel
 2	kò'	kò'	VERB	_	Aspect=Perf	0	root	_	Gloss=has-climbed|MGloss=climb.PERF
 3	fúu	fúu	ADP	_	_	4	case	_	Gloss=on
-4	t̀ɨ	t̀ɨ	NOUN	_	_	2	obl	_	Gloss=tree
+4	tɨ̀	tɨ̀	NOUN	_	_	2	obl	_	Gloss=tree
+
+# sent_id = 4.151/gcd
+# Yukulta (Tangkic, Queensland, Australia)
+# source = Keen, 1983
+# text = Ṭaŋkayakari ŋawu palat̪a
+# gloss = man-ERG=PRES.TRANS dog.ABS hit
+# text_en = The man is hitting the dog
+1-2	Ṭaŋkayakari	_	_	_	_	_	_	_	MSeg=ṭaŋka-ya=kari|MGloss=man-ERG=PRES.TRANS
+1	Ṭaŋkaya	ṭaŋka	NOUN	_	Case=Erg	4	nsubj	_	Gloss=man|MSeg=ṭaŋka-ya|MGloss=man-ERG
+2	kari	kari	AUX	_	Tense=Pres	4	aux	_	Gloss=PRES.TRANS
+3	ŋawu	ŋawu	NOUN	_	Case=Abs	4	obj	_	Gloss=dog|MGloss=dog.ABS
+4	palat̪a	palat̪a	VERB	_	_	0	root	_	Gloss=hit
+
+# sent_id = 4.151/gcd
+# Yukulta (Tangkic, Queensland, Australia)
+# source = Keen, 1983
+# text = Waliraŋka ṭaŋkaṛa ŋawun̪t̪a palat̪a
+# gloss = neg=PRES.INTRANS man-ABS dog-DAT hit
+# text_en = The man is not hitting the dog
+1-2	Waliraŋka	_	_	_	_	_	_	_	MSeg=walira=ŋka|MGloss=neg=PRES.INTRANS
+1	Walira	walira	PART	_	Polarity=Neg	5	advmod	_	Gloss=not|MGloss=neg
+2	ŋka	ŋka	AUX	_	Tense=Pres	5	aux	_	Gloss=PRES.INTRANS
+3	ṭaŋkaṛa	ṭaŋka	NOUN	_	Case=Abs	5	nsubj	_	Gloss=man|MSeg=ṭaŋka-ṛa|MGloss=man-ABS
+4	ŋawun̪t̪a	ŋawu	NOUN	_	Case=Dat	5	obl	_	Gloss=dog|MSeg=ŋawu-n̪t̪a|MGloss=dog-DAT
+5	palat̪a	palat̪a	VERB	_	_	0	root	_	Gloss=hit
 
