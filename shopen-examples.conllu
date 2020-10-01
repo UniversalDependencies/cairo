@@ -153,7 +153,7 @@
 # text_en = I watched the ones who were dancing
 # http://www.seasite.niu.edu/Tagalog/tagalog_verbs.htm
 1	Pinanood	nood	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=watch
-2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=me
 3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PLUR
 5	sumasayaw	sayaw	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	obj	_	Gloss=were-dancing
@@ -691,8 +691,8 @@
 # gloss = not I(AG) him(TOP) saw
 # text_en = I didn't see him
 1	Hindi	hindi	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
-2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
-3	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Topic=Yes	4	obj	_	Gloss=him
+2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=me
+3	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=he
 4	nakita	kita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=saw
 
 # sent_id = 1.55b/tl
@@ -780,7 +780,7 @@
 3	John	John	PROPN	_	_	1	nsubj	_	Gloss=John
 4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 5	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obj	_	Gloss=self
-6	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=his
+6	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=him
 
 # sent_id = 1.64/tl
 # text = Inahit ni John mismo si Bill
@@ -1301,7 +1301,7 @@
 # text_en = What are they very much like?
 # "Napaka-" is an intensifying prefix meaning "very". For example, "napakabuti" means "so very good".
 1	Napakaano	ano	ADJ	_	PronType=Int	0	root	_	Gloss=very-much-like|MSeg=napaka-ano|MGloss=very-what
-2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they|SpaceAfter=No
+2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=them|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.98b/tl
@@ -1309,7 +1309,7 @@
 # gloss = very.tall they
 # text_en = They are very tall
 1	Napakataas	taas	ADJ	_	_	0	root	_	Gloss=very-tall|MSeg=napaka-taas|MGloss=very-tall
-2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
+2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=them
 
 # sent_id = 1.98c/tl
 # text = Nagano ka?
@@ -2068,7 +2068,7 @@
 # gloss = asked I COMP where they
 # text_en = I asked where they were
 1	Itinanong	tanong	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=asked
-2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=me
 3	kung	kung	SCONJ	_	_	4	mark	_	Gloss=that
 4	nasaan	nasaan	ADV	_	PronType=Int	1	ccomp	_	Gloss=where
 5	sila	sila	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
@@ -8462,7 +8462,7 @@
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	lolo	lolo	NOUN	_	_	1	nsubj	_	Gloss=grandfather
 4	sa	sa	DET	_	Case=Dat|PronType=Art	6	det	_	Gloss=to
-5	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	6	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
+5	kaniyang	siya	PRON	_	Case=Dat|Link=Yes|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Gloss=him|MSeg=kaniya-ng|MGloss=his-LINK
 6	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obl	_	Gloss=self
 
 # sent_id = 3.115b/tl
@@ -8474,7 +8474,7 @@
 2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
 3	lolo	lolo	NOUN	_	_	1	obj	_	Gloss=grandfather
 4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	6	det	_	Gloss=the|MGloss=PIV
-5	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	6	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
+5	kaniyang	siya	PRON	_	Case=Dat|Link=Yes|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Gloss=him|MSeg=kaniya-ng|MGloss=his-LINK
 6	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	nsubj	_	Gloss=self
 
 # sent_id = 3.116a/en
@@ -8504,7 +8504,7 @@
 3	sa	sa	DET	_	Case=Dat|PronType=Art	4	det	_	Gloss=to
 4	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
 5	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	7	det	_	Gloss=the|MGloss=PIV
-6	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	7	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
+6	kaniyang	siya	PRON	_	Case=Dat|Link=Yes|Number=Sing|Person=3|PronType=Prs	7	nmod	_	Gloss=him|MSeg=kaniya-ng|MGloss=his-LINK
 7	sariling	sarili	PRON	_	Link=Yes|PronType=Prs|Reflex=Yes	8	nmod	_	Gloss=self|MSeg=sarili-ng|MGloss=self-LINK
 8	larawan	larawan	NOUN	_	_	1	nsubj:pass	_	Gloss=picture
 
@@ -8521,7 +8521,7 @@
 7	sa	sa	DET	_	Case=Dat|PronType=Art	8	det	_	Gloss=to
 8	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
 9	sa	sa	DET	_	Case=Dat|PronType=Art	11	det	_	Gloss=from
-10	kaniyang	kaniya	DET	_	Link=Yes|Person=3|Poss=Yes|PronType=Prs	11	det	_	Gloss=his|MSeg=kaniya-ng|MGloss=his-LINK
+10	kaniyang	siya	PRON	_	Case=Dat|Link=Yes|Number=Sing|Person=3|PronType=Prs	11	nmod	_	Gloss=him|MSeg=kaniya-ng|MGloss=his-LINK
 11	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obl	_	Gloss=self
 
 # sent_id = 3.118a/tl
@@ -8532,7 +8532,7 @@
 1	Magbigay	bigay	VERB	_	Mood=Imp|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=give|MSeg=mag-bigay|MGloss=AP-give
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|MGloss=you(PIV)
 3	sa	sa	DET	_	Case=Dat|PronType=Art	4	det	_	Gloss=to|MGloss=DIR
-4	kaniya	kaniya	PRON	_	Number=Sing|Person=3|PronType=Prs	1	obl	_	Gloss=him
+4	kaniya	siya	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl	_	Gloss=him
 5	ng	ng	DET	_	Case=Acc|PronType=Art	6	det	_	Gloss=DET
 6	kape	kape	NOUN	_	_	1	obj	_	Gloss=coffee
 
@@ -8604,7 +8604,7 @@
 2	ni	ni	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
 3	Juan	Juan	PROPN	_	Link=Yes	1	obj:agent	_	Gloss=Juan|MGloss=John(LINK)
 4	sunin	sun	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	1	ccomp	_	Gloss=examine|MSeg=sun-in|MGloss=examine-OP
-5	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	Gloss=him|MGloss=he(PIV)
+5	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	Gloss=he|MGloss=he(PIV)
 6	ng	ng	DET	_	Case=Acc|PronType=Art	7	det	_	Gloss=DET|MGloss=ACT
 7	doktor	doktor	NOUN	_	_	4	obj:agent	_	Gloss=doctor
 
@@ -8621,7 +8621,7 @@
 # gloss = want he/she(ACT)-LINK [AP]-beautiful
 # text_en = She wants to become beautiful
 1	Gusto	gusto	VERB	_	VerbForm=Inf	0	root	_	Gloss=want
-2	niyang	siya	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=3|PronType=Prs	1	obj:agent	_	Gloss=she|MSeg=niya-ng|MGloss=he/she(ACT)-LINK
+2	niyang	siya	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=3|PronType=Prs	1	obj:agent	_	Gloss=him|MSeg=niya-ng|MGloss=he/she(ACT)-LINK
 3	gumanda	ganda	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	1	xcomp	_	Gloss=become-beautiful|MSeg=g[um]anda|MGloss=[AP]-beautiful
 
 # sent_id = 3.122c/tl
@@ -8629,7 +8629,7 @@
 # gloss = want I(ACT)-LINK [AP]-receive OBJ prize
 # text_en = I want to be the recipient of the prize
 1	Gusto	gusto	VERB	_	VerbForm=Inf	0	root	_	Gloss=want
-2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=I|MSeg=ko-ng|MGloss=I(ACT)-LINK
+2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=me|MSeg=ko-ng|MGloss=I(ACT)-LINK
 3	tumanggap	tanggap	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	1	xcomp	_	Gloss=receive|MSeg=t[um]anggap|MGloss=[AP]-receive
 4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET|MGloss=OBJ
 5	gantimpala	gantimpala	NOUN	_	_	3	obj	_	Gloss=prize
@@ -8639,7 +8639,7 @@
 # gloss = want I(ACT)-LINK OP-receive PIV prize
 # text_en = I want to receive the prize
 1	Gusto	gusto	VERB	_	VerbForm=Inf	0	root	_	Gloss=want
-2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=I|MSeg=ko-ng|MGloss=I(ACT)-LINK
+2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=me|MSeg=ko-ng|MGloss=I(ACT)-LINK
 3	matanggap	tanggap	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	1	xcomp	_	Gloss=receive|MSeg=ma-tanggap|MGloss=OP-receive
 4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 5	gantimpala	gantimpala	NOUN	_	_	3	nsubj:pass	_	Gloss=prize
@@ -8649,7 +8649,7 @@
 # gloss = not.want I(ACT)-LINK AP-die DIR Manila
 # text_en = I don't want to die in Manila
 1	Ayaw	ayaw	VERB	_	VerbForm=Inf	0	root	_	Gloss=not-want|MGloss=not.want
-2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=I|MSeg=ko-ng|MGloss=I(ACT)-LINK
+2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=me|MSeg=ko-ng|MGloss=I(ACT)-LINK
 3	mamatay	patay	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	1	xcomp	_	Gloss=die|MSeg=ma-matay|MGloss=AP-die
 4	sa	sa	DET	_	Case=Dat|PronType=Art	5	det	_	Gloss=to|MGloss=DIR
 5	Maynila	Maynila	PROPN	_	_	3	obl	_	Gloss=Manila
