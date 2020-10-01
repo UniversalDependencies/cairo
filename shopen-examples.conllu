@@ -8500,7 +8500,7 @@
 # gloss = PERF-OP-hand he(ACT) DIR child PIV his-LINK self-LINK picture
 # text_en = He[i] handed the child[j] a picture of himself[i,j]
 1	Iniabot	abot	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=handed|MSeg=in-i-abot|MGloss=PERF-OP-hand
-2	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	1	obj:agent	_	Gloss=by-him|MGloss=he(ACT)
+2	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	1	obj:agent	_	Gloss=him|MGloss=he(ACT)
 3	sa	sa	DET	_	Case=Dat|PronType=Art	4	det	_	Gloss=to
 4	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
 5	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	7	det	_	Gloss=the|MGloss=PIV
