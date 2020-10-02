@@ -119,7 +119,7 @@
 1	Malapit	malapit	ADJ	_	_	0	root	_	Gloss=near
 2	kay	kay	DET	_	Case=Dat|PronType=Art	3	det	_	Gloss=to
 3	Maria	Maria	PROPN	_	_	1	obl	_	Gloss=Maria
-4	si	si	DET	_	Case=Nom|PronType=Art	5	det	_	Gloss=DET
+4	si	si	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the
 5	Juan	Juan	PROPN	_	_	1	nsubj	_	Gloss=Juan
 
 # sent_id = 1.14/tl
@@ -703,7 +703,7 @@
 2	nakita	kita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=saw
 3	ni	ni	DET	_	Case=Acc|PronType=Art	4	det	_	Gloss=DET
 4	Pedro	Pedro	PROPN	_	_	2	nsubj	_	Gloss=Pedro
-5	si	si	DET	_	Case=Nom|PronType=Art	6	det	_	Gloss=DET
+5	si	si	DET	_	Case=Nom|Definite=Def|PronType=Art	6	det	_	Gloss=the
 6	Juan	Juan	PROPN	_	_	2	obj	_	Gloss=Juan
 
 # sent_id = 1.56/sw
@@ -790,7 +790,7 @@
 2	ni	ni	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
 3	John	John	PROPN	_	_	1	nsubj	_	Gloss=John
 4	mismo	mismo	DET	_	PronType=Emp	3	nmod	_	Gloss=EMPH
-5	si	si	DET	_	Case=Nom|PronType=Art	6	det	_	Gloss=DET
+5	si	si	DET	_	Case=Nom|Definite=Def|PronType=Art	6	det	_	Gloss=the
 6	Bill	Bill	PROPN	_	_	1	obj	_	Gloss=Bill
 
 # sent_id = 1.65a/fr
@@ -2400,7 +2400,7 @@
 # text_en = They say Pedro will arrive tomorrow
 1	Darating	dating	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-arrive
 2	daw	daw	PART	_	_	1	discourse	_	Gloss=they-say
-3	si	si	DET	_	Case=Nom|PronType=Art	4	det	_	Gloss=DET
+3	si	si	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the
 4	Pedro	Pedro	PROPN	_	_	1	nsubj	_	Gloss=Pedro
 5	bukas	bukas	ADV	_	_	1	advmod	_	Gloss=tomorrow
 
@@ -2411,7 +2411,7 @@
 1	Hindi	hindi	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
 2	daw	daw	PART	_	_	3	discourse	_	Gloss=they-say
 3	darating	dating	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-arrive
-4	si	si	DET	_	Case=Nom|PronType=Art	5	det	_	Gloss=DET
+4	si	si	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the
 5	Pedro	Pedro	PROPN	_	_	3	nsubj	_	Gloss=Pedro
 6	bukas	bukas	ADV	_	_	3	advmod	_	Gloss=tomorrow
 
@@ -2423,7 +2423,7 @@
 2	daw	daw	PART	_	_	4	discourse	_	Gloss=they-say
 3	hindi	hindi	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
 4	darating	dating	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-arrive
-5	si	si	DET	_	Case=Nom|PronType=Art	6	det	_	Gloss=DET
+5	si	si	DET	_	Case=Nom|Definite=Def|PronType=Art	6	det	_	Gloss=the
 6	Pedro	Pedro	PROPN	_	_	4	nsubj	_	Gloss=Pedro
 7	bukas	bukas	ADV	_	_	4	advmod	_	Gloss=tomorrow|SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	Gloss=?
