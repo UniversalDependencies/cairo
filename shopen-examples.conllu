@@ -1524,7 +1524,7 @@
 # text_en = Where are the dishes?
 1	Nasaan	nasaan	ADV	_	PronType=Int	0	root	_	Gloss=where
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the|MGloss=PIV
-3	mga	mga	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLURAL
+3	mga	mga	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLUR
 4	pinggan	pinggan	NOUN	_	_	1	nsubj	_	Gloss=dish|SpaceAfter=No
 5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
@@ -8433,10 +8433,10 @@
 1	Susulat	sulat	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-write|MSeg=0-su-sulat|MGloss=AP-FUT-write
 2	lahat	lahat	DET	_	PronType=Tot	5	det	_	Gloss=all
 3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
-4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PL
+4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PLUR
 5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 6	ng	ng	DET	_	Case=Acc|PronType=Art	8	det	_	Gloss=DET
-7	mga	mga	DET	_	Number=Plur|PronType=Ind	8	det	_	Gloss=PL
+7	mga	mga	DET	_	Number=Plur|PronType=Ind	8	det	_	Gloss=PLUR
 8	liham	liham	NOUN	_	_	1	obj	_	Gloss=letter
 
 # sent_id = 3.114b/tl
@@ -8447,10 +8447,10 @@
 1	Susulatin	sulat	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=will-be-written|MSeg=su-sulat-in|MGloss=FUT-write-OP
 2	lahat	lahat	DET	_	PronType=Tot	8	det	_	Gloss=all
 3	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
-4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PL
+4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PLUR
 5	bata	bata	NOUN	_	_	1	obj	_	Gloss=child
 6	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	8	det	_	Gloss=the|MGloss=PIV
-7	mga	mga	DET	_	Number=Plur|PronType=Ind	8	det	_	Gloss=PL
+7	mga	mga	DET	_	Number=Plur|PronType=Ind	8	det	_	Gloss=PLUR
 8	liham	liham	NOUN	_	_	1	nsubj	_	Gloss=letter
 
 # sent_id = 3.115a/tl
