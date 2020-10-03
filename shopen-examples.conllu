@@ -2473,7 +2473,7 @@
 1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=are-working
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
 3	na	na	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
-4	ba	ba	PART	_	PronType=Int	1	discourse	_	Gloss=QUESTION
+4	ba	ba	PART	_	PartType=Int	1	discourse	_	Gloss=QUESTION
 5	daw	daw	PART	_	_	1	discourse	_	Gloss=they-say
 6	roon	roon	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
 7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
@@ -2486,7 +2486,7 @@
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
 3	na	na	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
 4	daw	daw	PART	_	_	1	discourse	_	Gloss=they-say
-5	ba	ba	PART	_	PronType=Int	1	discourse	_	Gloss=QUESTION
+5	ba	ba	PART	_	PartType=Int	1	discourse	_	Gloss=QUESTION
 6	roon	roon	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
 7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
