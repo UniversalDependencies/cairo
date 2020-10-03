@@ -217,7 +217,7 @@
 # text = Nagtatrabaho ang lalaki
 # gloss = is.working TOP man
 # text_en = The man is working
-1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=is-working
+1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=working|MGloss=is.working
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	lalaki	lalaki	NOUN	_	_	1	nsubj	_	Gloss=man
 
@@ -227,7 +227,7 @@
 # text_en = The one who is working is a man
 1	Lalaki	lalaki	NOUN	_	_	0	root	_	Gloss=man
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
-3	nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	nsubj	_	Gloss=is-working
+3	nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	1	nsubj	_	Gloss=working|MGloss=is.working
 
 # sent_id = 1.26/ilo
 # text = Natayag daydyay babae
@@ -2470,7 +2470,7 @@
 # text = Nagtatrabaho ka na ba daw roon?
 # gloss = are.working you now Q they.say there
 # text_en = Do they say you are working there now?
-1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=are-working
+1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=working|MGloss=are.working
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
 3	na	na	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
 4	ba	ba	PART	_	PartType=Int	1	discourse	_	Gloss=QUESTION
@@ -2482,7 +2482,7 @@
 # text = Nagtatrabaho ka na daw ba roon?
 # gloss = are.working you now they.say Q there
 # text_en = Do they say you are working there now?
-1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=are-working
+1	Nagtatrabaho	trabaho	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=working|MGloss=are.working
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you
 3	na	na	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
 4	daw	daw	PART	_	_	1	discourse	_	Gloss=they-say
@@ -8407,7 +8407,7 @@
 # text = Matalino ang lalaking bumasa ng diyaryo
 # gloss = intelligent PIV man-LINK [AP]-read OBJ newspaper
 # text_en = The man who read a newspaper is intelligent
-1	Matalino	_	ADJ	_	_	0	root	_	Gloss=intelligent
+1	Matalino	matalino	ADJ	_	_	0	root	_	Gloss=intelligent
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	lalaking	lalaki	NOUN	_	Link=Yes	1	nsubj	_	Gloss=man|MSeg=lalaki-ng|man-LINK
 4	bumasa	basa	VERB	_	Voice=Agf	3	acl:relcl	_	Gloss=read|MSeg=b[um]asa|MGloss=[AP]-read
@@ -8418,7 +8418,7 @@
 # text = Interesante ang diyaryong binasa ng lalaki
 # gloss = interesting PIV newspaper-LINK [PERF]-read-OP ACT man
 # text_en = The newspaper that the man read is interesting
-1	Interesante	_	ADJ	_	_	0	root	_	Gloss=interesting
+1	Interesante	interesante	ADJ	_	_	0	root	_	Gloss=interesting
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
 3	diyaryong	diyaryo	NOUN	_	Link=Yes	1	nsubj	_	Gloss=newspaper|MSeg=diyaryo-ng|MGloss=newspaper-LINK
 4	binasa	basa	VERB	_	Aspect=Perf|Voice=Paf	3	acl:relcl	_	Gloss=be-read|MSeg=b[in]asa-0|MGloss=[PERF]-read-OP
@@ -8630,7 +8630,7 @@
 # text_en = I want to be the recipient of the prize
 1	Gusto	gusto	VERB	_	VerbForm=Inf	0	root	_	Gloss=want
 2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=me|MSeg=ko-ng|MGloss=I(ACT)-LINK
-3	tumanggap	tanggap	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	1	xcomp	_	Gloss=receive|MSeg=t[um]anggap|MGloss=[AP]-receive
+3	tumanggap	tanggap	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	1	xcomp	_	Gloss=received|MSeg=t[um]anggap|MGloss=[AP]-receive
 4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET|MGloss=OBJ
 5	gantimpala	gantimpala	NOUN	_	_	3	obj	_	Gloss=prize
 
@@ -8640,7 +8640,7 @@
 # text_en = I want to receive the prize
 1	Gusto	gusto	VERB	_	VerbForm=Inf	0	root	_	Gloss=want
 2	kong	ako	PRON	_	Case=Acc|Link=Yes|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=me|MSeg=ko-ng|MGloss=I(ACT)-LINK
-3	matanggap	tanggap	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	1	xcomp	_	Gloss=receive|MSeg=ma-tanggap|MGloss=OP-receive
+3	matanggap	tanggap	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	1	xcomp	_	Gloss=received|MSeg=ma-tanggap|MGloss=OP-receive
 4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
 5	gantimpala	gantimpala	NOUN	_	_	3	nsubj:pass	_	Gloss=prize
 
