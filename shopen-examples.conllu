@@ -11575,3 +11575,93 @@
 4	ŋawun̪t̪a	ŋawu	NOUN	_	Case=Dat	5	obl	_	Gloss=dog|MSeg=ŋawu-n̪t̪a|MGloss=dog-DAT
 5	palat̪a	palat̪a	VERB	_	_	0	root	_	Gloss=hit
 
+# sent_id = 5.1a/en
+# text = I hereby order you to leave the room.
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	hereby	hereby	ADV	_	PronType=Dem	3	advmod	_	_
+3	order	order	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	3	obj	_	_
+5	to	to	PART	_	_	6	mark	_	_
+6	leave	leave	VERB	_	VerbForm=Inf	3	xcomp	_	_
+7	the	the	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	room	room	NOUN	_	Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5.1b/en
+# text = I promise you never to be late again.
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	promise	promise	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	2	obj	_	_
+4	never	never	ADV	_	PronType=Neg	7	advmod	_	_
+5	to	to	PART	_	_	7	mark	_	_
+6	be	be	AUX	_	VerbForm=Inf	7	cop	_	_
+7	late	late	ADJ	_	_	2	xcomp	_	_
+8	again	again	ADV	_	_	7	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 5.1c/en
+# text = I hereby declare this meeting closed.
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	hereby	hereby	ADV	_	PronType=Dem	3	advmod	_	_
+3	declare	declare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	this	this	DET	_	Number=Sing|PronType=Dem	5	det	_	_
+5	meeting	meeting	NOUN	_	Number=Sing	3	obj	_	_
+6	closed	closed	ADJ	_	_	3	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5.1d/en
+# text = I hereby christen this ship Queen Elizabeth.
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	hereby	hereby	ADV	_	PronType=Dem	3	advmod	_	_
+3	christen	christen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	this	this	DET	_	Number=Sing|PronType=Dem	5	det	_	_
+5	ship	ship	NOUN	_	Number=Sing	3	obj	_	_
+6	Queen	queen	NOUN	_	Number=Sing	3	xcomp	_	_
+7	Elizabeth	Elizabeth	PROPN	_	Number=Sing	6	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5.2a/en
+# text = You are cordially invited to come to my birthday party.
+1	You	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj:pass	_	_
+2	are	be	AUX	_	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+3	cordially	cordially	ADV	_	_	4	advmod	_	_
+4	invited	invite	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	to	to	PART	_	_	6	mark	_	_
+6	come	come	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	to	to	ADP	_	_	10	case	_	_
+8	my	my	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	det:poss	_	_
+9	birthday	birthday	NOUN	_	Number=Sing	10	compound	_	_
+10	party	party	NOUN	_	Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 5.2b/en
+# text = I must admit that you have won that argument.
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	must	must	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	admit	admit	VERB	_	VerbForm=Inf	0	root	_	_
+4	that	that	SCONJ	_	_	7	mark	_	_
+5	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	_
+6	have	have	AUX	_	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	won	win	VERB	_	Tense=Past|VerbForm=Part	3	ccomp	_	_
+8	that	that	DET	_	Number=Sing|PronType=Dem	9	det	_	_
+9	argument	argument	NOUN	_	Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5.2c/en
+# text = I'll come to see you next week, and that's a promise.
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+2	'll	will	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	come	come	VERB	_	VerbForm=Inf	0	root	_	_
+4	to	to	PART	_	_	5	mark	_	_
+5	see	see	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	5	obj	_	_
+7	next	next	ADJ	_	_	8	amod	_	_
+8	week	week	NOUN	_	Number=Sing	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	and	and	CCONJ	_	_	14	cc	_	_
+11	that	that	PRON	_	Number=Sing|PronType=Dem	14	nsubj	_	SpaceAfter=No
+12	's	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	a	a	DET	_	Definite=Ind|PronType=Art	14	det	_	_
+14	promise	promise	NOUN	_	Number=Sing	3	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
