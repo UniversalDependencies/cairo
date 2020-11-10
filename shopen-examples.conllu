@@ -2890,10 +2890,10 @@
 # text = rušaz reǧü x̂ana k'an tuširwiläj
 # gloss = girl-DAT ashamed be want be.NEG-PTCPL-because
 # text_en = because he did not want the girl to be embarrassed
-1	rušaz	ruš	NOUN	_	Case=Dat|Number=Sing	5	iobj	_	Gloss=girl|MSeg=ruš-az|MGloss=girl-DAT
-2	reǧü	reǧü	ADJ	_	_	5	ccomp	_	Gloss=ashamed
+1	rušaz	ruš	NOUN	_	Case=Dat|Number=Sing	4	iobj	_	Gloss=girl|MSeg=ruš-az|MGloss=girl-DAT
+2	reǧü	reǧü	ADJ	_	_	4	xcomp	_	Gloss=ashamed
 3	x̂ana	x̂ana	AUX	_	_	2	cop	_	Gloss=be
-4	k'an	k'an	AUX	_	_	5	aux	_	Gloss=want
+4	k'an	k'an	VERB	_	_	5	ccomp	_	Gloss=want
 5	tuširwiläj	tuš	VERB	_	Mood=Sub|Polarity=Neg|VerbForm=Part	0	root	_	Gloss=because-not-was|MSeg=tuš-ir-wiläj|MGloss=be.NEG-PTCPL-because
 
 # sent_id = 2.7/xsl
