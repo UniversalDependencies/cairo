@@ -2478,7 +2478,7 @@
 3	na	na	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
 4	ba	ba	PART	_	PartType=Int	1	advmod	_	Gloss=QUESTION
 5	daw	daw	PART	_	PartType=Nfh	1	advmod	_	Gloss=they-say
-6	roon	roon	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
+6	roon	roon	ADV	_	Deixis=Remt|PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
 7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.167b/tl
@@ -2490,7 +2490,7 @@
 3	na	na	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
 4	daw	daw	PART	_	PartType=Nfh	1	advmod	_	Gloss=they-say
 5	ba	ba	PART	_	PartType=Int	1	advmod	_	Gloss=QUESTION
-6	roon	roon	ADV	_	PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
+6	roon	roon	ADV	_	Deixis=Remt|PronType=Dem	1	advmod	_	Gloss=there|SpaceAfter=No
 7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.168/tl
@@ -8557,7 +8557,7 @@
 # gloss = Sweep-OP us(DU.ACT) PIV floor
 # text_en = Let's sweep the floor
 1	Walisan	walis	VERB	_	Mood=Imp|Voice=Pass	0	root	_	Gloss=sweep|MSeg=walis-an|MGloss=sweep-OP
-2	natin	tayo	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	1	obj:agent	_	Gloss=us|MGloss=us(DU.ACT)
+2	natin	ako	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	1	obj:agent	_	Gloss=us|MGloss=us(DU.ACT)
 3	ang	ang	ADP	_	Case=Nom	4	case	_	Gloss=the|MGloss=PIV
 4	sahig	sahig	NOUN	_	_	1	nsubj:pass	_	Gloss=floor
 
