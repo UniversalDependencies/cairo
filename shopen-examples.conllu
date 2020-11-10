@@ -701,7 +701,7 @@
 # text_en = Pedro didn't see Juan
 1	Hindi	hindi	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
 2	nakita	kita	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=saw
-3	ni	ni	ADP	_	Case=Acc	4	case	_	Gloss=DET
+3	ni	ni	ADP	_	Case=Gen	4	case	_	Gloss=DET
 4	Pedro	Pedro	PROPN	_	Gender=Masc	2	nsubj	_	Gloss=Pedro
 5	si	si	ADP	_	Case=Nom	6	case	_	Gloss=the
 6	Juan	Juan	PROPN	_	Gender=Masc	2	obj	_	Gloss=Juan
@@ -776,7 +776,7 @@
 # gloss = shaved AG John TOP self his
 # text_en = John shaved himself
 1	Inahit	ahit	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=shaved
-2	ni	ni	ADP	_	Case=Acc	3	case	_	Gloss=DET
+2	ni	ni	ADP	_	Case=Gen	3	case	_	Gloss=DET
 3	John	John	PROPN	_	Gender=Masc	1	nsubj	_	Gloss=John
 4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=the|MGloss=PIV
 5	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obj	_	Gloss=self
@@ -787,7 +787,7 @@
 # gloss = shaved AG John EMPH TOP Bill
 # text_en = John himself shaved Bill
 1	Inahit	ahit	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=shaved
-2	ni	ni	ADP	_	Case=Acc	3	case	_	Gloss=DET
+2	ni	ni	ADP	_	Case=Gen	3	case	_	Gloss=DET
 3	John	John	PROPN	_	Gender=Masc	1	nsubj	_	Gloss=John
 4	mismo	mismo	DET	_	Gender=Masc|PronType=Emp	3	nmod	_	Gloss=EMPH
 5	si	si	ADP	_	Case=Nom	6	case	_	Gloss=the
