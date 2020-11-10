@@ -4159,7 +4159,7 @@
 # text = gipalit sa babayi ang saging
 # gloss = OBJ.FOCUS-buy NONTOPIC woman TOPIC banana
 # text_en = the woman bought the bananas
-1	gipalit	_	VERB	_	Voice=Paf	0	root	_	Gloss=bought|MSeg=gi-palit|MGloss=OBJ.FOCUS-buy
+1	gipalit	_	VERB	_	Voice=Pass	0	root	_	Gloss=bought|MSeg=gi-palit|MGloss=OBJ.FOCUS-buy
 2	sa	_	ADP	_	_	3	case	_	Gloss=NONTOPIC
 3	babayi	_	NOUN	_	_	1	obl	_	Gloss=woman
 4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the|MGloss=PIV
@@ -4170,7 +4170,7 @@
 # text = gisulatan ni Maria si Dudung ug isturya
 # gloss = LOC.FOCUS-write-LOC.FOCUS GEN Maria TOPIC Dodong INDEF story
 # text_en = Maria wrote a story for Dodong
-1	gisulatan	_	VERB	_	Voice=Locf	0	root	_	Gloss=wrote|MSeg=gi-sulat-an|MGloss=LOC.FOCUS-write-LOC.FOCUS
+1	gisulatan	_	VERB	_	Voice=Lfoc	0	root	_	Gloss=wrote|MSeg=gi-sulat-an|MGloss=LOC.FOCUS-write-LOC.FOCUS
 2	ni	_	ADP	_	Case=Gen	3	case	_	Gloss=GEN
 3	Maria	_	PROPN	_	_	1	obl	_	Gloss=Maria
 4	si	si	DET	_	Case=Nom|PronType=Art	5	det	_	Gloss=DET
@@ -9734,7 +9734,7 @@
 # text = Nagtawag ang babayi nakuq
 # gloss = SUBJ.FOCUS:DUR-call TOPIC woman 1SG.NONTOPIC
 # text_en = The woman was calling me
-1	Nagtawag	tawag	VERB	_	Aspect=Prog|Voice=Agf	0	root	_	Gloss=was-calling|MSeg=nag-tawag|MGloss=SUBJ.FOCUS:DUR-call
+1	Nagtawag	tawag	VERB	_	Aspect=Prog|Voice=Act	0	root	_	Gloss=was-calling|MSeg=nag-tawag|MGloss=SUBJ.FOCUS:DUR-call
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=TOP
 3	babayi	babayi	NOUN	_	_	1	nsubj	_	Gloss=woman
 4	nakuq	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=me|MGloss=1SG.NONTOPIC
@@ -9746,7 +9746,7 @@
 # text_en = The one who was calling me was a woman
 1	Babayi	babayi	NOUN	_	_	0	root	_	Gloss=woman
 2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=TOP
-3	nagtawag	tawag	VERB	_	Aspect=Prog|Voice=Agf	1	csubj	_	Gloss=was-calling|MSeg=nag-tawag|MGloss=SUBJ.FOCUS:DUR-call
+3	nagtawag	tawag	VERB	_	Aspect=Prog|Voice=Act	1	csubj	_	Gloss=was-calling|MSeg=nag-tawag|MGloss=SUBJ.FOCUS:DUR-call
 4	nakuq	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=1SG.NONTOPIC
 
 # sent_id = 4.39a/taj
