@@ -153,7 +153,7 @@
 # text_en = I watched the ones who were dancing
 # http://www.seasite.niu.edu/Tagalog/tagalog_verbs.htm
 1	Pinanood	nood	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=watch
-2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=me
+2	ko	ako	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=me
 3	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=the|MGloss=PIV
 4	mga	mga	DET	_	Number=Plur|PronType=Ind	5	det	_	Gloss=PLUR
 5	sumasayaw	sayaw	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	1	obj	_	Gloss=were-dancing
@@ -691,7 +691,7 @@
 # gloss = not I(AG) him(TOP) saw
 # text_en = I didn't see him
 1	Hindi	hindi	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
-2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=me
+2	ko	ako	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=me
 3	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=he
 4	nakita	kita	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=saw
 
@@ -780,7 +780,7 @@
 3	John	John	PROPN	_	Gender=Masc	1	nsubj	_	Gloss=John
 4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=the|MGloss=PIV
 5	sarili	sarili	PRON	_	PronType=Prs|Reflex=Yes	1	obj	_	Gloss=self
-6	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=him
+6	niya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=him
 
 # sent_id = 1.64/tl
 # text = Inahit ni John mismo si Bill
@@ -1301,8 +1301,8 @@
 # text_en = What are they very much like?
 # "Napaka-" is an intensifying prefix meaning "very". For example, "napakabuti" means "so very good".
 # We consider "napakaano" an adjective derived from the interrogative pronoun "ano" (what).
-1	Napakaano	ano	PRON	_	Degree=Pos|PronType=Int	0	root	_	Gloss=very-much-like|MSeg=napaka-ano|MGloss=very-what
-2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=them|SpaceAfter=No
+1	Napakaano	ano	ADJ	_	Degree=Pos|PronType=Int	0	root	_	Gloss=very-much-like|MSeg=napaka-ano|MGloss=very-what
+2	nila	sila	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=them|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = 1.98b/tl
@@ -1310,7 +1310,7 @@
 # gloss = very.tall they
 # text_en = They are very tall
 1	Napakataas	taas	ADJ	_	Degree=Pos	0	root	_	Gloss=very-tall|MSeg=napaka-taas|MGloss=very-tall
-2	nila	sila	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=them
+2	nila	sila	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=them
 
 # sent_id = 1.98c/tl
 # text = Nagano ka?
@@ -2071,7 +2071,7 @@
 # gloss = asked I COMP where they
 # text_en = I asked where they were
 1	Itinanong	tanong	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=asked
-2	ko	ako	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=me
+2	ko	ako	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=me
 3	kung	kung	SCONJ	_	_	4	mark	_	Gloss=that
 4	nasaan	nasaan	ADV	_	PronType=Int	1	ccomp	_	Gloss=where
 5	sila	sila	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they
