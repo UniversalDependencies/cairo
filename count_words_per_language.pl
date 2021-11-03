@@ -21,8 +21,8 @@ while(<>)
     }
     elsif(!m/^\s*$/)
     {
-        # Get rid of punctuation.
-        s/\pP/ /;
+        # Tokenize punctuation.
+        s/(\pP)/ $1 /;
         s/^\s+//;
         s/\s+$//;
         my @words = split(/\s+/);
