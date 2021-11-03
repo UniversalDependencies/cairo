@@ -30,6 +30,7 @@ while(<>)
         $nword{$lcode} += scalar(@words);
     }
 }
+@lcodes = sort {$nword{$b} <=> $nword{$a}} (@lcodes);
 foreach my $lcode (@lcodes)
 {
     printf("%2d sentences, %3d words, language %s\n", $nsent{$lcode}, $nword{$lcode}, $lcode);
